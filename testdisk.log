@@ -1,0 +1,296 @@
+
+
+Sun May 15 01:35:18 2022
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.17.6-300.fc36.x86_64 (#1 SMP PREEMPT Mon May 9 15:47:11 UTC 2022) x86_64
+Compiler: GCC 12.0
+ext2fs lib: 1.46.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: 20140608, curses lib: ncurses 6.2
+User is not root!
+Hard disk list
+
+No disk found
+
+TestDisk exited normally.
+
+
+Sun May 15 01:35:32 2022
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.17.6-300.fc36.x86_64 (#1 SMP PREEMPT Mon May 9 15:47:11 UTC 2022) x86_64
+Compiler: GCC 12.0
+ext2fs lib: 1.46.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: 20140608, curses lib: ncurses 6.2
+/dev/sda: LBA, HPA, LBA48, DCO support
+/dev/sda: size       1953525168 sectors
+/dev/sda: user_max   1953525168 sectors
+/dev/sda: native_max 1953525168 sectors
+/dev/sda: dco        1953525168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop0 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 1000 GB / 931 GiB - CHS 121601 255 63, sector size=512 - TOSHIBA MQ04ABF100, S/N:50PCPWV2T, FW:JU0A2E
+Disk /dev/sdb - 4000 GB / 3726 GiB - CHS 3815447 64 32, sector size=512 - Seagate BUP BK, FW:0109
+Disk /dev/nvme0n1 - 256 GB / 238 GiB - CHS 244198 64 32, sector size=512
+
+Partition table type (auto): EFI GPT
+Disk /dev/nvme0n1 - 256 GB / 238 GiB
+Partition table type: EFI GPT
+
+Analyse Disk /dev/nvme0n1 - 256 GB / 238 GiB - CHS 244198 64 32
+hdr_size=92
+hdr_lba_self=1
+hdr_lba_alt=500118191 (expected 500118191)
+hdr_lba_start=34
+hdr_lba_end=500118158
+hdr_lba_table=2
+hdr_entries=128
+hdr_entsz=128
+check_part_gpt failed for partition
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+Current partition structure:
+ 1 P EFI System                  2048     206847     204800 [EFI system partition]
+No FAT, NTFS, ext2, JFS, Reiser, cramfs or XFS marker
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+Warning: number of heads/cylinder mismatches 255 (NTFS) != 64 (HD)
+Warning: number of sectors per track mismatches 63 (NTFS) != 32 (HD)
+ 3 P MS Data                   239616   99598335   99358720 [Basic data partition]
+ 4 P Linux filesys. data     99598336  166707199   67108864
+ 5 P EFI System             166707200  167731199    1024000 [EFI System Partition]
+ 6 P Linux filesys. data    167731200  466563071  298831872
+ 7 P Linux Swap             466563072  500117503   33554432
+
+search_part()
+Disk /dev/nvme0n1 - 256 GB / 238 GiB - CHS 244198 64 32
+FAT32 at 1/0/1
+FAT1 : 6654-7422
+FAT2 : 7423-8191
+start_rootdir : 8192 root cluster : 2
+Data : 8192-204799
+sectors : 204800
+cluster_size : 2
+no_of_cluster : 98304 (2 - 98305)
+fat_length 769 calculated 769
+heads/cylinder 255 (FAT) != 64 (HD)
+sect/track 63 (FAT) != 32 (HD)
+set_FAT_info: name from BS used
+
+FAT32 at 1/0/1
+FAT: cluster=2(0x2), pos=10240
+     EFI System                  2048     206847     204800 [EFI System Partition] [NO NAME]
+     FAT32, blocksize=1024, 104 MB / 100 MiB
+NTFS at 117/0/1
+heads/cylinder 255 (NTFS) != 64 (HD)
+sect/track 63 (NTFS) != 32 (HD)
+filesystem size           99358713
+sectors_per_cluster       8
+mft_lcn                   786432
+mftmirr_lcn               2
+clusters_per_mft_record   -10
+clusters_per_index_record 1
+NTFS part_offset=122683392, part_size=50871661056, sector_size=512
+NTFS partition cannot be added (part_offset<part_size).
+NTFS at 117/0/1
+heads/cylinder 255 (NTFS) != 64 (HD)
+sect/track 63 (NTFS) != 32 (HD)
+filesystem size           99358713
+sectors_per_cluster       8
+mft_lcn                   786432
+mftmirr_lcn               2
+clusters_per_mft_record   -10
+clusters_per_index_record 1
+     MS Data                   239616   99598328   99358713
+     NTFS, blocksize=4096, 50 GB / 47 GiB
+NTFS at 48631/63/32
+heads/cylinder 255 (NTFS) != 64 (HD)
+sect/track 63 (NTFS) != 32 (HD)
+filesystem size           99358713
+sectors_per_cluster       8
+mft_lcn                   786432
+mftmirr_lcn               2
+clusters_per_mft_record   -10
+clusters_per_index_record 1
+     MS Data                   239623   99598335   99358713
+     NTFS found using backup sector, blocksize=4096, 50 GB / 47 GiB
+NTFS at 48631/63/32
+heads/cylinder 255 (NTFS) != 64 (HD)
+sect/track 63 (NTFS) != 32 (HD)
+filesystem size           99358713
+sectors_per_cluster       8
+mft_lcn                   786432
+mftmirr_lcn               2
+clusters_per_mft_record   -10
+clusters_per_index_record 1
+     MS Data                 99598335  198957047   99358713
+     NTFS, blocksize=4096, 50 GB / 47 GiB
+     Linux Swap             466563072  500117487   33554416
+     SWAP2 version 1, pagesize=4096, 17 GB / 15 GiB
+Search for partition aborted
+
+Results
+   P EFI System                  2048     206847     204800 [EFI System Partition] [NO NAME]
+     FAT32, blocksize=1024, 104 MB / 100 MiB
+     MS Data                   239616   99598328   99358713
+     NTFS, blocksize=4096, 50 GB / 47 GiB
+     MS Data                   239623   99598335   99358713
+     NTFS found using backup sector, blocksize=4096, 50 GB / 47 GiB
+     MS Data                 99598335  198957047   99358713
+     NTFS, blocksize=4096, 50 GB / 47 GiB
+   P Linux Swap             466563072  500117487   33554416
+     SWAP2 version 1, pagesize=4096, 17 GB / 15 GiB
+
+Hint for advanced users: dmsetup may be used if you prefer to avoid rewriting the partition table for the moment:
+echo "0 204800 linear /dev/nvme0n1 2048" | dmsetup create test0
+echo "0 99358713 linear /dev/nvme0n1 239616" | dmsetup create test1
+echo "0 99358713 linear /dev/nvme0n1 239623" | dmsetup create test2
+echo "0 99358713 linear /dev/nvme0n1 99598335" | dmsetup create test3
+echo "0 33554416 linear /dev/nvme0n1 466563072" | dmsetup create test4
+SIGINT detected! TestDisk has been killed.
+
+
+Sun May 15 01:36:21 2022
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.17.6-300.fc36.x86_64 (#1 SMP PREEMPT Mon May 9 15:47:11 UTC 2022) x86_64
+Compiler: GCC 12.0
+ext2fs lib: 1.46.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: 20140608, curses lib: ncurses 6.2
+/dev/sda: LBA, HPA, LBA48, DCO support
+/dev/sda: size       1953525168 sectors
+/dev/sda: user_max   1953525168 sectors
+/dev/sda: native_max 1953525168 sectors
+/dev/sda: dco        1953525168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop0 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 1000 GB / 931 GiB - CHS 121601 255 63, sector size=512 - TOSHIBA MQ04ABF100, S/N:50PCPWV2T, FW:JU0A2E
+Disk /dev/sdb - 4000 GB / 3726 GiB - CHS 3815447 64 32, sector size=512 - Seagate BUP BK, FW:0109
+Disk /dev/nvme0n1 - 256 GB / 238 GiB - CHS 244198 64 32, sector size=512
+
+Partition table type (auto): EFI GPT
+Disk /dev/nvme0n1 - 256 GB / 238 GiB
+Partition table type: EFI GPT
+
+Interface Advanced
+hdr_size=92
+hdr_lba_self=1
+hdr_lba_alt=500118191 (expected 500118191)
+hdr_lba_start=34
+hdr_lba_end=500118158
+hdr_lba_table=2
+hdr_entries=128
+hdr_entsz=128
+check_part_gpt failed for partition
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+ 1 P EFI System                  2048     206847     204800 [EFI system partition]
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+ 3 P MS Data                   239616   99598335   99358720 [Basic data partition]
+     NTFS, blocksize=4096, 50 GB / 47 GiB
+ 4 P Linux filesys. data     99598336  166707199   67108864
+ 5 P EFI System             166707200  167731199    1024000 [EFI System Partition]
+ 6 P Linux filesys. data    167731200  466563071  298831872
+ 7 P Linux Swap             466563072  500117503   33554432
+Incomplete image created.
+
+ 6 P Linux filesys. data    167731200  466563071  298831872
+Support for this filesystem wasn't enabled during compilation.
+gpt_change_part_type
+Change partition type:
+ 5 P EFI System             166707200  167731199    1024000 [EFI System Partition]
+Change partition type:
+ 5 P btrfs                  166707200  167731199    1024000 [EFI System Partition]
+Partition table type (auto): EFI GPT
+Disk /dev/nvme0n1 - 256 GB / 238 GiB
+Partition table type: EFI GPT
+
+Interface Advanced
+hdr_size=92
+hdr_lba_self=1
+hdr_lba_alt=500118191 (expected 500118191)
+hdr_lba_start=34
+hdr_lba_end=500118158
+hdr_lba_table=2
+hdr_entries=128
+hdr_entsz=128
+check_part_gpt failed for partition
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+ 1 P EFI System                  2048     206847     204800 [EFI system partition]
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+ 3 P MS Data                   239616   99598335   99358720 [Basic data partition]
+     NTFS, blocksize=4096, 50 GB / 47 GiB
+ 4 P Linux filesys. data     99598336  166707199   67108864
+ 5 P EFI System             166707200  167731199    1024000 [EFI System Partition]
+ 6 P Linux filesys. data    167731200  466563071  298831872
+ 7 P Linux Swap             466563072  500117503   33554432
+gpt_change_part_type
+Change partition type:
+ 6 P Solaris Reserved5      167731200  466563071  298831872
+Change partition type:
+ 6 P btrfs                  167731200  466563071  298831872
+gpt_change_part_type
+Change partition type:
+ 6 P Solaris Reserved5      167731200  466563071  298831872
+Change partition type:
+ 6 P btrfs                  167731200  466563071  298831872
+gpt_change_part_type
+Change partition type:
+ 6 P Solaris Reserved5      167731200  466563071  298831872
+Change partition type:
+ 6 P btrfs                  167731200  466563071  298831872
+
+Interface Advanced
+hdr_size=92
+hdr_lba_self=1
+hdr_lba_alt=500118191 (expected 500118191)
+hdr_lba_start=34
+hdr_lba_end=500118158
+hdr_lba_table=2
+hdr_entries=128
+hdr_entsz=128
+check_part_gpt failed for partition
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+ 1 P EFI System                  2048     206847     204800 [EFI system partition]
+ 2 P MS Reserved               206848     239615      32768 [Microsoft reserved partition]
+ 3 P MS Data                   239616   99598335   99358720 [Basic data partition]
+     NTFS, blocksize=4096, 50 GB / 47 GiB
+ 4 P Linux filesys. data     99598336  166707199   67108864
+ 5 P EFI System             166707200  167731199    1024000 [EFI System Partition]
+ 6 P Linux filesys. data    167731200  466563071  298831872
+ 7 P Linux Swap             466563072  500117503   33554432
+gpt_change_part_type
+Change partition type:
+ 6 P Linux filesys. data    167731200  466563071  298831872
+Change partition type:
+ 6 P btrfs                  167731200  466563071  298831872
+
+ 6 P Linux filesys. data    167731200  466563071  298831872
+Support for this filesystem wasn't enabled during compilation.
+
+ 6 P Linux filesys. data    167731200  466563071  298831872
+Support for this filesystem wasn't enabled during compilation.
+
+ 6 P Linux filesys. data    167731200  466563071  298831872
+Support for this filesystem wasn't enabled during compilation.
+gpt_change_part_type
+Change partition type:
+ 6 P Linux /home            167731200  466563071  298831872
+Change partition type:
+ 6 P btrfs                  167731200  466563071  298831872
+search_superblock
+
+ 6 P Linux /home            167731200  466563071  298831872
+Support for this filesystem wasn't enabled during compilation.
+New options :
+ Dump : No
+ Align partition: Yes
+ Expert mode : No
+
+TestDisk exited normally.
