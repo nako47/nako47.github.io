@@ -5,15 +5,33 @@
 > ****Welcome Strangers & Stalkers****
 It’s some person space for me, most of the things here are things i am not going to show you myself, it’s you stalking me…!
 > 
+- [ ]  Find a way to make blogs with hugo / Find cool template
+- [ ]  Do backup of telegram channel
+- [ ]  Make a “about” page
+- [ ]  Learn more about notion
+- [ ]  Make todo & watch list
+- [ ]  check if github backup works fine after few period of time
+- [ ]  make things interesting enough for me
 
-## Notes
+---
 
-[Diary](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Diary%20dcc3763b9616438b93d8125660c78f53.md)
+<aside>
+💡 **it’s advised to use** [**dark reader**](https://darkreader.org/) **to read this page ***(or you will get blind and don’t blame me)*
 
-[Task List](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Task%20List%2084245e9a221c4165891b4bbbc2331983.csv)
+</aside>
 
-## Explore
+---
 
-[Movie List](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Movie%20List%20672b5e992c3a44968ca7fabf1dbd7610.md)
+## 📔Watch lists
 
-[Anime list](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Anime%20list%202ab8ee960d564155ab2e21d9a8192893.md)
+[Notes](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Notes%20d59c4db0e12c4c9e8cda29c4317fd44f.md)
+
+[Task List](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Task%20List%204fbe7d5022504a9cafeee04ff1a6c2ee.csv)
+
+[Media Hub](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Media%20Hub%2062afb0661bbb423f90147532905b0a89.md)
+
+## Content Creation
+
+[Blogs](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Blogs%203c903d9d9d464bc394d33ef67fd49132.md)
+
+##
