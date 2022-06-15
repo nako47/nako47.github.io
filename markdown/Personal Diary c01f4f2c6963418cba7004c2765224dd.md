@@ -8,6 +8,8 @@ It’s some person space for me, most of the things here are things i am not goi
 
 ## Notes
 
+[Diary](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Diary%20dcc3763b9616438b93d8125660c78f53.md)
+
 [Task List](Personal%20Diary%20c01f4f2c6963418cba7004c2765224dd/Task%20List%2084245e9a221c4165891b4bbbc2331983.csv)
 
 ## Explore
