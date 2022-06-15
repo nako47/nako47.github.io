@@ -1,0 +1,34 @@
+name: "Notion backup"
+
+on:
+  schedule:
+    -   cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    name: Backup
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+      - name: Setup dependencies
+        run: npm install -g notion-backup
+
+      - name: Run backup
+        run: notion-backup
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN_V2 }}
+          NOTION_SPACE_ID: ${{ secrets.NOTION_SPACE_ID }}
+          NODE_OPTIONS: "--max-http-header-size 15000"
+
+      - name: Delete zips
+        run: rm -f *.zip
+
+      - name: Commit changes
+        uses: elstudio/actions-js-build/commit@v3
+        with:
+          commitMessage: Automated snapshot
