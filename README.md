@@ -1,7 +1,6 @@
+
+![anime-hug-39](https://user-images.githubusercontent.com/104431642/173760004-0cc2341d-5fcb-434a-95d9-72c183a60934.gif)
+
 ### Welcome Strangers & Stalkers
-![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f33524144694a4c784b37426e62513d3d2d313139393639333535322e313664396238363463613765336630613137353036363234333435382e676966](https://user-images.githubusercontent.com/104431642/173754237-9eba4c87-9c31-4f5e-be17-06946c6366e6.gif)
-
-
-[1) Private Diary (notion backup)](html/Personal%20Diary%200bcf4678c8734d1aba9769da1e44d286.html)
-
-[2) My Own Weboasis (less bloated version)](https://nako47.github.io/)
+I hope you are doing well 
+if you are looking for something useful please check [r/fmhy's wiki](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH) instead if shitty diary of mine
