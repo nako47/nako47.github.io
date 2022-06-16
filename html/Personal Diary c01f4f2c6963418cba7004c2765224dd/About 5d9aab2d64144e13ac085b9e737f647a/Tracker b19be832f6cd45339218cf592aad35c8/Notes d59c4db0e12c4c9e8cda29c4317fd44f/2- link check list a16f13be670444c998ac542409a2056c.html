@@ -1,0 +1,846 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>2- link check list</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="a16f13be-6704-44c9-98ac-542409a2056c" class="page sans"><header><h1 class="page-title">2- link check list</h1></header><div class="page-body"><p id="c11216e9-679d-4ff4-9abb-46e270003588" class="">File Storage, [6/4/22 2:19 PM]
+Shodan 2000</p><p id="05bba9d5-a9cf-4161-a636-19ea9e0bc864" class=""><a href="https://2000.shodan.io/">https://2000.shodan.io</a></p><p id="28165b45-6b7b-485a-b2e8-fc240cdfe9dc" class="">File Storage, [6/4/22 2:19 PM]
+List of CTF sites</p><p id="fa670870-292d-4262-bc9c-0934d552b260" class=""><a href="https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html">https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html</a></p><p id="068f3fcd-b798-4a96-923b-f2c9909c922c" class="">Github repo of the wiki: <a href="https://github.com/CSEA-IITB/IITBreachers-wiki">https://github.com/CSEA-IITB/IITBreachers-wiki</a>
+CTF writeups by the wiki author: <a href="https://deut-erium.github.io/WriteUps/">https://deut-erium.github.io/WriteUps/</a>
+Other writeups:
+<a href="https://github.com/shiltemann/CTF-writeups-public">https://github.com/shiltemann/CTF-writeups-public</a><a href="https://0xbu.com/writeups/">https://0xbu.com/writeups/</a><a href="https://medium.com/bugbountywriteup/tagged/ctf">https://medium.com/bugbountywriteup/tagged/ctf</a><a href="https://telegram.me/s/ctfwriteups">https://telegram.me/s/ctfwriteups</a><a href="https://hackmd.io/@Chivato/rkj-Y1GVI">https://hackmd.io/@Chivato/rkj-Y1GVI</a> - introductory post</p><p id="76611f4b-72f4-4422-b1ac-242a78e0329b" class="">File Storage, [6/4/22 2:19 PM]
+Reaver WPS Wifi Hacking</p><p id="f4ef9765-666d-44d7-826b-cb40e1b23fe5" class=""><a href="https://github.com/t6x/reaver-wps-fork-t6x">https://github.com/t6x/reaver-wps-fork-t6x</a><a href="https://github.com/t6x/reaver-wps-fork-t6x/releases">https://github.com/t6x/reaver-wps-fork-t6x/releases</a></p><p id="1a5bfbef-8ccb-45e0-aa09-92baa14d1993" class="">File Storage, [6/4/22 2:19 PM]
+Mega Dump of Hacking Tools/Guides
+<a href="https://mega.nz/folder/MeI00RQL#sr-Wv2iIvu7ZkTeq-o6YQQ">https://mega.nz/folder/MeI00RQL#sr-Wv2iIvu7ZkTeq-o6YQQ</a></p><p id="ba315f10-182e-451b-a8f1-2a53ae4e9925" class="">File Storage, [6/4/22 2:19 PM]
+Udemy - The Complete Ethical Hacking Masterclass Beginner To Expert (7.30 GB)
+<a href="https://mega.nz/folder/QO5GTaaK#7JhwDBiLlEwcBPNsIQH_9Q">https://mega.nz/folder/QO5GTaaK#7JhwDBiLlEwcBPNsIQH_9Q</a></p><p id="a6a0fddf-0a86-4d04-b8dc-eac2e7616e66" class="">Complete Ethical Hacking Course Beginner to Advanced - Black Radiator (10.41 GB)
+<a href="https://mega.nz/folder/W4B22QwL#ASup26IJ_Cls6JD2_wfRpg">https://mega.nz/folder/W4B22QwL#ASup26IJ_Cls6JD2_wfRpg</a></p><p id="39b038a8-b5f8-419a-b8aa-967912576ea9" class="">File Storage, [6/4/22 2:19 PM]
+A quick backup of all posts in <a href="https://t.me/s/AyAz_TeChY">https://t.me/s/AyAz_TeChY</a></p><p id="0aaee924-145e-4c0d-b50e-0a9e37c00f00" class="">AyAz_TeChY-2020-05-25.json:
+<a href="https://mirrorace.com/m/X7pp">https://mirrorace.com/m/X7pp</a></p><p id="59b11907-a963-415f-a210-585953164942" class="">JSON layout is e.g.:</p><p id="0faeddbc-6d06-4063-9bc6-02f81936aa8f" class="">Code: [Select]</p><p id="b16158a2-6439-4294-b66e-0e9a654ad0a0" class="">[
+{
+&quot;index&quot;: &quot;<a href="https://t.me/AyAz_TeChY/1">https://t.me/AyAz_TeChY/1</a>&quot;,
+&quot;user_name&quot;: &quot;AyAz_TeChY&quot;,
+&quot;user_url&quot;: &quot;<a href="https://t.me/AyAz_TeChY">https://t.me/AyAz_TeChY</a>&quot;,
+&quot;views&quot;: false,
+&quot;date_time&quot;: &quot;2018-06-11T06:00:39+00:00&quot;,
+&quot;text&quot;: &quot;Channel created&quot;</p><p id="3b93e034-f71f-4a84-954b-e0555fe38ca4" class="">File Storage, [6/4/22 2:19 PM]
+<a href="https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt">https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt</a>
+(&gt;9700 entries)</p><p id="0dcd6ede-8ad3-4ac0-b462-37cfe55e1af3" class="">Removing logo and contact information:</p><p id="0f991ddc-e077-47f2-85fb-4168d2bf930b" class="">Code: [Select]</p><p id="3ce9b110-4cf5-4a6a-8fe8-254f0ac1829c" class="">curl -Ls <a href="https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt">https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt</a> | tail -n +15
+Respective blog article:
+<a href="https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/">https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/</a></p><p id="3777da08-3688-4fbe-8f2d-03e9bd0ba7a6" class="">Other lists:
+<a href="https://www.exploit-db.com/google-hacking-database">https://www.exploit-db.com/google-hacking-database</a> (~5196 entries)
+<a href="https://developer.shodan.io/api/clients">https://developer.shodan.io/api/clients</a> (Shodan&#x27;s API)</p><p id="d89784b8-3e21-47c4-92e7-db3021f7611f" class="">plz dont sue</p><p id="dfcd433f-d0a4-4037-986e-cdd63cb64c61" class="">File Storage, [6/4/22 2:19 PM]
+<a href="https://github.com/rootac355/SQL-injection-dorks-list/blob/master/google%20dorks%20for%20sql%20injection.txt">https://github.com/rootac355/SQL-injection-dorks-list/blob/master/google dorks for sql injection.txt</a><a href="https://github.com/nu11secur1ty/Complete-google-sql-dorks-2019/blob/master/README.md">https://github.com/nu11secur1ty/Complete-google-sql-dorks-2019/blob/master/README.md</a><a href="https://github.com/opsdisk/pagodo">https://github.com/opsdisk/pagodo</a><a href="https://github.com/ZephrFish/GoogD0rker">https://github.com/ZephrFish/GoogD0rker</a><a href="https://github.com/DanMcInerney/fast-recon">https://github.com/DanMcInerney/fast-recon</a><a href="https://github.com/TheSpeedX/SDorker">https://github.com/TheSpeedX/SDorker</a><a href="https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/">https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/</a><a href="https://www.exploit-db.com/google-hacking-database">https://www.exploit-db.com/google-hacking-database</a><a href="https://pastebin.com/zYPZNbMK">https://pastebin.com/zYPZNbMK</a><a href="https://github.com/BullsEye0/google_dork_list">https://github.com/BullsEye0/google_dork_list</a><a href="https://paste.ee/p/VntMn#M2gmAqFA6tLPIFEch9SKBmLH06SzkJq1">https://paste.ee/p/VntMn#M2gmAqFA6tLPIFEch9SKBmLH06SzkJq1</a></p><p id="043af62a-76ab-43a5-b221-92918a4a4d36" class="">File Storage, [6/4/22 2:19 PM]
+<a href="https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/">https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/</a></p><p id="c1b039f2-61f7-4350-96f7-2c011ac4c744" class="">File Storage, [6/4/22 2:19 PM]
+DDOS Tools</p><p id="a1a1d7b3-5467-4153-925b-45f10160101b" class=""><a href="https://ufonet.03c8.net/">https://ufonet.03c8.net</a><a href="https://gitlab.com/fredericopissarra/t50/">https://gitlab.com/fredericopissarra/t50/</a><a href="https://github.com/gkbrk/slowloris">https://github.com/gkbrk/slowloris</a></p><p id="cd183a31-6ceb-4df8-ae83-ea08ab416e89" class="">File Storage, [6/4/22 2:19 PM]
+High performance WordPress login bruteforcer
+<a href="https://github.com/leo-lb/wpbrute-rs">https://github.com/leo-lb/wpbrute-rs</a></p><p id="f685b991-43b4-47e0-8058-4c924326466a" class="">File Storage, [6/4/22 2:20 PM]
+<a href="http://mega.nz/">Mega.nz</a> Proxyless Brute Checker</p><p id="325f1911-d8e8-498b-8ce7-369fc841bf96" class="">This software is what TA20S used in our chat to check the like 15,000 or so logins for <a href="http://mega.nz/">mega.nz</a> that were previously posted.</p><p id="1fc09eb3-edb6-4127-995f-5114ee7ad3a2" class="">He is also listing all the files in each account using this software. Seems handy.</p><p id="7b48e887-a27d-40e3-8d4b-8bbc4eb64cbe" class="">indexed1-9-20.txt (103.27 MB) <a href="https://mirrorace.com/m/2gvgj">https://mirrorace.com/m/2gvgj</a></p><p id="4d2cdef7-306a-4fd8-a59a-367e28aa7463" class=""><a href="http://mega.nz/">Mega.nz</a> Proxyless Brute Checker DOWNLOAD
+MEGA Checker.zip (250.74 KB)
+<a href="https://mirrorace.com/m/3CqcA">https://mirrorace.com/m/3CqcA</a><a href="https://share.dmca.gripe/ldSfs1zvtjjB9mpo.zip">https://share.dmca.gripe/ldSfs1zvtjjB9mpo.zip</a><a href="https://mixdrop.co/f/mzfcqu">https://mixdrop.co/f/mzfcqu</a><a href="https://dfile.space/G1UL">https://dfile.space/G1UL</a><a href="https://anonymousfiles.io/kRr67biv/">https://anonymousfiles.io/kRr67biv/</a><a href="https://megaup.net/2Q6he/MEGA_Checker.zip">https://megaup.net/2Q6he/MEGA_Checker.zip</a></p><p id="8a7121cd-f31f-4c5c-beaa-97fe57354065" class="">File Storage, [6/4/22 2:20 PM]
+CrackStation
+<a href="https://crackstation.net/">https://crackstation.net</a></p><p id="292ffc0a-8418-4eb4-a24a-6e0c27df0842" class="">CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash. The hash values are indexed so that it is possible to quickly search the database for a given hash. If the hash is present in the database, the password can be recovered in a fraction of a second. This only works for &quot;unsalted&quot; hashes. For information on password hashing systems that are not vulnerable to pre-computed lookup tables, see our hashing security page.</p><p id="dd16943b-93e5-4657-8d64-ee58e066f8d1" class="">Crackstation&#x27;s lookup tables were created by extracting every word from the Wikipedia databases and adding with every password list we could find. We also applied intelligent word mangling (brute force hybrid) to our wordlists to make them much more effective. For MD5 and SHA1 hashes, we have a 190GB, 15-billion-entry lookup table, and for other hashes, we have a 19GB 1.5-billion-entry lookup table</p><p id="d01ad40e-c23a-44a0-8853-c6cc7fac1bc3" class="">File Storage, [6/4/22 2:20 PM]
+Hashcat
+<a href="https://hashcat.net/hashcat/">https://hashcat.net/hashcat/</a>
+World&#x27;s fastest and most advanced password recovery utility</p><p id="10e78334-75aa-4891-9338-19826c4f73c7" class=""><a href="https://hashkiller.co.uk/Tools/HashcatGUI">https://hashkiller.co.uk/Tools/HashcatGUI</a></p><p id="65a7f6bb-1e91-4b49-b330-657a4b778414" class="">File Storage, [6/4/22 2:20 PM]
+Church of Wifi WPA-PSK Lookup Tables
+<a href="https://www.renderlab.net/projects/WPA-tables/">https://www.renderlab.net/projects/WPA-tables/</a></p><p id="96b013ea-e171-4694-bc41-b4b5255e24b0" class="">File Storage, [6/4/22 2:20 PM]
+RainbowCrack Rainbow Tables</p><p id="528e38aa-0e91-487b-a32e-7abe4ed8641d" class=""><a href="http://project-rainbowcrack.com/table.htm">http://project-rainbowcrack.com/table.htm</a><a href="http://project-rainbowcrack.com/index.htm">http://project-rainbowcrack.com/index.htm</a></p><p id="eea64170-fed9-42c5-8427-9fd621ff0282" class="">Quote</p><p id="cb085fe7-fcb6-454d-bde6-74d3741eb8fe" class="">RainbowCrack is a general propose implementation of Philippe Oechslin&#x27;s faster time-memory trade-off technique. It crack hashes with rainbow tables.</p><p id="2f4b7363-030f-4248-a478-ce9d002e0e85" class="">RainbowCrack uses time-memory tradeoff algorithm to crack hashes. It differs from brute force hash crackers.</p><p id="96c8dcd6-5c0c-4b28-82d3-12164f8fa858" class="">A brute force hash cracker generate all possible plaintexts and compute the corresponding hashes on the fly, then compare the hashes with the hash to be cracked. Once a match is found, the plaintext is found. If all possible plaintexts are tested and no match is found, the plaintext is not found. With this type of hash cracking, all intermediate computation results are discarded.</p><p id="9f92a3e3-c4d0-47a3-8bbc-f57d4a2fe007" class="">A time-memory tradeoff hash cracker need a pre-computation stage, at the time all plaintext/hash pairs within the selected hash algorithm, charset, plaintext length are computed and results are stored in files called rainbow table. It is time consuming to do this kind of computation. But once the one time pre-computation is finished, hashes stored in the table can be cracked with much better performance than a brute force cracker.</p><p id="15a66840-3a0a-43e5-ad51-e6c725762d53" class="">In this project, we focus on the development of optimized time-memory tradeoff implementation. GPU acceleration is another key feature of RainbowCrack software. By offloading most runtime computation to NVIDIA/AMD GPU, overall hash cracking performance can be improved further.</p><p id="36822dff-003a-4b83-9636-261900554591" class="">Several TB of generated rainbow tables for LM, NTLM, MD5 and SHA1 hash algorithms are listed in this page.</p><p id="f15bd2fd-cead-436d-b4a0-6f9f3f18f6c0" class="">File Storage, [6/4/22 2:20 PM]
+Script Kiddie Nightmares: Hacking Poorly Coded Botnets
+<a href="https://v3ded.github.io/pwn/hacking-botnets.html">https://v3ded.github.io/pwn/hacking-botnets.html</a></p><p id="053aa775-2a06-4cd7-a034-d55304d8fa52" class="">File Storage, [6/4/22 2:20 PM]
+OSINT Landscape
+Direct Link: <a href="https://funkyimg.com/i/2VsJH.jpg">https://funkyimg.com/i/2VsJH.jpg</a></p><p id="6a1f1a79-a3b5-4324-81f1-943030b46807" class="">File Storage, [6/4/22 2:20 PM]
+<a href="https://github.com/W00t3k/Awesome-Cellular-Hacking">https://github.com/W00t3k/Awesome-Cellular-Hacking</a></p><p id="90b371d6-8129-443e-b788-179a04bf737f" class="">File Storage, [6/4/22 2:20 PM]
+My favorite yt channel for cracking tutorials</p><p id="46e40a56-a9ad-40ed-baf2-dca2a4d142f8" class="">~ <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q">https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q</a></p><p id="00ce682d-6e3b-40ab-9e84-bbee824ccd92" class="">~ <a href="https://hsploit.com/">https://hsploit.com/</a></p><p id="d1efc660-6588-460d-a4e7-6b02f9712923" class="">File Storage, [6/4/22 2:20 PM]
+Twitter Users - InfoSec - Hacking - Linux - Security Researchers
+campuscodi - Cybersecurity news reporter at @TheRecord_Media
+<a href="https://twitter.com/campuscodi/">https://twitter.com/campuscodi/</a></p><p id="6e76fcf8-0f09-4d74-9682-b78dbf02b56c" class="">fs0c131y - Security Researcher.
+<a href="https://twitter.com/fs0c131y">https://twitter.com/fs0c131y</a></p><p id="00560a0e-8eb2-48cc-827b-2c07626633c6" class="">BleepinComputer - Breaking technology news, security guides, and tutorials that help you get the most from your computer.
+<a href="https://twitter.com/BleepinComputer">https://twitter.com/BleepinComputer</a></p><p id="9705ff1c-7432-4dae-ac17-c2bff419e5fb" class="">MalwareTechBlog - Tweets about Cybersecurity, Malware, Hacking, Programming, and Infosec.
+<a href="https://twitter.com/MalwareTechBlog">https://twitter.com/MalwareTechBlog</a></p><p id="fd4d37af-2910-4967-9f08-fe02bee3ab9a" class="">shodanhq - Monitor your external network, search the Internet of Things and perform empirical market research.
+<a href="https://twitter.com/shodanhq">https://twitter.com/shodanhq</a></p><p id="2e3402e8-5565-4b07-88bd-3bbd90d82c68" class="">BlackHatEvents - The World&#x27;s Premier Technical Security Conference Series.
+<a href="https://twitter.com/BlackHatEvents">https://twitter.com/BlackHatEvents</a></p><p id="b79c2f5f-a095-4a6e-9dd7-30969ec6be48" class="">troyhunt - Creator of haveibeenpwned.
+<a href="https://twitter.com/troyhunt">https://twitter.com/troyhunt</a></p><p id="e724729d-c763-4aa2-8994-ca8029284192" class="">haveibeenpwned - Check if you have an email address or password that has been compromised in a data breach.
+<a href="https://twitter.com/haveibeenpwned">https://twitter.com/haveibeenpwned</a></p><p id="621afb3f-af2c-4283-aa44-49c7f77688e3" class="">LiveOverflow - IT security topics
+<a href="https://twitter.com/LiveOverflow">https://twitter.com/LiveOverflow</a></p><p id="72e3f67b-00c0-4f3d-b022-9747ee587b88" class="">Hak5 - Award winning podcasts, leading pentest gear, &amp; inclusive community since 2005.
+<a href="https://twitter.com/Hak5">https://twitter.com/Hak5</a></p><p id="852fb8ec-5c0f-475e-aac8-25ab34f6fc20" class="">GlytchTech - Artificer of drones, robots.
+<a href="https://twitter.com/GlytchTech">https://twitter.com/GlytchTech</a></p><p id="d4821cd8-4b82-4c77-a4c4-795ba65467fa" class="">samykamkar - Samy Kamkar, the author of the MySpace Worm.
+<a href="https://twitter.com/samykamkar">https://twitter.com/samykamkar</a></p><p id="2af3d8d7-163f-40b9-9c37-d29cf5f8fc08" class="">achillean - Founder of Shodan
+<a href="https://twitter.com/achillean">https://twitter.com/achillean</a></p><p id="8b12028a-65b3-435a-9fad-afc872f88905" class="">todayininfosec - Tweeting news from the world of information security that occurred or was announced on today&#x27;s date in a previous year.
+<a href="https://twitter.com/todayininfosec">https://twitter.com/todayininfosec</a></p><p id="ce663a18-ad31-432e-9aa9-d8a76c18a2e1" class="">slashdot - News for Nerds, Stuff that Matters.
+<a href="https://twitter.com/slashdot">https://twitter.com/slashdot</a></p><p id="ea440d7f-ca94-46d2-b924-55a8920e73ed" class="">briankrebs - Independent investigative journalist. Covers cybercrime, security, privacy.
+<a href="https://twitter.com/briankrebs">https://twitter.com/briankrebs</a></p><p id="d14976e0-e504-4001-bfe3-763d7f4a50a4" class="">KodyKinzie - Hacker/Security Researcher
+<a href="https://twitter.com/KodyKinzie">https://twitter.com/KodyKinzie</a></p><p id="29c274dc-4527-4181-a614-c268edc93269" class="">josephfcox - journalist covering hackers/crime/privacy for @motherboard.
+<a href="https://twitter.com/josephfcox">https://twitter.com/josephfcox</a></p><p id="08c52db8-83eb-4405-9f00-f984f1da81cf" class="">9to5linux - Linux.
+<a href="https://twitter.com/9to5linux">https://twitter.com/9to5linux</a></p><p id="99352c0a-27b2-478c-b04b-44ad631b6ec1" class="">zackwhittaker - Security editor @TechCrunch
+<a href="https://twitter.com/zackwhittaker">https://twitter.com/zackwhittaker</a></p><p id="b12d332e-6b9f-40d0-bf79-b4f640d8760f" class="">HackRead - #cybersecurity news
+<a href="https://twitter.com/HackRead">https://twitter.com/HackRead</a></p><p id="eb77db19-271e-43ea-a132-7c00921c3cc1" class="">ubuntu - Linux.
+<a href="https://twitter.com/ubuntu">https://twitter.com/ubuntu</a></p><p id="86e8f99b-c859-4fab-87f5-fd0a62cb05fb" class="">defcon - Hacking.
+<a href="https://twitter.com/defcon">https://twitter.com/defcon</a></p><p id="407c9fda-fa51-458e-9e0f-364874cba352" class="">DarknetDiaries - True stories from the dark side of the Internet.
+<a href="https://twitter.com/DarknetDiaries">https://twitter.com/DarknetDiaries</a></p><p id="a537517d-801f-42dd-b207-b52acc41c06c" class="">kevinmitnick - Hacking.
+<a href="https://twitter.com/kevinmitnick">https://twitter.com/kevinmitnick</a></p><p id="28c76257-ea2a-4400-ab14-6cf0cc66d947" class=""><em>MG</em> - creator of the OMG Cable (A Type of Bad USB) (Hak5)
+<a href="https://twitter.com/_MG_">https://twitter.com/_MG_</a></p><p id="29e5ca61-889b-4dde-aad5-5856ccce109e" class="">UnderTheBreach - Co-Founder &amp; CTO @ cybercrime intelligence firm Hudson Rock @hrock
+<a href="https://twitter.com/UnderTheBreach">https://twitter.com/UnderTheBreach</a></p><p id="91c9a3a5-d4c8-4c22-b8bf-d7457fe96a8b" class="">File Storage, [6/4/22 2:20 PM]
+<a href="https://twitter.com/donk_enby">https://twitter.com/donk_enby</a><a href="https://twitter.com/schneierblog">https://twitter.com/schneierblog</a><a href="https://twitter.com/CoryKennedy">https://twitter.com/CoryKennedy</a><a href="https://twitter.com/sprp77">https://twitter.com/sprp77</a></p><p id="2fb4e9fc-379c-456a-92c9-6a3c2d1034cf" class=""><a href="https://twitter.com/cyber_advising">https://twitter.com/cyber_advising</a><a href="https://twitter.com/5auth">https://twitter.com/5auth</a><a href="https://twitter.com/notdan">https://twitter.com/notdan</a><a href="https://twitter.com/brokep">https://twitter.com/brokep</a></p><p id="94026859-7156-4971-abe1-0a7c6d439067" class="">Hacker. Friend. Cybersecurity Researcher
+<a href="https://twitter.com/_johnhammond">https://twitter.com/_johnhammond</a></p><p id="d95a6c33-c57b-4a8d-bbea-ba7a06dfe8bc" class="">CTF (Hack The Box)
+<a href="https://twitter.com/ippsec">https://twitter.com/ippsec</a></p><p id="56ccef26-7e53-4200-9543-8204ad793ba7" class="">File Storage, [6/4/22 2:20 PM]
+<a href="https://github.com/illusion0001/rpcs3">https://github.com/illusion0001/rpcs3</a></p><p id="7230d7a9-bf85-4614-93f7-0763b245d648" class="">File Storage, [6/4/22 2:20 PM]
+OnionBalance provides load-balancing and redundancy for Tor hidden services</p><p id="995fd934-f989-4d2c-a0a0-6f8f3df5a587" class=""><a href="https://github.com/DonnchaC/onionbalance">https://github.com/DonnchaC/onionbalance</a><a href="https://onionbalance.readthedocs.io/en/latest/">https://onionbalance.readthedocs.io/en/latest/</a></p><p id="45a5a092-183a-4724-b405-7853702f3f0c" class="">The OnionBalance software allows for Tor hidden service requests to be distributed across multiple backend Tor instances. OnionBalance provides load-balancing while also making onion services more resilient and reliable by eliminating single points-of-failure.</p><p id="7f9e0af1-1704-4cd1-b14f-c7914c7c3497" class="">File Storage, [6/4/22 2:20 PM]
+Supercharge-Magnet-Links [Browser Extension For Torrent Magnet Links]</p><p id="922d8824-2e33-4d23-b957-527cc3bf0409" class=""><a href="https://github.com/UnluckyLuke/supercharge-magnet-links">https://github.com/UnluckyLuke/supercharge-magnet-links</a></p><p id="73973c29-0dc0-411a-bc56-46403a03a510" class="">Chrome extension that adds more open torrent trackers to magnet links on all websites so you can find more seeders and peers to download from.</p><p id="350f48f0-ae85-4843-a8c6-01efe4bac768" class="">Quote</p><p id="89d92ebf-389e-4dff-a5de-c9725993f4d7" class="">Installation of the UNPACKED extension:</p><p id="b44cb7af-6f8f-4ed5-9203-5f29132d46dc" class="">1: Go to: <a href="https://github.com/UnluckyLuke/supercharge-magnet-links">https://github.com/UnluckyLuke/supercharge-magnet-links</a>
+Press &quot;Clone or download&quot; and then &quot;Download ZIP&quot;.</p><p id="2265ec0c-e4b1-4823-a0c8-12fd0431a6ba" class="">2: Unzip it somewhere.</p><p id="88e9acfe-6e10-442b-9c12-c5f3dfb4c28a" class="">3: In Chrome, open the extensions tab and click on &quot;Developer mode&quot; in the right corner, and then click on &quot;Load unpacked extension...&quot; and select the folder you just unpacked.</p><p id="34f09872-e956-417e-889d-fecf6dfc2b03" class="">(Some trackers might not work but others do and you&#x27;ll hopefully find more seeders/peers.)</p><p id="f69c70c6-3e5a-4ba6-8386-9dc3a5284fbf" class="">Someone should fork it and have it add all these trackers instead:</p><p id="ed994a9f-8ecb-4baa-840f-c7e1b6533d4b" class=""><a href="https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt">https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt</a></p><p id="036d1951-cbd5-41c3-84bf-1aa45866c733" class="">or</p><p id="ddb88ecf-2b56-4440-b02b-39e0ec925b27" class=""><a href="https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt">https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt</a></p><p id="f75bd26b-f487-4f13-8657-963bf57931e8" class="">File Storage, [6/4/22 2:20 PM]
+<a href="https://trackerslist.com/">https://trackerslist.com/</a><a href="https://github.com/bogenpirat/remote-torrent-adder">https://github.com/bogenpirat/remote-torrent-adder</a>
+PublicTorrentBooster.crx
+<a href="https://mirrorace.com/m/3DM47">https://mirrorace.com/m/3DM47</a><a href="https://files.htp.sh/tGamLUg.crx">https://files.htp.sh/tGamLUg.crx</a><a href="https://bayfiles.com/5ag8N0l2o0/PublicTorrentBooster_crx">https://bayfiles.com/5ag8N0l2o0/PublicTorrentBooster_crx</a></p><p id="1a65cff2-101e-4c91-93de-05efc0855aff" class="">PublicTorrentBooster.zip
+<a href="https://mirrorace.com/m/3DM46">https://mirrorace.com/m/3DM46</a><a href="https://files.htp.sh/E8irLfX.zip">https://files.htp.sh/E8irLfX.zip</a><a href="https://bayfiles.com/75geNdl8o0/PublicTorrentBooster_zip">https://bayfiles.com/75geNdl8o0/PublicTorrentBooster_zip</a></p><p id="c425083b-e755-4113-b8fc-5ac93f83a5bc" class="">This is my modified version. It removes some dead trackers and adds a bunch more the original was missing.</p><p id="a7c5bd0d-ff88-4807-9d5b-27108dfa5069" class="">File Storage, [6/4/22 2:20 PM]
+<a href="https://github.com/ALIILAPRO/megabox">https://github.com/ALIILAPRO/megabox</a>
+Bypass <a href="http://mega.nz/">Mega.nz</a> Download Bandwidth Limits
+Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.</p><p id="f5236bc8-dc21-4b7c-8640-d445266f0d1c" class=""><a href="https://github.com/tonikelope/megabasterd">https://github.com/tonikelope/megabasterd</a><a href="https://github.com/tonikelope/megabasterd/releases">https://github.com/tonikelope/megabasterd/releases</a></p><p id="9cfd045a-08f7-4a01-80cf-6b4a8ac72e2a" class="">File Storage, [6/4/22 2:20 PM]
+A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration</p><p id="0f5bade1-1e46-4901-9c32-a368f784745e" class=""><a href="http://schizoduckie.github.io/DuckieTV/">http://schizoduckie.github.io/DuckieTV/</a></p><p id="acaf08bb-4bba-4d4a-a421-795f73037a17" class=""><a href="https://github.com/SchizoDuckie/DuckieTV">https://github.com/SchizoDuckie/DuckieTV</a></p><p id="e58d6f14-7568-4470-8a0b-cf64c1efb8d0" class="">File Storage, [6/4/22 2:20 PM]
+Domain Registrars That Won&#x27;t Easily Suspend You</p><p id="8b4010a7-1eb3-4144-88d9-d949a1f84488" class=""><a href="https://xuid.ru/domains.php">https://xuid.ru/domains.php</a><a href="https://cheapprivacy.ru/">https://cheapprivacy.ru</a><a href="https://ru-tld.ru/en/domain-registration/">https://ru-tld.ru/en/domain-registration/</a><a href="https://ahnames.com/en">https://ahnames.com/en</a><a href="https://njal.la/">https://njal.la</a><a href="https://billing.flokinet.is/cart.php?a=add&amp;domain=register">https://billing.flokinet.is/cart.php?a=add&amp;domain=register</a><a href="https://nicevps.net/products/cat/domains">https://nicevps.net/products/cat/domains</a><a href="https://www.epik.com/">https://www.epik.com</a><a href="https://www.bitdomain.biz/">https://www.bitdomain.biz</a><a href="https://regery.com/">https://regery.com</a><a href="https://sarek.fi/">https://sarek.fi</a><a href="http://anonymousspeech.com/">anonymousspeech.com</a></p><p id="49e6b3f2-5d52-48c7-82ef-a1c5471b83d3" class="">File Storage, [6/4/22 2:20 PM]
+Tracking Down the Cyber Criminals
+<a href="https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/BRKSEC-2049.pdf">https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/BRKSEC-2049.pdf</a><a href="https://upb.me/ajKJF">https://upb.me/ajKJF</a><a href="https://docdro.id/DSSKFBm">https://docdro.id/DSSKFBm</a><a href="https://bayfiles.com/T7H1T226n6/BRKSEC-2049_pdf">https://bayfiles.com/T7H1T226n6/BRKSEC-2049_pdf</a><a href="https://files.catbox.moe/rrq4g1.pdf">https://files.catbox.moe/rrq4g1.pdf</a></p><p id="e447d171-f790-42c5-9c00-82c89f395c25" class="">Tracking Down the Cyber Criminals. Revealing Malicious Infrastructure  with Umbrella</p><p id="4ab2bda4-9e3d-4b79-b1c0-bce38de72879" class="">File Storage, [6/4/22 2:20 PM]
+Upgrading your Intelligence to Track Down Criminal Hosting Infrastructure</p><p id="6427b6a9-015a-43ba-84a3-4216f368d539" class=""><a href="https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1517343456.pdf">https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1517343456.pdf</a><a href="https://files.catbox.moe/tmkh0e.pdf">https://files.catbox.moe/tmkh0e.pdf</a><a href="https://docdro.id/B4qc2AQ">https://docdro.id/B4qc2AQ</a><a href="https://bayfiles.com/naJ5T42dn0/summit_archive_1517343456_pdf">https://bayfiles.com/naJ5T42dn0/summit_archive_1517343456_pdf</a><a href="https://upb.me/yjJ7t">https://upb.me/yjJ7t</a></p><p id="ae6b52ee-52af-455a-8379-4c367ac06458" class="">File Storage, [6/4/22 2:21 PM]
+Under the Shadow of Sunshine: Understanding and Detecting Bulletproof Hosting on Legitimate Service Provider Networks</p><p id="98b96bb0-ee1f-4060-80c9-802ee8d230b2" class=""><a href="http://damonmccoy.com/papers/alrwais2017under.pdf">http://damonmccoy.com/papers/alrwais2017under.pdf</a><a href="https://upb.me/s8C9J">https://upb.me/s8C9J</a><a href="https://files.catbox.moe/rpvy4o.pdf">https://files.catbox.moe/rpvy4o.pdf</a><a href="https://bayfiles.com/mbL0Td28n3/alrwais2017under_pdf">https://bayfiles.com/mbL0Td28n3/alrwais2017under_pdf</a><a href="https://docdro.id/OW6Jmjk">https://docdro.id/OW6Jmjk</a></p><p id="4a7d8e67-9d7e-452d-b02c-a8b61aec993d" class="">File Storage, [6/4/22 2:21 PM]
+<a href="https://www.rsaconference.com/writable/presentations/file_upload/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web.pdf">https://www.rsaconference.com/writable/presentations/file_upload/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web.pdf</a></p><p id="ee571a19-f3aa-412c-8c40-b928d206c29c" class="">HOW A DIVERSE ECOSYSTEM CREATES RESILIENCE IN THE CYBER CRIMINAL  UNDERGROUND
+Director of Advanced Collection Recorded Future @DeepSpaceEye</p><p id="6223384f-b40d-47e0-8cb1-651e646eb3f7" class=""><a href="https://upb.me/gbKJr">https://upb.me/gbKJr</a><a href="https://files.catbox.moe/ynorws.pdf">https://files.catbox.moe/ynorws.pdf</a><a href="https://bayfiles.com/keMdT02dn0/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web_pdf">https://bayfiles.com/keMdT02dn0/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web_pdf</a><a href="https://docdro.id/7qjWmHX">https://docdro.id/7qjWmHX</a></p><p id="f2564652-d438-497a-98c9-9efee281668b" class="">File Storage, [6/4/22 2:21 PM]
+Criminal Hideouts for Lease: Bulletproof Hosting Services</p><p id="ffa92634-f70a-4592-a39f-44d0d21447d9" class=""><a href="https://www.trendmicro.no/media/wp/wp-criminal-hideouts-for-lease-en.pdf">https://www.trendmicro.no/media/wp/wp-criminal-hideouts-for-lease-en.pdf</a></p><p id="1f1fbbaa-ec59-4eb9-87c8-053eadef3417" class=""><a href="https://upb.me/h487z">https://upb.me/h487z</a><a href="https://files.catbox.moe/md18uu.pdf">https://files.catbox.moe/md18uu.pdf</a><a href="https://bayfiles.com/0eU3T326n0/wp-criminal-hideouts-for-lease-en_pdf">https://bayfiles.com/0eU3T326n0/wp-criminal-hideouts-for-lease-en_pdf</a><a href="https://docdro.id/s5ssbqd">https://docdro.id/s5ssbqd</a></p><p id="8e445c56-8947-4602-a7d5-27eba4c2aca7" class="">File Storage, [6/4/22 2:21 PM]
+<a href="https://www.youtube.com/watch?v=M37m_sWK8w8">https://www.youtube.com/watch?v=M37m_sWK8w8</a></p><p id="d2512c13-d550-4ec1-a6f9-33c50118dedb" class="">File Storage, [6/4/22 2:21 PM]
+<a href="https://www.datacenterknowledge.com/">https://www.datacenterknowledge.com</a></p><p id="7681013d-67e6-427e-b1be-e6676bcbbb7a" class="">The leading online source of daily news and analysis about the data center industry, including hardware, software, data center networking, and more.</p><p id="c2f1fb5e-383c-462c-ab3a-f08afeb4852f" class="">File Storage, [6/4/22 2:21 PM]
+<a href="http://txti.es/">http://txti.es</a><a href="https://htmlpasta.com/">https://htmlpasta.com</a><a href="https://tiiny.host/">https://tiiny.host</a></p><p id="9fbe7185-6cfd-4c3f-8f2c-9daf41c5d844" class="">File Storage, [6/4/22 2:21 PM]
+<a href="https://startyourownisp.com/">https://startyourownisp.com/</a></p><p id="6a89def5-654f-4508-a8aa-2cf8a8414f2e" class="">File Storage, [6/4/22 2:21 PM]
+Free Forum Hosting &amp; Online Web Apps! - <a href="http://nabble.com/">Nabble.com</a></p><p id="fac3e173-6523-4673-8184-dcc3ae3223e2" class="">Create Free Forum
+Archive Mailing List
+Create Photo Gallery
+Create News Site
+Create Blog</p><p id="53a00f35-f9ae-4620-adfe-571b319046a9" class=""><a href="https://www.nabble.com/">https://www.nabble.com</a></p><p id="bf2d362e-ddf3-415d-a136-2d604466423e" class="">All Nabble apps are naturally embeddable, which means that they can be easily displayed inside any web page.</p><p id="f1dfc8fb-cf94-410c-863a-aabfd109699f" class="">All Nabble apps are built with NAML, a scripting language that gives you full control over the app pages.</p><p id="7b10ecbc-7503-488e-8ca1-f4ce86c87293" class="">File Storage, [6/4/22 2:21 PM]
+Skynet - decentralized CDN and file sharing platform for devs</p><p id="bd9fcc9a-1edc-44fc-88de-90125e465df1" class=""><a href="https://siasky.net/">https://siasky.net</a></p><p id="f0b93db4-e58a-40f9-b0b4-70c0641d14b5" class=""><a href="https://www.reddit.com/r/siacoin/">https://www.reddit.com/r/siacoin/</a></p><p id="cc1b02b4-53de-4019-8a26-b4b695d3c275" class=""><a href="https://twitter.com/siatechhq">https://twitter.com/siatechhq</a></p><p id="d34438f9-1b49-49e7-81cf-0440c95ec7cf" class=""><a href="https://sia.tech/">https://sia.tech</a></p><p id="6ce5c44c-d9a0-4d14-ad08-e8d84e0c591f" class="">Skynet Webportals
+<a href="http://skydrain.net/">skydrain.net</a><a href="http://sialoop.net/">sialoop.net</a>
+skynet.luxor.tech
+<a href="http://skynet.tutemwesi.com/">skynet.tutemwesi.com</a><a href="http://siacdn.com/">siacdn.com</a><a href="http://vault.lightspeedhosting.com/">vault.lightspeedhosting.com</a></p><p id="d23f99cc-c064-4d6d-baf2-bf0fe77511a7" class="">File Storage, [6/4/22 2:21 PM]
+Which Email Provider Should I Use?</p><p id="39b7be2b-9a8e-4e53-8276-bf57905c665b" class=""><a href="https://amarvyas.in/which-email-provider-should-i-use/">https://amarvyas.in/which-email-provider-should-i-use/</a></p><p id="cd08b6d1-64ae-41cb-bda0-674d2ebecfb8" class=""><a href="https://web.archive.org/web/20201220192840/https://amarvyas.in/which-email-provider-should-i-use/">https://web.archive.org/web/20201220192840/https://amarvyas.in/which-email-provider-should-i-use/</a></p><p id="f1b6e3a9-61ec-4b12-87be-62408a41a037" class=""><a href="https://archive.st/archive/2020/12/amarvyas.in/at9z/amarvyas.in/which-email-provider-should-i-use/index.html">https://archive.st/archive/2020/12/amarvyas.in/at9z/amarvyas.in/which-email-provider-should-i-use/index.html</a></p><p id="10882ebb-da15-47a6-a198-a7438cfd2b2c" class=""><a href="https://archive.is/N5Crf">https://archive.is/N5Crf</a></p><p id="95b22bab-3980-41f0-bdfd-ce30d68c6985" class="">File Storage, [6/4/22 2:21 PM]
+<a href="https://envs.net/">https://envs.net/</a><a href="http://tilde.club/">http://tilde.club</a> — the original tilde server. Had signups closed for a long time, now accepts new users.
+<a href="https://tilde.team/">https://tilde.team</a> — has great wiki
+<a href="https://hashbang.sh/">https://hashbang.sh</a> — this one has very extensive server hardening ansible configuration paybooks on their github, very useful information for configuring shared shell access on your own server.
+<a href="http://tilde.town/">http://tilde.town</a><a href="https://tilde.black/">https://tilde.black</a><a href="http://ctrl-c.club/">http://ctrl-c.club</a><a href="http://tildecow.com/">http://tildecow.com</a><a href="https://tilde.institute/">https://tilde.institute</a><a href="http://hackers.cool/">http://hackers.cool</a><a href="https://sdf.org/">https://sdf.org</a><a href="http://www.openshells.net/">http://www.openshells.net</a><a href="https://blinkenshell.org/wiki/Start">https://blinkenshell.org/wiki/Start</a><a href="http://www.polarhome.com/">http://www.polarhome.com</a><a href="https://www.xshellz.com/">https://www.xshellz.com</a><a href="http://bitcoinshell.mooo.com/">http://bitcoinshell.mooo.com</a></p><p id="946744fc-5e6d-404d-9a4f-d775ba0f7156" class="">File Storage, [6/4/22 2:21 PM]
+CORS Web Proxy
+This API enables cross-origin requests to anywhere.</p><p id="4ccf2fb5-165f-4121-8aab-23db25feff6b" class="">Usage:</p><p id="3a9d7496-c495-4c92-9254-5e8204afc806" class="">/               Shows help
+/iscorsneeded   This is the only resource on this host which is served without CORS headers.
+/&lt;url&gt;          Create a request to &lt;url&gt;, and includes CORS headers in the response.</p><p id="8ed8d41b-b8cc-4001-8ecf-c55c956fdb26" class="">If the protocol is omitted, it defaults to http (https if port 443 is specified).</p><p id="f134fec3-08dd-4197-97d8-66fbcfe79360" class="">Cookies are disabled and stripped from requests.</p><p id="66d3db87-f732-4726-9598-064dbabb4771" class="">Redirects are automatically followed. For debugging purposes, each followed redirect results
+in the addition of a X-CORS-Redirect-n header, where n starts at 1. These headers are not
+accessible by the XMLHttpRequest API.
+After 5 redirects, redirects are not followed any more. The redirect response is sent back
+to the browser, which can choose to follow the redirect (handled automatically by the browser).</p><p id="257bcd86-6127-4c9e-9d50-fde9cd419e65" class="">The requested URL is available in the X-Request-URL response header.
+The final URL, after following all redirects, is available in the X-Final-URL response header.</p><p id="7e90f196-cbcf-4bef-b2c7-cb45c80b566e" class="">To prevent the use of the proxy for casual browsing, the API requires either the Origin
+or the X-Requested-With header to be set. To avoid unnecessary preflight (OPTIONS) requests,
+it&#x27;s recommended to not manually set these headers in your code.</p><p id="5990158e-aaa2-4c3f-a139-1bc0acf4c588" class="">Demo          :   <a href="https://robwu.nl/cors-anywhere.html">https://robwu.nl/cors-anywhere.html</a>
+Source code   :   <a href="https://github.com/Rob--W/cors-anywhere/">https://github.com/Rob--W/cors-anywhere/</a>
+Documentation :   <a href="https://github.com/Rob--W/cors-anywhere/#documentation">https://github.com/Rob--W/cors-anywhere/#documentation</a></p><p id="84828caf-b7a5-4e24-be1a-c33d73920818" class=""><a href="https://cors-anywhere.herokuapp.com/">https://cors-anywhere.herokuapp.com</a><a href="https://censys.io/ipv4?q=80.http.get.body%3A%22This+API+enables+cross-origin+requests+to+anywhere.%22">https://censys.io/ipv4?q=80.http.get.body%3A&quot;This+API+enables+cross-origin+requests+to+anywhere.&quot;</a><a href="http://35.186.253.31/">http://35.186.253.31</a> - Google
+<a href="http://35.244.147.98/">http://35.244.147.98</a> - Google
+<a href="http://138.197.208.159/">http://138.197.208.159</a> - Digital Ocean
+<a href="http://34.203.14.52/">http://34.203.14.52</a> - AWS
+<a href="http://18.221.197.235/">http://18.221.197.235</a> - AWS
+<a href="http://3.232.73.206/">http://3.232.73.206</a> - AWS
+<a href="http://54.209.18.17/">http://54.209.18.17</a> - AWS
+<a href="http://54.87.255.209/">http://54.87.255.209</a> - AWS
+<a href="http://54.67.15.186/">http://54.67.15.186</a> - AWS
+<a href="http://18.190.9.101/">http://18.190.9.101</a> - AWS
+<a href="http://103.136.42.111/">http://103.136.42.111</a> - WorldStream
+<a href="http://84.243.150.88/">http://84.243.150.88</a> - Norway
+<a href="http://34.200.110.181/">http://34.200.110.181</a> - AWS
+<a href="http://34.218.222.68/">http://34.218.222.68</a> - AWS
+<a href="http://52.8.94.115/">http://52.8.94.115</a> - AWS
+<a href="http://3.216.117.191/">http://3.216.117.191</a> - AWS
+<a href="http://52.205.51.82/">http://52.205.51.82</a> - AWS
+<a href="http://116.85.15.25/">http://116.85.15.25</a> - China
+<a href="http://163.172.153.110/">http://163.172.153.110</a> - Online France
+<a href="http://35.241.43.162/">http://35.241.43.162</a> - Google
+<a href="http://35.241.159.214/">http://35.241.159.214</a> - Google
+<a href="http://35.210.173.135/">http://35.210.173.135</a> - Google
+<a href="http://159.89.155.250/">http://159.89.155.250</a> - Digital Ocean
+<a href="http://46.101.119.123/">http://46.101.119.123</a> - Digital Ocean
+<a href="http://139.162.132.99/">http://139.162.132.99</a> - Linode
+<a href="http://178.128.82.78/">http://178.128.82.78</a> - Digital Ocean
+<a href="http://35.193.125.233/">http://35.193.125.233</a> - Google
+<a href="http://47.75.75.5/">http://47.75.75.5</a> - Alibaba HK
+<a href="http://45.77.197.229/">http://45.77.197.229</a> - Choopa
+<a href="http://206.189.145.233/">http://206.189.145.233</a> - Digital Ocean
+<a href="http://167.99.234.61/">http://167.99.234.61</a> - Digital Ocean
+<a href="http://178.128.65.97/">http://178.128.65.97</a> - Digital Ocean
+<a href="http://13.86.192.66/">http://13.86.192.66</a> - Microsoft
+<a href="http://67.205.151.62/">http://67.205.151.62</a>  - Digital Ocean
+<a href="http://94.130.184.92/">http://94.130.184.92</a>  - Hetzner
+<a href="http://91.134.227.147/">http://91.134.227.147</a> - OVH France
+<a href="http://34.98.120.205/">http://34.98.120.205</a> - Google
+<a href="http://104.131.126.72/">http://104.131.126.72</a>  - Digital Ocean
+<a href="http://18.185.96.182/">http://18.185.96.182</a> - AWS
+<a href="http://63.32.184.210/">http://63.32.184.210</a> - AWS
+<a href="http://18.130.72.229/">http://18.130.72.229</a> - AWS
+<a href="http://18.196.5.147/">http://18.196.5.147</a> - AWS
+<a href="http://3.120.45.89/">http://3.120.45.89</a> - AWS
+<a href="http://35.180.212.27/">http://35.180.212.27</a> - AWS</p><p id="7f17fed2-e365-4db4-bf12-75507259a1bf" class="">File Storage, [6/4/22 2:21 PM]
+<a href="https://censys.io/ipv4?q=%28443.https.get.body%3A%22This+API+enables+cross-origin+requests+to+anywhere.%22%29">https://censys.io/ipv4?q=(443.https.get.body%3A&quot;This+API+enables+cross-origin+requests+to+anywhere.&quot;)</a><a href="https://www.cors.llw.name/">https://www.cors.llw.name</a><a href="https://cors-anywhere-k8s.innocode.no/">https://cors-anywhere-k8s.innocode.no</a><a href="https://proxy.nil.cx/">https://proxy.nil.cx</a><a href="https://proxy.ese.plus/">https://proxy.ese.plus</a><a href="https://corss.twiketo.com/">https://corss.twiketo.com</a><a href="https://cors.filavents.com/">https://cors.filavents.com</a><a href="https://control.fairway321.com/">https://control.fairway321.com</a><a href="https://proxy.sevaexchange.com/">https://proxy.sevaexchange.com</a><a href="https://cors-proxy.husl.pro/">https://cors-proxy.husl.pro</a><a href="https://cors.darpan.online/">https://cors.darpan.online</a><a href="https://cors-anywhere.usylibra.eu/">https://cors-anywhere.usylibra.eu</a><a href="https://cors.was.exposed/">https://cors.was.exposed</a><a href="https://cors-proxy.crawler.link/">https://cors-proxy.crawler.link</a><a href="https://k.oe-jpy.com/">https://k.oe-jpy.com</a><a href="https://cors.ebapay.ir/">https://cors.ebapay.ir</a><a href="https://cors.spiralyze.com/">https://cors.spiralyze.com</a><a href="https://proxy.urjc.info/">https://proxy.urjc.info</a><a href="https://cors.dprimero.com/">https://cors.dprimero.com</a><a href="https://cors.netlob.dev/">https://cors.netlob.dev</a><a href="https://cors.r2h.us/">https://cors.r2h.us</a><a href="https://cors.zimjs.org/">https://cors.zimjs.org</a><a href="https://cors.v001.dev/">https://cors.v001.dev</a><a href="https://mmcors.autonio.foundation/">https://mmcors.autonio.foundation</a><a href="https://cors.bystrov.agency/">https://cors.bystrov.agency</a><a href="https://ip.here.fm/">https://ip.here.fm</a><a href="https://cors-proxy.openhouse.study/">https://cors-proxy.openhouse.study</a><a href="https://cors.diystock.ai/">https://cors.diystock.ai</a><a href="https://cors-proxy.svi.solutions/">https://cors-proxy.svi.solutions</a></p><p id="dbf4f7da-1021-4eef-8d54-21cd34ef4b66" class="">File Storage, [6/4/22 2:21 PM]
+<a href="https://github.com/netnr/workers">https://github.com/netnr/workers</a></p><p id="01f89a1b-c1b4-4c1a-badf-a37893c611d3" class="">
+</p></div></article></body></html>
