@@ -26,3 +26,5 @@ My goal is to bring accessible knowledge on these topics to the many and hopeful
 - I enjoy good content, tho, i hate wasting time, but yet, i don’t have anything to do…
 
 **(i might update soon, for now, i’ll focus for more important sections, sorry if you are not satisfied, i’ll make it interesting asap!)**
+
+[Notes](About%20me%20ea4ee4b88cdc4991a85ee497332a994d/Notes%20d59c4db0e12c4c9e8cda29c4317fd44f.md)
