@@ -30,7 +30,7 @@ It’s some person space for me, most of the things here are things i am not goi
 0) this site is in alpha state since i don’t know about notion, please visit 6 month later if i was alive (v0.0.1 alpha)
 1) it’s advised to use [dark reader](https://darkreader.org/) to read this page *(or you will get blind and don’t blame me)*
 2) i am not a native english speaker so i apologize for the grammar.
-3) i am homophobic, antisemitic, agnostic, so be aware you may get offended and it’s on yourself entirely, please leave me alone.
+3) i am homophobic, antisemitic, agnostic, so be aware you may get offended and it’s on yourself entirely, please leave me aloneو
 4) for any kind of dmca or suggestions, please visit my telegram
 
 </aside>
