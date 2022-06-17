@@ -7,3 +7,5 @@
 
 I hope you are doing well 
 *and if you are looking for something useful please check [r/fmhy's wiki](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH) instead if shitty diary of mine*
+
+version v1.0.0
