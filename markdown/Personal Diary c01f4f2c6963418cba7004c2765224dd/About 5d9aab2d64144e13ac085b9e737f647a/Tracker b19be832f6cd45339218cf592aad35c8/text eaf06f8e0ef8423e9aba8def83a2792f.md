@@ -118,5 +118,5 @@ https://t.me/channelbpodcast
 ```
 
 ```markdown
-https://python.coderz.ir/
+https://www.youtube.com/watch?v=v8ouDk2Mayw
 ```
