@@ -1671,3 +1671,906 @@ https://github.com/iperov/DeepFaceLab
  https://b.lulu.workers.dev
 https://noisy-tooth-2ee5.susheng.workers.dev/
 ```
+
+```markdown
+http://t.me/HMlust
+```
+
+```markdown
+نابغه:
+@Quickchat_Emerson_bot (محدودیت روزانه)
+google assistant
+```
+
+```markdown
+@GeoPoliticIntel
+```
+
+```markdown
+https://github.com/xarantolus/filtrite
+```
+
+```markdown
+بعدا کانال @JugShelf این دلقکو زیرو رو کنم
+```
+
+```markdown
+temp for you
+@tempforyou
+```
+
+```markdown
+https://www.caduceus.ml
+https://github.com/TheCaduceus
+```
+
+```markdown
+http://www.caduceus.ml/MEGA-INDEX
+ https://t.me/DrTorrent/15409
+```
+
+```markdown
+https://github.com/fast-geek/Android-Tool
+```
+
+```markdown
+چند اهم اهم گرام (تلگرام) دوست داشتنی اوپن سورس موبایل :/
+Nagram:
+(کمترین اعتماد رو دارم ولی در عوض بیشترین امکانات رو داره)
+@nagram_channel
+@nagram_group
+ https://github.com/NextAlone/Nagram/releases/tag/
+Nullgram:
+(بیشترین اعتماد رو دارم هرچند به nekox شاید نرسه)
+@NullgramClient
+ https://github.com/qwq233/Nullgram
+Owlgram:
+(فکر نمیکنم سازندش چینی باشه و چیز خوشگلیه، تست نکردم و پس اعتماد رو نمد، حالا من میگم اعتماد ولی اوپن سورسه بهتر از plus messenger عه)
+@OwlGram
+@OwlGramAPKs
+ http://github.com/OwlGramDev/OwlGram
+NekoX:
+(اعتماد رو پنجاه پنجاهم، ولی مادر nagram و بچه nekogram (کلوس سورس شد) عه)
+@NekogramX
+ https://github.com/NekoX-Dev/NekoX/
+چندتایی که نمیشناسمه دیه:
+ https://github.com/nikitasius/Telegraher
+https://github.com/TeleTux/TeleTux/
+```
+
+```markdown
+Original newpipe:
+ https://github.com/TeamNewPipe/NewPipe
+Newpipe with sponsorblocker:
+ https://github.com/polymorphicshade/NewPipe
+Libretube:
+ https://github.com/libre-tube/LibreTube/
+Skytube:
+(نسخه oss بزنید، اون extra اوپن سورس نی)
+ https://github.com/SkyTubeTeam/SkyTube
+
+Firefox mobile just alot better:
+ https://github.com/fork-maintainers/iceraven-browser
+```
+
+```markdown
+https://github.com/FilipePS/Traduzir-paginas-web
+```
+
+```markdown
+Death Note - Kira's Victory HD
+ https://www.youtube.com/watch?v=9C9azy3hBJo
+```
+
+[https://t.me/pack1235](https://t.me/pack1235)
+[https://therecord.media/podcast/](https://therecord.media/podcast/)
+
+```markdown
+https://github.com/marcofilieri/Channel-cloner
+```
+
+```markdown
+معرفی اجرا کننده های شادوساکس
+Android (
+https://github.com/XTLS/AnXray/releases/) (Anxray)
+Android (
+https://play.google.com/store/apps/details?id=earth.oneclick) (One click vpn)
+Android (
+https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv) (NapsternetV)
+Android (
+https://play.google.com/store/apps/details?id=com.v2ray.ang) (v2rayNG)
+Android (
+https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet) (Sagernet)
+Android (
+https://play.google.com/store/apps/details?id=com.v2ray.hybrid) (v2ray Hybrid)
+Android (
+https://play.google.com/store/apps/details?id=com.namelessnetx.ang) (NamelessnetX)
+Android (
+https://play.google.com/store/apps/details?id=com.github.shadowsocks) (Shadowsocks)
+Android (
+https://play.google.com/store/apps/details?id=com.v2cross.proxy) (Shadowrocket)
+Android (
+https://play.google.com/store/apps/details?id=com.appsource.v2ray) (Napsternet VPN)
+Android (
+https://play.google.com/store/apps/details?id=vpn.v2ray.xray) (XRAY VPN)
+Android (
+https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr) (ShadowsockR)
+Android (
+https://play.google.com/store/apps/details?id=dev.epro.e_v2ray) (e-V2ray)
+Android (
+https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android) (Kitsunebi)
+Android (
+https://play.google.com/store/apps/details?id=free.v2ray.proxy.VPN) (V2ray VPN)
+(
+https://t.me/Glysit)Android (
+https://play.google.com/store/apps/details?id=org.outline.android.client) (Outline)
+Android (
+https://play.google.com/store/apps/details?id=com.crosserr.trojan) (Trojan)
+Android (
+https://play.google.com/store/apps/details?id=com.getsurfboard) (Surfboard)
+Android (
+https://github.com/v2raym/bifrostv/blob/master/BifrostV_v0.6.8.apk?raw=true) (bifrostv)
+Android (
+https://github.com/shadowsocksRb/shadowsocksRb-android/releases) (ShadowsocksRb)
+Android (
+https://github.com/xxf098/shadowsocksr-v2ray-android/releases) (SSRRAY)
+IOS (
+https://app.iapps.ir/i/595714553) (Shadowrocket)
+IOS (
+https://apps.apple.com/us/app/outline-app/id1356177741) (Outline)
+IOS (
+https://apps.apple.com/us/app/potatso-lite/id1239860606) (Potasto Lite)
+IOS (
+https://apps.apple.com/us/app/oriole-network-proxy/id1245170216) (Oriole)
+Windows (
+https://github.com/2dust/v2rayN/releases) (V2rayN)
+Windows (
+https://github.com/netchx/netch/releases) (Netch)
+Windows (
+https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe) (Outline)
+Windows (
+https://github.com/Qv2ray/Qv2ray/releases) (Qv2ray) (Core (
+https://github.com/v2fly/v2ray-core/releases/))
+Windows (
+https://github.com/githello123/sstap/raw/master/SSTap-beta-setup-1.1.0.1.exe.7z) (Sstap)
+Windows (
+https://github.com/Fndroid/clash_for_windows_pkg/releases/) (Clash)
+Windows (
+https://github.com/shadowsocks/shadowsocks-windows/releases) (Shadowsocks)
+Windows (
+https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases) (ClashR)
+Linux (
+https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage) (Outline)
+Linux (
+https://github.com/Fndroid/clash_for_windows_pkg/releases/) (Clash)
+Linux (
+https://github.com/Qv2ray/Qv2ray/releases) (QV2RAY) (Core (
+https://github.com/v2fly/v2ray-core/releases/))
+Linux (
+https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases) (ClashR)
+```
+
+```markdown
+Futurama
+```
+
+[https://hacksnation.com/](https://hacksnation.com/)
+
+[https://freesoff.com/](https://freesoff.com/)
+
+```jsx
+https://12ft.io/
+ https://coincap.io
+https://cryptowat.ch
+https://coinmarketcap.com/converter
+https://github.com/imbaniac/awesome-blockchain
+https://bitcoinbookmarks.com
+https://featherwallet.org
+https://wasabiwallet.io
+https://samouraiwallet.com
+https://tornado.cash
+https://kycnot.me
+https://stealthex.io
+https://fixedfloat.com
+https://www.morphtoken.com
+https://sideshift.ai
+https://swap.lightning-network.ro
+https://xchange.me
+https://godex.io
+https://flyp.me
+https://bisq.network
+https://coinatmradar.com
+https://www.cardcoins.co
+https://coincards.com
+https://purse.io
+https://www.bitrefill.com/
+ https://samouraiwallet.com
+ https://t.me/remind_pixel
+Did a little bit of data mining on this thread.
+All Test Pages mentioned so far:
+ https://www.speedtest.net/
+ https://www.speedtest.net/apps/cli
+ https://speed.cloudflare.com/
+ http://www.dslreports.com/speedtest
+ https://librespeed.org/
+ http://134.209.196.181:8080
+ https://proof.ovh.net/
+ https://fast.com/
+ https://speed.aussiebroadband.com.au/
+ https://www.speedcheck.org/
+ https://speedof.me/
+ https://testmy.net/
+Additonal Sites not mentioned yet:
+ https://speedtest.xfinity.com/
+ http://internethealthtest.org/
+ https://speedsmart.net/
+Tools:
+ https://iperf.fr/iperf-servers.php
+ https://github.com/orz811017/boost_bandwidth_via_speedtest
+ https://github.com/e7d/speedtest
+ https://www.bitwizard.nl/mtr/
+ https://github.com/tommie/chargen2p
+ https://github.com/tommie/prometheus-connectivity-exporter
+Hosted version:
+https://librespeed.org/
+Self hosted version:
+https://github.com/librespeed/speedtest
+book
+@ketabZahra1369
+```
+
+[https://wikiless.tiekoetter.com/wiki/Maus?lang=en](https://wikiless.tiekoetter.com/wiki/Maus?lang=en)
+
+Retro Game Mechanics Explained
+[https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
+
+```markdown
+چطور یه هکر واقعی بشیم:
+یه نتیجه گیری کلی کردم که پیش‌نیاز هکر شدن چیه، نه این مهندس های شبکه ابکی که با کالی نصب کردن و نصب cmatrix فکر میکنن هکرن
+گام اول باید کاملا مسلط به DevOps باشی، طبق تعریف سایت IBM
+"DevOps is a set of practices that aims to shorten the software development lifecycle and speed the delivery of higher-quality software by breaking down the silos and combining and automating the work of software development teams and IT operations teams."
+یعنی باید یه دانش اولیه بدست بیاری که بشی DevOps، مرحله بعدی اونو در "جهتی" استفاده کنی، تعریف هکر کردن
+Definition: Hacking is an attempt to exploit a computer system or a private network inside a computer. ... Black hat hackers hack to take control over the system for personal gains. They can destroy, steal or even prevent authorized users from accessing the system.
+یعنی دانشتو در جهت پیدا کردن ضعف و سو استفاده ازش استفاده کنی، ببین، شروع داستان یه DevOps زیرساخت رو ردیف می‌کنه و بعد هکر به زیرساخت حمله میکنه، یعنی باید کاملا مسلط به
+ https://roadmap.sh/devops
+بشی که وقتی شدی بری سراغ ذهنیت و فلسفه اش
+ https://onehack.us/t/become-a-hacker-a-complete-bible-get-started/83367
+و بقیه رود مپ اختصاصی هکرا و تازه اونوقت شروعه داستانه تازه، باید مهارتت رو این شاخه اون شاخه قوی و قویتر کنی که برتری پیدا کنی!
+(البته از یکی از دوستان پرسیدم فور کردم بحثو)
+```
+
+```markdown
+File Storage, [6/4/22 2:32 PM]
+آشنایی با خط فرمان های سیستم عامل ها.
+1.Command-lines *
+2.LPIC 1 and 2 *
+آشنایی با مفاهیم اولیه هک,شبکه و روش های ردیابی هکر.
+3.Network Plus *
+4.CEH and CHFI *
+آشنایی با زبان ها و آسیب پذیری های تحت وب.
+5.HTML5 Syntax and JavaScript Programming *
+6.PHP/ASP Syntax and SQL Programming *
+7.Basic Web Hacking *
+8.Advanced Web Attacks and Exploitation *
+طریقه جمع آوری اطلاعات از سطح اینترنت و شبکه های اجتماعی.
+9.OSINT Techniques and Methodology *
+آشنایی با اسکریپت نویسی,ابزار های کالی و فریمورک های C&C.
+10.Shell Scripting *
+11.Penetration Testing with Kali Linux *
+12.Basic Infrastructure Hacking *
+13.Metasploit Mastery *
+آشنایی کامل با کتابخانه ها و تکنیک های مورد استفاده در پایتون.
+14.Python Hacker Bootcamp: Zero to Hero *
+زبان های مورد نیاز برای تکنیک های سطح بالا حمله به سیستم عامل ها.
+15.ActionScript and VBScript Programming *
+آشنایی با Post Exploitation ها و Persistence ها و غیره.
+16.Pentesting Enterprise Infrastructure *
+تکنیک های ارتقاء سطح دسترسی و روشهای Pivoting.
+17.Advanced Infrastructure Hacking *
+تکنیک های مهندسی اجتماعی و سوءاستفاده از دیوایس های سخت افزاری.
+18.Social Engineering and Physical Security *
+تکنیک های نفوذ به شبکه های بیسیم و انواع حملات این فضاء.
+19.Advanced Wireless Exploitation *
+تکنیک های سرشماری شبکه و شناسایی سرویس ها.
+20.Adaptive Penetration Testing *
+زبان پاورشل برای عملیات های پسا نفوذ و روش های بایپس AVs.
+21.Adversary Tactics: PowerShell *
+آشنایی با نرم افزارهای گیرنده و فرستنده رادیویی.
+22.Software Defined Radio
+تست نفوذ بر دیوایس های اینترنت اشیاء و پروتکل های مورد استفاده.
+23.Practical IoT Hacking
+برنامه نویسی زبان C/C++ و زبان اسمبلی که نیاز مباحث زیرین میباشد.
+24.Assembly and C/C++ Programming *
+تکنیک های حمله از بستر دیوایس های فیزیکی و الکترونیکی.
+25.Physical Penetration & Electronic Access Control Hacking
+اکسپلویت نویسی سیستم های کنترولر صنعتی مانند SCADA و دیوایس های IoT.
+26.Assessing and Exploiting Control Systems and IoT
+آشنایی با مهندسی معکوس و تحلیل بدافزار و ابزارهای مورد نیاز.
+27.Malware Analysis Crash Course *
+تکنیک های فازینگ برای پیدا کردن آسیب پذیری در حالت های مختلف.
+28.Practical Vulnerability Discovery with Fuzzing *
+آموزش کامل شلکد نویسی برای انواع پردازنده و تکنیک های مبهم سازی.
+29.The Shellcode Lab *
+اکسپلویت نویسی برای سیستم عامل های لینوکسی و تکنیک های پسا نفو‌ذ.
+30.Tactical Exploitation: Attacking Unix *
+تکنیک های اکسپلوت کردن سرویس های فضای ابری و Azure.
+31.AWS & Azure Exploitation
+آشنایی با API سیستم عامل ویندوز و تکنیک های تزریق کد به مموری.
+32.In-depth code injection for attackers *
+تکنیک های دور زدن مکانیزم هایی مانند IDS,IPS,SIEMs.
+33.Dark Side Ops-Custom Penetration Testing *
+تکنیک های نفوذ به دیوایس های سخت افزاری و فریمورک های نرم افزاری.
+34.Hacking Firmware & Hardware *
+آشنایی با مفاهیم لازمه برای حملات کردن از قبیل کار با Windbg.
+35.Windows Kernel Primer *
+تکنیک های حمله به کرنل و دور زدن مکانیزم های دفاعی آن.
+36.Windows Kernel Rootkit Techniques *
+تکنیک های مهندسی معکوس برنامه های NET. و دور زدن مکانیزم های Detections.
+37.Dark Side Ops 2-Adversary Simulation *
+آشنایی با ساختار پردازنده های ARM و چالش های اکسپلویت نویسی آن.
+38.ARM Iot Exploit Laboratory: Intro *
+تکنیک های اکسپلویت نویسی و مهندسی معکوس سیستم عامل های iOS و Android.
+39.Offensive Mobile Exploitation & Reversing *
+تکنیک های سطح بالا در خودکار سازی عملیات های حمله یا مکانیزم های دفاعی.
+40.The Security Automation Lab *
+#Help U
+گزینه های ستاره دار مراحل واجب هستند و دیگر گزینه ها ایتم های سلیقه ای هستند.
+برای اطلاع از زیر مجموعه سرفصل های ذکر شده کافیست نام سرفصل را همراه با کلمه Blackhat Training در گوگل بکار ببرید در سایت Blackhat زیر مجموعه های مربوطه را خواهید دید,
+نکته: موارد ذکر شده در نقشه راه های قبلی زیرمجموع ایتم های این نقشه راه میباشد و با بررسی زیرمجموع ها,در سرفصل های این نقشه راه ایتم های قدیمی هم دیده خواهد
+```
+
+```markdown
+کامل ترین #نقشه_راه برای ورود به دنیای هک و امیت
+مرحله اول آشنایی با مفاهیم اولیه.
+1.CEH
+2.Network Plus
+3.OSI Layers
+مرحله دوم آشنایی با خط فرمان های سیستم عامل ها
+4.Linux Commands
+5.Windows Commands
+6.LPIC 1 & 2
+مرحله سوم آشنایی با فریمورک های نفوذ و پنتست
+7.Metasploit Basic
+8.Metasploit Advanced
+مرحله چهارم آشنایی با آسیب پذیری های تحت وب
+9.Basic of Web Penetration Testing
+10.Advanced of Web Penetration Testing
+11.Penetration Testing with Kali
+12.SQL Programming & PHP/ASP Syntax
+13.Entitty framework & .Net Core
+مرحله پنجم طریقه جمع آوری اطلاعات از سطح اینترنت
+14.InfoGathering & OSINT
+15.Google Hacking & Web Mapping
+16.Social Engeenering & Man Spoofing
+مرحله ششم کرک اکانت و جمع آوری اکانت
+17.Account Leech & Cracking
+مرحله هفتم آشنایی با رمزنگاری ها و تست ضعف رمزنگاری
+18.Cryptography Pentesting
+مرحله هشتم تکنیک های نفوذ به شبکه های زیرساختی و بیسیم
+19.Network & Wireless Hacking
+مرحله نهم تکنیک های نفوذ و دور زدن مکانیزم های برنامه های کاربردی
+20.Android & iOS Penetration Testing
+مرحله دهم تست نفوذ با زبان پایتون
+21.Python for Penetration Testing
+مرحله یازدهم آشنایی یا زبان پاورشل و پتانسیل آن
+22.Powershell for Penetration Testing
+مرحله دوازدهم تکنیک های مبهم سازی ر برنامه نویسی
+23.Obfuscation Programming
+مرحله سیزدهم تکنیک های ارتقاء سطح دسترسی
+24.Privilage Ecalation
+مرحله چهاردهم تکنیک های نگهداری دسترسی و بکدور
+25.Persistence Methods
+مرحله پانزدهم تکنیک های ضد ردیابی دسترسی
+26.Anti Forensic Methods
+مرحله شانزدهم برنامه نویسی زبان C و سوکت نویسی
+27.C & Network Programming
+مرحله هفدهم برنامه نویسی زبان روبی و جاوا اسکریپت
+28.Ruby & JavaScript Programming
+مرحله هجدهم برنامه نویسی VBScript & ActionScript
+29.ActionScript & VBScript Programming
+مرحله نوزدهم برنامه نویسی زبان ماشین
+30.Assembly Programming
+مرحله بیستم آشنایی با ساختار فایل فرمت ها و ماژول های کرنل
+31.Operating System File Format
+32.WinAPI & LinAPI Syntax
+مرحله بیست و یکم برنامه نویسی COM & DCOM
+33.COM and DCOM Programming
+مرحله بیست و دوم مهندسی معکوس هر برنامه ای و تکنیکی
+34.Advanced Reverse Engineering
+مرحله بیست و سوم مرحله اکسپلویت نویسی و دور زدن مکانیزم های دفاعی
+35.Advanced Exploit Development
+مرحله بیست و چهارم ساختن بکدورهای روت کیت و بوت کیت
+36.Bootkit & Rootkit Analysis
+مرحله بیست و پنجم اکسپلویت نویسی سیستم عامل های گوشی ها
+37.Android & iOS Exploit Development
+مرحله بیست و ششم تکنیک های حملات به ماهواره ها و شنود آنها
+38.Satellite Attacking
+```
+
+```markdown
+We Are Anonymous, We Are Legion, We Do Not Forgive, We Do Not Forget 
+https://www.youtube.com/watch?v=gOLeXwSpgiU
+```
+
+@eat_bookkkk
+
+```markdown
+@DKTextToSpeechBot
+```
+
+**Ockeroid**
+[https://www.youtube.com/channel/UCO8MNRJMTN3PJqNDHLqz2ww](https://www.youtube.com/channel/UCO8MNRJMTN3PJqNDHLqz2ww)
+
+گروه انیمه ای:
+[https://t.me/+2gL-n-5j0qczZTNi](https://t.me/+2gL-n-5j0qczZTNi)
+[https://t.me/myanimes](https://t.me/myanimes)
+
+```markdown
+https://github.com/Suwayomi/Tachidesk-JUI
+https://stallman.org
+https://www.gnu.org
+http://spyware.neocities.org/articles/
+```
+
+[https://github.com/kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info)
+
+[https://en.wikipedia.org/wiki/Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
+
+```markdown
+https://t.me/SatoshiSchool/16
+```
+
+[https://www.youtube.com/channel/UCSuHzQ3GrHSzoBbwrIq3LLA](https://www.youtube.com/channel/UCSuHzQ3GrHSzoBbwrIq3LLA)
+
+@NeoPesarism
+@bitbaanlab @offsecmag
+
+```markdown
+https://libredirect.github.io/
+ https://www.youtube.com/c/S2Underground/videos
+```
+
+```markdown
+https://youtu.be/RINHjxsPOEg
+```
+
+```markdown
+https://github.com/OwlGramDev/OwlGram
+```
+
+[https://airyx.org/](https://airyx.org/)
+
+[https://github.com/star-39/moe-sticker-bot](https://github.com/star-39/moe-sticker-bot)
+
+```markdown
+https://www.newegg.com/Product/Product.aspx?Item=2MB-001D-00002
+https://uphold.com
+https://xcoins.io/how-it-works
+https://coinswitch.co
+https://github.com/StreisandEffect/streisand
+http://www.omdbapi.com
+https://github.com/CHEF-KOCH/Warez
+https://www.radio.net
+http://www.streamfinder.com/online-radio-stations
+http://dlwarez.in
+http://hugewarez.net
+http://oneddl.org
+http://downtr.cc
+http://freshwap.cc
+https://www.freakddl.com
+https://koozic.net
+http://archive.is/NAlbA
+https://old.reddit.com/r/NintendoRoms/comments/af95i0/almost_complete_nintendo_rom_and_iso_collection
+https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9
+https://github.com/jliljebl/flowblade
+https://letsupload.co
+https://filelisting.com
+https://www.digbt.org
+http://www.nosteamgames.ro
+https://rg-mechanics.org
+https://winxmr.net
+https://archivebox.io
+https://github.com/Chocobozzz/PeerTube
+http://www.codelist.cc
+ https://scriptmafia.org
+https://www.urbanfonts.com
+https://www.crackthemes.com
+https://mixkit.co
+https://www.piratecity.co
+https://ewora.blogspot.com
+https://news.bitcoin.com/these-exchanges-allow-you-to-purchase-cryptocurrency-without-knowing-you
+https://godex.io
+https://shift.fairlay.com
+https://www.changer.com
+https://simpleswap.io
+https://www.reddit.com/r/MSToolkit/comments/ap3j9r/office_20132019_c2r_install_v656
+https://www.tonido.com
+https://thepiratebay.vip/user/generation2
+https://www.rempe.us/diceware/#eff
+https://file-size.dolegi.com
+http://www.puzo.org
+https://www.silentground.org
+http://mygully.com/?langid=1
+https://rsload.net
+https://boerse.sh
+https://azmovie.to
+https://cruzing.xyz
+https://subscene.com
+https://flippa.com/websites
+https://flippa.com/domains
+https://www.rulu.co
+https://urlscan.io
+https://movies.gg
+https://www.nulledteam.com
+https://www.limetorrents.info
+https://www.cgpeers.to
+https://buckets.grayhatwarfare.com
+http://www.takeafive.com
+https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ
+https://old.reddit.com/r/sjain_guides/wiki/downloads#wiki_adobe_cc_2019_tools
+https://onionplay.net
+https://www.openmptcprouter.com
+https://github.com/trimstray/nginx-quick-reference
+https://github.com/SimpleMachines/SMF2.1
+https://iroute.io
+https://www.mailcheap.co/smtprelays.html
+https://torrentparadise.to/top100
+ https://www.cloudns.net
+https://tildes.net
+https://latesthackingnews.com
+https://www.darknet.org.uk
+https://twitter.com/disclosedh1
+https://streamtvnow.tv
+https://baconfeet.com
+https://github.com/omarroth/invidious
+https://github.com/FreeTubeApp/FreeTube
+https://github.com/cloudrac3r/cadencegq
+https://nsfwjs.com
+https://invidio.us
+https://secured.fyi
+https://streamable.com
+https://images.weserv.nl
+https://www.stopforumspam.com
+https://newtrackon.com/list
+https://www.myabandonware.com
+https://auphonic.com
+http://yourporn.sexy
+https://jrexp.github.io
+https://googlefonts.3perf.com
+https://obsproject.com
+https://hardforum.com
+https://crossbox.io
+https://www.sparkpost.com
+https://smtpprovider.com
+https://github.com/thcolin/nipper
+http://nipper.yt
+https://r.sine.com
+https://www.reddit.com/r/RedSoccer_EPL
+https://www.reddit.com/r/redsoccer
+https://github.com/Athlon1600/youtube-downloader
+https://hostmaze.com
+https://vps4you.hu/en/
+ https://www.learningcrux.com
+https://cmacapps.com
+https://rinulikes.com
+https://gitlab.com/Seiber/startpage
+http://tableit.net
+https://dissenter.com
+https://squawkr.io
+https://mangadex.org
+https://gab.ai/popular
+https://www.reddit.com/r/SigaVPN
+https://www.youphptube.com
+https://crypto-loot.com
+https://github.com/Crypto-Loot/cryptoloot
+https://www.reddit.com/r/opendirectories
+https://www.mooc-list.com
+https://github.com/GaalexxC/IPS-4.2-BitTracker
+https://github.com/medariox/scrapeer
+https://github.com/atmoner/Bittytorrent
+https://github.com/adolfintel/speedtest
+https://github.com/LisaDziuba/Awesome-Design-Tools
+https://old.reddit.com/r/motorsportsstreams
+https://sendpulse.com
+https://www.newsmansmtp.com/features
+https://github.com/atech/postal
+https://cuttlefish.io
+http://www.leadersend.com
+http://www.dailysender.com
+http://www.bulkmailvps.com
+https://smtpprovider.com/packages
+https://uizard.io
+https://lecoupa.github.io/awesome-cheatsheets
+https://github.com/Janhouse
+http://tup4u.com/about-us
+https://9xbuddy.com
+https://www.nsa.gov/resources/everyone/ghidra
+https://demonsaw.com
+https://www.reddit.com/r/anYme
+https://github.com/zunjae/anYme
+https://animevibe.xyz
+https://www.animepie.to
+https://www.reddit.com/r/animepiracy
+https://4anime.to
+https://www10.animeultima.eu
+https://animedao.com
+https://teamspeak.com/en/features/overview
+https://teespring.com
+https://fastest.fish
+https://www.dmarcanalyzer.com/dmarc/dmarc-record-check/
+ https://getfans.io
+https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Downloads
+http://www.instantbulksmtp.com/pricing
+https://github.com/planetteamspeak/jquery-ts3viewer
+https://github.com/SirReaDy/Ts3-viewer-web-interface
+http://www.teaspeak.de
+http://youmightnotneedjquery.com
+https://paradeshop.net
+https://chromatic.gg
+http://bestblackhatforum.com
+https://cheapaccounts.eu
+https://accountsmarket.biz
+https://proxy6.net/en
+https://thismight.be/offensive
+https://bbs.anoma.ch/authorize
+https://www.getoutline.org/en/home
+https://www.mindmeister.com/39583892/research-tools-by-nader-ale-ebrahim
+https://hackertarget.com
+https://trends.google.com/trends/hottrends/visualize?nrow=5&ncol=5
+https://veniversum.me/git-visualizer/?owner=microsoft&repo=CNTK
+http://wiki.polyfra.me
+https://teamspeak.com/en/downloads
+https://reachmail.zendesk.com/hc/en-us/articles/360001198723-SPF-Record-Installation
+https://cswarzone.com
+https://docdownloader.com
+https://github.com/joker25000
+https://github.com/alexfoxy/laxxx
+http://www.metacdn.com/cdn
+http://www.cruxmailer.com
+https://textmechanic.com
+https://apollotv.xyz
+https://tsdns.io
+https://www.mojeek.com
+https://streams.now.sh
+https://www.protondb.com
+https://cdnnow.pro
+https://mediatorrentz.org
+https://s3-us-west-1.amazonaws.com/vocs/map.html
+ https://github.com/Ibit-to/google-unlocked
+https://0day.rocks
+https://beta.virusbay.io
+https://mixer.com
+ https://notificationsounds.com/notification-sounds
+https://winxp.now.sh
+http://vrcade.io/win311
+https://www.searchencrypt.com
+https://packetstormsecurity.com
+https://nuclear.js.org
+https://arcane-sands-45470.herokuapp.com
+https://mobilesms.io
+https://twitter-content-lab.herokuapp.com
+http://hisz.rsoe.hu/alertmap/index2.php
+http://gigatweeter.com
+https://ttdown.org
+https://www.colorffy.com
+File Storage, [6/4/22 2:30 PM]
+ https://gohugo.io
+https://netlify.com
+https://www.mirrored.to
+https://ameliorated.info
+https://savemedia.website
+https://ibit.uno
+https://github.com/xyproto/algernon
+ http://menuetos.net
+http://kolibrios.org/en/
+ https://dreadditevelidot.tor2web.xyz
+https://github.com/j3ssie/Osmedeus
+https://azm.azerialabs.com
+https://sensor.fyi/list
+https://sensor.fyi/info
+https://www.defcon.org/images/defcon-18/dc-18-presentations/Wolchok/DEFCON-18-Wolchok-Crawling-Bittorrent-DHTS.pdf
+https://www.hackthebox.eu
+https://github.com/RhinoSecurityLabs/CVEs
+https://warosu.org/g/
+ https://www.buybitcoinworldwide.com
+https://www.bitgild.com
+https://coinatmradar.com
+https://localbitcoins.com
+https://bitcart.io
+https://purse.io
+https://www.bitrefill.com
+https://www.cardcoins.co
+https://alexk111.github.io/DeBitpay
+https://wasabiwallet.io
+https://gitgud.io/millchan/Millchan
+https://notabug.org/RemixDev/deemix
+https://ttf.tf
+https://fishshell.com
+https://github.com/aristocratos/bashtop
+https://www.fanatical.com
+https://censorbib.nymity.ch
+https://lunwen.im
+https://tools.kausalflow.com/tools
+https://whois-history.whoisxmlapi.com/api
+https://bitport.io
+https://ezgif.com
+https://nginxproxymanager.com
+https://crt.sh
+http://cpp.sh
+https://kiwibrowser.com
+https://www.insecam.org
+https://gbatemp.net
+http://sqlmap.org
+File Storage, [6/4/22 2:30 PM]
+ https://www.palemoon.org/
+ https://github.com/Nyr/wireguard-install
+https://sumo.app/paint/en
+https://www.drlinkcheck.com
+https://anonsocial.org
+https://thebarchive.com/b
+https://peer.tube
+https://www.xodo.com
+https://gdbypass.host
+https://whiteclouddrive.com/generate
+https://libraries.io
+https://termbin.com
+https://web.libretro.com
+https://jellymar.io
+https://bluemaxima.org/flashpoint
+https://speedvideo.net
+https://vidcloud.ru
+https://vidlox.me
+http://powvideo.net
+https://saruch.co
+https://www.coinomi.com/en
+https://btcpayserver.org
+https://cairoshell.com
+http://windowgrid.net
+https://www.workspacer.org
+https://palatialsoftware.com/plumb
+https://stacks4stacks.com/adaptivegrid
+https://maxto.net/en
+https://github.com/fuhsjr00/bug.n
+https://www.dcmembers.com/jgpaiva
+http://www.soulidstudio.com
+https://github.com/Open-Shell/Open-Shell-Menu
+https://open-shell.github.io/Open-Shell-Menu
+https://www.wincustomize.com
+https://winaero.com
+https://github.com/microsoft/PowerToys/releases
+https://www.themebeta.com/windows
+http://virtualcustoms.net
+https://7themes.su
+https://www.rainmeter.net
+https://eternalbox.dev/jukebox_index.html
+https://hunter.io
+https://www.mapcrunch.com
+https://onion.pet
+https://onion.ws
+https://onion.ly
+https://wwwg.github.io/web-wasmdec
+https://www.whonix.org/wiki/Speculative_Tor_Attacks
+https://blockchain-dns.info
+https://beakerbrowser.com
+https://www.pobox.com
+https://galliumos.org
+https://github.com/iam4x/bobarr
+https://github.com/burghardt/easy-wg-quick
+https://github.com/Intika-Linux-Wireguard/Wireguard-Bravo
+https://lbry.tv
+https://www.cipher.tel
+https://unaos.com
+https://www.hubblephone.com/hubblephone
+https://sirinlabs.com/finney
+https://cabal.chat
+https://github.com/nutbread/t2m
+https://github.com/securityisamyth
+https://0day.rocks
+https://www.brow.sh
+ http://www.shieldingpaints.com
+https://emf-protection.com
+https://faradaycases.com
+https://www.signalsdefense.com
+https://www.faradaydefense.com
+https://silent-pocket.com
+https://www.slt.co
+https://faradaybag.com
+https://mosequipment.com
+https://swarm-gateways.net
+https://www.hdfury.com
+https://github.com/CrackerCat/video_decrypter
+https://github.com/T3rry7f/WideVineDump
+https://www.httrack.com
+https://github.com/skallwar/suckit
+https://tornado.cash
+https://unc0ver.dev
+https://github.com/ritiek/spotify-downloader
+https://github.com/Screetsec/TheFatRat
+https://sourceforge.net/projects/hesuvi
+https://forum.xda-developers.com/android/apps-games/app-wavelet-headphone-specific-t4097957
+https://sourceforge.net/projects/equalizerapo/
+ https://steamunlocked.net
+https://github.com/CrypticShy/vapor-store
+https://map.snapchat.com
+https://share.dmhy.org
+https://poolside.fm
+https://www.remove-vocals.com
+https://viewsync.net
+https://vshare.is
+https://file.al
+https://leak.sx/dispenser.php
+https://cyber-hub.pw/stresser.php
+https://screamingbee.com/morphvox-voice-changer
+https://www.clownfish-translator.com/voicechanger
+https://www.nchsoftware.com/voicechanger
+https://crimsontech.jp/apps/voidol
+https://www.voicemod.net/free-voice-changer-software
+https://mdn.github.io/voice-change-o-matic
+https://uh-vpn.com
+https://getsongbpm.com
+https://web.telegram.org
+ https://scenegames.to/ 
+ https://larder.io
+https://celluloid-player.github.io
+https://www.smplayer.info
+https://github.com/Eloston/ungoogled-chromium
+https://bintracker.org
+https://everestpipkin.github.io/image-scrubber
+https://btmet.com
+https://ventoy.net
+https://ipfs-search.com
+http://rarefilm.net
+https://www.devuan.org
+https://artixlinux.org
+https://anarchyinstaller.org
+https://osintframework.com
+https://plaza.one
+https://www.reddit.com/r/AdobeZii
+https://bonneteer.herokuapp.com
+https://gcor.indexlist.workers.dev
+https://www.citizenfreepress.com
+File Storage, [6/4/22 2:30 PM]
+ https://www.hackthebox.eu
+https://xeushack.com
+https://apkdrod.com
+https://paidfullpro.in
+https://apk4free.net
+https://leakpeek.com
+https://hashkiller.io
+https://yacy.net
+https://www.ev01.net
+http://lalenguanegra.atspace.cc/Weboasis/Search.html
+https://forum.xda-developers.com/android/software-hacking/script-universal-android-debloater-t4069209
+https://ufile.io
+https://infocon.org
+http://www.savegameworld.com
+https://laodc.com
+https://www.keyhelp.de/en
+https://www.stealth-phones.com
+https://isubsmovies.com
+https://worldleech.site
+http://alemdarleech.com
+https://juba-get.com
+https://listenbox.app
+https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver
+https://scanmap.mobi
+https://cpgrepacks.site
+https://ddosecrets.com
+ https://p2pguru.com
+https://webtor.io
+https://piracy.now.sh
+https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html
+ https://www.faganfinder.com
+https://ddosecrets.com
+https://github.com/tg-bomze/Face-Depixelizer
+https://repacksarchive.indexlist.workers.dev/?password=reparc2911
+https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705
+https://torrent-file-editor.github.io
+https://yutzuko-torrent.appspot.com
+ https://ufile.io/adqvkx0h
+Awesome Tech YouTube Channels
+ https://github.com/epoyraz/Awesome-Youtube-Channels
+ https://github.com/andrew--r/channels#english
+ https://web.archive.org/web/20201108205808
+https://github.com/andrew--r/channels#english
+```
