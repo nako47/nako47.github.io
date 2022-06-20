@@ -1,441 +1,3 @@
-
-https://www.kitploit.com
-https://exploit.kitploit.com
-https://flutterawesome.com
-https://manned.org
-https://github.com/kermitt2/grobid
-https://datasetsearch.research.google.com
-https://www.thefreelibrary.com
- https://www.whatfinger.com
-http://www.foundphotos.net
-https://projectmoon.dance
-https://pingme.lmno.pk
-https://6b.eleuther.ai
-http://www.editthiscookie.com
-https://www.twitch.tv/dutchsinseofficial
-https://github.com/dertuxmalwieder/yaydl
-https://eternalbox.dev/jukebox_index.html
-https://rave.dj
-https://altstore.io
-https://contactfound.com
-https://gethuman.com
-https://buttplug.io
-https://toyhou.se
-https://aes67.app
-https://webpy.org
-https://sizzy.app
-https://rizonrice.club
-https://www.deflemask.com
-https://github.com/hatoo/oha
-https://locust.io
-https://k6.io
-https://www.sequencer64.com
-https://wiki.mobileread.com/wiki/Main_Page
-https://www.mobileread.com/forums
-https://tannerv.com/ipod
-https://freeotp.github.io
-https://d3fend.mitre.org
-https://v2.onivim.io
-https://github.com/andresriancho/w3af
-https://goodreports.com
-https://github.com/BHSPitMonkey/ninjam-js
-https://github.com/kingoflolz/mesh-transformer-jax
-https://github.com/Mayandev/hacker-feeds-cli
-https://johnfactotum.github.io/foliate
-https://anvaka.github.io/sayit
-https://www.randomlists.com
-https://world.openfoodfacts.org
-https://createfeed.fivefilters.org
-https://mapmaker.nationalgeographic.org
-https://feed-me-up-scotty.vincenttunru.com
-https://nightly.link
-https://earthly.dev
-https://afdah.info
-https://jukeblocks.io
-https://www.shutupandtakemymoney.com
-https://www.thisiswhyimbroke.com
-https://opensearch.org
-https://wiki.nikitavoloboev.xyz
-https://kartaview.org
-https://music.ishkur.com
-https://prolific.co
-https://github.com/rileytestut/Delta
-https://github.com/guihkx/spotishush
-https://github.com/SathyaBhat/spotify-dl
-https://github.com/qrpike/spotify-playlist-downloader
-https://addons.mozilla.org/en-US/firefox/addon/spotishush
-https://addons.mozilla.org/en-US/firefox/addon/port-authority
-https://deaditarchive.netlify.app
-http://jackal.surge.sh
-https://beeref.org
-https://lazyweb.ai
-https://github.com/localtunnel/localtunnel
-https://github.com/zodiacon/RegExp
-https://birdnet.cornell.edu
-https://copilot.github.com
-https://www.nocode.tech
-https://www.internal.io
-https://www.makerpad.co
-https://www.appsmith.com
-https://rocketreach.co
-https://punkspider.org
-https://cipher387.github.io
-https://www.stockupcrypto.com
-https://github.com/amirgamil/apollo
-https://gitlab.com/piracy/piracy
-https://livepeer.org
-https://apse.io
-https://snapcamera.snapchat.com
-https://goaccess.io
-https://mactype.net
-https://relaxmodapk.com
-https://taurine.app
-https://theodyssey.dev
-https://www.youjizz.com
-https://www.eporner.com
-https://yespornplease.to
-https://www.splitgate.com
-https://github.com/tamius-han/ultrawidify
-https://spyware.neocities.org/articles/index.html
-https://revolt.chat
-https://www.cirlos.net
-https://pdffixer.com
-https://www.resilio.com/individuals
-https://github.com/nerfirelia123/KillSwitch
-https://github.com/apsun/loliOS
-https://oxoyo.co/X-WebDesktop-Vue
-https://packard-belle.netlify.com
-https://rahul.io
-https://whimsy.space
-https://www.os-js.org
-https://www.meilisearch.com
-https://twowi.de
-https://btcguide.github.io
-https://fleek.co
-https://20-things.com
-https://earth.nullschool.net
-https://www.docracy.com
-https://rubular.com
-https://tangledlines.net/prices
-https://termible.io
-https://jotoba.de
-https://www.tweetgen.com
-https://danielyxie.github.io/bitburner
-https://www.lexicool.com/translate-web-page.asp
-https://www.loyalfans.com
-https://justfor.fans
-https://stars.avn.com
-https://fancentro.com
-https://admireme.vip
-https://www.clips4sale.com
-https://www.manyvids.com
-https://chaturbate.com
-https://www.cam4.com
-https://copblaster.com
-https://junrrein.github.io/pdfslicer
-https://github.com/torakiki/pdfsam
-https://github.com/jlongster/absurd-sql
-https://github.com/talhabw/bunken
-https://www.aapanel.com
-https://instant.io
-https://spotfy.one
-https://pahe.ph
-https://www.tfp.is
-https://sonic-pi.net
-https://ludotune.com
-https://crossface.cf
-https://kira.vercel.app
-https://pogu.live
-https://kylo.io
-https://digdeeper.neocities.org
-https://endless-sky.github.io
-https://github.com/Anuken/Mindustry
-https://github.com/theonedev/onedev
-https://github.com/jpochyla/psst
- https://itus.space
-https://grocy.info
-https://www.twuko.com
-https://www.geo-fs.com
-https://slimwiki.com
-https://my.new
-https://platfor.io
-https://tusk.page
-https://pidgin.im
-https://obsidian.md
-https://www.loudreader.com
-https://havenweb.org
-https://kinopio.club
-https://activitywatch.net
-https://otp.landian.vip/en-us
-https://shadow.github.io
-https://www.itpro.tv
-https://asciinema.org
-https://api.vevioz.com
-https://github.com/mayfrost/guides
-https://github.com/jaakkopasanen/AutoEq
-https://openastrotech.com
-https://spacedashboard.com
-https://termshark.io
-https://projectifi.io
-https://trackercontrol.org
-https://msguides.com
-https://textfancy.com
-https://satellitemap.space
-https://findstarlink.com
-https://screenshot.rocks
-https://thelibrarymap.com
-https://github.com/spotify-util/ViewPlaylistsWithSong
-https://github.com/osmoscraft/osmosfeed
-https://readme.so
-https://github.com/psanford/wormhole-william
-https://github.com/Jacalz/wormhole-gui
-https://gitlab.com/Gnurur/chad_launcher
-https://github.com/lulzsun/blitz-app-adblock
-https://blitz.gg
-https://obsidianapp.io
-https://github1s.com
-https://deepart.io
-https://openboard.ch/index.en.html
-https://github.com/nativefier/nativefier
-https://watchitapp.site
-https://mapchart.net
-https://rawgraphs.io
-https://portfolio.zxh.io
-https://wowidget.github.io
-https://typatone.com
-https://whyp.it
-https://sw.ink
-https://clash.me
-https://omegat.org
-https://crawl.develz.org
-https://github.com/lebr0nli/slader-extension
-https://www.shelf.so
-https://tunnelbroker.net
-https://bitflock.com
-http://atlasengineering.io
-https://github.com/AlexeyAB/darknet
-https://minimal.gallery
-https://volument.com
-https://j4ck.com
-https://filen.io
-https://padlet.com
-https://schemeflood.com
-https://pulsedive.com
-https://github.com/qarmin/szyszka
-https://github.com/AkihiroSuda/lima
-https://github.com/tallero/PGPgram
-https://github.com/TeamShinkansen/Hakchi2-CE
-https://github.com/KMFDManic/NESC-SNESC-Modifications
-https://www.digwebinterface.com
-https://www.thingsmadethinkable.com
-https://digi.vatlib.it
-https://directmusic.me/wav2png
-https://stealth.org
-https://www.stealthpay.com
-https://supertokens.io
-https://www.gasnow.org
-https://superchange.is
-https://iina.io
-https://stackblitz.com
-https://crackitindonesia.com
-https://wakelet.com
-https://voice2json.org
-https://github.com/mikroskeem/tosh
-https://github.com/dkgv/pinpoint
-https://www.gbasil.dev/bookmarklets
-https://www.nocodb.com
-https://clickhouse.tech
-https://automationadmin.com/2016/02/bookmarks
-https://github.com/sorenisanerd/gotty
-https://www.pirateship.com
-https://github.com/cotnw/muvi
-https://openmhz.com
-https://www.diybookscanner.org
-https://www.intodns.com
-https://whoisrequest.com
-https://www.whoxy.com/whois-history
-https://www.mindforger.com
-https://asuswrt-merlin.net
-https://www.snbforums.com
-https://ide.onelang.io
-https://www.appgyver.com
-https://tiddlywiki.com
-https://www.rock.so
-https://check.njal.la/dns
-https://domain.glass
-https://mastershot.app
-https://github.com/jostroOS/amogOS
-https://imgproxify.com
-https://imgfo.com
-https://upflix.pro
-https://embedy.cc
-https://snyk.io
-http://nyanko.ws/nymphcast.php
-https://github.com/major/MySQLTuner-perl
-https://github.com/black7375/Firefox-UI-Fix
-https://github.com/Franiac/TwitchLeecher
-https://forget.codl.fr/about
-https://peux-os.netlify.app
-https://diyhue.github.io
-https://vimium.github.io
-https://sun.aweray.com
-https://www.broker.xxx
-https://home.trebel.io
-https://wormhole.app
-https://tetr.io
-https://old.reddit.com/r/shoppingbay
-https://old.reddit.com/r/RedditbayPro
-https://old.reddit.com/r/TheSellSpot
-https://old.reddit.com/r/REDDITTBAY
-https://old.reddit.com/r/Shopping
-https://dnstats.net
-https://github.com/ufb/Textmarker
-https://app.keeweb.info
-https://ms-paint-i.de
-https://neko.bar
-https://github.com/kangyu-california/PersistentWindows
-https://github.com/ibraheemdev/modern-unix
-https://github.com/ripmeapp/ripme
-https://github.com/bee-san/pyWhat
-https://weho.st
-https://noamp.link
-https://nuitka.net
-https://wayfinder.nfb.ca
-https://www.improv-wifi.com
-https://gamefaqs.gamespot.com
- https://github.com/5ut/DiskCord
-https://www.namebase.io
-https://critter.camera
-https://pwoss.org
-https://poa.st
-https://fsi-languages.yojik.eu
-https://www.leocad.org
-https://www.freecadweb.org
-https://artvee.com
-https://www.syntropystack.com
-https://fyptt.to
-https://www.schneier.com
-https://en.cppreference.com/w
-https://github.com/DidierRLopes/GamestonkTerminal
-https://github.com/Ryochan7/DS4Windows
-https://github.com/ridhwaans/homehost
-https://github.com/qarmin/czkawka
-https://searchmysite.net
-https://www.ekioh.com/flow-browser
-https://zoomescaper.com
-https://newsit.benwinding.com
-https://www.animatedknots.com
-https://www.focalboard.com
-https://chartscss.org
-https://dogehouse.tv
-https://soap2day.to
-https://www.shellcheck.net
-https://github.com/lminiero/jamrtc
-https://nixnet.services
-https://40two.app
-https://send.lambda.dance
-https://ytdl.actionsack.com
-https://github.com/ntaraujo/killer
-https://github.com/CorentinJ/Real-Time-Voice-Cloning
-https://github.com/SystemErrorWang/White-box-Cartoonization
-https://github.com/lllyasviel/style2paints
-https://github.com/vijishmadhavan/ArtLine
-https://github.com/microsoft/codetour
-https://github.com/EleutherAI/gpt-neo
-https://github.com/NikolaiT/zardaxt
-https://guitarix.org
-https://muse-sequencer.github.io
-https://www.hedsound.com
-https://gdevelop-app.com
-https://editor.godotengine.org/releases/latest
-https://godotengine.org
-https://github.com/nccgroup/solitude
-https://github.com/sunilkumarvalmiki/Anonymous-Developemnt-Resources
-https://github.com/zhw2590582/ArtPlayer
-https://github.com/NadalVRoMa/PyLibGen
-https://github.com/acidicoala/ScreamAPI
-https://github.com/shiftrot/droidvim
-https://openmidiproject.osdn.jp/Sekaiju_en.html
-https://www.beermoneyforum.com
-https://sec.report
-https://groups.io
-https://fretflip.com/guitar-scales
-https://www.lightnote.co
-https://thecum.zone
-https://rentry.co/FMHY
-http://simpledesktops.com
-https://easypeasymethod.org
-https://algorithm-visualizer.org
-https://www.bigocheatsheet.com
-https://sotabench.com
-https://pedoblock.ignorelist.com
-https://proxyman.io
-https://octoprint.org
-https://musical-artifacts.com
-https://archiveofourown.org
-https://www.xapo.com
-https://fireball.de
-https://sherlock-holm.es
-https://www.acapellas4u.co.uk
-https://script.tv
-https://www.instructables.com
-https://librexapp.com
-https://james.darpinian.com/satellites
-https://openarena.ws
-https://www.openttd.org
-https://neverball.org
-https://www.ourboard.io
-https://code.kryo.se/iodine
-https://inspirobot.me
-https://www.owleyes.org
-https://bitclout.com
-https://www.dreamcrafter.dev
-https://github.com/lucidrains/deep-daze
-https://www.syedgakbar.com/projects/dst
-https://m3u4u.com
-https://del.dog
-https://ohshitgit.com
-https://thebypasser.com
-https://manga4life.com
-https://brie.fi/ng
-https://github.com/FelisCatus/SwitchyOmega
-https://gitlab.com/cosmosapps/stealth
-https://gitlab.com/tzkuat/Ressources
-https://discordthread.date
-https://www.multy.me
-https://netograph.io
-https://www.firefly-iii.org
-https://ueli.app
-https://www.shipmap.org
-https://www.yubico.com/products
-https://userstyles.world
-https://www.databreaches.net/news
-https://videy.co
-https://8mb.video
-https://disclose.io
-https://pixelfed.org
-https://www.wombo.ai
-https://up.loaded.ie
-https://qu.ax
-https://midi.moe
-https://youdieifyou.work
-https://inventory.raw.pm
-https://hackmd.io
-http://spek.cc
-https://www.canva.com
-https://www.figma.com
-https://www.screentogif.com
-https://www.onyphe.io
-https://www.givesendgo.com
-https://emojify.info
-https://github.com/netdata/netdata
-https://www.monitorix.org
-https://healthchecks.io
-https://volmarg.github.io
-https://github.com/opensearch-project/OpenSearch
-https://noncesense-research-lab.github.io
-https://ez.lol
-https://aggie.io
 https://apps.sentinel-hub.com/eo-browser
 https://mailvelope.com
 https://security-list.js.org
@@ -449,7 +11,7 @@ https://ackee.electerious.com
 https://github.com/dynobo/normcap
 https://github.com/Hari-Nagarajan/fairgame
 https://www.carlostoxtli.com/docs2web/
- https://github.com/Ethereal-Developers-Inc/OpenScan
+https://github.com/Ethereal-Developers-Inc/OpenScan
 https://perkeep.org
 https://github.com/GRVYDEV/Project-Lightspeed
 https://vertical.carrd.co
@@ -588,7 +150,7 @@ https://gourav.io/clone-wars
 https://gitlab.com/bramw/baserow
 https://github.com/ififfy/flipflip
 https://github.com/manuGMG/1fichier-dl
- https://yewtu.be/watch?v=ZqBJzrQy7Do
+https://yewtu.be/watch?v=ZqBJzrQy7Do
 https://studio.code.org/courses
 https://missing.csail.mit.edu
 https://www.edx.org
@@ -604,23 +166,23 @@ https://youtu.be/dVrYAkeFVeY
 https://youtu.be/channel/UCUjOFaWLaq2NUKaQR81JPwg
 https://thinkingispower.com/
 Robert Kiyosaki
- https://www.coingecko.com
+https://www.coingecko.com
 https://coincap.io/
 R-Studio file recovery
 Recuva
- https://wiki.lunarsoft.net/wiki/Data_Recovery
+https://wiki.lunarsoft.net/wiki/Data_Recovery
 https://yewtu.be/watch?v=3A19q7rysLs
 The IT Crowd
- https://javascript.info
+https://javascript.info
 https://invidious.snopyta.org/channel/UCzFUs-fmDxTSIoaWYeFFyOA/playlists
 https://www.youtube.com/playlist?list=PL827X6SJi6KA0tJ43xf7roxJbl17LlVya
 https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q
 https://invidious.tiekoetter.com/watch?v=JiwZQNYlGQI
 https://yandex.com/games/
 my todo lists:
- https://nch.pl/ 15gb
- https://nextcloud.com/sign-up/ ???? (not working at moment)
- https://www.textise.net
+https://nch.pl/ 15gb
+https://nextcloud.com/sign-up/ ???? (not working at moment)
+https://www.textise.net
 https://smmry.com
 https://spinbot.com
 https://gchq.github.io/CyberChef
@@ -630,8 +192,6 @@ https://krunker.io
 https://venge.io
 https://1v1.lol
 https://silentspacemarine.com
-https://lolbeans.io
-https://tetr.io
 https://lolbeans.io
 https://tetr.io
 https://agar.io
@@ -697,7 +257,6 @@ http://wolf3d.atw.hu
 http://xproger.info/projects/OpenLara
 https://kripken.github.io/misc-js-benchmarks/banana/index.html
 http://epicport.com/en/dune2
-https://kripken.github.io/misc-js-benchmarks/banana/index.html
 https://icrazyblaze.github.io/Xash3D-Emscripten/xash.html
 https://basicallydan.github.io/skifree.js
 http://epicport.com/en/caesar3
@@ -723,7 +282,6 @@ http://sauerbraten.org
 https://xonotic.org
 https://www.redeclipse.net
 https://www.warsow.net
-https://cswarzone.com
 https://cswarzone.com
 https://www.minetest.net
 https://slippi.gg/about
@@ -756,12 +314,8 @@ https://photomosh.com
 https://video-cutter-js.com
 https://github.com/lutris/lutris/blob/master/docs/installers.rst
 ```
-
 ```markdown
 https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
-```
-
-```markdown
 لیست ربات اسپوتیفای
 ️@SpotyBot
 ️@iLyricsBot
@@ -780,14 +334,11 @@ https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
 ️@spoti_bot
 ️@spotifybot
 ️@spotifydownloadybot
-️@SpotifyPreviewerbot
 ️@Spotybot
 ️@deezer2drivebot
 ️@DeezerHistoryBot
 ️@DeezerMusicBot
 ️@DeezerSongBot
-️@DeezLoadBot
-️@DeezloaderTCBot
 @ShayanifyBot
 @MusicDownloaderRobot
 @Spotdlrobot
@@ -799,60 +350,30 @@ https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md
 @vkmusic_bot
 @moozikestan_bot
 @ahangifybot
-@DeezerMusicBot
 @LotusSongBot
 @LyDBot
-@vkmusic_bot
-@moozikestan_bot
-@ahangifybot
 @JRSpotifybot
-@ShazamMusicChartsBot
-```
-
-```markdown
 https://github.com/orz811017/boost_bandwidth_via_speedtest
-```
-
-```markdown
 https://t.me/linuxtnt
- https://linuxjourney.com
-https://tldp.org
+https://linuxjourney.com
 https://www.linuxfromscratch.org/
- https://t.me/cyru55_ch4
- https://t.me/outline98
+https://t.me/cyru55_ch4
+https://t.me/outline98
 [https://github.com/zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge)
 [https://t.me/addstickers/LiamsChosen](https://t.me/addstickers/LiamsChosen)
-```
-
-```markdown
 https://copy.sh/v86/
- https://wiki.supreme-gamers.com/guides/run-android-x86-on-linux-distro/
-```
-
-```markdown
+https://wiki.supreme-gamers.com/guides/run-android-x86-on-linux-distro/
 teddit rss add
 ?api=&type=rss
-```
-
-```markdown
 Jav porn:
 @yeschinese
-```
-
-```markdown
 @gpotaku
-```
-
-```markdown
 https://rationalwiki.org/wiki/Eric_S._Raymond
- https://wikipedia.com/wiki/Jargon_File
- https://geekz.co.uk/lovesraymond/
- https://wikipedia.com/wiki/Homophily?lang=en
+https://wikipedia.com/wiki/Jargon_File
+https://geekz.co.uk/lovesraymond/
+https://wikipedia.com/wiki/Homophily?lang=en
 [https://libreddit.tiekoetter.com/r/HowToHack/wiki/index](https://libreddit.tiekoetter.com/r/HowToHack/wiki/index)
- http://www.dourish.com/goodies/jargon.html
-```
-
-```markdown
+http://www.dourish.com/goodies/jargon.html
 fortune | cowsay | lolcat
 برای اضافه کردن دستور اتوماتیک هنگام باز کردن ترمینال
 nano ~/.bashrc
@@ -861,274 +382,170 @@ nano ~/.bashrc
 #!/bin/bash
 printf -v var 'Welcome'
 printf '%25s\n' "$var"
-```
-
-```markdown
 @otakouyaoi
-```
-
-```markdown
 Fedora Fonts:
 Install most important fonts (google mono will do almost of the job):
 sudo dnf install google-noto-sans*
 install ALMOST EVERY fonts:
 sudo dnf install *-fonts.noarch
 install persian Vazir font:
- https://github.com/rastikerdar/vazirmatn/releases
-```
-
+https://github.com/rastikerdar/vazirmatn/releases
 [https://nimbahakon.pages.dev/](https://nimbahakon.pages.dev/)
-
-```markdown
 https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/
-```
-
-```markdown
 recava
 Runtime GetDataBack Pro
-```
-
-```markdown
 Veracrypt
- https://keepassxc.org/
- https://osmand.net/
+https://keepassxc.org/
+https://osmand.net/
 https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html
-```
-
-```markdown
 https://en.wikipedia.org/wiki/Wikipedia:Database_download
-```
-
 [https://nitter.net/wikileaks](https://nitter.net/wikileaks)
-
 [https://libreddit.kavin.rocks/r/thehatedone/wiki/quickly_explained](https://libreddit.kavin.rocks/r/thehatedone/wiki/quickly_explained)
-
-```markdown
 https://www.closedntwrk.com/
- https://t.me/hiddendocument
+https://t.me/hiddendocument
 https://t.me/Neko_Girls_Ero
 https://t.me/anime_lolichki
- https://github.com/privacyguides
-```
-
-```markdown
+https://github.com/privacyguides
 @AWHTarchive
 @myanimes
-```
-
 crypto
-
 [https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
-
 [https://www.youtube.com/channel/UC_-hYjoNe4PJNFa9iZ4lraA](https://www.youtube.com/channel/UC_-hYjoNe4PJNFa9iZ4lraA)
-
-```markdown
 https://libreddit.tiekoetter.com/r/LinuxCrackSupport/wiki/index
 Denuvo DRM that get cracked by CODEX (or any existing cracks by Voksi). CPY, Baldman, and possibly DeltaT cracks of D games will work under WINE, from what I've seen. The old 3DM cracks for D games may or may not work. Miscellaneous other crackers D cracks may or may not work, eg FCKDRM or the Unity/C# games that have been cracked by CODEX, ALI213, SKIDROW, etc
- https://scnlog.me/games/linux/
- https://1337x.to/user/johncena141/
+https://scnlog.me/games/linux/
+https://1337x.to/user/johncena141/
 use protondb if tips if lutris does not have script
-```
-
-```markdown
 https://applecensorship.com/
- https://t.me/Fedorair
- https://safing.io/portmaster/
- https://github.com/TheGoddessInari/hamsket
+https://t.me/Fedorair
+https://safing.io/portmaster/
+https://github.com/TheGoddessInari/hamsket
 گروه انیمه
 @Linuxmemberchat
 نود هنری (سم):
- https://nudeok.com
+https://nudeok.com
 https://mrcong.com/2022/04/01
 https://everia.club/category/cosplay/
- https://www.radio-browser.info/users
-```
-
-```markdown
+https://www.radio-browser.info/users
 @kali_linuxxx
 @free1Packs
-```
-
-```markdown
 پسورد مودمم یادم نره
 FVsX9uB3
-```
-
-```markdown
 ASCII Art
 unicode art
 برا پیدا کردن نقاشی های تکست ای
-```
-
-```markdown
 سایت اریک ریموند (داوش دنیس ریچی)
- http://www.catb.org/~esr/faqs
+http://www.catb.org/~esr/faqs
 http://www.catb.org/~esr/projects.html
-```
-
-```markdown
 https://t.me/LinuxMemberChat
-```
-
-```markdown
 https://github.com/alphaSeclab/awesome-rat
 https://github.com/Red-Laboratory/Malware-collection
 https://github.com/ytisf/theZoo
-```
-
-```markdown
 https://github.com/processhacker/processhacker/releases/
-```
-
-```markdown
 https://t.me/BlueSeaMusicFLAC
 https://t.me/UltraSecurity
 https://t.me/Archive_Security
 @beepassvpn_bot
- https://t.me/bitbaanlab
+https://t.me/bitbaanlab
 https://t.me/WinForm
 @OkForwardBot
 یه اسکل کریپتو بیت کوین دیگه:
- https://t.me/ziya_sadr_shares
+https://t.me/ziya_sadr_shares
 YouTube:
 "Bret Victor The Future of Programming"
- https://anonymousplanet-ng.org/guide.html
- https://anonymousplanet-ng.org/index.html
-```
-
-```markdown
+https://anonymousplanet-ng.org/guide.html
+https://anonymousplanet-ng.org/index.html
 https://wikiless.sethforprivacy.com/wiki/Hacker_culture
 https://t.me/joinchat/V3H0ZOXkUi-ZXXdn
 https://t.me/joinchat/AAAAAFjVzKcL6FstTIhCnA
 https://t.me/+T84cqnnjk-I0MWZi
 https://t.me/joinchat/AAAAAE6ontWEBNtHB05PKA
 https://t.me/joinchat/SXiTFEenfm8QRcnY
-```
-
-```markdown
 https://t.me/torrents_ir
-```
-
-```markdown
 https://t.me/torrent_Learning/
-```
-
-```markdown
 https://telegra.ph/How-to-bypass-strict-censorship-09-10
 @floss_dictators
-```
-
 [https://sudoer.ir/](https://sudoer.ir/)
-
-```markdown
 https://github.com/hellzerg/optimizer
 @MetaCryptoOfficial
 @amircryptothoughts
- https://securityplanner.org
+https://securityplanner.org
 https://prism-break.org/en/
 وضعیت درمان کانادا (واسه تحقیق)
- https://www.instagram.com/p/CcAN0KTten-/?utm_medium=copy_link
+https://www.instagram.com/p/CcAN0KTten-/?utm_medium=copy_link
 Contra Chrome
 How Google's browser became a threat to privacy and democracy
 Download PDF:
- https://contrachrome.com/ContraChrome_en.pdf
+https://contrachrome.com/ContraChrome_en.pdf
 Clean Code concepts adapted for Python
- https://github.com/zedr/clean-code-python
+https://github.com/zedr/clean-code-python
 All Algorithms implemented in Python
- https://github.com/TheAlgorithms/Python
+https://github.com/TheAlgorithms/Python
 Minimal examples of data structures and algorithms in Python
- https://github.com/keon/algorithms
+https://github.com/keon/algorithms
 A collection of design patterns/idioms in Python
- https://github.com/faif/python-patterns
+https://github.com/faif/python-patterns
 An open collection of Python anti-patterns and worst practices.
- https://github.com/quantifiedcode/python-anti-patterns
+https://github.com/quantifiedcode/python-anti-patterns
 Playground and Cheatsheet for Learning Python
- https://github.com/trekhleb/learn-python
+https://github.com/trekhleb/learn-python
 Comprehensive Python Cheatsheet
- https://github.com/gto76/python-cheatsheet
+https://github.com/gto76/python-cheatsheet
 Basic Cheat Sheet for Python
- https://github.com/wilfredinni/python-cheatsheet
+https://github.com/wilfredinni/python-cheatsheet
 دو ریپو زیر هم حاوی قطعه کدهای جالب و عجیب به زبان پایتون هستند :
- https://github.com/satwikkansal/wtfpython
+https://github.com/satwikkansal/wtfpython
 https://github.com/cosmologicon/pywat
 #آموزشی #پایتون
- https://www.bbc.com/persian/science/2014/06/140608_pornography_shrinks_brain_cortex.amp
+https://www.bbc.com/persian/science/2014/06/140608_pornography_shrinks_brain_cortex.amp
 dockerme.ir
 کار کردن ۴ روز در هفته ریموت با ۸۰٪ حقوق حداقل
- https://4dayweek.io/
- https://fas.org/sgp/index.html
+https://4dayweek.io/
+https://fas.org/sgp/index.html
 https://vault.fbi.gov
 https://foia.state.gov
 https://www.cia.gov/library/readingroom/
 @Blank_protector
 کانال علی یزدانی
-@floss_dictators
 Notepad next
- https://github.com/dail8859/NotepadNext
+https://github.com/dail8859/NotepadNext
 دانلود از یوتیوب با لینک
 @YtbDownBot
 کانفیگ وی پی ان
 @godratvpn
 adhd radio?
- https://zil.ink/radiobtavajoh
+https://zil.ink/radiobtavajoh
 کانال فلسفه:
- https://t.me/philosophyofscience
- https://libredirect.github.io/
+https://t.me/philosophyofscience
+https://libredirect.github.io/
 Privacy-Respecting Software:
- https://github.com/Lissy93/personal-security-checklist
-```
-
-```markdown
+https://github.com/Lissy93/personal-security-checklist
 پنج نیاز ویلیام گلاستر:
 1 - بقا
 2 - قدرت
 3 - عشق و تعلق خاطر
 4 - آزادی
 5 - تفریح و لذت
-```
-
-```markdown
 Former Reddit CEO Yishan Wong on the difficulties of running a social media site (
 https://threadreaderapp.com/thread/1514938507407421440.html)
-```
-
-```markdown
 http://www.ChayaMarket.ir
 @chayamarket
-```
-
-```markdown
 @icmobile
- https://Icmobile.ir
+https://Icmobile.ir
 ولی این با قیمت خوب ریجستری می‌کنه، تقریبا هم قیمت با چایا در می‌آد، قیمتا خوبن
-```
-
-```markdown
 @ariocrypto
 @ario_vidinomedia
 @metawision
 @RepoHub
 @BotzHub
-```
-
-```markdown
 لیست گروه‌های انکودر داخلیه ترکرهای خصوصی:
- https://torrentinvites.org/f23/internal-encoders-groups-private-tracker-62009/
-```
-
-```markdown
+https://torrentinvites.org/f23/internal-encoders-groups-private-tracker-62009/
 راهنمای انکود x264:
- https://bodoicuho.ucoz.ru/
-```
-
-```markdown
+https://bodoicuho.ucoz.ru/
 مقایسه سیدباکس‌های خارجی:
- https://seedboxgui.de/seedbox/
-```
-
-```markdown
+https://seedboxgui.de/seedbox/
 کلاینت‌های irc شناخته شده:
- https://www.irccloud.com
+https://www.irccloud.com
 http://www.mirc.com
 https://thelounge.chat
 https://hexchat.github.io
@@ -1142,24 +559,15 @@ http://www.miranda-im.org
 https://addons.mozilla.org/en-us/firefox/addon/chatzilla
 https://adium.im
 https://pidgin.im
-```
-
 کانال‌های اعلام بازشدن ثبت‌نام ترکرهای خصوصی:
 @opensignup
 @r_Opensignups
-
-```markdown
 سایتی مفید جهت مدیا اینفو گرفتن از مدیا (جهت آپلود در ترکرهای خصوصی):
- https://www.lex-box.info/
+https://www.lex-box.info/
 برای بررسی و مقایسه سیدباکس های مختلف میتونید از این سایت استفاده کنید:
- https://seedboxgui.de/seedbox/
-
- https://www.bleachbit.org
+https://www.bleachbit.org
 https://www.bcuninstaller.com
 https://github.com/MatsuriDayo/Matsuri
-```
-
-```markdown
 داستان:
 لزوما درست نمیگم، شاید اشتباه کنم، متاسفانه جزو شما انسان هام، متاسفانه... و انسان اشتباه میکنه، یعنی منم ممکنه اشتباه کنم، بیایم درباره این صحبت کنیم که:
 چرا خوندن تاریخ چرته؟
@@ -1170,7 +578,6 @@ Dan Brown
 Unknown ex-nazi
 "History is the propaganda of the victors."
 Louis de Bernières
-
 منشا این جمله نامشخصه، ولی ریپر هم یه چیزو خوب میفهمه، تاریخ همیشه دستکاری شدس
 بیایم راه دور نریم، همین شاهنشاهی و پهلوی، مدرسه و صدا و سیما و امثالهم رو میشنوی میگه:
 آی خانواده پهلوی انگلیسی اند، سگشونن، ای ساواک فلان کرد (و بعله، اینو هرکی بخونه از دو طرف میخنده) و پهلوی چادر هارو برمیداشتن و بی ناموس بودنو و....
@@ -1188,25 +595,13 @@ Louis de Bernières
 خلاصه خلاصه....
 البته شاید بگم خوندن تاریخ چرته ولی باور هاشون رو بدونید خوبه، مثلا کتاب "نبرد من" عه هیتلر که زمانی که حتی به قدرت نرسید نوشتش، از همه چیز واجبتر خوندن کتاب "1984" عه جورج اورول عه، خیلی آدم دانایی هستش حقیقتا، و آره خلاصه، این دنیایی هستش که توش زندگی میکنیم، کصشره خالص
 و نه، اکثریت یه مشت خوکن و ادم نیستن، من از اینکه ادم خودمو صدا میکنم و با اینا یکی میشم شرمسارم....
-```
-
-```markdown
 تست (شخصیت) mbti چرته؟ آره، چرا؟
- https://t.me/emicall/14802
+https://t.me/emicall/14802
 https://t.me/Bayanz/403
-```
-
-```markdown
 https://playnite.link
 https://github.com/JosefNemec/Playnite
-```
-
-```markdown
 Guilty Crown - Euterpe Tv Size
- http://www.youtube.com/watch?v=znmNTofgFn0
-```
-
-```markdown
+http://www.youtube.com/watch?v=znmNTofgFn0
 تا حالا شده گوشیتون/اسمارت واچتون رو با سیم به کامپیوتر وصل کنید و فایل جا به جا کنید از گوشیتون؟
 تجربه آشغالیه نسبت به جا به جایی دو دیسک کامپیوترتون مگه نه؟
 خوبه، چیزی که شما باهاش سروکار داشتین پروتکل "Media Transfer Protocol (
@@ -1226,257 +621,146 @@ ftp://(ای پی سرور):(پورتش)
 و وصل میشه
 (همزمان میتونید دیتای گوشیتون رو فایل گوشیتون رو اینطوری دسترسی داشته باشید )
 File Storage, [6/4/22 2:48 PM]
-```
-
-```markdown
 https://sidbala.com/h-264-is-magic
 http://dranger.com/ffmpeg
 https://github.com/leandromoreira/ffmpeg-libav-tutorial
 https://github.com/blakeblackshear/frigate
 https://github.com/leandromoreira/digital_video_introduction#how-does-a-video-codec-work
 Privacy guide/wiki:
- https://www.privacyguides.org
+https://www.privacyguides.org
 http://privacytools.io/ (same but outdated crap)
- https://libreddit.dothq.co/r/privacy/wiki/index
+https://libreddit.dothq.co/r/privacy/wiki/index
 https://libreddit.dothq.co/r/privacytoolsIO/wiki/index
 Privacy related news:
- https://libreddit.dothq.co/r/privacy
+https://libreddit.dothq.co/r/privacy
 https://www.eff.org/updates
-```
-
-```markdown
 پروفایل #clash
 لینک سابسکرایب اختصاصی کانال برای برنامه کلش و ساگرنت:
- https://raw.githubusercontent.com/vpnproxy66/Clash/main/Clash.yml
+https://raw.githubusercontent.com/vpnproxy66/Clash/main/Clash.yml
 لینک سابسکرایب از منابع دیگر
- https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
- https://raw.githubusercontent.com/Glysit/Clash/main/ClashGlysit.yml
- https://proxies.bihai.cf/clash/config
- https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(SurfShark_ALA).yaml
-```
-
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+https://raw.githubusercontent.com/Glysit/Clash/main/ClashGlysit.yml
+https://proxies.bihai.cf/clash/config
+https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(SurfShark_ALA).yaml
 [https://shells.red-pill.eu/index.php?cat=Free+Shells](https://shells.red-pill.eu/index.php?cat=Free+Shells)
-
 [https://shell.cloud.google.com/](https://shell.cloud.google.com/)
-
 mind brand
 [https://www.youtube.com/watch?v=-rbyIphpwAo](https://www.youtube.com/watch?v=-rbyIphpwAo)
-
-```markdown
 https://www.gnu.org/software/wget/manual/wget.html
-```
-
-```markdown
 ریپازیتوری شخص سوم برنامه ها
 @fdroidrepositories
 @fdroidrepos
-
- https://oldpersiangames.github.io/
+https://oldpersiangames.github.io/
 دوبله فارسی گیما
-```
-
-```markdown
 https://github.com/iperov/DeepFaceLab
-```
-
-```markdown
 سورس:
- https://github.com/EtherDream/jsproxy
+https://github.com/EtherDream/jsproxy
 چند instance:
- https://b.lulu.workers.dev
+https://b.lulu.workers.dev
 https://noisy-tooth-2ee5.susheng.workers.dev/
-```
-
-```markdown
 http://t.me/HMlust
-```
-
-```markdown
 نابغه:
 @Quickchat_Emerson_bot (محدودیت روزانه)
 google assistant
-```
-
-```markdown
 @GeoPoliticIntel
-```
-
-```markdown
 https://github.com/xarantolus/filtrite
-```
-
-```markdown
 بعدا کانال @JugShelf این دلقکو زیرو رو کنم
-```
-
-```markdown
 temp for you
 @tempforyou
-```
-
-```markdown
 https://www.caduceus.ml
 https://github.com/TheCaduceus
-```
-
-```markdown
 http://www.caduceus.ml/MEGA-INDEX
- https://t.me/DrTorrent/15409
-```
-
-```markdown
+https://t.me/DrTorrent/15409
 https://github.com/fast-geek/Android-Tool
-```
-
-```markdown
 چند اهم اهم گرام (تلگرام) دوست داشتنی اوپن سورس موبایل :/
 Nagram:
 (کمترین اعتماد رو دارم ولی در عوض بیشترین امکانات رو داره)
 @nagram_channel
 @nagram_group
- https://github.com/NextAlone/Nagram/releases/tag/
+https://github.com/NextAlone/Nagram/releases/tag/
 Nullgram:
 (بیشترین اعتماد رو دارم هرچند به nekox شاید نرسه)
 @NullgramClient
- https://github.com/qwq233/Nullgram
+https://github.com/qwq233/Nullgram
 Owlgram:
 (فکر نمیکنم سازندش چینی باشه و چیز خوشگلیه، تست نکردم و پس اعتماد رو نمد، حالا من میگم اعتماد ولی اوپن سورسه بهتر از plus messenger عه)
 @OwlGram
 @OwlGramAPKs
- http://github.com/OwlGramDev/OwlGram
+http://github.com/OwlGramDev/OwlGram
 NekoX:
 (اعتماد رو پنجاه پنجاهم، ولی مادر nagram و بچه nekogram (کلوس سورس شد) عه)
 @NekogramX
- https://github.com/NekoX-Dev/NekoX/
+https://github.com/NekoX-Dev/NekoX/
 چندتایی که نمیشناسمه دیه:
- https://github.com/nikitasius/Telegraher
+https://github.com/nikitasius/Telegraher
 https://github.com/TeleTux/TeleTux/
-```
-
-```markdown
 Original newpipe:
- https://github.com/TeamNewPipe/NewPipe
+https://github.com/TeamNewPipe/NewPipe
 Newpipe with sponsorblocker:
- https://github.com/polymorphicshade/NewPipe
+https://github.com/polymorphicshade/NewPipe
 Libretube:
- https://github.com/libre-tube/LibreTube/
+https://github.com/libre-tube/LibreTube/
 Skytube:
 (نسخه oss بزنید، اون extra اوپن سورس نی)
- https://github.com/SkyTubeTeam/SkyTube
-
+https://github.com/SkyTubeTeam/SkyTube
 Firefox mobile just alot better:
- https://github.com/fork-maintainers/iceraven-browser
-```
-
-```markdown
+https://github.com/fork-maintainers/iceraven-browser
 https://github.com/FilipePS/Traduzir-paginas-web
-```
-
-```markdown
 Death Note - Kira's Victory HD
- https://www.youtube.com/watch?v=9C9azy3hBJo
-```
-
+https://www.youtube.com/watch?v=9C9azy3hBJo
 [https://t.me/pack1235](https://t.me/pack1235)
 [https://therecord.media/podcast/](https://therecord.media/podcast/)
-
-```markdown
 https://github.com/marcofilieri/Channel-cloner
-```
-
-```markdown
 معرفی اجرا کننده های شادوساکس
 Android (
 https://github.com/XTLS/AnXray/releases/) (Anxray)
-Android (
 https://play.google.com/store/apps/details?id=earth.oneclick) (One click vpn)
-Android (
 https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv) (NapsternetV)
-Android (
 https://play.google.com/store/apps/details?id=com.v2ray.ang) (v2rayNG)
-Android (
 https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet) (Sagernet)
-Android (
 https://play.google.com/store/apps/details?id=com.v2ray.hybrid) (v2ray Hybrid)
-Android (
 https://play.google.com/store/apps/details?id=com.namelessnetx.ang) (NamelessnetX)
-Android (
 https://play.google.com/store/apps/details?id=com.github.shadowsocks) (Shadowsocks)
-Android (
 https://play.google.com/store/apps/details?id=com.v2cross.proxy) (Shadowrocket)
-Android (
 https://play.google.com/store/apps/details?id=com.appsource.v2ray) (Napsternet VPN)
-Android (
 https://play.google.com/store/apps/details?id=vpn.v2ray.xray) (XRAY VPN)
-Android (
 https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr) (ShadowsockR)
-Android (
 https://play.google.com/store/apps/details?id=dev.epro.e_v2ray) (e-V2ray)
-Android (
 https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android) (Kitsunebi)
-Android (
 https://play.google.com/store/apps/details?id=free.v2ray.proxy.VPN) (V2ray VPN)
 (
 https://t.me/Glysit)Android (
 https://play.google.com/store/apps/details?id=org.outline.android.client) (Outline)
-Android (
 https://play.google.com/store/apps/details?id=com.crosserr.trojan) (Trojan)
-Android (
 https://play.google.com/store/apps/details?id=com.getsurfboard) (Surfboard)
-Android (
 https://github.com/v2raym/bifrostv/blob/master/BifrostV_v0.6.8.apk?raw=true) (bifrostv)
-Android (
 https://github.com/shadowsocksRb/shadowsocksRb-android/releases) (ShadowsocksRb)
-Android (
 https://github.com/xxf098/shadowsocksr-v2ray-android/releases) (SSRRAY)
 IOS (
 https://app.iapps.ir/i/595714553) (Shadowrocket)
-IOS (
 https://apps.apple.com/us/app/outline-app/id1356177741) (Outline)
-IOS (
 https://apps.apple.com/us/app/potatso-lite/id1239860606) (Potasto Lite)
-IOS (
 https://apps.apple.com/us/app/oriole-network-proxy/id1245170216) (Oriole)
 Windows (
 https://github.com/2dust/v2rayN/releases) (V2rayN)
-Windows (
 https://github.com/netchx/netch/releases) (Netch)
-Windows (
 https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe) (Outline)
-Windows (
 https://github.com/Qv2ray/Qv2ray/releases) (Qv2ray) (Core (
 https://github.com/v2fly/v2ray-core/releases/))
-Windows (
 https://github.com/githello123/sstap/raw/master/SSTap-beta-setup-1.1.0.1.exe.7z) (Sstap)
-Windows (
 https://github.com/Fndroid/clash_for_windows_pkg/releases/) (Clash)
-Windows (
 https://github.com/shadowsocks/shadowsocks-windows/releases) (Shadowsocks)
-Windows (
 https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases) (ClashR)
 Linux (
 https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage) (Outline)
-Linux (
-https://github.com/Fndroid/clash_for_windows_pkg/releases/) (Clash)
-Linux (
 https://github.com/Qv2ray/Qv2ray/releases) (QV2RAY) (Core (
-https://github.com/v2fly/v2ray-core/releases/))
-Linux (
-https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases) (ClashR)
-```
-
-```markdown
 Futurama
-```
-
 [https://hacksnation.com/](https://hacksnation.com/)
-
 [https://freesoff.com/](https://freesoff.com/)
-
 ```jsx
 https://12ft.io/
- https://coincap.io
+https://coincap.io
 https://cryptowat.ch
 https://coinmarketcap.com/converter
 https://github.com/imbaniac/awesome-blockchain
@@ -1500,47 +784,39 @@ https://www.cardcoins.co
 https://coincards.com
 https://purse.io
 https://www.bitrefill.com/
- https://samouraiwallet.com
- https://t.me/remind_pixel
+https://t.me/remind_pixel
 Did a little bit of data mining on this thread.
 All Test Pages mentioned so far:
- https://www.speedtest.net/
- https://www.speedtest.net/apps/cli
- https://speed.cloudflare.com/
- http://www.dslreports.com/speedtest
- https://librespeed.org/
- http://134.209.196.181:8080
- https://proof.ovh.net/
- https://fast.com/
- https://speed.aussiebroadband.com.au/
- https://www.speedcheck.org/
- https://speedof.me/
- https://testmy.net/
-Additonal Sites not mentioned yet:
- https://speedtest.xfinity.com/
- http://internethealthtest.org/
- https://speedsmart.net/
-Tools:
- https://iperf.fr/iperf-servers.php
- https://github.com/orz811017/boost_bandwidth_via_speedtest
- https://github.com/e7d/speedtest
- https://www.bitwizard.nl/mtr/
- https://github.com/tommie/chargen2p
- https://github.com/tommie/prometheus-connectivity-exporter
-Hosted version:
+https://www.speedtest.net/
+https://www.speedtest.net/apps/cli
+https://speed.cloudflare.com/
+http://www.dslreports.com/speedtest
 https://librespeed.org/
+http://134.209.196.181:8080
+https://proof.ovh.net/
+https://fast.com/
+https://speed.aussiebroadband.com.au/
+https://www.speedcheck.org/
+https://speedof.me/
+https://testmy.net/
+Additonal Sites not mentioned yet:
+https://speedtest.xfinity.com/
+http://internethealthtest.org/
+https://speedsmart.net/
+Tools:
+https://iperf.fr/iperf-servers.php
+https://github.com/e7d/speedtest
+https://www.bitwizard.nl/mtr/
+https://github.com/tommie/chargen2p
+https://github.com/tommie/prometheus-connectivity-exporter
+Hosted version:
 Self hosted version:
 https://github.com/librespeed/speedtest
 book
 @ketabZahra1369
-```
-
 [https://wikiless.tiekoetter.com/wiki/Maus?lang=en](https://wikiless.tiekoetter.com/wiki/Maus?lang=en)
-
 Retro Game Mechanics Explained
 [https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
-
-```markdown
 چطور یه هکر واقعی بشیم:
 یه نتیجه گیری کلی کردم که پیش‌نیاز هکر شدن چیه، نه این مهندس های شبکه ابکی که با کالی نصب کردن و نصب cmatrix فکر میکنن هکرن
 گام اول باید کاملا مسلط به DevOps باشی، طبق تعریف سایت IBM
@@ -1548,14 +824,11 @@ Retro Game Mechanics Explained
 یعنی باید یه دانش اولیه بدست بیاری که بشی DevOps، مرحله بعدی اونو در "جهتی" استفاده کنی، تعریف هکر کردن
 Definition: Hacking is an attempt to exploit a computer system or a private network inside a computer. ... Black hat hackers hack to take control over the system for personal gains. They can destroy, steal or even prevent authorized users from accessing the system.
 یعنی دانشتو در جهت پیدا کردن ضعف و سو استفاده ازش استفاده کنی، ببین، شروع داستان یه DevOps زیرساخت رو ردیف می‌کنه و بعد هکر به زیرساخت حمله میکنه، یعنی باید کاملا مسلط به
- https://roadmap.sh/devops
+https://roadmap.sh/devops
 بشی که وقتی شدی بری سراغ ذهنیت و فلسفه اش
- https://onehack.us/t/become-a-hacker-a-complete-bible-get-started/83367
+https://onehack.us/t/become-a-hacker-a-complete-bible-get-started/83367
 و بقیه رود مپ اختصاصی هکرا و تازه اونوقت شروعه داستانه تازه، باید مهارتت رو این شاخه اون شاخه قوی و قویتر کنی که برتری پیدا کنی!
 (البته از یکی از دوستان پرسیدم فور کردم بحثو)
-```
-
-```markdown
 File Storage, [6/4/22 2:32 PM]
 آشنایی با خط فرمان های سیستم عامل ها.
 1.Command-lines *
@@ -1633,9 +906,6 @@ File Storage, [6/4/22 2:32 PM]
 گزینه های ستاره دار مراحل واجب هستند و دیگر گزینه ها ایتم های سلیقه ای هستند.
 برای اطلاع از زیر مجموعه سرفصل های ذکر شده کافیست نام سرفصل را همراه با کلمه Blackhat Training در گوگل بکار ببرید در سایت Blackhat زیر مجموعه های مربوطه را خواهید دید,
 نکته: موارد ذکر شده در نقشه راه های قبلی زیرمجموع ایتم های این نقشه راه میباشد و با بررسی زیرمجموع ها,در سرفصل های این نقشه راه ایتم های قدیمی هم دیده خواهد
-```
-
-```markdown
 کامل ترین #نقشه_راه برای ورود به دنیای هک و امیت
 مرحله اول آشنایی با مفاهیم اولیه.
 1.CEH
@@ -1701,61 +971,29 @@ File Storage, [6/4/22 2:32 PM]
 37.Android & iOS Exploit Development
 مرحله بیست و ششم تکنیک های حملات به ماهواره ها و شنود آنها
 38.Satellite Attacking
-```
-
-```markdown
 We Are Anonymous, We Are Legion, We Do Not Forgive, We Do Not Forget
 https://www.youtube.com/watch?v=gOLeXwSpgiU
-```
-
 @eat_bookkkk
-
-```markdown
 @DKTextToSpeechBot
-```
-
 **Ockeroid**
 [https://www.youtube.com/channel/UCO8MNRJMTN3PJqNDHLqz2ww](https://www.youtube.com/channel/UCO8MNRJMTN3PJqNDHLqz2ww)
-
 گروه انیمه ای:
 [https://t.me/+2gL-n-5j0qczZTNi](https://t.me/+2gL-n-5j0qczZTNi)
 [https://t.me/myanimes](https://t.me/myanimes)
-
-```markdown
 https://github.com/Suwayomi/Tachidesk-JUI
 https://stallman.org
 https://www.gnu.org
 http://spyware.neocities.org/articles/
-```
-
 [https://github.com/kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info)
-
 [https://en.wikipedia.org/wiki/Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
-
-```markdown
 https://t.me/SatoshiSchool/16
-```
-
 [https://www.youtube.com/channel/UCSuHzQ3GrHSzoBbwrIq3LLA](https://www.youtube.com/channel/UCSuHzQ3GrHSzoBbwrIq3LLA)
-
 @NeoPesarism
 @bitbaanlab @offsecmag
-
-```markdown
-https://libredirect.github.io/
- https://www.youtube.com/c/S2Underground/videos
-```
-
-```markdown
+https://www.youtube.com/c/S2Underground/videos
 https://youtu.be/RINHjxsPOEg
-```
-
-```markdown
 https://github.com/OwlGramDev/OwlGram
-```
-
 [https://airyx.org/](https://airyx.org/)
-
 [https://github.com/star-39/moe-sticker-bot](https://github.com/star-39/moe-sticker-bot)
 کاربردی یاب, [8/7/20 3:06 PM]
 دانلود از شبکه‌های اجتماعی مختلف به‌وسیله ربات‌های تلگرام:
@@ -1797,7 +1035,6 @@ Zoomit (https://www.zoomit.ir/mobile-learning/347269-how-to-download-youtube-vid
 @YOUTUBEV2BOT
 @BEGIRTUBEBOT
 @LINKGRAMBOT
-@ANYURLDLBOT
 @ALLSAVERBOT
 @GOZILLA_BOT
 @MULTIDL_BOT
@@ -1839,12 +1076,10 @@ Zoomit (https://www.zoomit.ir/mobile-learning/347269-how-to-download-youtube-vid
 برای توییتر:
 @TWITTERDOWNLOADERBOT
 @SIM_URLUPLOADERBOT
-@CLOUDGRAM_BETABOT
 @INDUSUPLOADBOT
 @TWITTERVID_BOT
 @UPLOADSROBOT
 @ULOADITV2BOT
-@ANYURLDLBOT
 اسکرین‌شات از توییت:
 @TWEETSHOTBOT
 برای اینستاگرام:
@@ -1866,7 +1101,6 @@ Zoomit (https://www.zoomit.ir/mobile-learning/347269-how-to-download-youtube-vid
 @IGDOWNROBOT
 @INSTAPICOBOT
 @INSTDROPBOT
-@ALLSAVERBOT
 @ANYSAVEBOT
 @REGRAMBOT
 @IGSAVESBOT
@@ -1908,7 +1142,6 @@ QDOWNLOADER.IO
 GETFBVIDEO.NET
 GETFVID.COM
 LOADER.TO
-
 کاربردی یاب, [8/7/20 3:09 PM]
 کانال دانلود موسیقی:
 @SPOTIFYMUSICDOWNLOADER
@@ -2057,12 +1290,12 @@ LOADER.TO
 @MP3CA
 @MAC0K
 A
- (https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ)B (https://t.me/joinchat/AAAAAFjhK7LzEprW11p74Q)
+(https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ)B (https://t.me/joinchat/AAAAAFjhK7LzEprW11p74Q)
 C (https://t.me/c/1477645865/1469245)
 D (https://t.me/joinchat/R7Ldr-qI2J8b-hrb)
 E
- (https://t.me/joinchat/aPlX3_-zi7kxNTFk)F
- (https://t.me/joinchat/l4i3KWKnONQxNWNi)G (https://t.me/joinchat/g61Oz4eVxulmOTU1)
+(https://t.me/joinchat/aPlX3_-zi7kxNTFk)F
+(https://t.me/joinchat/l4i3KWKnONQxNWNi)G (https://t.me/joinchat/g61Oz4eVxulmOTU1)
 کانال دانلود سرود مذهبی:
 @MOHAMMADHOJJATMOHEBBI
 @HAMIDREZABORGHEII
@@ -2114,7 +1347,6 @@ E
 @MAHMOUDKRIMMI
 @SABERKHORASANI
 @MAHEHARAMINFO
-@NCS_MUSIC_HORN
 @NARIMANPANAHII
 @BANIFATEMEH315
 @MADAHI_MASHAD
@@ -2135,8 +1367,6 @@ E
 @ZAKERGRAM
 @NOOSHEVAR
 @VOICEKAFI
-
-کاربردی یاب, [8/7/20 3:09 PM]
 دانلود گیف، میم، استیکر و والپیپر:
 گیف:
 سایت گیف و دارای قابلیت اضافه کردن کپشن:
@@ -2209,7 +1439,6 @@ GIPHY.COM . APP (https://play.google.com/store/apps/details?id=com.giphy.messeng
 @ISHITPOSTHERE
 @INTROVERT_AF
 @EEAUTMEMES
-@MEME_WORK
 @SEPEHR_NKK
 @ACADEMEME
 @MEMEPLUSE
@@ -2223,7 +1452,6 @@ GIPHY.COM . APP (https://play.google.com/store/apps/details?id=com.giphy.messeng
 @GIGAMEME
 @SHERKOUL
 @RDMEME
-@FUZEISM
 @PGMING
 @DOAKES
 @SIXGAG
@@ -2235,7 +1463,6 @@ GIPHY.COM . APP (https://play.google.com/store/apps/details?id=com.giphy.messeng
 @MEMINGBOT
 استیکر:
 @STICKERSOFASTORA
-@TRENDINGSTICKERS
 @ANIMATEDEMOJIOS
 @VALERIA_FILLS_ART
 @HOLYPULPFICTION
@@ -2285,7 +1512,6 @@ GIPHY.COM . APP (https://play.google.com/store/apps/details?id=com.giphy.messeng
 jpg, png, webp, zip
 @DOWNLOADSTICKERSBOT
 @STICKERDOWNLOADBOT(& gif)
-@WEBM2MP4BOT
 @ANYDLBOT
 ربات تبدیل گیف یا ویدیو به استیکر ویدیویی(WEBM):
 @TOWEBMBOT
@@ -2318,7 +1544,6 @@ jpg, png, webp, zip
 @FSTIKBOT
 استیکر متحرک:
 @STICKERSTEALROBOT
-@STICKERSTHIEFBOT
 @ANIPACKBOT
 ربات برای جلوگیری از ارسال استیکر در گروه:
 @HELPERSTICKERHIDEBOT
@@ -2382,7 +1607,6 @@ PEXELS.COM
 ربات دانلود والپیپر از سایت SHUTTERSTOCK ،ADOBE و...:
 @SHUTTERDOWNLOADERBOT
 @GETPHOTO_BOT
-
 کاربردی یاب, [8/7/20 3:11 PM]
 سایت‌های دانلود یا تماشای آنلاین فیلم و سریال:
 16 September 2021 -  بدون سانسور
@@ -2405,15 +1629,13 @@ TRAKT.TV
 @IMDBOT
 @IMDB
 پیشنهاد فیلم و سریال:
-سایت:
 BESTSIMILAR.COM
 IRANFILM.NET
-ربات:
 @GMOVIEBOT
 مدیریت فیلم‌وسریال:
 ANDROID
- (https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime)ANDROID
- (https://play.google.com/store/apps/details?id=com.imdb.mobile)اطلاع از آخرین آدرس‌ سایت‌ها:
+(https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime)ANDROID
+(https://play.google.com/store/apps/details?id=com.imdb.mobile)اطلاع از آخرین آدرس‌ سایت‌ها:
 mister-site.ir . T (https://t.me/adresweb_ir)
 ربات اطلاع از زمان منتشر شدن فیلم و سریال:
 @MOVIEFEED
@@ -2424,16 +1646,16 @@ IRMO.BAR
 رایگان:
 هالیوود:
 1) golchindl.website . T
- (https://t.me/mygolchindl)2) todaytvseries.one . T (https://t.me/todaytvseriesclub) . F
+(https://t.me/mygolchindl)2) todaytvseries.one . T (https://t.me/todaytvseriesclub) . F
 3) donyayeserial.com . F
 4) sharghmedia.cf . F
 5) avamovie.me . T
- (https://t.me/avamovie_ir)6) shotfilm.net . T
- (https://t.me/shotfilm_net)7) s2-movie.xyz . T
- (https://t.me/mymovief)8) almasmovie8.xyz . T (https://t.me/AlmasMovieCom) . F
+(https://t.me/avamovie_ir)6) shotfilm.net . T
+(https://t.me/shotfilm_net)7) s2-movie.xyz . T
+(https://t.me/mymovief)8) almasmovie8.xyz . T (https://t.me/AlmasMovieCom) . F
 9) sohafilm1.com . T (https://t.me/sohafilm) . F
 10) GLORYTOON.COM . T (https://t.me/glorytelegram) . T
- (https://t.me/gloryfilm)11) www.filmxy.vip + S . F
+(https://t.me/gloryfilm)11) www.filmxy.vip + S . F
 12) mobomoviez.site . T (https://t.me/mobomovies_ir) + S
 13) digimovie2.top . T (https://t.me/digimoviez) + S
 14) p-dl.xyz + S . F
@@ -2443,74 +1665,73 @@ IRMO.BAR
 18) KENZOMOVIE.XYZ . T (https://t.me/kenzomovie)
 این سایت‌ها بعضی عناوین را قرار نمی‌دهند:
 ❌ MY30NAMA.DOWNLOAD . T
- (https://t.me/my30nama_official)❌ FILM9.CAM . T
- (https://t.me/my_film9)❌ MYMR-MOVIE.IR
+(https://t.me/my30nama_official)❌ FILM9.CAM . T
+(https://t.me/my_film9)❌ MYMR-MOVIE.IR
 فعلا نیستند:
 ❌ MCTVZ1.PW . T
- (https://t.me/Mctvz)❌ moviesera.world . T (https://t.me/Moviesera_net) . F
+(https://t.me/Mctvz)❌ moviesera.world . T (https://t.me/Moviesera_net) . F
 ❌ myezy.cf . T (https://t.me/EasyTVSite) . F + App
 ❌ f2m.site
 ❌ PARSVIDEOS.NET . T
- (https://t.me/Parsvideos_com)کره:
+(https://t.me/Parsvideos_com)کره:
 1) KTV7.XYZ . T (https://t.me/koretv) . F
 2) FRDR.XYZ . T
- (https://t.me/freedrama)3) baromo1.xyz . T (https://t.me/baromovie) . T
- (https://t.me/baromoviz)4) VINADL.SPACE . T (https://t.me/vinadlcom) . F
+(https://t.me/freedrama)3) baromo1.xyz . T (https://t.me/baromovie) . T
+(https://t.me/baromoviz)4) VINADL.SPACE . T (https://t.me/vinadlcom) . F
 ❌ 5) KORE2SERIAL.XYZ . T (https://t.me/asiaone) . F
 ایران:
 BENAMEIRAN.COM . F
 اشتراکی:
-هالیوود:
 1) 30NAMA.COM . T (https://t.me/OfficialCinama) . F + App : بهترین سایت
 2) WIR27.SITE
 3) haylimovie.site . T
- (https://t.me/hymvz)4) MEGADL.XYZ . T (https://t.me/megadlofficial) . F
+(https://t.me/hymvz)4) MEGADL.XYZ . T (https://t.me/megadlofficial) . F
 5) 2NIGHTMOVIE.LIVE . T
- (https://t.me/NightMovie_Co)6) 4KDOWNLOAD.SITE . T (https://t.me/ir4ktv) . F
+(https://t.me/NightMovie_Co)6) 4KDOWNLOAD.SITE . T (https://t.me/ir4ktv) . F
 7) mihanmoviez.org . T (https://t.me/MihanMoviez) . F
 8) SERIALBA.XYZ . T
- (https://t.me/serialbarantv)9) DARKMOVIE.CASH . T (https://t.me/darkmovie_net) + App
+(https://t.me/serialbarantv)9) DARKMOVIE.CASH . T (https://t.me/darkmovie_net) + App
 10) imovies-dl.space . T (https://t.me/iMoviess_dl) . F
 11) FILM-GOZAR.SITE . T
- (https://t.me/film_gozar)12) TAKMOVIE.TOP . T (https://t.me/takmovie) . F
+(https://t.me/film_gozar)12) TAKMOVIE.TOP . T (https://t.me/takmovie) . F
 13) kingmov.xyz . T (https://t.me/mykimo) + App
 14) BIA2MOVIES.BID . T (https://t.me/bia2movies_official) . T (https://t.me/Bia2MoviesT) . F
 15) FILMBIN.LINK . T
- (https://t.me/Filmb_in1)16) FILMLOST.SPACE . T
- (https://t.me/filmlost)17) dibamoviz.com . T
- (https://t.me/dibasite)18) foxvip7.xyz . T (https://t.me/FoxMovie_Co) + App
+(https://t.me/Filmb_in1)16) FILMLOST.SPACE . T
+(https://t.me/filmlost)17) dibamoviz.com . T
+(https://t.me/dibasite)18) foxvip7.xyz . T (https://t.me/FoxMovie_Co) + App
 19) dlpars1.site . T
- (https://t.me/dlparsmovies)20) YEKMOVIE.TV . T (https://t.me/yekmovies) . F
+(https://t.me/dlparsmovies)20) YEKMOVIE.TV . T (https://t.me/yekmovies) . F
 21) SKYTV1.EU . T (https://t.me/skyfilm) . F
 22) saberfun1.xyz . T
- (https://t.me/saberfun)23) SARVFILM.IR
+(https://t.me/saberfun)23) SARVFILM.IR
 24) FILM1SUN.PW . T
- (https://t.me/Filmsun)25) mymshd.online . T (https://t.me/mashhad_film4) . F
+(https://t.me/Filmsun)25) mymshd.online . T (https://t.me/mashhad_film4) . F
 26) topmoviez1.top . T
- (https://t.me/topmovieznet)27) mr5movie.site . T
- (https://t.me/MYMRMOVIE)28) tinymov2.xyz . T (https://t.me/MyMoviz) . F + App
+(https://t.me/topmovieznet)27) mr5movie.site . T
+(https://t.me/MYMRMOVIE)28) tinymov2.xyz . T (https://t.me/MyMoviz) . F + App
 29) cinamabox.net . T (https://t.me/cinamabox_com) . F
 30) valamovie.click . T (https://t.me/valamovie) . F
 31) myzarfilm.win . T
- (https://t.me/zarfilm_com)32) irfilm2.xyz / filiran.xyz . T
- (https://t.me/filmiran_org)33) mymoviz70.fun / mymoviz24.xyz / nightmz2.fun / tinymov2.xyz . T (https://t.me/MyMoviz) . F
+(https://t.me/zarfilm_com)32) irfilm2.xyz / filiran.xyz . T
+(https://t.me/filmiran_org)33) mymoviz70.fun / mymoviz24.xyz / nightmz2.fun / tinymov2.xyz . T (https://t.me/MyMoviz) . F
 انیمیشن:
 1) MOVIETOONS.IR
 2) MINITOONS.IR
 کره:
 1) mykdr.xyz . T
- (https://t.me/kddll)2) STRDRAMA.XYZ . T
- (https://t.me/StarDrama)3) 1NEX1.IR
+(https://t.me/kddll)2) STRDRAMA.XYZ . T
+(https://t.me/StarDrama)3) 1NEX1.IR
 4) PRMOVIE.XYZ . T (https://t.me/promoviz) . F
 5) DMOV.XYZ . T
- (https://t.me/DramaDLL)6) asiamo.xyz . T
- (https://t.me/asianmovie)7) sisimovies3.xyz . T (https://t.me/SISIMOVIES) . F
+(https://t.me/DramaDLL)6) asiamo.xyz . T
+(https://t.me/asianmovie)7) sisimovies3.xyz . T (https://t.me/SISIMOVIES) . F
 ❌ 8) STARKOR.IR . T
- (https://t.me/dramacityy)ترکیه:
+(https://t.me/dramacityy)ترکیه:
 1) MYNEWFILM21.PRO . T (https://t.me/newfilmtv) + App
 2) namhdood-dl.ir . T
- (https://t.me/download1448_new)3) MBZ2DL.XYZ . T
- (https://t.me/MovieBaz_Asli)ایران:
+(https://t.me/download1448_new)3) MBZ2DL.XYZ . T
+(https://t.me/MovieBaz_Asli)ایران:
 mrmz.life . T (https://t.me/MrMoviez1397) . F
 امکان خرید اشتراک از ایران نیست:
 1) CRAZYHDSOURCE.COM
@@ -2521,7 +1742,6 @@ mrmz.life . T (https://t.me/MrMoviez1397) . F
 6) MEGADDL.CO
 7) NIMA4K.ORG
 فقط تماشای آنلاین فیلم و سریال:
-از سایت:
 سایت‌های ایرانی:
 IRANIANMOVIEBOX.COM
 FARSILAND.COM . F
@@ -2563,12 +1783,10 @@ ROKKR.NET: huhu.to / oha.to
 @MXSTREAMER_BOT
 @HADILINKGENBOT
 @WEBDLBOT
-
 کاربردی یاب, [8/7/20 3:46 PM]
 سایت و ربات‌های دانلود زیرنویس / کانال‌های دانلود فیلم‌وسریال:
 ----------
 دانلود زیرنویس فیلم و سریال:
-از سایت:
 SUBSCENE.COM . F : بهترین سایت‌
 OPENSUBTITLES.ORG . F : بهترین سایت‌
 WORLDSUBTITLE.INFO
@@ -2580,7 +1798,6 @@ ESUBTITLE.COM
 SUBMOVIES.IR
 SUBKADE.IR
 SUBF2M.CO
-از کانال:
 @SERIAL_FILM_DOWNLOAD
 @RAYLANGIVENSSUBS
 @ICY_TRANSLATION
@@ -2609,10 +1826,8 @@ SUBF2M.CO
 @SUB_HUB
 @SUBSIN
 @HGSUB
-.
 @MR_LIGHTBORN11
 @LIONIZEH
-از ربات:
 @SUBTITLE_DL_BOT
 @GETSUBTITLEBOT
 @SUBSEARCHSBOT
@@ -2822,8 +2037,7 @@ SUBSHIFTER.BITSNBITES.EU
 @S_DAE
 A (https://t.me/joinchat/AAAAAFInUQnr4QwR8lhWZw)
 B
- (https://t.me/joinchat/AAAAAEgQYes_gQ4Hew8GnA)C (https://t.me/joinchat/_TlgIjyUHC02Nzc1)
-
+(https://t.me/joinchat/AAAAAEgQYes_gQ4Hew8GnA)C (https://t.me/joinchat/_TlgIjyUHC02Nzc1)
 کاربردی یاب, [8/7/20 3:49 PM]
 دانلود فیلم و سریال از ربات:
 @MDISK_MOVIE_SEARCH_ROBOT
@@ -2842,7 +2056,6 @@ B
 @FILMFORUM1BOT
 @ROBOMOVIE_BOT
 @FILESERVINGBOT
-@TELEWAREZ_BOT
 @POFEPHILL_BOT
 @TGMOVIES2BOT
 @MVSEARCHBOT
@@ -2928,7 +2141,6 @@ NAMAVA.IR
 DISFILM.IR
 UPNOD.TV
 FARSI1.IN
-
 کاربردی یاب, [8/7/20 3:54 PM]
 ربات‌های بازی:
 بازی "تاس انداختن"(کمی پیشرفته‌تر نسبت به تاس تلگرام):
@@ -3003,7 +2215,6 @@ FARSI1.IN
 @CADSTORIESBOT
 بازی "حدس بزن اپن شخص کیه":
 EN.AKINATOR.MOBI
-
 کاربردی یاب, [8/7/20 3:55 PM]
 سایت، کانال و ربات‌های تخصصی و رسمی مربوط به تلگرام:
 سایت رسمی انتقاد و پیشنهاد تلگرام:
@@ -3156,7 +2367,6 @@ Telegram beta (https://t.me/c/1492024129/2) only
 @MACSWIFT
 گروه بحث درباره ربات تلگرام:
 @BOTTALK
-
 کاربردی یاب, [8/26/20 10:50 AM]
 ربات‌های کاربردی (۱) :
 ربات مدیریت کانال یا گروه:
@@ -3255,21 +2465,16 @@ Telegram beta (https://t.me/c/1492024129/2) only
 @MANYBOT
 @QUANBOT
 ربات واسطه بین شما و کاربران:
-@LIVEGRAMBOT
 @LIMITATIBOT
 ربات آپلود و دانلود فایل‌ها به داخل/خارج تلگرام:
 @MMDLEECHERBOT
-@LINKGRAMBOT
 @SAEGHEBOT
 ربات فقط آپلود به تلگرام:
 @HEIMANXUPLOADER2_BOT
 @ANYVIDEODOWNLOADBOT
-@FILES_UPLOADER_ROBOT
 @MAXXUPLOADERPROBOT
 @UPLOADERURLNEWBOT
 @URLUPLOADER_NB_BOT
-@SIM_URLUPLOADERBOT
-@CLOUDGRAM_BETABOT
 @URLUPLOADERV3BOT
 @RGAIOUPLOADERBOT
 @TEMPUPLOADERBOT
@@ -3277,21 +2482,15 @@ Telegram beta (https://t.me/c/1492024129/2) only
 @XURLUPLOADERBOT
 @URLUPLOAD_NSBOT
 @UPLOADERPRO_BOT
-@TELEUPLOADERBOT
-@YOUTUBEBETA_BOT
 @AIOUPLOADER2BOT
 @UPLOADERPROBOT
 @CRAZYUPLOADBOT
 @LINKTOFILETGBOT
-@INDUSUPLOADBOT
 @URLUPLOADXBOT
 @FILEUPLOAD_BOT
 @URL_UPLOADBOT
 @ANYDLBETA_BOT
 @UPLOADHEXBOT
-@UPLOADSROBOT
-@ULOADITV2BOT
-@ANYURLDLBOT
 @SLUPLOADBOT
 @URLUP2TGBOT
 @YTBDOWNBOT
@@ -3299,7 +2498,6 @@ Telegram beta (https://t.me/c/1492024129/2) only
 @UPTOTGBOT
 @UPLOADBOT
 @IDMPROBOT
-@ANYDLBOT
 ربات فقط آپلود به خارج از تلگرام(استریم یا دانلود):
 @FILETOLINKTELEGRAMBOT
 @LINKGENERATOR_DL_BOT
@@ -3335,7 +2533,6 @@ Telegram beta (https://t.me/c/1492024129/2) only
 @FILINKER_BOT
 @UPLOADSBOT
 @TGHOST_BOT
-@ADMLINKBOT
 @LINKERXBOT
 @NEENJABOT
 @IOSYAR_BOT
@@ -3383,7 +2580,6 @@ Telegram beta (https://t.me/c/1492024129/2) only
 ربات تبدیل فایل به ZIP یا RAR:
 @COMPRESSFILESBOT
 @ARCHIVEHEXBOT
-
 کاربردی یاب, [10/10/20 3:04 AM]
 ربات‌های کاربردی (۲) :
 ربات جستجو گوگل:
@@ -3499,7 +2695,6 @@ Telegram beta (https://t.me/c/1492024129/2) only
 @SCREENCAPTUREBOT
 @TG_SCREENSHOTBOT
 @SCREENSHOTDX_BOT
-@TG_SCREENSHOTBOT
 @THE_TRIMMER_BOT
 @MAXXTRIMMERBOT
 @MEDIAINFOROBOT
@@ -3558,7 +2753,6 @@ Telegram beta (https://t.me/c/1492024129/2) only
 @DISCUSSIONGROUPBOT
 ربات حذف پیام‌های پین‌شده در گروه توسط کانال متصل به‌ آن(با اضافه کردن این بات به گروه گفتگو و ادمین کردن آن، این بات تمامی پیام‌هایی که از سمت کانال متصل شده ارسال شده و پین میشن رو از پین خارج می‌کنه و پیام مورد نظر شما رو مجدداً پین می‌کند) :
 @DISCUSSUNPINBOT
-
 کاربردی یاب, [10/10/20 3:05 AM]
 ربات کوتاه‌کردن/استخراج لینک:
 @DISCOVERYSHORTENBOT
@@ -3607,10 +2801,8 @@ V.GD
 سایت جمع‌کردن لینک‌ها در یک لینک:
 LINKTR.EE
 ZIL.INK
-.
 سایت آپلود:
 GOFILE.IO
-
 کاربردی یاب, [11/17/20 8:39 PM]
 26 JUNE 2021
 کانال‌‌ ارائه دهنده پروکسی:
@@ -3691,7 +2883,6 @@ GOFILE.IO
 75) @PROXY_DEDICATED
 76) @PRO24P
 77) @PROXY0110
-ربات:
 @PROXYGRABBER_BOT
 @MTPRO_XYZ_BOT
 @TURBOLIST_BOT
@@ -3699,18 +2890,16 @@ GOFILE.IO
 @BEEPASSVPN_BOT
 ربات open vpn configuration:
 @BLOCKANET_VPN_BOT - SITE
- (https://blockanet.com/en)ربات پروکسی:
+(https://blockanet.com/en)ربات پروکسی:
 @BLOCKANETBOT
 اپ اندروید برای پروکسی تلگرام(عدم اطمینان) :
 Android (https://t.me/deeproxy)
-فعلا نیستند:
 @MESTERPROXYIR
 @BESTPROXESY
 @SOPELPROXY
 @PLUS_PROXY
 @MTPOREXY
 @DRPROXY
-
 کاربردی یاب, [12/7/20 4:01 AM]
 سرگرمی:
 @OFFICIALPERSIANTWITTER
@@ -3818,10 +3007,8 @@ Android (https://t.me/deeproxy)
 ربات دارای ویدیو و ویس‌های معروف:
 @PERSIAN_MEME_BOT
 @VIDEO_MEME_CH
-
 کاربردی یاب, [12/15/20 5:48 PM]
 دانلود رایگان پی‌دی‌اف و صوت کتاب‌:
-از سایت:
 EN.BOOKSC.ORG - @FIRSTLIBRARYBOT
 OPENLIBRARY.ORG
 PDFDRIVE.COM
@@ -3832,7 +3019,6 @@ LIBGEN.RS
 کمیک
 GETCOMICS.INFO
 @ARTFELTDIARIES
-از کانال:
 @ASATIREZABAN_OFFICIAL
 @AUDIOBOOKSARCHIVE
 @MEDICALUNIVERSITY
@@ -3870,7 +3056,6 @@ GETCOMICS.INFO
 @BOOKTOP
 @HIWORD
 @BO0KS1
-از ربات:
 @JAYBEEEBOOKDLBOT
 @DENTJOZVE98_BOT
 @KOHAN_BOOKBOT
@@ -3881,7 +3066,6 @@ GETCOMICS.INFO
 ربات استخراج متن از عکس:
 @SMARTFILEUTILSBOT
 @IMAGETOTEXT_BOT (به همراه ترجمه متن)
-@TRANSCRIBER_BOT
 @IMAGEREADERBOT
 @MATNYAR_BOT
 @THE_OCR_BOT
@@ -3908,7 +3092,6 @@ GETCOMICS.INFO
 @BUKLYABOT
 ربات تغییر نام فایل، تبدیل epub به mobi و pdf، فرستادن محتوا از ebook به kindle شما:
 @EPUBINFOBOT
-
 کاربردی یاب, [12/30/20 7:56 AM]
 ربات‌های کاربردی (۳) :
 ربات اطلاعات چهل میلیون ایرانی:
@@ -4073,29 +3256,23 @@ GETCOMICS.INFO
 @READMEBOT
 ربات کسانی‌که پیام را مشاهده کرده‌اند:
 @WHOREADSBOT
-
 کاربردی یاب, [1/2/21 8:12 PM]
 31 MARCH - بدون سانسور
-
 اخبار انیمه:
 @ANINEWS_BOT
 پیدا‌کردن مشخصات کلی انیمه‌ها:
-از سایت:
 ANIME-PLANET.COM
 MYANIMELIST.NET
 ANICHART.NET
 LIVECHART.ME
 ANILIST.CO
-از ربات:
 @ANIFINDERBOT
 @ANIMEDB_BOT
 @NEPGEARBOT
 @ANIMEIRBOT
-@ACUTEBOT
 دانلود انیمه:
 از اپلیکیشن:
 ANIMEONAPP.COM . T (https://t.me/AnimeONapp)
-از سایت:
 ANIMEDL360.BLOGSPOT.COM
 WWW1.ANIMEULTIMA.TO
 SOULREAPERZONE.COM
@@ -4112,7 +3289,7 @@ WATCHFAMILY.XYZ
 OTAKUTALES.INFO
 ANIMECHIBY.COM
 ANIMEKHOR.COM . T (https://t.me/animekhor_ir)
- (https://t.me/animelist_ir)ANIMEPAHE.COM
+(https://t.me/animelist_ir)ANIMEPAHE.COM
 ANIMEKAYO.COM
 HI10ANIME.COM
 NOOBSUBS.COM
@@ -4129,13 +3306,12 @@ ANIMEOUT.XYZ
 ANIWATCH.ME
 MY2AMIDL.PW
 EIDNOWROOZ.TK . T
- (https://t.me/bia2anime)ANIMEFLIX.IO (DOWN)
+(https://t.me/bia2anime)ANIMEFLIX.IO (DOWN)
 ANIKYOJIN.ID
 TWIST.MOE
 ANIDL.ORG
 9ANIME.AT
 IQ.COM
-از کانال:
 @ANIMEKDRAMASFULLKOREA
 @ATTACKONTITANARCHIVE
 @ANIME_1080P_720P_480P
@@ -4192,7 +3368,6 @@ IQ.COM
 @NTANIME
 @ANIDLWS
 @ANIPLUS
-از ربات:
 @HENTAI_STREAMING_BOT + S
 @ANIME_STREAMING_BOT + S
 @ANIME_STREAM_BOT + S
@@ -4206,7 +3381,6 @@ IQ.COM
 @TOMOEROBOT
 @ANICATBOT
 تماشای آنلاین انیمه:
-ANIME-PLANET.COM
 ANIMEHEAVEN.RU
 MASTERANI.ONE
 ANIMEFREAK.TV
@@ -4217,12 +3391,10 @@ ANIMETAKE.TV
 ANIMESUGE.IO
 ANIME1.COM
 دانلود زیرنویس انیمه:
-از سایت:
 ANIMESUBTITLE.IR
 ANIME-LIST9.SITE
 SUBSCENE.COM
 SUBGATE.IR
-از کانال:
 @ANIMKINGDOMSUB
 @ANIMESUBTITLE
 @ANIMETOSHO
@@ -4230,7 +3402,6 @@ SUBGATE.IR
 @THEUSUB
 @AWSUB
 دانلود مانگا و مانهوا:
-از سایت:
 ATTACKONTITANREAD.COM
 W11.MANGAFREAK.NET
 MANGAKAKALOT.COM
@@ -4244,7 +3415,6 @@ MANHUASCAN.US
 MANGAOWL.COM
 MANGAWORLD.IN
 MANGAPARK.NET
-GETCOMICS.INFO
 MNGDOOM.COM (DOWN)
 MANGADEX.ORG (DOWN)
 MANGAGEEK.TK
@@ -4252,7 +3422,6 @@ MANGAINN.NET
 HENTAI-ZIP.NET
 FARANGIS.INFO
 M.FANFOX.NET
-MY2AMIDL.PW
 KURO-NEKO.IN
 MYLOADER.TK
 MANGAZ.COM
@@ -4266,7 +3435,6 @@ NIADD.COM
 COMICO.JP
 BATO.TO
 13DL.TO
-از کانال:
 @CHIKA_PUBLISHING_MANGA
 @ONEPIECEFAMILYMANGA
 @THEREALTORRENTCLUB
@@ -4295,13 +3463,10 @@ ANDROID (http://tachiyomi.org/)
 ANDROID (https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free)
 برنامه تبدیل فرمت‌ها به epub برای e-books:
 WINDOWS and MAC (https://kcc.iosphe.re/)
-
 کاربردی یاب, [1/21/21 5:04 AM]
 ورزش:
 دانلود فوتبال:
-از سایت:
 FULLMATCHSPORTS.CO
-از کانال:
 @FULLMATCHSPORT
 @FOOTFUNVIDEO
 @FOOTBALL1983
@@ -4354,7 +3519,6 @@ ROKKR.NET
 @CRICBUZZ_BOT
 تمرینات ورزشی:
 @JIBGYM
-
 کاربردی یاب, [1/23/21 2:27 AM]
 اطلاع از آخرین آدرس سایت‌های تورنت:
 TORRENTMIRROR.NET
@@ -4362,7 +3526,7 @@ TORRENTMIRROR.NET
 @OPENSIGNUP
 راهنمای استفاده از تورنت:
 WATCH IN TWITTER
- (https://twitter.com/MrSubtitle/status/1338166314171559936?s=19)WATCH IN TELEGRAM (https://t.me/dieascm/91)
+(https://twitter.com/MrSubtitle/status/1338166314171559936?s=19)WATCH IN TELEGRAM (https://t.me/dieascm/91)
 دانلود یا جستجو فیلم و سریال از تورنت:
 KICKASS.TORRENTBAY.TO (KAT.RIP)
 TORRENT-PARADISE.ML
@@ -4401,7 +3565,6 @@ WEBTOR.IO
 دانلود یا جستجو موسیقی از تورنت:
 SOUND-PARK.WORLD
 جستجوی تورنت و آپلود تورنت در گوگل درایو:
-ربات:
 @TORRENTXBOT
 گروه:
 @KLTORRENTS
@@ -4423,7 +3586,6 @@ ANDROID (https://play.google.com/store/apps/details?id=com.shivam.torrent_search
 @DIRECTFILESBOT
 @TORRENT_X_BOT
 @TORRENTDXBOT
-.
 @OPENFILES_1BOT
 @OPENFILES_2BOT
 @OPENFILES_3BOT
@@ -4451,26 +3613,20 @@ SEEDR.CC
 @SEEDRNS_BOT
 BITSO.IR . @BITSODOWNLOADERBOT
 MUL.IR
-.
 transload sites:
 @TRANSLOAD
-
 کاربردی یاب, [2/11/21 4:30 AM]
 #معرفی_ربات
-@SPLEETER2MP3_BOT
 موسیقی بدین، کارائوکه و وکالِ موسیقی رو پس بگیرین
 ۱- دارای امکان انتخاب کیفیت فایل خروجی
-
 نکته1: این ربات فقط برای ده بار رایگانه
 اطلاعات بیشتر:
 @SPLEETER2MP3FB
-
 کاربردی یاب, [4/7/21 3:09 AM]
 #معرفی_سایت_دانلود_سریال
 http://DONYAYESERIAL.COM
 http://BENAMEIRAN.COM(ایرانی)
 برای دانلود رایگان و بدون سانسور سریال میتونید از این سایت استفاده کنید
-
 کاربردی یاب, [7/10/21 10:29 AM]
 کانال تکنولوژی:
 اخبار فضای مجازی و تکنولوژی:
@@ -4517,7 +3673,7 @@ http://BENAMEIRAN.COM(ایرانی)
 @WBNET
 سایت‌های بررسی امکانات و کمپانی‌های سازنده فیلترشکن‌ها:
 Vpn Relationship
- (https://embed.kumu.io/9ced55e897e74fd807be51990b26b415#vpn-company-relationships)Vpn Tools (http://techlore.tech/vpn.html)
+(https://embed.kumu.io/9ced55e897e74fd807be51990b26b415#vpn-company-relationships)Vpn Tools (http://techlore.tech/vpn.html)
 آموزش هک، برنامه‌نویسی و برنامه‌های پولیِ رایگان و... :
 @PC_CRACKED_SOFTWARES
 @FREEPROACCOUNTSTG
@@ -4608,7 +3764,6 @@ SOFTGOZAR.COM
 PATOGHU.COM
 YASDL.COM
 SOFT98.IR
-
 کاربردی یاب, [11/30/21 12:04 PM]
 کانال پادکست:
 @CINEMATOGRAPHPODCAST
@@ -4649,7 +3804,6 @@ SOFT98.IR
 @ROOHSAVAR
 @GOOSHEPOD
 @STRINGCAST
-@FACTNAMEH
 @CUTBACK_IR
 @CSPODCAST
 @RADIOLOZHI
@@ -4660,7 +3814,6 @@ SOFT98.IR
 @DIGESTTT
 @SEPBLOG
 @NAVCAST
-
 کاربردی یاب, [1/24/22 7:17 AM]
 ربات‌های کاربردی(۴) :
 ربات تغییر نام فایل:
@@ -4684,7 +3837,6 @@ SOFT98.IR
 @TGRENAMEBOT
 @RENAMETGBOT
 @RENAMEDXBOT
-@TGRENAMEBOT
 @RENAMERZBOT
 @RENAMER_BOT
 @UPLOADDXBOT
@@ -4721,7 +3873,6 @@ SOFT98.IR
 @FAKEMAILBOT
 ربات ساخت ایمیل تقلبی به‌همراه افزونه مرورگر و قابلیت اتصال به تلگرام:
 @TRAFFICROBOT
-از سایت:
 FAKEDETAIL.COM
 ربات اعلان ورود یا خروج افراد و ایجاد تاییدیه برای دسترسی به محتوای کانال یا گروه:
 @OZWABOT
@@ -4809,7 +3960,6 @@ FAKEDETAIL.COM
 @MASTERTAGALERTBOT
 ربات فوروارد چت از گروه به گروه یا به شما:
 @AH_FORWARDERBOT
-
 کاربردی یاب, [1/24/22 7:21 AM]
 ربات دانلود یا پیداکردن آهنگ با جستجوی نام خواننده، نام آهنگ، تکه‌ای از متن یا صدای موسیقی:
 @POCKET_MUSIC_BOT
@@ -4819,7 +3969,6 @@ FAKEDETAIL.COM
 @MUSICASSISTBOT
 @EMINEM_ORGBOT
 @SIMPLEMUSXBOT
-@EXO_DREAM_BOT
 @JIOSAAVNROBOT
 @MUSIGHIHA_BOT
 @MUSICHEREBOT
@@ -4827,7 +3976,6 @@ FAKEDETAIL.COM
 @AHANGIFY_BOT
 @BEATSPOTBOT
 @VKMUSIC_BOT
-@SONGREFBOT
 @SONGDL_BOT
 @BARITMBOT
 @VKMUSBOT
@@ -4844,10 +3992,8 @@ FAKEDETAIL.COM
 @FMUSBOT
 @MELOBOT
 @VKM_BOT
-@LYBOT
 @MUSIC
 ربات مشخصات کلی موسیقی:
-@ACUTEBOT
 ربات فقط شناسایی موسیقی:
 @WTSONG_BOT
 @SONGIDBOT
@@ -4860,9 +4006,7 @@ FAKEDETAIL.COM
 ربات پیدا کردن کاور موسیقی:
 @ALBUMCOVERFINDERBOT
 پیدا کردن متن موسیقی(LYRIC):
-سایت:
 GENIUS.COM
-ربات:
 @MOTREB_DOWNLOADER_BOT
 @LYRICSSEEKERBOT
 @GENIUS_THE_BOT
@@ -4873,7 +4017,6 @@ GENIUS.COM
 ربات دانلود از اسپاتیفای، ساند کلاد، دیزر، یوتیوب موزیک و یا رادیو جوان(ربات‌ها بسته به سیستم‌عامل شما ممکن است کار نکنند):
 @SPOTIFY_DOWNLOADER_FILE_BOT
 @SOUNDCLOUDDOWNLOADBOT
-@UNIVERSALDOWNLOADERBOT
 @SPOTIFYMUSICSEARCH_BOT
 @MUSICDOWNLOADERROBOT
 @DEEZER_AND_SPOTIFY_BOT
@@ -4886,9 +4029,7 @@ GENIUS.COM
 @SPOTIFYDL_MP3_BOT
 @SPOTIFY_DEEZERBOT
 @SPOTIFY_DOWN_BOT
-@SC_DOWNLOAD_BOT
 @MUSICSHUNTERBOT
-@YOUTUBE2MP3_BOT
 @DEEZERMUSICBOT
 @SPOTIFYSAVEBOT
 @JIOMUSIC_DLBOT
@@ -4903,19 +4044,15 @@ GENIUS.COM
 @DEEZLOADBOT
 @SPOTDEEZBOT
 @SCDLTESTBOT
-@SONGREFBOT
 @SCDOWNBOT
 @RADIODLBOT
 @DEZALTYBOT
 @PHCHDLBOT
 @SCSAVEBOT
-@TGMP3BOT
 @RADIOBOT
 @RJRIPBOT
 @JIODLBOT
-@SCDLBOT
 @BBDLBOT
-@SCDLBOT
 @IVKMBOT
 @TDL_BOT
 @LYDBOT
@@ -4930,11 +4067,8 @@ MP3LYRIC.US
 NAREFIGH.IR
 MELOVAZ.IR
 سایت رادیو موسیقی:
-A
- (https://radio.ghanacloud.one/boxlofi/)B
- (https://gikradio.com/)ربات دانلود برنامه‌های رادیویی(به زبان‌های مختلف):
-@RADIOBOT
-
+(https://radio.ghanacloud.one/boxlofi/)B
+(https://gikradio.com/)ربات دانلود برنامه‌های رادیویی(به زبان‌های مختلف):
 کاربردی یاب, [1/24/22 7:31 AM]
 تم تلگرام:
 کانال رسمی تم برای نسخه‌های مختلف تلگرام:
@@ -4972,7 +4106,6 @@ A
 @TG2TGXBOT
 سایت ساخت تم برای نسخه دسکتاپ تلگرام:
 THEMEMAKER.SITE
-.
 سایت‌، کانال و ربات‌های کاربردی مربوط به تلگرام:
 مکان سرور‌های پروکسی تلگرام:
 IP-TRACKER.ORG
@@ -4983,7 +4116,6 @@ LIMITS.TGINFO.ME
 سایت جستجو و استفاده از تلگرام:
 TELEWEBGRAM.COM
 پیداکردن کانال، گروه و ربات تلگرام:
-از سایت:
 CHANNELSFORTELEGRAM.COM
 BOTLIST.INFOTELBOT.COM
 TELEGRAMCATALOG.COM
@@ -4997,7 +4129,6 @@ STOREBOT.ME
 TELEMETR.IO
 TGSTAT.COM
 A (https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
-از کانال:
 @DISCOVERY_UPDATES
 @NEWESTCHANNELS
 @MUSIC_LAND_LIST
@@ -5010,7 +4141,6 @@ A (https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
 @TELROBOTS
 @RAJBOTS
 @BOTLIST - @BOTLISTBOT
-از ربات:
 @YEAGERISTTGEXPLORER_BOT
 @DAILYCHANNELSBOT
 @MAXXBOTLIST_BOT
@@ -5019,13 +4149,11 @@ A (https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
 @BOTSLISTROBOT
 @ETHIO_LIST_BOT
 @SEARCHEEBOT
-
 کاربردی یاب, [4/19/22 1:42 PM]
 ربات‌های کاربردی (۵) :
 کانال سفارش ربات نویسی:
 @EXPERTBOTDESIGN
 @CODEXCHANNEL
-.
 ربات حذف/اضافه ‌کردن متن، کپشن، آیدی، لینک و هشتگ از عکس، ویدیو و نوشته:
 @CAPTIONEDITORBOT
 @FARSCLEARBOT
@@ -5069,7 +4197,6 @@ A (https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
 @VIRUSTOTALAV_BOT
 @DRWEBBOT
 @VS_ROBOT
-از سایت:
 VIRUSTOTAL.COM
 ربات دستیار برای فروش کالا:
 @FORUSH_ROBOT
@@ -5140,13 +4267,10 @@ VIRUSTOTAL.COM
 @HK_GIST_BOT
 ربات اسپم در گروه(پیام‌های متوالی برای شلوغ کردن گروه):
 @DEEZEERMUSICBOT
-
 کاربردی یاب, [6/1/22 12:33 AM]
 اُپنینگ و اِندینگ انیمه:
-از سایت:
 HIKARINOAKARI.COM
 YUMEOST.COM
-از کانال:
 @DIGIMONPERSIAN_OST
 @ANIMEMUSICSTASH
 @ANIMELIST_MUSIC
@@ -5155,9 +4279,7 @@ YUMEOST.COM
 @MUSICSUKI
 @AWOPED
 والپیپر و کاسپلی انیمه:
-از سایت:
 PIXIV.NET
-از کانال:
 @ONEESANSWIMSUITANDLINGERIE
 @ONEESANSCENERYCOLLECTION
 @ONEPIECEFAMILYWALLPAPERS
@@ -5227,50 +4349,43 @@ A (http://t.me/joinchat/AAAAAEMjuUp88DUBD9MLFg)
 @WHATANIMEBOT
 http://emulation.gametechwiki.com/index.php/ROM_%2526_ISO_Sites
 Nintendo Switch
- https://switch-xci.com
+https://switch-xci.com
 https://nxbrew.com [Thanks stoob]
 GDrive Collections
 AlvRo's Collection (Many Consoles)
 Reddit Lists
- https://archive.is/6kkqg
+https://archive.is/6kkqg
 https://old.reddit.com/r/NintendoRoms/comments/af95i0/almost_complete_nintendo_rom_and_iso_collection/
 Miscellaneous
- https://www.gbstudio.dev (retro adventure game creator for your favourite handheld video game system)
- https://theromdepot.com(Roms+Manuals)
- https://www.emucr.com(News)
+https://www.gbstudio.dev (retro adventure game creator for your favourite handheld video game system)
+https://theromdepot.com(Roms+Manuals)
+https://www.emucr.com(News)
 Please contribute more links!
 File Storage, [6/4/22 2:25 PM]
- http://sites.vergitek.com/lastos/EMUlation/Motion.Blue.Unified.Rom.Sets-PiPiggies.torrent
+http://sites.vergitek.com/lastos/EMUlation/Motion.Blue.Unified.Rom.Sets-PiPiggies.torrent
 Over 317gb
- http://team.lastos.org/MegaGamesRetro/MegaGamesRetro-1RomEdition.7z
- https://www.planetemu.net/roms/sony-playstation-games-usa
- http://www.romsuniverse.com/
-File Storage, [6/4/22 2:25 PM]
- https://switch-xci.com is now
+http://team.lastos.org/MegaGamesRetro/MegaGamesRetro-1RomEdition.7z
+https://www.planetemu.net/roms/sony-playstation-games-usa
+http://www.romsuniverse.com/
+https://switch-xci.com is now
 https://nsw2u.org
-File Storage, [6/4/22 2:25 PM]
 Looking Glass - For KVM Frame Relay - High Performance Windows VM Gaming
- https://www.youtube.com/watch?v=U44lihtNVVM
+https://www.youtube.com/watch?v=U44lihtNVVM
 Quote
 Geoffrey McRae has published the code to the "Looking Glass" project he's been working on as a "extremely low-latency" KVM frame relay implementation for guests with VGA PCI pass-through.
 Long story short this allows for a graphics card PCI pass-through setup with a KVM guest whereby no separate monitor is needed but rather Looking Glass is like a virtual display for that GPU dedicated to the VM and displays the VM's rendered contents on your main monitor/GPU. Up to now those wanting to use a secondary graphics card pass-through setup with a virtual machine had to use a separate monitor, but with Looking Glass you can get by with a single monitor for the system.
- https://www.phoronix.com/scan.php?page=news_item&px=Looking-Glass-KVM-Frame-Relay
- https://github.com/gnif/LookingGlass
- https://looking-glass.hostfission.com
-File Storage, [6/4/22 2:25 PM]
+https://www.phoronix.com/scan.php?page=news_item&px=Looking-Glass-KVM-Frame-Relay
+https://github.com/gnif/LookingGlass
+https://looking-glass.hostfission.com
 Open Source Game Clones
- https://osgameclones.com
-File Storage, [6/4/22 2:25 PM]
 Steam Workshop Downloaders
- http://steamworkshop.download
- http://steamworkshopdownloader.com
- https://steamworkshopdownloader.io
-File Storage, [6/4/22 2:25 PM]
- https://www.cswarzone.com/
-File Storage, [6/4/22 2:25 PM]
+http://steamworkshop.download
+http://steamworkshopdownloader.com
+https://steamworkshopdownloader.io
+https://www.cswarzone.com/
 Gaming on Linux
 Info
- https://www.reddit.com/r/linux_gaming
+https://www.reddit.com/r/linux_gaming
 https://www.reddit.com/r/linux_gaming/wiki/faq
 https://www.reddit.com/r/linux_gaming/wiki/freegames
 https://www.reddit.com/r/linux_gaming/wiki/index
@@ -5278,7 +4393,7 @@ https://www.reddit.com/r/wine_gaming
 https://www.reddit.com/r/SteamPlay
 https://libregamewiki.org/Main_Page
 Tools
- https://lutris.net
+https://lutris.net
 https://www.protondb.com
 https://www.winehq.org
 https://www.playonlinux.com/en
@@ -5286,32 +4401,28 @@ https://sharkwouter.github.io/minigalaxy
 https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/page1
 https://psi.cynicaloptimist.me/Caffarius/bn3t
 https://psi.cynicaloptimist.me/Caffarius/st34m
- https://the-eye.eu/public/Games/Linux/
- https://www.youtube.com/watch?v=HXgQVAl4JB4
- https://translate.google.com/translate?sl=auto&tl=en&u=
+https://the-eye.eu/public/Games/Linux/
+https://www.youtube.com/watch?v=HXgQVAl4JB4
+https://translate.google.com/translate?sl=auto&tl=en&u=
 https://rutracker.org/forum/viewforum.php?f%253D899
 https://translate.google.com/translate?hl=&sl=auto&tl=en&u=
 https%253A%252F%252Frutracker.org%252Fforum%252Fviewforum.php%253Ff%253D1992
 this legend uploads only linux games, either native or with compatibility wrappers:
- https://x1337x.ws/user/johncena141/
- https://1337x.to/user/johncena141
+https://x1337x.ws/user/johncena141/
+https://1337x.to/user/johncena141
 http://linuxgames.me
- https://looking-glass.io/
+https://looking-glass.io/
 Looking Glass is an open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. This is the final step required to move away from dual booting with other operating systems for legacy programs that require high performance graphics.
 How does Looking Glass work?
 This YouTube video featured created by the author features a detailed explanation:
- https://www.youtube.com/watch?v=U44lihtNVVM
-File Storage, [6/4/22 2:25 PM]
 The Complete Guide to Building Your Own Personal Streaming Service Powered by Docker and Plex
- https://old.reddit.com/r/Piracy/comments/ma1hlm/the_complete_guide_to_building_your_own_personal/
- https://web.archive.org/web/20210322041319
 https://old.reddit.com/r/Piracy/comments/ma1hlm/the_complete_guide_to_building_your_own_personal/
- https://archive.is/NFH7s
-File Storage, [6/4/22 2:25 PM]
+https://web.archive.org/web/20210322041319
+https://archive.is/NFH7s
 Seedbox Providers - Buying A Seedbox
 Below we have listed some trusted and respected Seedbox providers.
 Providers
- https://www.feralhosting.com/pricing
+https://www.feralhosting.com/pricing
 https://chmuranet.com
 https://www.seedhost.eu
 https://seedboxes.cc
@@ -5321,15 +4432,14 @@ https://seedbox.io
 https://bytesized-hosting.com
 https://www.xirvik.com
 Custom Seedboxes
- https://www.reddit.com/user/Andy10gbit
+https://www.reddit.com/user/Andy10gbit
 Andy's Discord:
 https://discord.gg/7Gv8tdM
 Reddit Resources
- https://www.reddit.com/r/seedboxes/wiki/index
+https://www.reddit.com/r/seedboxes/wiki/index
 https://www.reddit.com/r/seedboxes/wiki/seedbox_vendors
-File Storage, [6/4/22 2:25 PM]
 Seedbox Scripts - Make Your Own Seedbox
- https://github.com/arakasi72/rtinst
+https://github.com/arakasi72/rtinst
 https://github.com/liaralabs/swizzin
 https://github.com/QuickBox/QB
 https://github.com/toulousain79/MySB
@@ -5338,78 +4448,62 @@ https://github.com/Flood-UI/flood
 https://hoarding.me
 https://cloudbox.works
 https://flexget.com
-File Storage, [6/4/22 2:25 PM]
- https://github.com/alecmuffett/real-world-onion-sites
+https://github.com/alecmuffett/real-world-onion-sites
 File Storage, [6/4/22 2:26 PM]
- http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-File Storage, [6/4/22 2:26 PM]
+http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
 Host Own .onion Website in Dark Web
- https://www.kalilinux.in/2019/09/make-own-dark-website.html
-File Storage, [6/4/22 2:26 PM]
+https://www.kalilinux.in/2019/09/make-own-dark-website.html
 Onion.Sh Tor2Web Proxy
- https://onion.sh
+https://onion.sh
 Onion.Sh is a reverse proxy that forwards HTTP requests to requested Tor hidden services without the need to download new software.
 Just replace the URL in your browser from .onion to .onion.sh and browse.
 For example zqktlwi4i34kbat3.onion becomes zqktlwi4i34kbat3.onion.sh
 Onion.Sh is a proxy service which does not host and is not responsible for any content you find on a hidden service.
-File Storage, [6/4/22 2:26 PM]
 Also
 https://onion.ws and
 https://onion.ly
-File Storage, [6/4/22 2:26 PM]
 Host your own .onion site using nginx and Tor
- https://chown.io/guide-host-your-own-onion-site-tor-nginx/
- http://archive.is/aMUU8
-File Storage, [6/4/22 2:26 PM]
+https://chown.io/guide-host-your-own-onion-site-tor-nginx/
+http://archive.is/aMUU8
 mkp224o - vanity address generator for tor onion v3
- https://github.com/cathugger/mkp224o /
+https://github.com/cathugger/mkp224o /
 https://gitgud.io/cathugger/mkp224o /
 http://git.psii2pdloxelodts.onion/cathugger/mkp224o
 detailed walkthrough:
- https://www.jamieweb.net/blog/onionv3-vanity-address/
+https://www.jamieweb.net/blog/onionv3-vanity-address/
 TL;DR:
 Code: [Select]
 $ ./mkp224o -S 5 -d output-dir filter
 at boot with detached screen:
-Code: [Select]
 @reboot cd /path/to/mkp224o && screen -dmS onionv3 ./mkp224o -S 600 -d output-dir filter
 address generation time on a raspberry pi cluster:
- https://pastebin.com/raw/hdB8QU6z
+https://pastebin.com/raw/hdB8QU6z
 printhelp:
- https://gitgud.io/cathugger/mkp224o/blob/master/main.c#L81
-File Storage, [6/4/22 2:26 PM]
+https://gitgud.io/cathugger/mkp224o/blob/master/main.c#L81
 Generate and rotate .onion addresses
- https://chown.io/guide-generate-rotate-onion-addresses/
-File Storage, [6/4/22 2:26 PM]
+https://chown.io/guide-generate-rotate-onion-addresses/
 Defend against DDoS attacks on Tor
- https://chown.io/defend-against-ddos-tor/
-File Storage, [6/4/22 2:26 PM]
+https://chown.io/defend-against-ddos-tor/
 Deanonymizing Tor Circuits
- https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html
- http://archive.is/M4Ify
-File Storage, [6/4/22 2:26 PM]
+https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html
+http://archive.is/M4Ify
 Don't HTTPS Your Onions
- https://matt.traudt.xyz/posts/dont-
-https-your-o44SnkW2.html
- https://web.archive.org/web/20200301034717
 https://matt.traudt.xyz/posts/dont-
 https-your-o44SnkW2.html
- https://archive.is/ELHNl
-File Storage, [6/4/22 2:26 PM]
+https://web.archive.org/web/20200301034717
+https://archive.is/ELHNl
 Candle (Search Engine)
- http://gjobqjj7wyczbqie.onion/
+http://gjobqjj7wyczbqie.onion/
 Not Evil (Search Engine)
- http://hss3uro2hsxfogfq.onion/
+http://hss3uro2hsxfogfq.onion/
 Ayy Lmao (Flash)
- http://yniir5c6cmuwslfl.onion/ayylmao2/
+http://yniir5c6cmuwslfl.onion/ayylmao2/
 haystak: your darknet search engine
- http://haystakvxad7wbk5.onion/
+http://haystakvxad7wbk5.onion/
 Euro Buk Simulator 2014 (Game)
- http://hcuizi6fw5wama4d.onion/
-File Storage, [6/4/22 2:26 PM]
- http://onions53ehmf4q75.onion.ly/services.html
+http://hcuizi6fw5wama4d.onion/
+http://onions53ehmf4q75.onion.ly/services.html
 http://onions53ehmf4q75.onion/services.html
-File Storage, [6/4/22 2:26 PM]
 expyuzz4wqqyqhjn.onion - Tor Project
 qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion - Qubes OS
 dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion - Whonix OS
@@ -5444,27 +4538,21 @@ lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion - OnionShare
 rpzgejae7cxxst5vysqsijblti4duzn3kjsmn43ddi2l3jblhk4a44id.onion - WikiLeaks submission
 Sources are original websites, dark.fail,
 https://wikileaks.org/-Leaks-.html#submit_help_tor
-File Storage, [6/4/22 2:26 PM]
 OnionSearch
- https://github.com/megadose/OnionSearch
+https://github.com/megadose/OnionSearch
 OnionSearch is a script that scrapes urls on different .onion search engines.
-File Storage, [6/4/22 2:26 PM]
- https://darknetlive.com/markets
+https://darknetlive.com/markets
 https://onion.live
 https://njal.la/blog/hijack/
 Also see:
 https://weboas.is/forum/index.php?topic=4681.0
-File Storage, [6/4/22 2:26 PM]
 Data-Leaks
- http://signpostcjbbviqdhfbtocj6dthbd7cpvo3tpwrrfhkkk4fafjd53nyd.onion/tag/112
-File Storage, [6/4/22 2:26 PM]
+http://signpostcjbbviqdhfbtocj6dthbd7cpvo3tpwrrfhkkk4fafjd53nyd.onion/tag/112
 Fek.
 چقدر طول کشید، بلاخره بکاپ گیریم تموم شد، راضیم، حالا یک روز و نیم بیخوابی بخوابم
-File Storage, [6/4/22 2:26 PM]
 حالا که ناموسمو بکاپ گرفتم نتم ردیف شد اکانت گوگلمو میپاکم و microg میزنم....
-File Storage, [6/4/22 2:26 PM]
 @science
- https://github.com/xgrommx/awesome-functional-programming
+https://github.com/xgrommx/awesome-functional-programming
 https://odysee.com/@CyberLounge:a/six-bullshit-arguments-against-right-to-repair:8
 https://github.com/AnsBalin/wordler
 https://github.com/mattermost/focalboard
@@ -5478,7 +4566,7 @@ https://www.sovietmaps.com/node/2
 https://github.com/khuedoan/homelab
 https://openapi.tools
 https://whyisdenuvobad.github.io/
- https://github.com/CarolinaCampi/Wordle
+https://github.com/CarolinaCampi/Wordle
 https://startupcities.carrd.co
 https://piggsboson.medium.com/books-you-need-to-master-the-concepts-of-physics-and-math-f29bf2f7143d
 https://github.com/KevinXuxuxu/wordle_machine
@@ -5488,115 +4576,71 @@ https://github.com/freifunkMUC/wg-access-server
 https://unsubscribefromamazonrecruiters.com
 https://github.com/jason-chao/wordle-solver
 "What is the most useful website? Why?"
- https://letsblock.it/
+https://letsblock.it/
 File Storage, [6/4/22 2:21 PM]
- https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
- https://github.com/fawazahmed0/cloudflare-multi-cors-proxy
-File Storage, [6/4/22 2:21 PM]
+https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
+https://github.com/fawazahmed0/cloudflare-multi-cors-proxy
 FREE VPS
- https://www.oracle.com/cloud/free/
- https://www.ibm.com/cloud/free
- https://aws.amazon.com/free/
- https://azure.microsoft.com/en-us/free/
- https://www.alibabacloud.com/campaign/free-trial
- https://evolution-host.com/free-vps.php
- https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php
- https://private-hosting.eu/store/free-vps-hosting
- https://www.accuwebhosting.com/vps-hosting/windows/free-vps
- https://microlxc.net
- https://nanokvm.net
- https://www.vultr.com/promo/try50/ ($50 Free Credit)
- https://katapult.io (£100 Free Credit)
- https://www.digitalocean.com/github-students
+https://www.oracle.com/cloud/free/
+https://www.ibm.com/cloud/free
+https://aws.amazon.com/free/
+https://azure.microsoft.com/en-us/free/
+https://www.alibabacloud.com/campaign/free-trial
+https://evolution-host.com/free-vps.php
+https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php
+https://private-hosting.eu/store/free-vps-hosting
+https://www.accuwebhosting.com/vps-hosting/windows/free-vps
+https://microlxc.net
+https://nanokvm.net
+https://www.vultr.com/promo/try50/ ($50 Free Credit)
+https://katapult.io (£100 Free Credit)
+https://www.digitalocean.com/github-students
 https://try.digitalocean.com/freetrialoffer/
 Know of any others? List them below!
-File Storage, [6/4/22 2:21 PM]
- http://freehostingnoads.net
+http://freehostingnoads.net
 Disk Space: 20GB
 Transfer: 200GB
 Ads: NO
- https://www.2freehosting.com
-Disk Space: 20GB
+https://www.2freehosting.com
 Transfer: 150GB
-Ads: NO
- http://freehostinghero.com
+http://freehostinghero.com
 Disk Space: 15GB
-Transfer: 150GB
-Ads: NO
- http://www.instafree.com
+http://www.instafree.com
 Disk Space: 10GB
 Transfer: 100GB
-Ads: NO
- https://www.freeost.com
-Disk Space: 10GB
-Transfer: 100GB
-Ads: NO
- http://www.1freehosting.com
-Disk Space: 10GB
-Transfer: 100GB
-Ads: NO
- http://nav.host
+https://www.freeost.com
+http://www.1freehosting.com
+http://nav.host
 Disk Space: 2GB
 Transfer: 20GB
-Ads: NO
- http://www.1apps.com
+http://www.1apps.com
 Disk Space: 1GB
-Transfer: 100GB
-Ads: NO
- http://www.fnhost.org
-Disk Space: 1GB
+http://www.fnhost.org
 Transfer: 50GB
-Ads: NO
- https://hostdrop.eu
-Disk Space: 1GB
+https://hostdrop.eu
 Transfer: 10GB
-Ads: NO
- http://www.batcave.net
-Disk Space: 1GB
+http://www.batcave.net
 Transfer: 5GB
-Ads: NO
- http://www.heliohost.org
+http://www.heliohost.org
 Disk Space: 0.5GB
 Transfer: Unmetered
-Ads: NO
- http://www.freehostia.com
+http://www.freehostia.com
 Disk Space: 0.25GB
 Transfer: 6GB
-Ads: NO
- http://www.biz.nf
-Disk Space: 0.25GB
-Transfer: 5GB
-Ads: NO
- http://www.awardspace.com
-Disk Space: 0.25GB
-Transfer: 5GB
-Ads: NO
- http://www.advancedfreeweb.com
+http://www.biz.nf
+http://www.awardspace.com
+http://www.advancedfreeweb.com
 Disk Space: They Claim Unlimited
 Transfer: They Claim Unlimited
-Ads: NO
- http://en.altervista.org
-Disk Space: They Claim Unlimited
-Transfer: They Claim Unlimited
-Ads: NO
- http://www.hostfree.pw
-Disk Space: They Claim Unlimited
-Transfer: They Claim Unlimited
-Ads: NO
- http://www.ucoz.com
-Disk Space: They Claim Unlimited
-Transfer: They Claim Unlimited
-Ads: NO
- http://www.50webs.com
-Disk Space: 0.5GB
-Transfer: 5GB
+http://en.altervista.org
+http://www.hostfree.pw
+http://www.ucoz.com
+http://www.50webs.com
 Ads: Unknown
- http://www.100webspace.com
+http://www.100webspace.com
 Disk Space: 0.1GB
 Transfer: 3GB
 Ads: YES
-.
-File Storage, [6/4/22 2:21 PM]
 Free Domain Registration Services
 .TK –
 http://www.dot.tk
@@ -5609,33 +4653,26 @@ http://www.point.ml
 .GQ –
 http://www.dominio.gq
 .CO.NF –
-http://www.biz.nf
 .CO.NR –
 http://www.freedomain.co.nr
 .COM.NU –
 http://www.com.nu
 File Storage, [6/4/22 2:22 PM]
- http://www.instafree.com/
-File Storage, [6/4/22 2:22 PM]
- https://infinityfree.net/
- https://infinityfree.net
+http://www.instafree.com/
+https://infinityfree.net/
+https://infinityfree.net
 https://www.freehosting.com
 https://ophosting.net
-File Storage, [6/4/22 2:22 PM]
- https://app.netlify.com/drop
+https://app.netlify.com/drop
 https://atspace.com
- https://vercel.com/
-File Storage, [6/4/22 2:22 PM]
- https://byet.host/free-hosting
+https://vercel.com/
+https://byet.host/free-hosting
 https://www.roast.io
 https://docs.replit.com/repls/web-hosting
-File Storage, [6/4/22 2:22 PM]
 Windows Lite Templates Support(Bios/Uefi boot) KVM/XEN/Hyper-V Virtualization
- https://www.lowendtalk.com/discussion/173649/windows-lite-templates-support-bios-uefi-boot-kvm-xen-hyper-v-virtualization
- https://web.archive.org/web/20210906180155
 https://www.lowendtalk.com/discussion/173649/windows-lite-templates-support-bios-uefi-boot-kvm-xen-hyper-v-virtualization
- https://archive.is/qm8b0
-Quote
+https://web.archive.org/web/20210906180155
+https://archive.is/qm8b0
 As many of you are aware, I have been building lite templates allowing Microsoft Windows to be easily installed onto servers from AWS Cloud/Google Cloud/Microsoft Azure Cloud/Oracle Cloud/Other, etc. and making them available via my website:
 http://d.nat.ee
 I have been creating windows suitable for use on low-end machines. You can run windows 7 smoothly on machines with 512M RAM.
@@ -5661,36 +4698,35 @@ Install: apt-get install efibootmgr
 command: efibootmgr
 I can say for sure, support Oracle Cloud for free use,I have been running Windows Server 2012 R2 stably for more than a year.
 All windows templates do not have activation, please use genuine authorization by yourself
-File Storage, [6/4/22 2:22 PM]
 Hacked Server MarketPlace:
- https://wannabuy.biz
+https://wannabuy.biz
 Hosting Company Reaction Times:
- https://urlhaus.abuse.ch/statistics/reactiontime/
+https://urlhaus.abuse.ch/statistics/reactiontime/
 Spam By ASN:
- https://cleantalk.org/blacklists/asn
+https://cleantalk.org/blacklists/asn
 Learning Materials:
- https://www.usenix.org/system/files/sec19-noroozian.pdf
- https://torrentfreak.com/images/ESA_Filing_on_2019_Notorious_Markets_Review-1.pdf
- https://torrentfreak.com/images/MPAA_2018_Notorious_Markets_OCR.pdf
- https://torrentfreak.com/images/Notorious_Markets_Submission_for_2019_final.pdf
- https://torrentfreak.com/images/Motion_Picture_Association_2019_Notorious_Markets_OCR.pdf
- https://www.trendmicro.no/media/wp/wp-criminal-hideouts-for-lease-en.pdf
- https://www.docdroid.net/5I9myQK/5-6-2-aswatch-camera-pdf
- https://www.docdroid.net/7qjWmHX/fle-f02-how-a-diverse-underground-ecosystem-creates-resilience-in-the-dark-web-pdf
- http://damonmccoy.com/papers/alrwais2017under.pdf
- https://www.docdroid.net/B4qc2AQ/summit-archive-1517343456-pdf
- https://ripe78.ripe.net/presentations/122-presso3.pdf
- https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/BRKSEC-2049.pdf
- https://www.first.org/resources/papers/prague2017/Borderless_Cyber_2017-final_Dec7_2017.pdf
- https://ripe77.ripe.net/presentations/134-RIPE77_Anti_Abuse_WG.pdf
- https://www.eff.org/files/2017/08/02/domain_registry_whitepaper.pdf
- https://conference.hitb.org/hitbsecconf2018ams/materials/D1 COMMSEC - Dhia Mahjoub and Sarah Brown - Privacy and Protection for Criminals - Behaviors and Patterns of Rogue Hosting Providers.pdf
+https://www.usenix.org/system/files/sec19-noroozian.pdf
+https://torrentfreak.com/images/ESA_Filing_on_2019_Notorious_Markets_Review-1.pdf
+https://torrentfreak.com/images/MPAA_2018_Notorious_Markets_OCR.pdf
+https://torrentfreak.com/images/Notorious_Markets_Submission_for_2019_final.pdf
+https://torrentfreak.com/images/Motion_Picture_Association_2019_Notorious_Markets_OCR.pdf
+https://www.trendmicro.no/media/wp/wp-criminal-hideouts-for-lease-en.pdf
+https://www.docdroid.net/5I9myQK/5-6-2-aswatch-camera-pdf
+https://www.docdroid.net/7qjWmHX/fle-f02-how-a-diverse-underground-ecosystem-creates-resilience-in-the-dark-web-pdf
+http://damonmccoy.com/papers/alrwais2017under.pdf
+https://www.docdroid.net/B4qc2AQ/summit-archive-1517343456-pdf
+https://ripe78.ripe.net/presentations/122-presso3.pdf
+https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/BRKSEC-2049.pdf
+https://www.first.org/resources/papers/prague2017/Borderless_Cyber_2017-final_Dec7_2017.pdf
+https://ripe77.ripe.net/presentations/134-RIPE77_Anti_Abuse_WG.pdf
+https://www.eff.org/files/2017/08/02/domain_registry_whitepaper.pdf
+https://conference.hitb.org/hitbsecconf2018ams/materials/D1 COMMSEC - Dhia Mahjoub and Sarah Brown - Privacy and Protection for Criminals - Behaviors and Patterns of Rogue Hosting Providers.pdf
 Articles:
- https://www.theguardian.com/world/2019/jul/05/how-britain-can-help-you-get-away-with-stealing-millions-a-five-step-guide
- https://www.zdnet.com/article/authorities-shut-down-xdedic-marketplace-for-buying-hacked-servers/
- https://krebsonsecurity.com/2019/07/meet-the-worlds-biggest-bulletproof-hoster/
- https://medium.com/@dephekt/part-2-anon-ib-quasi-networks-and-the-exploitation-of-women-6a86723f44fd
- https://www.youtube.com/watch?v=gHewB06Bnrk
+https://www.theguardian.com/world/2019/jul/05/how-britain-can-help-you-get-away-with-stealing-millions-a-five-step-guide
+https://www.zdnet.com/article/authorities-shut-down-xdedic-marketplace-for-buying-hacked-servers/
+https://krebsonsecurity.com/2019/07/meet-the-worlds-biggest-bulletproof-hoster/
+https://medium.com/@dephekt/part-2-anon-ib-quasi-networks-and-the-exploitation-of-women-6a86723f44fd
+https://www.youtube.com/watch?v=gHewB06Bnrk
 https://www.youtube.com/watch?v=co2cvi_5FIc
 https://www.youtube.com/watch?v=CashAq5RToM
 https://www.youtube.com/watch?v=AbJCOVLQbjs
@@ -5699,22 +4735,17 @@ https://www.youtube.com/watch?v=ep2gHQgjYTs
 https://www.youtube.com/watch?v=PGTTRN6Vs-Y
 https://www.youtube.com/watch?v=iw0crv82iYo
 https://www.youtube.com/watch?v=Ie_1uh23voc
-File Storage, [6/4/22 2:22 PM]
 [ File : host.pdf ]
 هاست سایتایی که DMCA نمیخوره به احتمال قوی
-File Storage, [6/4/22 2:22 PM]
 goop - Google Search Scraper
- https://github.com/s0md3v/goop
+https://github.com/s0md3v/goop
 goop can perform google searches without being blocked by the CAPTCHA or hitting any rate limits
-File Storage, [6/4/22 2:22 PM]
 Diggza Search Engine Submission Tool
- https://diggza.com
-File Storage, [6/4/22 2:22 PM]
+https://diggza.com
 2,190+ Guest Blogging Opportunities (125.18 KB)
- https://mirrorace.com/m/4Yyey
-File Storage, [6/4/22 2:22 PM]
+https://mirrorace.com/m/4Yyey
 Sites To Download Free Graphics
- https://www.svgrepo.com
+https://www.svgrepo.com
 https://thenounproject.com
 https://downloader.la
 https://nohat.cc
@@ -5725,12 +4756,10 @@ https://graphicex.com
 https://gfxcosy.com
 https://www.gfxtra31.com
 https://psdkeys.com
-File Storage, [6/4/22 2:22 PM]
 HIPLOAD - Free Files Hosting - Quick & Easy!
- https://codecanyon.net/item/hipload-free-files-hosting-quick-easy/91815
+https://codecanyon.net/item/hipload-free-files-hosting-quick-easy/91815
 DOWNLOAD
- https://1fichier.com/?yqeg6gqkpr92mfzpy7av
-File Storage, [6/4/22 2:22 PM]
+https://1fichier.com/?yqeg6gqkpr92mfzpy7av
 2000+ PHP Scripts
 Had these on my hard drive for a while, they could be shit-ware for all I know back from like the 2007 - 2015 era, dno if you'll find any use for it but I uploaded for the sake of preservation, enjoy:
 Download
@@ -5740,39 +4769,32 @@ Hashes
 CRC32: 9F127719
 MD5: 1FFC2EDB1BABA711CC405794BFA75FF7
 SHA-1: C4A10A3810C1856425556FA6D7B57D9C7AEFF45B
-File Storage, [6/4/22 2:22 PM]
 FRUBIL - JavaScript Device Detection
- https://frubil.info
-File Storage, [6/4/22 2:22 PM]
+https://frubil.info
 ForumMatrix - Find the right Forum software for your needs
- https://www.forummatrix.org
+https://www.forummatrix.org
 Find the right Forum software for your needs. ForumMatrix helps you compare the features of different Forums in a comfortable side-by-side table. Select the Forums you're interested in below and click the compare button. Not sure where to start? Let the Choice Wizard guide you through a few questions to narrow down the available Forums to your needs.
-File Storage, [6/4/22 2:22 PM]
 Disposable Email Scripts
- https://www.inbucket.org
- https://github.com/o4oren/Ad-Hoc-Email-Server
- https://github.com/uilicious/inboxkitten
- https://gitlab.com/mailcare/mailcare
- https://github.com/mooyoul/poo.email
-File Storage, [6/4/22 2:22 PM]
- https://github.com/AUTOMATIC1111/4chan-captcha-solver
+https://www.inbucket.org
+https://github.com/o4oren/Ad-Hoc-Email-Server
+https://github.com/uilicious/inboxkitten
+https://gitlab.com/mailcare/mailcare
+https://github.com/mooyoul/poo.email
+https://github.com/AUTOMATIC1111/4chan-captcha-solver
 4chan-captcha-solver.user.js (7.7 MB) ->
 https://ufile.io/lcid36gq
- https://www.tampermonkey.net
-File Storage, [6/4/22 2:22 PM]
+https://www.tampermonkey.net
 Twitch Adblock (Purple Ads Blocker)
- https://github.com/arthurbolsoni/Purple-adblock
-File Storage, [6/4/22 2:22 PM]
+https://github.com/arthurbolsoni/Purple-adblock
 CorentinJ/Real-Time-Voice-Cloning
- https://github.com/CorentinJ/Real-Time-Voice-Cloning
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 Google Colab
- https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/RealTimeVoiceCloning.ipynb#scrollTo=WZjKkvGF1Y-i
+https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/RealTimeVoiceCloning.ipynb#scrollTo=WZjKkvGF1Y-i
 Demo (Jack Rhysider host of Darknet Diaries)
- https://streamable.com/zlsngs
-File Storage, [6/4/22 2:22 PM]
+https://streamable.com/zlsngs
 10 Best YouTube Channels to Learn Web Development
- https://www.youtube.com/user/DevTipsForDesigners
+https://www.youtube.com/user/DevTipsForDesigners
 https://www.youtube.com/user/learncodeacademy
 https://www.youtube.com/user/ChromeDevelopers
 https://www.youtube.com/user/LevelUpTuts
@@ -5783,43 +4805,34 @@ https://www.youtube.com/user/webdevmentors
 https://www.youtube.com/user/JREAMdesign
 File Storage, [6/4/22 2:23 PM]
 4 Good Resources For Learning JavaScript
- https://javascript.info
 https://eloquentjavascript.net
 https://github.com/getify/You-Dont-Know-JS
 https://github.com/getify/Functional-Light-JS
-File Storage, [6/4/22 2:23 PM]
 www.w3schools.com is another good place to learn JavaScript (and a whole lot more).
-File Storage, [6/4/22 2:23 PM]
 3 Web Developer Communities
- https://www.sitepoint.com/community/
- https://www.webmasterworld.com/home.htm
- https://www.daniweb.com
-File Storage, [6/4/22 2:23 PM]
+https://www.sitepoint.com/community/
+https://www.webmasterworld.com/home.htm
+https://www.daniweb.com
 Debuild - GPT-3 Code Generator
- https://debuild.co
 Build web apps lightning fast.
 Just describe what your app should do in plain English, then start using it within seconds.
-File Storage, [6/4/22 2:23 PM]
 VPN / Proxy Detection API
- https://vpnapi.io
+https://vpnapi.io
 VPNAPI.io started out as a small IP address side project in 2017, where users would get the geolocation details of an IP address. Few months later, the first VPN and proxy checker was created. Within a matter of months, our privacy detection tool was thousands of times each hour, which check and tested each IP address to see if they were a potential threat to a website or business. Since 2017, our API had determined over 900 million API requests which considered if an IP was either a VPN, proxy, or TOR node. In 2019, we began implementing crawlers all across the net, in search for internet protocols that may be used for either of the three. The reason why we decided to create VPNAPI.io is to rebuild the perfect detection API from the ground up, which allows us to easily expand. Our goal is to constantly provide a service that can give you with the necessary protection in order to block malicious users and attacks.
 Free Plan
 Users can still use our services, however free users are limited to 1000 API requests per a day and server speeds may very, depending on the amount of free users using the API at the same time. For faster API queries, please consider purchasing an API plan.
-File Storage, [6/4/22 2:23 PM]
- https://ip.teoh.io/vpn-proxy-api
+https://ip.teoh.io/vpn-proxy-api
 "we strongly encourage users to limit their API usage to a 1000 request a day."
- https://proxycheck.io
+https://proxycheck.io
 "Sign up and receive 1,000 queries every day for free."
-File Storage, [6/4/22 2:23 PM]
 JavaScript Obfuscator Tool
- https://obfuscator.io
+https://obfuscator.io
 This tool transforms your original JavaScript source code into a new representation that's harder to understand, copy, re-use and modify without authorization. The obfuscated result will have the exact functionality of the original code.
 So, it is like UglifyJS, Closure Compiler, etc?
 Yes and no. While UglifyJS (and others minifiers) does make the output code harder to understand (compressed and ugly), it can be easily transformed into something readable using a JS Beautifier.
 This tool prevents that by using various transformations and "traps", such as self-defending and debug protection.
 How does the obfuscation work?
 Through a series of transformations, such as variable / function / arguments renaming, string removal, and others, your source code is transformed into something unreadable, while working exactly as before.
-File Storage, [6/4/22 2:23 PM]
 Coolify - An open-source, self-hostable Heroku & Netlify alternative
 Applications
 Deploy your Node.js , PHP, static sites, Rust, popular frontend frameworks or anything with a custom Dockerfile just by pushing code to git.
@@ -5830,80 +4843,67 @@ You can install Plausible Analytics with one-click and get richful data of your 
 Cronjobs
 coming soon
 Backups & monitoring
-coming soon
 Demo:
 https://cdn.coollabs.io/assets/coolify/video/coolify.mp4
 Website:
 https://coolify.io/
-File Storage, [6/4/22 2:23 PM]
 Streaming TV Shows
- https://flixgo.biz
+https://flixgo.biz
 https://noxx.to
 https://124movies.to
 https://www.filmlicious.net
-File Storage, [6/4/22 2:23 PM]
- https://watchtorrent.com and
+https://watchtorrent.com and
 https://webtor.io/en/
-File Storage, [6/4/22 2:23 PM]
 Streaming Movie Sites
- https://fmovies.to
- https://tinyzonetv.to
- https://tubitv.com
- https://www.primewire.vc
+https://fmovies.to
+https://tinyzonetv.to
+https://tubitv.com
+https://www.primewire.vc
 http://flixtor.to
 https://torrentfreak.com/cloudflare-must-expose-operators-of-popular-pirate-streaming-sites-200909/
 Sorted from best to worst for me, with the first ~half having a unique design.
- https://flixgo.biz
- https://azm.to
- https://noxx.to
- https://lookmovie.ag
- https://124movies.to
- https://www.filmlicious.net
- https://putlocker.how
- http://ezlive.tv
- http://kinoff.site
- http://wootly.ch
- https://moviesjoy.net
- https://uniquestream.net
- https://yesmovies.press
- https://gomovies.click
- https://putlocker.host
- https://123movies.review
- https://www6.fmovies.cloud
- https://www4.1movies.is
- https://onionplay.net
-File Storage, [6/4/22 2:23 PM]
- https://pahe.stream
+https://azm.to
+https://lookmovie.ag
+https://putlocker.how
+http://ezlive.tv
+http://kinoff.site
+http://wootly.ch
+https://moviesjoy.net
+https://uniquestream.net
+https://yesmovies.press
+https://gomovies.click
+https://putlocker.host
+https://123movies.review
+https://www6.fmovies.cloud
+https://www4.1movies.is
+https://onionplay.net
+https://pahe.stream
 https://cinema3000.netlify.app
 https://supernova.to
 https://www.movieminions.co
 https://www2.musichq.net/
-File Storage, [6/4/22 2:23 PM]
- https://ohh.io
-File Storage, [6/4/22 2:23 PM]
+https://ohh.io
 NBA - National Basketball Association
- https://live-nba.stream
- https://nbastream.nu
- https://nba-stream.com/next-games-live-3/
- http://buffstreamz.com/nba-streams/
- https://nbastream.net
- http://sports24.club/nba/
- https://nbabite.com/
- http://weakspell.com/category/nba-streams/
- https://reddit-livetv-links.blogspot.com/2020/01/nba-streams.html
- https://nba-streams.xyz
- https://sportsurge.net
- http://crackstreams.com/nbastreams/
- https://sportsbay.org/sports/basketball
- http://bilasport.net/nba.html
- http://sportstreamshd.com/index2.php?sport=basketball&cat=nba&im=nba
-File Storage, [6/4/22 2:23 PM]
+https://live-nba.stream
+https://nbastream.nu
+https://nba-stream.com/next-games-live-3/
+http://buffstreamz.com/nba-streams/
+https://nbastream.net
+http://sports24.club/nba/
+https://nbabite.com/
+http://weakspell.com/category/nba-streams/
+https://reddit-livetv-links.blogspot.com/2020/01/nba-streams.html
+https://nba-streams.xyz
+https://sportsurge.net
+http://crackstreams.com/nbastreams/
+https://sportsbay.org/sports/basketball
+http://bilasport.net/nba.html
+http://sportstreamshd.com/index2.php?sport=basketball&cat=nba&im=nba
 Sports24.Club
 Main URL:
 http://sports24.club
-File Storage, [6/4/22 2:23 PM]
 Iptv
- https://www.parsatv.com
+https://www.parsatv.com
 https://123stream-tv2.blogspot.com
 http://www.zahipedia.net
 https://www.livenewsnow.com
@@ -5919,44 +4919,41 @@ https://www.livenewsmag.com
 https://streamfare.com
 https://top-news.online/
 Football/Soccer
- https://my.soccerstreams100.tv
- http://livesoccers.tv
- https://live.soccerstreams.net/home
- https://soccer-live.stream/schedule/
- https://www.lmisport.com
- https://www.vipboxtv.se/football-stream
- https://daddylive.live
- https://home.footybite.com
- http://hackina.tech
- http://liveonscore.net/soccer-streams
- http://reddit-livetv-links.blogspot.com/2020/01/soccer-streams.html
- https://www.totalsportek.com/category/football/
- http://60fps.live
- http://www.ovostreams.com
- http://hdstreams.club
- https://soccer24hd.com
-File Storage, [6/4/22 2:23 PM]
+https://my.soccerstreams100.tv
+http://livesoccers.tv
+https://live.soccerstreams.net/home
+https://soccer-live.stream/schedule/
+https://www.lmisport.com
+https://www.vipboxtv.se/football-stream
+https://daddylive.live
+https://home.footybite.com
+http://hackina.tech
+http://liveonscore.net/soccer-streams
+http://reddit-livetv-links.blogspot.com/2020/01/soccer-streams.html
+https://www.totalsportek.com/category/football/
+http://60fps.live
+http://www.ovostreams.com
+http://hdstreams.club
+https://soccer24hd.com
 Puffer - Legally Stream NBC, CBS, ABC, PBS, Fox, and CW For FREE (USA Only)
- https://puffer.stanford.edu
+https://puffer.stanford.edu
 https://www.locast.org/
-File Storage, [6/4/22 2:23 PM]
 Cricket
- https://cricstream.me
- https://cricket-streams.com/live-stream-free-18/
- https://wicket.pw
- https://web.livecricket.is
- https://ustreamix.su/embed.php?id=ptv-cricket
- https://ustreamix.su/embed.php?id=star-sports-1-india
- https://wicket.pw/watch-star-sports-1-hd/
- http://free.crichd.online/embed2.php?id=starsp
- http://pronoob-tv.tk/StarSportsHd1hindi
- https://ustreamix.su/embed.php?id=star-sports-2
- http://pronoob-tv.tk/StarSportsHd1Eng
- https://ustreamix.su/embed.php?id=sky-sports-cricket
- https://ustreamix.su/embed.php?id=willow
-File Storage, [6/4/22 2:23 PM]
+https://cricstream.me
+https://cricket-streams.com/live-stream-free-18/
+https://wicket.pw
+https://web.livecricket.is
+https://ustreamix.su/embed.php?id=ptv-cricket
+https://ustreamix.su/embed.php?id=star-sports-1-india
+https://wicket.pw/watch-star-sports-1-hd/
+http://free.crichd.online/embed2.php?id=starsp
+http://pronoob-tv.tk/StarSportsHd1hindi
+https://ustreamix.su/embed.php?id=star-sports-2
+http://pronoob-tv.tk/StarSportsHd1Eng
+https://ustreamix.su/embed.php?id=sky-sports-cricket
+https://ustreamix.su/embed.php?id=willow
 MLB - Major League Baseball
- http://yoursports.stream/mlb
+http://yoursports.stream/mlb
 http://sports24.club/mlb
 http://bilasport.net/mlb.html
 https://mlb66.ir
@@ -5969,9 +4966,8 @@ http://everysports.us/mlb
 http://www.volokit.com/schedule
 http://www.worldcupfootball.me/mlb-stream
 https://reddit-livetv-links.blogspot.com/2020/01/mlb-streams.html
-File Storage, [6/4/22 2:23 PM]
 NHL - National Hockey League
- https://nhl66.ir
+https://nhl66.ir
 http://yoursports.stream
 http://sports24.club/nhl
 http://livetv.sx/export/webmasters.php?s=1&lang=en
@@ -5986,7 +4982,7 @@ File Storage, [6/4/22 2:24 PM]
 F1 - Formula 1
 Calendar:
 https://www.formula1.com/en/racing/2020.html
- http://60fpstv.com/watch/espn
+http://60fpstv.com/watch/espn
 https://ok.ru/video/2516154195539
 http://imkmedia.com/watch/espn
 http://yoursports.stream/live?v=espn
@@ -6022,141 +5018,129 @@ https://ustv247.tv/player.php?stream=ABC
 http://sports24.club/tv/v?id=skysportsft
 http://m.liveonlinetv.org/external.php?title=Sky Sports&stream=skysportsf1-hq
 http://cdn.crichd.to/embed2.php?id=skyspf1
-File Storage, [6/4/22 2:24 PM]
 Iptv Channels
- https://tv4mobile.weebly.com
+https://tv4mobile.weebly.com
 https://ustv247.tv
 http://imkmedia.com
 https://nowagoal.xyz
-https://daddylive.live
 https://hindimean.com
 https://www.streamlive.to
-http://123tvnow.com
-http://yoursports.stream
-https://ustvgo.tv
 https://vaughn.live
 https://www.arconaitv.us
 https://player.twitch.tv/?channel=h4ckermantv
 https://www.filmon.com/channel/2966?utm_source=filmon_iframe&utm_medium=filmon_iframe&utm_term=June2017&utm_content=redirect_channel&utm_campaign=redirect_channel&affid=66747Hg
-File Storage, [6/4/22 2:24 PM]
 Many UK Channels:
 https://uk-vision.blogspot.com
 5 Star
- https://tvpc.us/player/?cid=152
+https://tvpc.us/player/?cid=152
 5 USA
- https://tvpc.us/player/?cid=221
+https://tvpc.us/player/?cid=221
 Alibi
- https://easyview.eu/watch.php?stream=alibi
+https://easyview.eu/watch.php?stream=alibi
 Animal Planet UK
- http://www.sdw-net.me/channels/Animal-Planet-UK.html
+http://www.sdw-net.me/channels/Animal-Planet-UK.html
 BBC News
- https://tvpc.us/player?cid=12
+https://tvpc.us/player?cid=12
 https://easyview.eu/watch.php?stream=bbc-news
 BBC One
- https://easyview.eu/watch.php?stream=bbc-1
+https://easyview.eu/watch.php?stream=bbc-1
 https://tvpc.us/player?cid=5
 https://hqtv.biz/bbc-1
 BBC Two
- http://m.liveonlinetv247.info/external.php?title=BBC Two&stream=bbctwo-hq
+http://m.liveonlinetv247.info/external.php?title=BBC Two&stream=bbctwo-hq
 https://easyview.eu/watch.php?stream=bbc-two
 https://tvpc.us/player?cid=6
 BBC Four
- https://easyview.eu/watch.php?stream=bbc-four
+https://easyview.eu/watch.php?stream=bbc-four
 BBC Parliament
- https://easyview.eu/watch.php?stream=bbc-parliament
+https://easyview.eu/watch.php?stream=bbc-parliament
 BBC World News
- https://www.livenewsmag.com/bbc-world-news-live-stream/
+https://www.livenewsmag.com/bbc-world-news-live-stream/
 Box Hits
- https://tvpc.us/player/?cid=220
+https://tvpc.us/player/?cid=220
 BoxNation
- http://www.sdw-net.me/channels/BoxNation.html
+http://www.sdw-net.me/channels/BoxNation.html
 BT Sport Europe
- http://www.sdw-net.me/channels/BT-Sport-Europe.html
+http://www.sdw-net.me/channels/BT-Sport-Europe.html
 Capital TV
- http://www.sdw-net.me/channels/Capital.html
+http://www.sdw-net.me/channels/Capital.html
 CBBC
- https://easyview.eu/watch.php?stream=cbbc
+https://easyview.eu/watch.php?stream=cbbc
 CBeebies
- https://easyview.eu/watch.php?stream=cbeebies
+https://easyview.eu/watch.php?stream=cbeebies
 CBS Drama
- https://hqtv.biz/cbs-drama
+https://hqtv.biz/cbs-drama
 Challenge
- https://www.filmon.com/channel/challenge
+https://www.filmon.com/channel/challenge
 Channel 4
- https://tvpc.us/player/?cid=3
- https://www.stream2watch.ws/live/e4-live-stream
+https://tvpc.us/player/?cid=3
 https://www.stream2watch.ws/live/e4-live-stream
 Channel 5
- https://tvpc.us/player/?cid=11
+https://tvpc.us/player/?cid=11
 Chelsea TV
- https://tvpc.us/player?cid=260
+https://tvpc.us/player?cid=260
 CITV
- https://easyview.eu/watch.php?stream=citv
+https://easyview.eu/watch.php?stream=citv
 Dave
- https://easyview.eu/watch.php?stream=dave
+https://easyview.eu/watch.php?stream=dave
 Discovery Channel UK
- https://unblocked.lol/discovery
+https://unblocked.lol/discovery
 Discovery Turbo UK
- https://unblocked.lol/turbo
+https://unblocked.lol/turbo
 Drama
- https://tvpc.us/player/?cid=75
+https://tvpc.us/player/?cid=75
 History Channel UK
- http://unblocked.lol/history
+http://unblocked.lol/history
 ITV
- https://easyview.eu/watch.php?stream=itv
+https://easyview.eu/watch.php?stream=itv
 http://www.sdw-net.me/channels/ITV-1.html
 https://tvpc.us/player/?cid=62
 https://hqtv.biz/itv-1
 ITV 2
- https://easyview.eu/watch.php?stream=itv2
+https://easyview.eu/watch.php?stream=itv2
 http://www.sdw-net.me/channels/ITV-2.html
 https://tvpc.us/player/?cid=7
 https://hqtv.biz/itv-2
 ITV 3
- https://easyview.eu/watch.php?stream=itv3
+https://easyview.eu/watch.php?stream=itv3
 https://tvpc.us/player/?cid=8
 https://hqtv.biz/itv-3
 ITV 4
- https://easyview.eu/watch.php?stream=itv4
+https://easyview.eu/watch.php?stream=itv4
 https://tvpc.us/player/?cid=9
 https://hqtv.biz/itv-4
 ITV+1
- https://tvpc.us/player/?cid=223
+https://tvpc.us/player/?cid=223
 https://hqtv.biz/itv-1-plus
 ITV 2+1
- https://tvpc.us/player/?cid=222
+https://tvpc.us/player/?cid=222
 https://hqtv.biz/itv-2-plus
 ITV 3+1
- https://tvpc.us/player/?cid=224
+https://tvpc.us/player/?cid=224
 https://hqtv.biz/itv-3-plus
 ITV 4+1
- https://tvpc.us/player?cid=225
+https://tvpc.us/player?cid=225
 https://hqtv.biz/itv-4-plus
 ITV Be
- https://tvpc.us/player?cid=226
+https://tvpc.us/player?cid=226
 https://hqtv.biz/itvbe
 More4
- https://tvpc.us/player/?cid=14
-File Storage, [6/4/22 2:24 PM]
+https://tvpc.us/player/?cid=14
 Favorite Live TV Sites
- https://pluto.tv
+https://pluto.tv
 https://ustreamix.to
 http://myustv.com
-https://ustvgo.tv
-https://ustv247.tv
 http://123tvnow.com/top-streams
 https://reddit-livetv-links.blogspot.com
 https://old.reddit.com/r/LiveTvLinks/
-File Storage, [6/4/22 2:24 PM]
 Replay Full Sporting Events - NFL, NBA, Soccer, F1, Etc
- https://racingfk.com
+https://racingfk.com
 https://nflfullhd.com
 https://fullmatchtv.com
 https://www.nbareplayhd.com
-File Storage, [6/4/22 2:24 PM]
 OnlyFans Alternatives
 List all the alternatives to OnlyFans you know about since OnlyFans is planning to ban porn in a couple months.
- https://justfor.fans
+https://justfor.fans
 https://stars.avn.com
 https://fancentro.com
 https://admireme.vip
@@ -6165,119 +5149,100 @@ https://www.manyvids.com
 https://chaturbate.com
 https://www.cam4.com
 https://www.loyalfans.com/
-File Storage, [6/4/22 2:24 PM]
 Free sites for education
 I've seen threads like these before but it seems like it's mostly the same old (sometimes outdated) sites so I thought I'd update it a little bit. <b>I have personally used every resource on this list.</b>
 Big four
 These are the most commonly shared resources. These are the "big four" in my opinion, but they aren't necessarily the best or the most quality. If you're new to online learning, these are the ones you'll probably go to first.
- http://www.edx.org/ -->EdX Free courses from top universities, pay for a verified certificate. EdX certificates are probably the most valuable certificates here.
- http://www.coursera.com/ -->Coursera Free courses from top universities again, pay for a verified certificate. Has more options than EdX.
- http://www.alison.com/ -->ALISON Lots of free courses with free certificates. In my opinion these courses are not the best quality but if you want some free certifications quick, it's good for that. I would personally advise against spending money there.
- https://www.khanacademy.org/ -->Khan Academy Tons of free courses with tons of useful content, particularly in math. No certificates.
+http://www.edx.org/ -->EdX Free courses from top universities, pay for a verified certificate. EdX certificates are probably the most valuable certificates here.
+http://www.coursera.com/ -->Coursera Free courses from top universities again, pay for a verified certificate. Has more options than EdX.
+http://www.alison.com/ -->ALISON Lots of free courses with free certificates. In my opinion these courses are not the best quality but if you want some free certifications quick, it's good for that. I would personally advise against spending money there.
+https://www.khanacademy.org/ -->Khan Academy Tons of free courses with tons of useful content, particularly in math. No certificates.
 New resources
 Here are some rarely-shared resources, and in my opinion they're the most valuable.
- https://www.freecodecamp.org/ -->Freecodecamp Free courses on web design (300+ hours each) with free certificates. Incredibly streamlined.
- https://thegymnasium.com/ -->Aquent Gymnasium Free courses on web design and related topics with free certificates. Definitely one of the highest-quality providers here.
- https://lagunita.stanford.edu/ -->Stanford Lagunita Free courses on advanced topics from <em>fucking Stanford</em> with free certificates.
- http://open.edu/openlearn -->OpenLearn Free courses from the Open University, many with free certificates (technically "statements of participation"). Very high-quality courses.
- https://provalenslearning.com/ -->proValens Learning Free and paid courses with certificates from the National Parks Service. I have 3 certificates from here; I highly recommend them if you're interested in this type of stuff.
- https://learndigital.withgoogle.com/digitalgarage/courses -->Google Digital Garage Tons of free and paid courses, with a pretty valuable
+https://www.freecodecamp.org/ -->Freecodecamp Free courses on web design (300+ hours each) with free certificates. Incredibly streamlined.
+https://thegymnasium.com/ -->Aquent Gymnasium Free courses on web design and related topics with free certificates. Definitely one of the highest-quality providers here.
+https://lagunita.stanford.edu/ -->Stanford Lagunita Free courses on advanced topics from <em>fucking Stanford</em> with free certificates.
+http://open.edu/openlearn -->OpenLearn Free courses from the Open University, many with free certificates (technically "statements of participation"). Very high-quality courses.
+https://provalenslearning.com/ -->proValens Learning Free and paid courses with certificates from the National Parks Service. I have 3 certificates from here; I highly recommend them if you're interested in this type of stuff.
+https://learndigital.withgoogle.com/digitalgarage/courses -->Google Digital Garage Tons of free and paid courses, with a pretty valuable
 https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing -->free certificate in digital marketing
- https://learn.saylor.org/ -->Saylor Academy It's been a <b>long</b> time since I used Saylor Academy but last I remember, they offered free courses, with free certificates, and the learning was pretty high-quality. It might have changed in the 6 or 7 years since I've used Saylor. But they're still advertising "Free, Modern Certificates" on their homepage so maybe not.
+https://learn.saylor.org/ -->Saylor Academy It's been a <b>long</b> time since I used Saylor Academy but last I remember, they offered free courses, with free certificates, and the learning was pretty high-quality. It might have changed in the 6 or 7 years since I've used Saylor. But they're still advertising "Free, Modern Certificates" on their homepage so maybe not.
 Misc. resources
 Here are some niche resources that don't have such a wide audience or don't offer certificates, but that I have personally found very useful and/or interesting and/or funny.
- https://www.schoolofhaskell.com/ -->School of Haskell Learn
+https://www.schoolofhaskell.com/ -->School of Haskell Learn
 https://en.wikipedia.org/wiki/Haskell -->Haskell for free. No certificates.
-Code: [Select]
- https://www.youtube.com/user/YaleCourses-->YaleCourses Free video courses hosted on YouTube; a ton of really good information here. Of course, no certificates.
- https://online.hillsdale.edu/dashboard/courses -->Hillsdale College Free courses with free certificates from a real college -- a private, conservative-leaning Christian college that is.
- https://theoreticalminimum.com/ -->Theoretical Minimum Free courses on advanced science topics lead by a seminal physicist, Leonard Susskind. No certificate but the education is top-notch.
- https://www.artybollocks.com/certificate.html -->Become a certified artist instantly It's a joke, but hey, free certificate! Remember to get a free randomly-generated
+https://www.youtube.com/user/YaleCourses-->YaleCourses Free video courses hosted on YouTube; a ton of really good information here. Of course, no certificates.
+https://online.hillsdale.edu/dashboard/courses -->Hillsdale College Free courses with free certificates from a real college -- a private, conservative-leaning Christian college that is.
+https://theoreticalminimum.com/ -->Theoretical Minimum Free courses on advanced science topics lead by a seminal physicist, Leonard Susskind. No certificate but the education is top-notch.
+https://www.artybollocks.com/certificate.html -->Become a certified artist instantly It's a joke, but hey, free certificate! Remember to get a free randomly-generated
 https://www.artybollocks.com/generator.html -->artist's statement while you're at it, too.
-File Storage, [6/4/22 2:24 PM]
- http://game-theory-class.org/ -->Game Theory Online Nice little lecture series on game theory that is both standalone on
+http://game-theory-class.org/ -->Game Theory Online Nice little lecture series on game theory that is both standalone on
 https://www.youtube.com/user/gametheoryonline -->YouTube and hosted on Coursera. It's an okay course but I prefer:
- http://gametheory101.com/courses/ -->Game Theory 101 Actually has a ton of free video courses ranging from logic to international relations. No certificates but full of good, useful, dense information.
- http://openmusictheory.com/ -->Open Music Theory An online course (technically a "hybrid textbook) from
+http://gametheory101.com/courses/ -->Game Theory 101 Actually has a ton of free video courses ranging from logic to international relations. No certificates but full of good, useful, dense information.
+http://openmusictheory.com/ -->Open Music Theory An online course (technically a "hybrid textbook) from
 https://hybridpedagogy.org/ -->Hybrid Pedagogy on, you guessed it, music theory. No certificate.
- https://semioticon.com/sio/ -->Semiotics Institute Online Free, highly advanced courses on semiotics led by eminent theorists. No certificates. My personal favorite, but I'm a big nerd and have a background in semiotics already.
- https://www.catholiconline.school/ -->Catholic Online School Tons of free course with tons of free certificates...but it's an online Catholic school. I took a course for fun and now I have a certificate in, uh, "Secret Message of Our Lady of Fatima."
- https://en.wikiversity.org/wiki/Wikiversity:Main_Page -->Wikiversity Tons of user-made courses and other learning resources. It presents itself as a hybrid between a university and a wiki, it even
+https://semioticon.com/sio/ -->Semiotics Institute Online Free, highly advanced courses on semiotics led by eminent theorists. No certificates. My personal favorite, but I'm a big nerd and have a background in semiotics already.
+https://www.catholiconline.school/ -->Catholic Online School Tons of free course with tons of free certificates...but it's an online Catholic school. I took a course for fun and now I have a certificate in, uh, "Secret Message of Our Lady of Fatima."
+https://en.wikiversity.org/wiki/Wikiversity:Main_Page -->Wikiversity Tons of user-made courses and other learning resources. It presents itself as a hybrid between a university and a wiki, it even
 https://en.wikiversity.org/wiki/Portal:Research -->conducts its own research and
 https://en.wikiversity.org/wiki/WikiJournal_User_Group -->publishes its own journals! No certificates of course.
- https://openedx.atlassian.net/wiki/spaces/COMM/pages/162245773/Sites+powered+by+Open+edX+Platform -->Any of the sites listed here This is a list of websites which use the EdX architecture, so they're essentially clones. There's a ton to go through and only a fraction of them work, and even less are open to the public. Still, there might be some hidden gems here and there. Some of them will provide certificates and others will not.
+https://openedx.atlassian.net/wiki/spaces/COMM/pages/162245773/Sites+powered+by+Open+edX+Platform -->Any of the sites listed here This is a list of websites which use the EdX architecture, so they're essentially clones. There's a ton to go through and only a fraction of them work, and even less are open to the public. Still, there might be some hidden gems here and there. Some of them will provide certificates and others will not.
 Sites to watch out for
 These are sites I see being thrown around that I believe are either entirely predatory or just not worth the risk.
- https://www.udemy.com/ -->Udemy Udemy is useful for learning practical skills sometimes (keyword sometimes) but the courses themselves are very low-quality, and sometimes make really dishonest claims (like the hundreds of user-made courses that claim to certify you as a CBT / DBT therapist.) Very likely to get scammed here. The certificates are worth jack shit.
- https://www.shawacademy.com/ -->Shaw Academy Tons of shady reviews of this site. I've only used it once personally for their free trial; but I could immediately tell it wasn't worth the risk.
-File Storage, [6/4/22 2:24 PM]
- https://www.firertc.com/
+https://www.udemy.com/ -->Udemy Udemy is useful for learning practical skills sometimes (keyword sometimes) but the courses themselves are very low-quality, and sometimes make really dishonest claims (like the hundreds of user-made courses that claim to certify you as a CBT / DBT therapist.) Very likely to get scammed here. The certificates are worth jack shit.
+https://www.shawacademy.com/ -->Shaw Academy Tons of shady reviews of this site. I've only used it once personally for their free trial; but I could immediately tell it wasn't worth the risk.
+https://www.firertc.com/
 Download Torrents Anonymously Through I2P for Free
- https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html
- https://web.archive.org/web/20200628014728
 https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html
- https://archive.is/pkB2T
-File Storage, [6/4/22 2:24 PM]
+https://web.archive.org/web/20200628014728
+https://archive.is/pkB2T
 DarkNet Diaries Download w/ file names.
 Single Download
- https://pastebin.com/Bif79WVa
+https://pastebin.com/Bif79WVa
 All Episodes
- https://pastebin.com/TkBirbZU
+https://pastebin.com/TkBirbZU
 Github
- https://github.com/lalenguanegra/DarknetDiaries_Downloader/blob/master/README.md
-File Storage, [6/4/22 2:24 PM]
- https://mega.nz/folder/ZR1iyB6Y#pTFx_YIbQDFG3LadP3hAAw
-File Storage, [6/4/22 2:24 PM]
+https://github.com/lalenguanegra/DarknetDiaries_Downloader/blob/master/README.md
+https://mega.nz/folder/ZR1iyB6Y#pTFx_YIbQDFG3LadP3hAAw
 Today, apparently Jack Rhysider leaked an episode by mistake
- https://darknetdiaries.com/transcript/99
+https://darknetdiaries.com/transcript/99
 https://web.archive.org/web/20200817124822
-https://darknetdiaries.com/transcript/99
 http://webcache.googleusercontent.com/search?q=cache:
-https://darknetdiaries.com/transcript/99
 http://archive.vn/GZCjr
 He removed the episode from public view (404 error) but you can download it here:
- https://ufile.io/ge2endo1
-File Storage, [6/4/22 2:24 PM]
- https://malwaretech-podcast.simplecast.com/episodes
-File Storage, [6/4/22 2:24 PM]
- https://www.ettvcentral.com/torrents.php?parent_cat=Tutorials
-
+https://ufile.io/ge2endo1
+https://malwaretech-podcast.simplecast.com/episodes
+https://www.ettvcentral.com/torrents.php?parent_cat=Tutorials
 2- link check list
 File Storage, [6/4/22 2:19 PM]
 Shodan 2000
- https://2000.shodan.io
-File Storage, [6/4/22 2:19 PM]
+https://2000.shodan.io
 List of CTF sites
- https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html
+https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html
 Github repo of the wiki:
 https://github.com/CSEA-IITB/IITBreachers-wiki
 CTF writeups by the wiki author:
 https://deut-erium.github.io/WriteUps/
 Other writeups:
- https://github.com/shiltemann/CTF-writeups-public
+https://github.com/shiltemann/CTF-writeups-public
 https://0xbu.com/writeups
 https://medium.com/bugbountywriteup/tagged/ctf
 https://telegram.me/s/ctfwriteups
 https://hackmd.io/@Chivato/rkj-Y1GVI - introductory post
-File Storage, [6/4/22 2:19 PM]
 Reaver WPS Wifi Hacking
- https://github.com/t6x/reaver-wps-fork-t6x
+https://github.com/t6x/reaver-wps-fork-t6x
 https://github.com/t6x/reaver-wps-fork-t6x/releases
-File Storage, [6/4/22 2:19 PM]
 Mega Dump of Hacking Tools/Guides
- https://mega.nz/folder/MeI00RQL#sr-Wv2iIvu7ZkTeq-o6YQQ
-File Storage, [6/4/22 2:19 PM]
+https://mega.nz/folder/MeI00RQL#sr-Wv2iIvu7ZkTeq-o6YQQ
 Udemy - The Complete Ethical Hacking Masterclass Beginner To Expert (7.30 GB)
- https://mega.nz/folder/QO5GTaaK#7JhwDBiLlEwcBPNsIQH_9Q
+https://mega.nz/folder/QO5GTaaK#7JhwDBiLlEwcBPNsIQH_9Q
 Complete Ethical Hacking Course Beginner to Advanced - Black Radiator (10.41 GB)
- https://mega.nz/folder/W4B22QwL#ASup26IJ_Cls6JD2_wfRpg
-File Storage, [6/4/22 2:19 PM]
+https://mega.nz/folder/W4B22QwL#ASup26IJ_Cls6JD2_wfRpg
 A quick backup of all posts in
 https://t.me/s/AyAz_TeChY
 AyAz_TeChY-2020-05-25.json:
- https://mirrorace.com/m/X7pp
+https://mirrorace.com/m/X7pp
 JSON layout is e.g.:
-Code: [Select]
 [
 {
 "index": "
@@ -6288,21 +5253,18 @@ https://t.me/AyAz_TeChY",
 "views": false,
 "date_time": "2018-06-11T06:00:39+00:00",
 "text": "Channel created"
-File Storage, [6/4/22 2:19 PM]
- https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt
+https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt
 (>9700 entries)
 Removing logo and contact information:
-Code: [Select]
 curl -Ls
 https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt | tail -n +15
 Respective blog article:
- https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
+https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
 Other lists:
- https://www.exploit-db.com/google-hacking-database (~5196 entries)
- https://developer.shodan.io/api/clients (Shodan's API)
+https://www.exploit-db.com/google-hacking-database (~5196 entries)
+https://developer.shodan.io/api/clients (Shodan's API)
 plz dont sue
-File Storage, [6/4/22 2:19 PM]
- https://github.com/rootac355/SQL-injection-dorks-list/blob/master/google dorks for sql injection.txt
+https://github.com/rootac355/SQL-injection-dorks-list/blob/master/google dorks for sql injection.txt
 https://github.com/nu11secur1ty/Complete-google-sql-dorks-2019/blob/master/README.md
 https://github.com/opsdisk/pagodo
 https://github.com/ZephrFish/GoogD0rker
@@ -6313,16 +5275,12 @@ https://www.exploit-db.com/google-hacking-database
 https://pastebin.com/zYPZNbMK
 https://github.com/BullsEye0/google_dork_list
 https://paste.ee/p/VntMn#M2gmAqFA6tLPIFEch9SKBmLH06SzkJq1
-File Storage, [6/4/22 2:19 PM]
- https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
-File Storage, [6/4/22 2:19 PM]
 DDOS Tools
- https://ufonet.03c8.net
+https://ufonet.03c8.net
 https://gitlab.com/fredericopissarra/t50
 https://github.com/gkbrk/slowloris
-File Storage, [6/4/22 2:19 PM]
 High performance WordPress login bruteforcer
- https://github.com/leo-lb/wpbrute-rs
+https://github.com/leo-lb/wpbrute-rs
 File Storage, [6/4/22 2:20 PM]
 Mega.nz Proxyless Brute Checker
 This software is what TA20S used in our chat to check the like 15,000 or so logins for mega.nz that were previously posted.
@@ -6331,168 +5289,147 @@ indexed1-9-20.txt (103.27 MB)
 https://mirrorace.com/m/2gvgj
 Mega.nz Proxyless Brute Checker DOWNLOAD
 MEGA Checker.zip (250.74 KB)
- https://mirrorace.com/m/3CqcA
+https://mirrorace.com/m/3CqcA
 https://share.dmca.gripe/ldSfs1zvtjjB9mpo.zip
 https://mixdrop.co/f/mzfcqu
 https://dfile.space/G1UL
 https://anonymousfiles.io/kRr67biv
 https://megaup.net/2Q6he/MEGA_Checker.zip
-File Storage, [6/4/22 2:20 PM]
 CrackStation
- https://crackstation.net
+https://crackstation.net
 CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash. The hash values are indexed so that it is possible to quickly search the database for a given hash. If the hash is present in the database, the password can be recovered in a fraction of a second. This only works for "unsalted" hashes. For information on password hashing systems that are not vulnerable to pre-computed lookup tables, see our hashing security page.
 Crackstation's lookup tables were created by extracting every word from the Wikipedia databases and adding with every password list we could find. We also applied intelligent word mangling (brute force hybrid) to our wordlists to make them much more effective. For MD5 and SHA1 hashes, we have a 190GB, 15-billion-entry lookup table, and for other hashes, we have a 19GB 1.5-billion-entry lookup table
-File Storage, [6/4/22 2:20 PM]
 Hashcat
- https://hashcat.net/hashcat/
+https://hashcat.net/hashcat/
 World's fastest and most advanced password recovery utility
- https://hashkiller.co.uk/Tools/HashcatGUI
-File Storage, [6/4/22 2:20 PM]
+https://hashkiller.co.uk/Tools/HashcatGUI
 Church of Wifi WPA-PSK Lookup Tables
- https://www.renderlab.net/projects/WPA-tables/
-File Storage, [6/4/22 2:20 PM]
+https://www.renderlab.net/projects/WPA-tables/
 RainbowCrack Rainbow Tables
- http://project-rainbowcrack.com/table.htm
+http://project-rainbowcrack.com/table.htm
 http://project-rainbowcrack.com/index.htm
-Quote
 RainbowCrack is a general propose implementation of Philippe Oechslin's faster time-memory trade-off technique. It crack hashes with rainbow tables.
 RainbowCrack uses time-memory tradeoff algorithm to crack hashes. It differs from brute force hash crackers.
 A brute force hash cracker generate all possible plaintexts and compute the corresponding hashes on the fly, then compare the hashes with the hash to be cracked. Once a match is found, the plaintext is found. If all possible plaintexts are tested and no match is found, the plaintext is not found. With this type of hash cracking, all intermediate computation results are discarded.
 A time-memory tradeoff hash cracker need a pre-computation stage, at the time all plaintext/hash pairs within the selected hash algorithm, charset, plaintext length are computed and results are stored in files called rainbow table. It is time consuming to do this kind of computation. But once the one time pre-computation is finished, hashes stored in the table can be cracked with much better performance than a brute force cracker.
 In this project, we focus on the development of optimized time-memory tradeoff implementation. GPU acceleration is another key feature of RainbowCrack software. By offloading most runtime computation to NVIDIA/AMD GPU, overall hash cracking performance can be improved further.
 Several TB of generated rainbow tables for LM, NTLM, MD5 and SHA1 hash algorithms are listed in this page.
-File Storage, [6/4/22 2:20 PM]
 Script Kiddie Nightmares: Hacking Poorly Coded Botnets
- https://v3ded.github.io/pwn/hacking-botnets.html
-File Storage, [6/4/22 2:20 PM]
+https://v3ded.github.io/pwn/hacking-botnets.html
 OSINT Landscape
 Direct Link:
 https://funkyimg.com/i/2VsJH.jpg
-File Storage, [6/4/22 2:20 PM]
- https://github.com/W00t3k/Awesome-Cellular-Hacking
-File Storage, [6/4/22 2:20 PM]
+https://github.com/W00t3k/Awesome-Cellular-Hacking
 My favorite yt channel for cracking tutorials
 ~
 https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
-~
 https://hsploit.com/
-File Storage, [6/4/22 2:20 PM]
 Twitter Users - InfoSec - Hacking - Linux - Security Researchers
 campuscodi - Cybersecurity news reporter at @TheRecord_Media
- https://twitter.com/campuscodi/
+https://twitter.com/campuscodi/
 fs0c131y - Security Researcher.
- https://twitter.com/fs0c131y
+https://twitter.com/fs0c131y
 BleepinComputer - Breaking technology news, security guides, and tutorials that help you get the most from your computer.
- https://twitter.com/BleepinComputer
+https://twitter.com/BleepinComputer
 MalwareTechBlog - Tweets about Cybersecurity, Malware, Hacking, Programming, and Infosec.
- https://twitter.com/MalwareTechBlog
+https://twitter.com/MalwareTechBlog
 shodanhq - Monitor your external network, search the Internet of Things and perform empirical market research.
- https://twitter.com/shodanhq
+https://twitter.com/shodanhq
 BlackHatEvents - The World's Premier Technical Security Conference Series.
- https://twitter.com/BlackHatEvents
+https://twitter.com/BlackHatEvents
 troyhunt - Creator of haveibeenpwned.
- https://twitter.com/troyhunt
+https://twitter.com/troyhunt
 haveibeenpwned - Check if you have an email address or password that has been compromised in a data breach.
- https://twitter.com/haveibeenpwned
+https://twitter.com/haveibeenpwned
 LiveOverflow - IT security topics
- https://twitter.com/LiveOverflow
+https://twitter.com/LiveOverflow
 Hak5 - Award winning podcasts, leading pentest gear, & inclusive community since 2005.
- https://twitter.com/Hak5
+https://twitter.com/Hak5
 GlytchTech - Artificer of drones, robots.
- https://twitter.com/GlytchTech
+https://twitter.com/GlytchTech
 samykamkar - Samy Kamkar, the author of the MySpace Worm.
- https://twitter.com/samykamkar
+https://twitter.com/samykamkar
 achillean - Founder of Shodan
- https://twitter.com/achillean
+https://twitter.com/achillean
 todayininfosec - Tweeting news from the world of information security that occurred or was announced on today's date in a previous year.
- https://twitter.com/todayininfosec
+https://twitter.com/todayininfosec
 slashdot - News for Nerds, Stuff that Matters.
- https://twitter.com/slashdot
+https://twitter.com/slashdot
 briankrebs - Independent investigative journalist. Covers cybercrime, security, privacy.
- https://twitter.com/briankrebs
+https://twitter.com/briankrebs
 KodyKinzie - Hacker/Security Researcher
- https://twitter.com/KodyKinzie
+https://twitter.com/KodyKinzie
 josephfcox - journalist covering hackers/crime/privacy for @motherboard.
- https://twitter.com/josephfcox
+https://twitter.com/josephfcox
 9to5linux - Linux.
- https://twitter.com/9to5linux
+https://twitter.com/9to5linux
 zackwhittaker - Security editor @TechCrunch
- https://twitter.com/zackwhittaker
+https://twitter.com/zackwhittaker
 HackRead - #cybersecurity news
- https://twitter.com/HackRead
+https://twitter.com/HackRead
 ubuntu - Linux.
- https://twitter.com/ubuntu
+https://twitter.com/ubuntu
 defcon - Hacking.
- https://twitter.com/defcon
+https://twitter.com/defcon
 DarknetDiaries - True stories from the dark side of the Internet.
- https://twitter.com/DarknetDiaries
+https://twitter.com/DarknetDiaries
 kevinmitnick - Hacking.
- https://twitter.com/kevinmitnick
+https://twitter.com/kevinmitnick
 MG - creator of the OMG Cable (A Type of Bad USB) (Hak5)
- https://twitter.com/_MG_
+https://twitter.com/_MG_
 UnderTheBreach - Co-Founder & CTO @ cybercrime intelligence firm Hudson Rock @hrock
- https://twitter.com/UnderTheBreach
-File Storage, [6/4/22 2:20 PM]
- https://twitter.com/donk_enby
+https://twitter.com/UnderTheBreach
+https://twitter.com/donk_enby
 https://twitter.com/schneierblog
 https://twitter.com/CoryKennedy
 https://twitter.com/sprp77
- https://twitter.com/cyber_advising
+https://twitter.com/cyber_advising
 https://twitter.com/5auth
 https://twitter.com/notdan
 https://twitter.com/brokep
 Hacker. Friend. Cybersecurity Researcher
- https://twitter.com/_johnhammond
+https://twitter.com/_johnhammond
 CTF (Hack The Box)
- https://twitter.com/ippsec
-File Storage, [6/4/22 2:20 PM]
- https://github.com/illusion0001/rpcs3
-File Storage, [6/4/22 2:20 PM]
+https://twitter.com/ippsec
+https://github.com/illusion0001/rpcs3
 OnionBalance provides load-balancing and redundancy for Tor hidden services
- https://github.com/DonnchaC/onionbalance
+https://github.com/DonnchaC/onionbalance
 https://onionbalance.readthedocs.io/en/latest/
 The OnionBalance software allows for Tor hidden service requests to be distributed across multiple backend Tor instances. OnionBalance provides load-balancing while also making onion services more resilient and reliable by eliminating single points-of-failure.
-File Storage, [6/4/22 2:20 PM]
 Supercharge-Magnet-Links [Browser Extension For Torrent Magnet Links]
- https://github.com/UnluckyLuke/supercharge-magnet-links
+https://github.com/UnluckyLuke/supercharge-magnet-links
 Chrome extension that adds more open torrent trackers to magnet links on all websites so you can find more seeders and peers to download from.
-Quote
 Installation of the UNPACKED extension:
 1: Go to:
-https://github.com/UnluckyLuke/supercharge-magnet-links
 Press "Clone or download" and then "Download ZIP".
 2: Unzip it somewhere.
 3: In Chrome, open the extensions tab and click on "Developer mode" in the right corner, and then click on "Load unpacked extension..." and select the folder you just unpacked.
 (Some trackers might not work but others do and you'll hopefully find more seeders/peers.)
 Someone should fork it and have it add all these trackers instead:
- https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 or
- https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
-File Storage, [6/4/22 2:20 PM]
- https://trackerslist.com
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
+https://trackerslist.com
 https://github.com/bogenpirat/remote-torrent-adder
 PublicTorrentBooster.crx
- https://mirrorace.com/m/3DM47
+https://mirrorace.com/m/3DM47
 https://files.htp.sh/tGamLUg.crx
 https://bayfiles.com/5ag8N0l2o0/PublicTorrentBooster_crx
 PublicTorrentBooster.zip
- https://mirrorace.com/m/3DM46
+https://mirrorace.com/m/3DM46
 https://files.htp.sh/E8irLfX.zip
 https://bayfiles.com/75geNdl8o0/PublicTorrentBooster_zip
 This is my modified version. It removes some dead trackers and adds a bunch more the original was missing.
-File Storage, [6/4/22 2:20 PM]
- https://github.com/ALIILAPRO/megabox
+https://github.com/ALIILAPRO/megabox
 Bypass Mega.nz Download Bandwidth Limits
 Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
- https://github.com/tonikelope/megabasterd
+https://github.com/tonikelope/megabasterd
 https://github.com/tonikelope/megabasterd/releases
-File Storage, [6/4/22 2:20 PM]
 A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
- http://schizoduckie.github.io/DuckieTV/
- https://github.com/SchizoDuckie/DuckieTV
-File Storage, [6/4/22 2:20 PM]
+http://schizoduckie.github.io/DuckieTV/
+https://github.com/SchizoDuckie/DuckieTV
 Domain Registrars That Won't Easily Suspend You
- https://xuid.ru/domains.php
+https://xuid.ru/domains.php
 https://cheapprivacy.ru
 https://ru-tld.ru/en/domain-registration
 https://ahnames.com/en
@@ -6503,87 +5440,68 @@ https://www.epik.com
 https://www.bitdomain.biz
 https://regery.com
 https://sarek.fianonymousspeech.com
-File Storage, [6/4/22 2:20 PM]
 Tracking Down the Cyber Criminals
- https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/BRKSEC-2049.pdf
 https://upb.me/ajKJF
 https://docdro.id/DSSKFBm
 https://bayfiles.com/T7H1T226n6/BRKSEC-2049_pdf
 https://files.catbox.moe/rrq4g1.pdf
 Tracking Down the Cyber Criminals. Revealing Malicious Infrastructure with Umbrella
-File Storage, [6/4/22 2:20 PM]
 Upgrading your Intelligence to Track Down Criminal Hosting Infrastructure
- https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1517343456.pdf
+https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1517343456.pdf
 https://files.catbox.moe/tmkh0e.pdf
 https://docdro.id/B4qc2AQ
 https://bayfiles.com/naJ5T42dn0/summit_archive_1517343456_pdf
 https://upb.me/yjJ7t
-File Storage, [6/4/22 2:21 PM]
 Under the Shadow of Sunshine: Understanding and Detecting Bulletproof Hosting on Legitimate Service Provider Networks
- http://damonmccoy.com/papers/alrwais2017under.pdf
 https://upb.me/s8C9J
 https://files.catbox.moe/rpvy4o.pdf
 https://bayfiles.com/mbL0Td28n3/alrwais2017under_pdf
 https://docdro.id/OW6Jmjk
-File Storage, [6/4/22 2:21 PM]
- https://www.rsaconference.com/writable/presentations/file_upload/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web.pdf
+https://www.rsaconference.com/writable/presentations/file_upload/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web.pdf
 HOW A DIVERSE ECOSYSTEM CREATES RESILIENCE IN THE CYBER CRIMINAL UNDERGROUND
 Director of Advanced Collection Recorded Future @DeepSpaceEye
- https://upb.me/gbKJr
+https://upb.me/gbKJr
 https://files.catbox.moe/ynorws.pdf
 https://bayfiles.com/keMdT02dn0/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web_pdf
 https://docdro.id/7qjWmHX
-File Storage, [6/4/22 2:21 PM]
 Criminal Hideouts for Lease: Bulletproof Hosting Services
- https://www.trendmicro.no/media/wp/wp-criminal-hideouts-for-lease-en.pdf
- https://upb.me/h487z
+https://upb.me/h487z
 https://files.catbox.moe/md18uu.pdf
 https://bayfiles.com/0eU3T326n0/wp-criminal-hideouts-for-lease-en_pdf
 https://docdro.id/s5ssbqd
-File Storage, [6/4/22 2:21 PM]
- https://www.youtube.com/watch?v=M37m_sWK8w8
-File Storage, [6/4/22 2:21 PM]
- https://www.datacenterknowledge.com
+https://www.datacenterknowledge.com
 The leading online source of daily news and analysis about the data center industry, including hardware, software, data center networking, and more.
-File Storage, [6/4/22 2:21 PM]
- http://txti.es
+http://txti.es
 https://htmlpasta.com
 https://tiiny.host
-File Storage, [6/4/22 2:21 PM]
- https://startyourownisp.com/
-File Storage, [6/4/22 2:21 PM]
+https://startyourownisp.com/
 Free Forum Hosting & Online Web Apps! - Nabble.com
 Create Free Forum
 Archive Mailing List
 Create Photo Gallery
 Create News Site
 Create Blog
- https://www.nabble.com
+https://www.nabble.com
 All Nabble apps are naturally embeddable, which means that they can be easily displayed inside any web page.
 All Nabble apps are built with NAML, a scripting language that gives you full control over the app pages.
-File Storage, [6/4/22 2:21 PM]
 Skynet - decentralized CDN and file sharing platform for devs
- https://siasky.net
- https://www.reddit.com/r/siacoin/
- https://twitter.com/siatechhq
- https://sia.tech
+https://www.reddit.com/r/siacoin/
+https://twitter.com/siatechhq
+https://sia.tech
 Skynet Webportals
 skydrain.netsialoop.net
 skynet.luxor.tech
 skynet.tutemwesi.comsiacdn.comvault.lightspeedhosting.com
-File Storage, [6/4/22 2:21 PM]
 Which Email Provider Should I Use?
- https://amarvyas.in/which-email-provider-should-i-use/
- https://web.archive.org/web/20201220192840
 https://amarvyas.in/which-email-provider-should-i-use/
- https://archive.st/archive/2020/12/amarvyas.in/at9z/amarvyas.in/which-email-provider-should-i-use/index.html
- https://archive.is/N5Crf
-File Storage, [6/4/22 2:21 PM]
- https://envs.net
+https://web.archive.org/web/20201220192840
+https://archive.st/archive/2020/12/amarvyas.in/at9z/amarvyas.in/which-email-provider-should-i-use/index.html
+https://archive.is/N5Crf
+https://envs.net
 http://tilde.club — the original tilde server. Had signups closed for a long time, now accepts new users.
- https://tilde.team — has great wiki
- https://hashbang.sh — this one has very extensive server hardening ansible configuration paybooks on their github, very useful information for configuring shared shell access on your own server.
- http://tilde.town
+https://tilde.team — has great wiki
+https://hashbang.sh — this one has very extensive server hardening ansible configuration paybooks on their github, very useful information for configuring shared shell access on your own server.
+http://tilde.town
 https://tilde.black
 http://ctrl-c.club
 http://tildecow.com
@@ -6595,7 +5513,6 @@ https://blinkenshell.org/wiki/Start
 http://www.polarhome.com
 https://www.xshellz.com
 http://bitcoinshell.mooo.com
-File Storage, [6/4/22 2:21 PM]
 CORS Web Proxy
 This API enables cross-origin requests to anywhere.
 Usage:
@@ -6622,55 +5539,54 @@ Source code :
 https://github.com/Rob--W/cors-anywhere/
 Documentation :
 https://github.com/Rob--W/cors-anywhere/#documentation
- https://cors-anywhere.herokuapp.com
+https://cors-anywhere.herokuapp.com
 https://censys.io/ipv4?q=80.
 http.get.body%253A"This+API+enables+cross-origin+requests+to+anywhere."
 http://35.186.253.31 - Google
- http://35.244.147.98 - Google
- http://138.197.208.159 - Digital Ocean
- http://34.203.14.52 - AWS
- http://18.221.197.235 - AWS
- http://3.232.73.206 - AWS
- http://54.209.18.17 - AWS
- http://54.87.255.209 - AWS
- http://54.67.15.186 - AWS
- http://18.190.9.101 - AWS
- http://103.136.42.111 - WorldStream
- http://84.243.150.88 - Norway
- http://34.200.110.181 - AWS
- http://34.218.222.68 - AWS
- http://52.8.94.115 - AWS
- http://3.216.117.191 - AWS
- http://52.205.51.82 - AWS
- http://116.85.15.25 - China
- http://163.172.153.110 - Online France
- http://35.241.43.162 - Google
- http://35.241.159.214 - Google
- http://35.210.173.135 - Google
- http://159.89.155.250 - Digital Ocean
- http://46.101.119.123 - Digital Ocean
- http://139.162.132.99 - Linode
- http://178.128.82.78 - Digital Ocean
- http://35.193.125.233 - Google
- http://47.75.75.5 - Alibaba HK
- http://45.77.197.229 - Choopa
- http://206.189.145.233 - Digital Ocean
- http://167.99.234.61 - Digital Ocean
- http://178.128.65.97 - Digital Ocean
- http://13.86.192.66 - Microsoft
- http://67.205.151.62 - Digital Ocean
- http://94.130.184.92 - Hetzner
- http://91.134.227.147 - OVH France
- http://34.98.120.205 - Google
- http://104.131.126.72 - Digital Ocean
- http://18.185.96.182 - AWS
- http://63.32.184.210 - AWS
- http://18.130.72.229 - AWS
- http://18.196.5.147 - AWS
- http://3.120.45.89 - AWS
- http://35.180.212.27 - AWS
-File Storage, [6/4/22 2:21 PM]
- https://censys.io/ipv4?q=(443.
+http://35.244.147.98 - Google
+http://138.197.208.159 - Digital Ocean
+http://34.203.14.52 - AWS
+http://18.221.197.235 - AWS
+http://3.232.73.206 - AWS
+http://54.209.18.17 - AWS
+http://54.87.255.209 - AWS
+http://54.67.15.186 - AWS
+http://18.190.9.101 - AWS
+http://103.136.42.111 - WorldStream
+http://84.243.150.88 - Norway
+http://34.200.110.181 - AWS
+http://34.218.222.68 - AWS
+http://52.8.94.115 - AWS
+http://3.216.117.191 - AWS
+http://52.205.51.82 - AWS
+http://116.85.15.25 - China
+http://163.172.153.110 - Online France
+http://35.241.43.162 - Google
+http://35.241.159.214 - Google
+http://35.210.173.135 - Google
+http://159.89.155.250 - Digital Ocean
+http://46.101.119.123 - Digital Ocean
+http://139.162.132.99 - Linode
+http://178.128.82.78 - Digital Ocean
+http://35.193.125.233 - Google
+http://47.75.75.5 - Alibaba HK
+http://45.77.197.229 - Choopa
+http://206.189.145.233 - Digital Ocean
+http://167.99.234.61 - Digital Ocean
+http://178.128.65.97 - Digital Ocean
+http://13.86.192.66 - Microsoft
+http://67.205.151.62 - Digital Ocean
+http://94.130.184.92 - Hetzner
+http://91.134.227.147 - OVH France
+http://34.98.120.205 - Google
+http://104.131.126.72 - Digital Ocean
+http://18.185.96.182 - AWS
+http://63.32.184.210 - AWS
+http://18.130.72.229 - AWS
+http://18.196.5.147 - AWS
+http://3.120.45.89 - AWS
+http://35.180.212.27 - AWS
+https://censys.io/ipv4?q=(443.
 https.get.body%253A"This+API+enables+cross-origin+requests+to+anywhere.")
 https://www.cors.llw.name
 https://cors-anywhere-k8s.innocode.no
@@ -6700,18 +5616,17 @@ https://ip.here.fm
 https://cors-proxy.openhouse.study
 https://cors.diystock.ai
 https://cors-proxy.svi.solutions
-File Storage, [6/4/22 2:21 PM]
- https://github.com/netnr/workers
+https://github.com/netnr/workers
 File Storage, [6/4/22 2:17 PM]
 Hacking 101: (USER MADE GUIDE) (FOR WEBOASIS)
- https://ecstatic-mayer-972003.netlify.app/
- https://www.defcon.org
- https://infocon.org
+https://ecstatic-mayer-972003.netlify.app/
+https://www.defcon.org
+https://infocon.org
 Download Guide:
- https://ufile.io/c6bh3hv0
+https://ufile.io/c6bh3hv0
 Stickied & Mirrored
 hackguide.pdf (831.74 KB)
- https://mirrorace.com/m/3Fy31
+https://mirrorace.com/m/3Fy31
 https://docdro.id/upPWeDw
 https://wi.to/fe4f7a83da015b74
 https://swarm-gateways.net/bzz:/9cd502a50955ba0c6f8624a5ae0556b5a7cd2039252b88c48d6bf4873cc7b9ef/hackguide.pdf
@@ -6719,7 +5634,6 @@ https://i.fiery.me/AWnI2.pdf
 https://files.htp.sh/JtnVK0F.pdf
 https://dfile.space/OFY8
 https://bayfiles.com/f51cX2C7o5/hackguide_pdf
-File Storage, [6/4/22 2:17 PM]
 gmail xn--e1alhsoq4c.xn--p1ai.txt
 Paste Name:
 шляхтен.рф
@@ -6729,37 +5643,32 @@ Emails:
 4,788,657
 Gmail.txt (151.2 MB) ->
 https://ufile.io/9ddu9tfy
- http://шляхтен.рф/base/Gmail.txt
-https://web.archive.org/web/20210325003402
 http://шляхтен.рф/base/Gmail.txt
-File Storage, [6/4/22 2:17 PM]
+https://web.archive.org/web/20210325003402
 Epik (Dataset)
- https://twitter.com/AnonOpsSE/status/1438100775968837636
- https://web.archive.org/web/20210916020441
 https://twitter.com/AnonOpsSE/status/1438100775968837636
- https://web.archive.org/web/20210915172432
+https://web.archive.org/web/20210916020441
+https://web.archive.org/web/20210915172432
 https://4chan.partyvan.epikfail.win:55899/
- https://web.archive.org/web/20210915121441
+https://web.archive.org/web/20210915121441
 https://4chan.partyvan.epikfail.win:55899/OperationEpikFail.torrent
 OperationEpikFail.torrent (35.5 MB) ->
 https://ufile.io/ku79seva
- https://arstechnica.com/information-technology/2021/09/epik-data-breach-impacts-15-million-users-including-non-customers/
-File Storage, [6/4/22 2:17 PM]
+https://arstechnica.com/information-technology/2021/09/epik-data-breach-impacts-15-million-users-including-non-customers/
 Can someone backup this entire open index please?
- https://files.miyako.rocks
+https://files.miyako.rocks
 How's this? Password is W3bO@sis
- https://ufile.io/g1lh1fzo
+https://ufile.io/g1lh1fzo
 https://filerio.in/79n56u14o8ul
 https://megaup.net/1EGgh/files.miyako.rocks.7z
 https://bayfiles.com/rd36e0Fau3/files.miyako.rocks_7z
- https://skytransfer.hns.siasky.net/#/2515656eeb7dd5df8cbea4bc6789930ea937500febef8bb708b8849cf4859778/eb604a2d577eb8d3bc0bb84e5264f06964907163111790f8652f0740e5a1b92798a104c04347619cbd28f535876f703d204440a9949f662a5f9584a0955ceb36
+https://skytransfer.hns.siasky.net/#/2515656eeb7dd5df8cbea4bc6789930ea937500febef8bb708b8849cf4859778/eb604a2d577eb8d3bc0bb84e5264f06964907163111790f8652f0740e5a1b92798a104c04347619cbd28f535876f703d204440a9949f662a5f9584a0955ceb36
 files.miyako.rocks.7z (759.3 MB) ->
 https://ufile.io/wx4ye9ep
- https://www.swisstransfer.com/d/a010e047-3735-4a41-b2a2-23898ea1f827
+https://www.swisstransfer.com/d/a010e047-3735-4a41-b2a2-23898ea1f827
 https://up.antopie.org/f.php?h=0461_4FYpw&d=1
 https://download.monin.net/f.php?h=2tMjMnxB&d=1
 https://share.heraut.eu/f.php?h=2pYcKEfn&d=1
-File Storage, [6/4/22 2:17 PM]
 Bird Strike Data
 export (1).csv (514.9 KB) ->
 https://ufile.io/ux6og7f8
@@ -6770,21 +5679,20 @@ Title: files.miyako.rocks
 Author: Not provided
 Date of paste: Unknown
 Accounts found: 975,853
- https://files.miyako.rocks/combos/1M combo [Email-Pass].txt
+https://files.miyako.rocks/combos/1M combo [Email-Pass].txt
 https://archive.is/uq6ek
- https://files.miyako.rocks/combos
+https://files.miyako.rocks/combos
 https://archive.is/N5qaM
 mirror:
 1M combo [Email-Pass].txt (31.2 MB) ->
 https://ufile.io/g220top1
-File Storage, [6/4/22 2:18 PM]
 Antifa Leaks
 CHAT LOGS:
- https://anonfiles.com/Ddn2p6Aau9/snake_public_json
+https://anonfiles.com/Ddn2p6Aau9/snake_public_json
 https://anonfiles.com/5eo3p5A6u9/snake_public_csv
 https://gofile.io/d/MHr4Pr
 Mirrors of this PASTE:
- https://www.skidbin.net/paste/7uyucYqSFw
+https://www.skidbin.net/paste/7uyucYqSFw
 https://hastebin.com/uqugosodud.php
 List of Usernames:
 Mirror 1:
@@ -6807,20 +5715,16 @@ NYC:
 https://t.me/nycprotestchat
 LIST OF CHATS
 (Note some of these are dead, or no longer available)
- https://t.me/CommsDirectory
- https://t.me/RUSTDirectory
- https://t.me/rebel_underground
+https://t.me/CommsDirectory
+https://t.me/RUSTDirectory
+https://t.me/rebel_underground
 Portland, Oregon:
-https://t.me/PDXuprising
 Sacramento:
 https://t.me/joinchat/NZloJxQUEKqyK-f07i_0vw
 San Francisco:
 https://t.me/joinchat/M4iwX1aZ1yEgSDMwGuSO8w
-https://hastebin.com/uqugosodud.php
 Oakland:
 https://t.me/joinchat/M4iwX0iqeb_FbH3X570LoQ
-Seattle:
-https://t.me/Seattle17
 Central Washington:
 https://t.me/SOSCentralWA
 Alaska:
@@ -6889,11 +5793,8 @@ Lehigh Valley:
 https://t.me/joinchat/M15y8hjHuPX3GhWK_0mcpg
 New Jersey:
 https://t.me/joinchat/ODHlYVb8tgDH0rIXIRHjEQ
-NYC:
-https://t.me/nycprotestchat
 Philly:
 https://t.me/joinchat/lvs_oRf88BM0OTNh
-File Storage, [6/4/22 2:18 PM]
 Pittsburgh:
 https://t.me/joinchat/M15y8lQmJ_C7Dq_B211gcA
 Richmond:
@@ -6948,7 +5849,6 @@ Nashville:
 https://t.me/joinchat/PUtrvFbFSqDECFxfVfBlfw
 Tampa Bay:
 https://t.me/joinchat/NZloJxI1dpJ1n1HVNMfY7w
-Richmond:
 https://t.me/ACAB_RVA
 Memphis:
 https://t.me/joinchat/Uo-R4h27-Tv1qqvMunvDVw
@@ -6962,7 +5862,6 @@ Charleston:
 https://t.me/joinchat/NZloJxVyLZms5wDjAgIUVQ
 Raleigh/Durham:
 https://t.me/joinchat/NZloJxXZAVHfHhILj-5M3w
-Louisville:
 https://t.me/joinchat/O1E2tEgxSLiN4FfwFxx_Hg
 Orlando:
 https://t.me/joinchat/NZloJ04SSHTBLCA3K60B5g
@@ -6979,16 +5878,13 @@ https://t.me/joinchat/O1E2tBUZkJItb29sG7npIw
 Decentralized chat for Southern Georgia and Northwest Florida:
 https://t.me/joinchat/O1E2tBRYVI6m_GwWU7rAOQ
 Tallahassee/Albany/Valdosta:
-https://t.me/joinchat/O1E2tBRYVI6m_GwWU7rAOQ
 Mobile/Pensacola:
 https://t.me/joinchat/NZloJ0mQmlE_jP-N3o_lQg
 Decentralized chat for Coastal Alabama and Florida Panhandle:
-https://t.me/joinchat/NZloJ0mQmlE_jP-N3o_lQg
 Huntsville:
 https://t.me/joinchat/Nufy8xkx1WQFEHVax_bUQg
-File Storage, [6/4/22 2:18 PM]
 hidden_snake.csv
- https://pomf.lain.la/f/s7new7nz.csv
+https://pomf.lain.la/f/s7new7nz.csv
 https://ufile.io/2mwrm8tk
 https://files.catbox.moe/q2n6w0.csv
 https://bayfiles.com/3bJ708Acu0/hidden_snake_csv
@@ -7001,7 +5897,7 @@ https://i.fileup.pro/SvQuE.csv
 https://upload.vaa.red/Wh2WB#acd9070d43de871b9ec4f23e44953aa7
 https://www.solidfiles.com/v/6GvqewAZ4q4kG
 snake_public.csv
- https://pomf.lain.la/f/3yrcjvi1.csv
+https://pomf.lain.la/f/3yrcjvi1.csv
 https://ufile.io/nqxpv8so
 https://files.catbox.moe/tvlqki.csv
 https://bayfiles.com/X7Jd0aAbu6/snake_public_csv
@@ -7013,7 +5909,7 @@ https://i.fileup.pro/HbasX.csv
 https://www.solidfiles.com/v/3dLAKPLm44m8K
 https://swarm-gateways.net/bzz:/ce57530b6be48d052b74b61ae36af343806ba461319387a6dcb4c1e99ac2dddc/snake_public.csv
 snake_public.json
- https://pomf.lain.la/f/ce9g6eug.json
+https://pomf.lain.la/f/ce9g6eug.json
 https://ufile.io/hf7g08i5
 https://files.catbox.moe/srgt79.json
 https://bayfiles.com/H2K509Aeu2/snake_public_json
@@ -7025,71 +5921,56 @@ https://i.fileup.pro/u72WC.json
 https://www.solidfiles.com/v/g6YLeMxdaQRyY
 https://swarm-gateways.net/bzz:/c2a24cf8921891818bd58248fc42211f3525bba10705dffb8d8be18530bac529/snake_public.json
 ALL
- https://skytransfer.hns.siasky.net/#/cb7dfcc05b8fe2de04e0cfd103ac780f1088f9ee93f477b4ea95432fd0a0572d/8b5680b296c209f3d5b3030d8e07a845b3d9d82d77ec895e7eea15404c4484fd2f1a776255f8d99f82e2715802c28bb7405032bce5c6b67da56ca6f44a989300
-File Storage, [6/4/22 2:18 PM]
- https://pastebin.com/YvEeFPsN
-File Storage, [6/4/22 2:18 PM]
+https://skytransfer.hns.siasky.net/#/cb7dfcc05b8fe2de04e0cfd103ac780f1088f9ee93f477b4ea95432fd0a0572d/8b5680b296c209f3d5b3030d8e07a845b3d9d82d77ec895e7eea15404c4484fd2f1a776255f8d99f82e2715802c28bb7405032bce5c6b67da56ca6f44a989300
+https://pastebin.com/YvEeFPsN
 Source Code Leaks
 Source:
 https://archive.is/pM3pb
 Microsoft (NT/XP/DOS)
-Code: [Select]
 magnet:?xt=urn:btih:3d8b16242b56a3aafb8da7b5fc83ef993ebcf35b&dn=Microsoft+leaked+source+code+archive_2020-09-24&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 Valve leaks (CS/TF2)
-Code: [Select]
 magnet:?xt=urn:btih:21DDA6847DDE983F2F8063739249D2D1D09A5DDA&dn=April%252022nd%25202020%252c%2520random%2520leaked%2520shit.rar&tr=udp%253a%252f%252ftracker.openbittorrent.com%253a1337%252fannounce&tr=udp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce
 https://github.com/mastercomfig/team-comtress-2
 Yandere Sim (no assets)
-Code: [Select]
 magnet:?xt=urn:btih:92b65bbd7d9622beee5575f0869dd983c198c6ea&dn=YandereSimulator-development.zip
 Gwent: Witcher (card game) Password: CDPRFREE
-Code: [Select]
 magnet:?xt=urn:btih:bae897295e09f309fa35ea4fcec7674c05357589&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.internetwarriors.net:1337/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://47.ip-51-68-199.eu:6969/announce&tr=udp://tracker3.itzmx.com:6961/announce&tr=
 http://open.acgnxtracker.com:80/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://www.torrent.eu.org:451/announce
 Original XBOX source (just an alternative link to the one provided within the MSFT torrent)
- https://anonfiles.com/1fpex7zao8/Microsoft.OriginalXbox.Repo_zip
+https://anonfiles.com/1fpex7zao8/Microsoft.OriginalXbox.Repo_zip
 Mortal Kombat 3
-Code: [Select]
 magnet:?xt=urn:btih:311d64fe0f98fd6efba9e5c012c11f14be235457&dn=MortalKombat3SourceCodeDump&tr=udp%253a%252f%252ftracker.coppersurfer.tk%253a6969%252fannounce&tr=udp%253a%252f%252fopen.demonii.si%253a1337%252fannounce&tr=
 http%253a%252f%252fbt1.archive.org%253a6969%252fannounce&tr=
 http%253a%252f%252fbt2.archive.org%253a6969%252fannounce&ws=
 http%253a%252f%252farchive.org%252fdownload%252f&ws=
 https%253a%252f%252farchive.org%252fdownload%252f
 Microsoft
-Code: [Select]
 magnet:?xt=urn:btih:bc03ad1a2d93ef450ff2bfd57726e15a20a818db&dn=microsoft-tools-EXCONFIDENTIAL.zip
-Code: [Select]
 magnet:?xt=urn:btih:355ca3b1670e4b91c51eb385c80cff9c6c1a7c06&dn=xbox_one_leak_dec_2020
 https://github.com/AR1972/astro
 Norton
-Code: [Select]
 magnet:?xt=urn:btih:b1dec26b69a7dd191451c29bce83b74633293ce4&dn=Norton_AntiVirus.tar.gz&tr=udp%253a%252f%252ftracker.openbittorrent.com%253a80&tr=udp%253a%252f%252ftracker.publicbt.com%253a80&tr=udp%253a%252f%252ftracker.istole.it%253a6969&tr=udp%253a%252f%252fopen.demonii.com%253a1337
 Kaspersky
-Code: [Select]
 magnet:?xt=urn:btih:b4462611f4198f1d5e91ff19230cb5177d835e9e&dn=KASPERSKY.AV.2008.SRCS.ELCRABE.RAR&tr=udp%253a%252f%252ftracker.coppersurfer.tk%253a6969%252fannounce&tr=udp%253a%252f%252f9.rarbg.to%253a2920%252fannounce&tr=udp%253a%252f%252ftracker.opentrackr.org%253a1337&tr=udp%253a%252f%252ftracker.internetwarriors.net%253a1337%252fannounce&tr=udp%253a%252f%252ftracker.leechers-paradise.org%253a6969%252fannounce&tr=udp%253a%252f%252ftracker.pirateparty.gr%253a6969%252fannounce&tr=udp%253a%252f%252ftracker.cyberia.is%253a6969%252fannounce
 Funny Torrent
-Code: [Select]
 magnet:?xt=urn:btih:44134e7ade0f85e0ee940c33a7bfed5204587b93&dn=funnytorrent&tr=udp%253A%252F%252Ftracker.openbittorrent.com%253A80&tr=udp%253A%252F%252Ftracker.opentrackr.org%253A1337%252Fannounce
 Watchdogs
-Code: [Select]
 magnet:?xt=urn:btih:878117d0b5e33945f66119e5c568b23cf63ebe2d&dn=ubisoft.7zPassword: !I60j=3$"dC2c3,bFv5k
 Cyberpunk
-Code: [Select]
 magnet:?xt=urn:btih:e34280de3707f36a2b8d99b66c5d5a9acb723308&dn=cp_no_password&tr=udp%253A%252F%252Ftracker.openbittorrent.com%253A80&tr=udp%253A%252F%252Ftracker.opentrackr.org%253A1337%252Fannounce
-File Storage, [6/4/22 2:18 PM]
 Deep Web Links to Hacked Data
- http://ekbgzchl6x2ias37.onion
+http://ekbgzchl6x2ias37.onion
 http://p6o7m73ujalhgkiv.onion
 http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
 http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/
 Here is a good collection of lists of links to data leaked by ransomware groups that I have found so far:
- http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion.
- http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/fa503648825a131481a3.
- http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion.
- https://gist.github.com/kusayuzayushko/2c5651737d8d3a053a276632a79309ef.
- http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/4296d39dce337fe4182a.
+http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion.
+http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/fa503648825a131481a3.
+http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion.
+https://gist.github.com/kusayuzayushko/2c5651737d8d3a053a276632a79309ef.
+http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/4296d39dce337fe4182a.
 Making Them Clickable For Non-TOR Users: Be Very Careful - Use VPN
- http://ekbgzchl6x2ias37.onion.ly
+http://ekbgzchl6x2ias37.onion.ly
 http://p6o7m73ujalhgkiv.onion.ly
 http://avaddongun7rngel.onion.ly
 http://nbzzb6sa6xuura2z.onion.ly
@@ -7104,131 +5985,101 @@ http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion.ly
 http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion.ly
 http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion.ly
 pm
- http://leakfindrg5s2zcwwdmxlvz6oefz6hdwlkckh4eir4huqcpjsefxkead.onion.ly
-pm
- http://xcgwv22shpmuzybdsnalqcufejtjlvqoukyybnjvrd3ppzsiti4anvyd.onion/
-File Storage, [6/4/22 2:18 PM]
+http://leakfindrg5s2zcwwdmxlvz6oefz6hdwlkckh4eir4huqcpjsefxkead.onion.ly
+http://xcgwv22shpmuzybdsnalqcufejtjlvqoukyybnjvrd3ppzsiti4anvyd.onion/
 Leaked (Searchable) Data Sets
- http://pwndb2am4tzkvold.onion/
- https://ghostproject.fr
+http://pwndb2am4tzkvold.onion/
+https://ghostproject.fr
 Clickable Link:
 http://pwndb2am4tzkvold.onion.ly
 Myspace
- https://web.archive.org/web/20170201204117
+https://web.archive.org/web/20170201204117
 https://myspace.thecthulhu.com/
 Exploit.in
 https://web.archive.org/web/20180815000000*
 https://cdn.databases.today/exploit.in.zip
 For searching:
- https://haveibeenpwned.com/
- https://dehashed.com/
- https://intelx.io/
+https://haveibeenpwned.com/
+https://dehashed.com/
+https://intelx.io/
 Where to download databases:
- https://raidforums.com/Announcement-Database-Index-CLICK-ME
+https://raidforums.com/Announcement-Database-Index-CLICK-ME
 Create an account and post for credits.
 Each database costs 8 credits. You get 1-2 per post.
- https://web.archive.org/web/20190720112353
+https://web.archive.org/web/20190720112353
 http://cdn.databases.today/
 Search databases:
- https://glogg.bonnefon.org/download.htm
+https://glogg.bonnefon.org/download.htm
 Collection #1:
 https://files.catbox.moe/dt5ic2.torrent
 Collection #2-#5 & Antipublic:
 https://files.catbox.moe/8ntq8q.torrent
 Intelligence X is a search engine and data archive.
- https://intelx.io
-File Storage, [6/4/22 2:18 PM]
+https://intelx.io
 YouTube Channels
 DEFCONConference
-Code: [Select]
- https://www.youtube.com/user/DEFCONConferenceHacker Sploit
-Code: [Select]
- https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3QLive Overflow
-Code: [Select]
- https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9wHak5
-Code: [Select]
- https://www.youtube.com/user/Hak5DarrenBlack Hat
-Code: [Select]
- https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOgCyber Security Labs @ Ben Gurion University
-Code: [Select]
- https://www.youtube.com/channel/UCjCSvlOcENVup0Xeiim1u0gNull Byte
-Code: [Select]
- https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-gProfessor Messer
-Code: [Select]
- https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQSeytonic
-Code: [Select]
- https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
+https://www.youtube.com/user/DEFCONConferenceHacker Sploit
+https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3QLive Overflow
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9wHak5
+https://www.youtube.com/user/Hak5DarrenBlack Hat
+https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOgCyber Security Labs @ Ben Gurion University
+https://www.youtube.com/channel/UCjCSvlOcENVup0Xeiim1u0gNull Byte
+https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-gProfessor Messer
+https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQSeytonic
+https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
 More...
 1 Likes
 Zer0Mem0ry
-Code: [Select]
- https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKAlow level exploitation and game hacking demonstrations
+https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKAlow level exploitation and game hacking demonstrations
 Code repos:
- https://github.com/Zer0Mem0ry
+https://github.com/Zer0Mem0ry
 Guided Hacking
-Code: [Select]
- https://www.youtube.com/channel/L4DL4D2EUROPEeducational videos by collaborators, mostly for beginners
-Code repos:
- https://github.com/guided-hacking
+https://www.youtube.com/channel/L4DL4D2EUROPEeducational videos by collaborators, mostly for beginners
+https://github.com/guided-hacking
 Websites:
- https://guidedhacking.com/
+https://guidedhacking.com/
 stacksmashing
-Code: [Select]
- https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzwmostly focussed on the Ghidra SRE suite
+https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzwmostly focussed on the Ghidra SRE suite
 More general:
 Engineer Man
-Code: [Select]
- https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/playlists- the best beginner and intermediary coding tutorials
+https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/playlists- the best beginner and intermediary coding tutorials
 (can make pointers sound simple.)
 also, game automation:
-Code: [Select]
- https://www.youtube.com/playlist?list=PLlcnQQJK8SUhskj8v4XE50W3FJ7YGMHqV-two videos related to reverse engineering:
-Code: [Select]
- https://www.youtube.com/watch?v=oqk3cU7ekag
+https://www.youtube.com/playlist?list=PLlcnQQJK8SUhskj8v4XE50W3FJ7YGMHqV-two videos related to reverse engineering:
+https://www.youtube.com/watch?v=oqk3cU7ekag
 https://www.youtube.com/watch?v=zs0-m14_DE4Code repos:
- https://github.com/engineer-man/youtube (Repositories containg the code shown in his videos)
- https://github.com/realtux
-Websites:
- https://emkc.org/
- https://bri.io/ (personal site)
- https://engineerman.org/discord
+https://github.com/engineer-man/youtube (Repositories containg the code shown in his videos)
+https://github.com/realtux
+https://emkc.org/
+https://bri.io/ (personal site)
+https://engineerman.org/discord
 NULLBYTE is considered hacking and YouTube started to give them community guideline strikes, you can now view their content here:
- https://www.pscp.tv/KodyKinzie/
- https://dfirdiva.com/youtube-channels/
+https://www.pscp.tv/KodyKinzie/
+https://dfirdiva.com/youtube-channels/
 Backup:
 https://web.archive.org/web/20210516203854
-https://dfirdiva.com/youtube-channels/
 Awesome Tech YouTube Channels
-Code: [Select]
- https://github.com/epoyraz/Awesome-Youtube-Channels
-Code: [Select]
- https://github.com/andrew--r/channels#english
-https://g0.si/S
- https://g0.si/R
- https://web.archive.org/web/20201108205704
 https://github.com/epoyraz/Awesome-Youtube-Channels
- https://web.archive.org/web/20201108205808
 https://github.com/andrew--r/channels#english
- https://archive.is/EgdTp
- https://archive.is/kSRyd
-File Storage, [6/4/22 2:18 PM]
+https://g0.si/S
+https://g0.si/R
+https://web.archive.org/web/20201108205704
+https://web.archive.org/web/20201108205808
+https://archive.is/EgdTp
+https://archive.is/kSRyd
 CafePress DB
- https://gofile.io/d/HZMa9p
+https://gofile.io/d/HZMa9p
 QafWnNLTJPZbgj.7z (678.6 MB)
- https://ufile.io/8p0l3inh
+https://ufile.io/8p0l3inh
 https://share.dmca.gripe/PzuFVWkRqmjuHPrE.7z
 https://mirrorace.org/m/347TE
-File Storage, [6/4/22 2:18 PM]
 Bigdb
 magnet:?xt=urn:btih:ba304cab082bad215263bd7f66902e128eccc7a3&dn=bigDB&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
-File Storage, [6/4/22 2:18 PM]
 BLACKEYE - The ultimate phishing tool with 38 websites available!
- https://github.com/An0nUD4Y/blackeye
+https://github.com/An0nUD4Y/blackeye
 Tutorial
- https://null-byte.wonderhowto.com/how-to/phish-for-social-media-other-account-passwords-with-blackeye-0196790/
-File Storage, [6/4/22 2:18 PM]
- https://sundowndev.github.io/PhoneInfoga/install/
-File Storage, [6/4/22 2:18 PM]
+https://null-byte.wonderhowto.com/how-to/phish-for-social-media-other-account-passwords-with-blackeye-0196790/
+https://sundowndev.github.io/PhoneInfoga/install/
 How to get someone's password from their email address
 Requirements
 TOR or a self-hosted VPN
@@ -7239,7 +6090,6 @@ https://glogg.bonnefon.org/download.html)
 Step 1:
 Put your victim's email address and whatnot into
 https://haveibeenpwned.com/ and
-https://dehashed.com/
 Keep note of all data breaches your victim is in
 Step 2:
 Go to
@@ -7247,9 +6097,8 @@ https://raidforums.com/ and create an account if you don't already have one. At 
 https://rf.ws/databases), you'll probably find all the databases listed. You'll also find torrents for Collection #1-5 + Antipublic data, you should download that as well. Prioritize anything with plain text passwords or weak hashing algorithms
 Step 3:
 Decompress all of your databases and search through them with glogg using their email address and whatnot. If you can't get anything in plaintext, just use hashcat or something since I don't want to explain how to use hashcat here.
-File Storage, [6/4/22 2:18 PM]
 Disassemblers, Debuggers, Decompilers, & Reverse Engineering
- https://x64dbg.com
+https://x64dbg.com
 https://ghidra-sre.org
 https://redasm.io
 http://www.ollydbg.de
@@ -7265,75 +6114,61 @@ https://github.com/androguard/androguard
 https://ibotpeaches.github.io/Apktool
 https://forum.xda-developers.com/showthread.php?t=2326604
 https://vaibhavpandey.com/apkstudio/
-File Storage, [6/4/22 2:18 PM]
 LinkBase - Biggest Hacking Link Collection
- https://link-base.org
-File Storage, [6/4/22 2:18 PM]
+https://link-base.org
 Metasploit Unleashed – Free Ethical Hacking Course
- https://www.offensive-security.com/metasploit-unleashed/
+https://www.offensive-security.com/metasploit-unleashed/
 Metasploit Unleashed - Free Ethical Hacking Security Training
 We are proud to present the most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book. This course is a perfect starting point for Information Security Professionals who want to learn penetration testing and ethical hacking, but are not yet ready to commit to a paid course. We will teach you how to use Metasploit, in a structured and intuitive manner. Additionally, this free online ethical hacking course makes a wonderful quick reference for penetration testers, red teams, and other security professionals.
 We hope you enjoy the Metasploit Unleashed course as much as we did making it!
 To get started, use the navigation menu on your left to work through this free Metasploit course. No registration or sign-up is necessary!
-File Storage, [6/4/22 2:18 PM]
 Basic Requirements for Red Teaming, PenTesting, Hacking & Cybersecurity
- https://pastebin.com/raw/v8Mr2k95
- https://archive.is/zXIek
- https://web.archive.org/web/20200928010850
 https://pastebin.com/raw/v8Mr2k95
- https://weboas.is/paste/raw/NErYTM28zz
- https://paste.ee/p/xm4OE#4Cl5r4CuQfBRTiSuR5rI1PyH3OROBJDw
-File Storage, [6/4/22 2:18 PM]
+https://archive.is/zXIek
+https://web.archive.org/web/20200928010850
+https://weboas.is/paste/raw/NErYTM28zz
+https://paste.ee/p/xm4OE#4Cl5r4CuQfBRTiSuR5rI1PyH3OROBJDw
 Voski Tutorial Video About Reverse Engineering Denuvo DRM
 This has been taken down from YouTube and other streaming platforms a billion times, so keep it saved locally.
 What Is Denuvo DRM?
- https://en.wikipedia.org/wiki/Denuvo
+https://en.wikipedia.org/wiki/Denuvo
 https://www.howtogeek.com/400126/what-is-denuvo-and-why-do-gamers-hate-it/
-DOWNLOAD
- https://1fichier.com/?buf9589hqiv9cb33ew93
-File Storage, [6/4/22 2:18 PM]
- https://forum.tuts4you.com was a good resource
- https://0x00sec.org
+https://1fichier.com/?buf9589hqiv9cb33ew93
+https://forum.tuts4you.com was a good resource
+https://0x00sec.org
 https://cs.rin.ru/forum/ < go to developer forum section once registered
- https://www.reddit.com/r/ReverseEngineering
+https://www.reddit.com/r/ReverseEngineering
 https://forum.reverse4you.org
- https://redasm.io - Disassembler that may be handy
- https://x64dbg.com - Debugger that may be handy
+https://redasm.io - Disassembler that may be handy
+https://x64dbg.com - Debugger that may be handy
 Hope that helps a bit, good luck.
-File Storage, [6/4/22 2:19 PM]
- https://mega.nz/file/iDgw0QDC#JjZvljkTL5ohIjLWIy26pb_G_bSGSdPvQrQ9S5KKJsg
-File Storage, [6/4/22 2:19 PM]
+https://mega.nz/file/iDgw0QDC#JjZvljkTL5ohIjLWIy26pb_G_bSGSdPvQrQ9S5KKJsg
 Technique for enabling nominal flow of an executable file
 applicant: Denuvo GmBh
- http://www.freepatentsonline.com/20160085946.pdf
-File Storage, [6/4/22 2:19 PM]
- https://www.youtube.com/watch?v=suABtb8_2Zk
+http://www.freepatentsonline.com/20160085946.pdf
+https://www.youtube.com/watch?v=suABtb8_2Zk
 https://www.youtube.com/watch?v=Ka_PudOvWpI
-File Storage, [6/4/22 2:19 PM]
 Namso Gen Source Code V2
- https://github.com/ANON5EC/NAMSO-GEN-2020
+https://github.com/ANON5EC/NAMSO-GEN-2020
 For More Free Tutorials You Can Visit Our Blog and Forum
 https://fssquad.com/
 Remove this post if not allowed
-File Storage, [6/4/22 2:19 PM]
 ZeroLogon Exploitation Script
- https://github.com/risksense/zerologon/
+https://github.com/risksense/zerologon/
 More Info:
 https://arstechnica.com/information-technology/2020/09/new-windows-exploit-lets-you-instantly-become-admin-have-you-patched/
-File Storage, [6/4/22 2:19 PM]
 Ea­ves­drop­ping En­cryp­ted LTE Calls With Re­VoL­TE
- https://revolte-attack.net
-File Storage, [6/4/22 2:19 PM]
+https://revolte-attack.net
 Random Cracking & Misc. Techniques to Obtain Passwords
 Obtain Linux user passwords
- https://www.cyberciti.biz/faq/understanding-etcshadow-file/
+https://www.cyberciti.biz/faq/understanding-etcshadow-file/
 Using hashcat to Crack passwords
 // to install hashcat via the CLI (command line)
 sudo apt-get update
 sudo apt-get install hashcat
- https://www.4armed.com/blog/hashcat-crack-md5-hashes/
+https://www.4armed.com/blog/hashcat-crack-md5-hashes/
 Remove hashcat results
- https://hashcat.net/forum/thread-6299.html
+https://hashcat.net/forum/thread-6299.html
 ON LINUX
 ~/.hashcat/hashcat.potfile
 LOCATED IN
@@ -7341,16 +6176,15 @@ C:\Users\%25USERNAME%25\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWin
 ON WINDOWS
 ECHO hashcat results to a text file (other than the potfile)
 Obtain Windows WIFI Passwords
- https://gist.github.com/dolmen/864551/6253489d7d7c823ba1ff027b83d47344ef3b42c8
- https://github.com/lalenguanegra/Passwords/blob/master/README.md
+https://gist.github.com/dolmen/864551/6253489d7d7c823ba1ff027b83d47344ef3b42c8
+https://github.com/lalenguanegra/Passwords/blob/master/README.md
 RockYou.txt
- https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 File Storage, [6/4/22 2:15 PM]
 What Is A Digital Garden?
 https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/
 I didn't really know what you meant by digital garden at first. Does this article pretty much cover its explanation?
-File Storage, [6/4/22 2:15 PM]
- https://aengusmcmillin.com/brain
+https://aengusmcmillin.com/brain
 https://notes.azlen.me/g3tibyfv
 https://joelhooks.com
 https://ianjones.us/notes
@@ -7382,8 +6216,7 @@ https://mtsolitary.com
 https://notes.davidralphlewis.co.uk
 https://zettelkasten.sorenbjornstad.com
 https://pbat.ch/wiki
-File Storage, [6/4/22 2:15 PM]
- http://estevancarlos.com
+http://estevancarlos.com
 https://electro.pizza
 https://avanier.studio
 https://kaemura.com
@@ -7395,11 +6228,9 @@ https://stecko.website
 https://now.lectronice.com
 https://craze.co.uk
 https://shaneckel.com/
-File Storage, [6/4/22 2:15 PM]
- https://github.com/iipc/awesome-web-archiving
-File Storage, [6/4/22 2:15 PM]
+https://github.com/iipc/awesome-web-archiving
 A knowledge graph of cybersecurity countermeasures & Incident Playbooks
- https://d3fend.mitre.org/
+https://d3fend.mitre.org/
 D3FEND, a framework in which we encode a countermeasure
 knowledge base, but more specifically, a knowledge graph. The
 graph contains semantically rigorous types and relations that
@@ -7413,33 +6244,26 @@ drawn from the U.S. Patent Office corpus over the years 2001 to
 2018.
 Paper -
 https://d3fend.mitre.org/resources/D3FEND.pdf
- https://github.com/austinsonger/Incident-Playbook
+https://github.com/austinsonger/Incident-Playbook
 Incident Response Process and Playbooks | Goal: Playbooks to be Mapped to MITRE Attack Techniques
-File Storage, [6/4/22 2:15 PM]
- https://seiso.party/
-File Storage, [6/4/22 2:15 PM]
+https://seiso.party/
 Online text to diagram tools
- https://xosh.org/text-to-diagram/
- https://archive.st/archive/2021/4/xosh.org/hdom/xosh.org/text-to-diagram/index.html
- https://web.archive.org/web/20210412173028
 https://xosh.org/text-to-diagram/
- https://archive.is/xemFM
-File Storage, [6/4/22 2:15 PM]
+https://archive.st/archive/2021/4/xosh.org/hdom/xosh.org/text-to-diagram/index.html
+https://web.archive.org/web/20210412173028
+https://archive.is/xemFM
 Every bookmark manager ever made
- https://bookmarkos.com/every-bookmark-manager-ever-made/
- https://web.archive.org/web/20210218235341
+https://bookmarkos.com/every-bookmark-manager-ever-made/
+https://web.archive.org/web/20210218235341
 https://bookmarkos.com/every-bookmark-manager-ever-made
- https://archive.st/archive/2021/4/bookmarkos.com/b1ku/bookmarkos.com/every-bookmark-manager-ever-made/index.html
- https://archive.is/TWCrc
-File Storage, [6/4/22 2:15 PM]
+https://archive.st/archive/2021/4/bookmarkos.com/b1ku/bookmarkos.com/every-bookmark-manager-ever-made/index.html
+https://archive.is/TWCrc
 Security List 2021
 A curated checklist of 300+ tips for protecting digital security and privacy in 2021.
- https://github.com/Lissy93/personal-security-checklist
 OR
- https://security-list.js.org/#/
-File Storage, [6/4/22 2:15 PM]
+https://security-list.js.org/#/
 IPFS Links
- https://ipfs-search.com
+https://ipfs-search.com
 https://collab.ipfscluster.io
 https://website.filecoin.io
 https://website.protocol.ai
@@ -7469,16 +6293,15 @@ https://dev.peerpad.net
 https://flipchart.peerpad.net
 https://project-repos.ipfs.io
 https://dnslink.io
-File Storage, [6/4/22 2:15 PM]
 Free debrid sites 200
- http://leechvip.net
+http://leechvip.net
 https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches
 https://freerapidleechlist.blogspot.com
 https://premiumlinkgenerator-leecher.blogspot.com
 https://freerapidleechlist.com
 https://www.multishare.cz/en/registrace
 oboom
- http://usepremium.blinkweb.com
+http://usepremium.blinkweb.com
 http://my-debrid.net
 https://en.savefrom.net/9
 https://loader.to
@@ -7512,9 +6335,8 @@ https://maulvi.github.io
 https://totalrip.org
 https://vido.download
 https://www.clipconverter.cc/youtube-converter/
-File Storage, [6/4/22 2:15 PM]
 RapidLeech Transload Websites
- http://ahputuleech.herokuapp.com
+http://ahputuleech.herokuapp.com
 http://clouddebrid.herokuapp.com
 http://dontdo.herokuapp.com
 http://leech13040.herokuapp.com
@@ -7583,7 +6405,7 @@ http://www.cboxghostleech.net/free
 http://onleech.me
 http://caxuxinhabrazilpremium2016.tk/
 File Storage, [6/4/22 2:16 PM]
- http://debrid.xyz
+http://debrid.xyz
 http://leech.ae
 http://www.publicleech.xyz
 http://www.leech-brasil.com
@@ -7610,7 +6432,6 @@ http://debridnet.com
 http://10-download.com
 http://cboxera.com/cbox
 http://premiumleech.sinfiles.com
-https://cocoleech.com
 http://lifeinalfonso.com
 http://debdom.com
 http://tout-debrid.com
@@ -7626,7 +6447,6 @@ https://bagusdl.pro
 http://urltocloud.nsspot.net
 https://mega-debrit.com
 https://rapidgrab.pl
-https://hyperdebrid.net
 https://neodebrid.com
 https://premiumleech.eu
 http://prem.link
@@ -7672,12 +6492,11 @@ https://ddebrid.com
 https://debrid-file.com/
 leechall
 rapidgrab.pl
-File Storage, [6/4/22 2:16 PM]
- https://www.hawkturbo.com
+https://www.hawkturbo.com
 https://turkdown.com/multishare.cz
 neodebrid
 jetleech
- https://leechpremium.link/index.php
+https://leechpremium.link/index.php
 Superloading
 Multishare.cz
 https://prembox.com
@@ -7688,108 +6507,95 @@ http://free.downloader.my/index.php
 https://dasan.co
 https://myuploadedpremium.de
 https://debrid.mizu.best
-https://qpython.club
 https://web.avjie.com/index.php
 http://oyrenci-sesi.info/leech/index.php
 http://vmaniac.com/index.php
 http://thanhcavietnam.org/DownHost/index.php
-File Storage, [6/4/22 2:16 PM]
 siliconpr0n: High Resolution Chip Maps
- https://siliconpr0n.org/map/
-File Storage, [6/4/22 2:16 PM]
+https://siliconpr0n.org/map/
 DMOZ Tools
- http://dmoztools.net/
-File Storage, [6/4/22 2:16 PM]
+http://dmoztools.net/
 Favorite Speedtest Sites
- https://fast.com
+https://fast.com
 https://speed.cloudflare.com
 https://www.speedtest.net
 https://librespeed.org
-File Storage, [6/4/22 2:16 PM]
 Fake iPhone Text Message Generator
- https://ifaketextmessage.com
-File Storage, [6/4/22 2:16 PM]
+https://ifaketextmessage.com
 Reddit Front Ends
- https://codeberg.org/teddit/teddit -
+https://codeberg.org/teddit/teddit -
 https://teddit.net (old-like)
- https://github.com/spikecodes/libreddit -
+https://github.com/spikecodes/libreddit -
 https://libredd.it (different theme)
- https://lurrker.com
+https://lurrker.com
 https://pcottle.github.io/MSOutlookit
 https://reddup.co
- https://gt.kalli.st/kallist/kddit
-File Storage, [6/4/22 2:16 PM]
+https://gt.kalli.st/kallist/kddit
 TwikTwok - If Twitter and TikTok had a baby
- https://twiktwok.github.io
-File Storage, [6/4/22 2:16 PM]
+https://twiktwok.github.io
 100,000 Stars - View Galaxy Within Your Browser
- https://stars.chromeexperiments.com
-File Storage, [6/4/22 2:16 PM]
+https://stars.chromeexperiments.com
 SerenityOS
- https://github.com/SerenityOS/serenity
- http://serenityos.org
+https://github.com/SerenityOS/serenity
+http://serenityos.org
 Graphical Unix-like operating system for x86 computers.
 SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems.
 Roughly speaking, the goal is a marriage between the aesthetic of late-1990s productivity software and the power-user accessibility of late-2000s *nix.
 This is a system by us, for us, based on the things we like.
-File Storage, [6/4/22 2:16 PM]
 GPT-3 Explorer
 A power tool for experimenting with GPT-3
- https://www.wikiwand.com/en/GPT-3
- https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer
+https://www.wikiwand.com/en/GPT-3
+https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer
 https://github.com/belay-labs/gpt-explorer
 http://gpt-3-explorer.vercel.app
-File Storage, [6/4/22 2:16 PM]
 MandalaGaba - Free Tool For Creating Zen Geometry
- https://www.mandalagaba.com
-File Storage, [6/4/22 2:16 PM]
+https://www.mandalagaba.com
 Collection of webcam resources
 This list is meant to serve as a demonstration of what "outside" looks like.
 Public webcams:
- https://www.insecam.org/en/ - massive ip cam directory
+https://www.insecam.org/en/ - massive ip cam directory
 - python crawler:
 https://github.com/matiasraisanen/insecrawl
 - scraper with object detection:
 https://github.com/apockill/InsecamScraper
 https://www.earthcam.com/ - official webcams from around the world
- https://openstreetcam.org/map - google maps with cam locations
- https://ip-24.net/list.php - webcams
- http://c4-cams.qwazwsx.xyz/c4-cams/ - random webcam streams
+https://openstreetcam.org/map - google maps with cam locations
+https://ip-24.net/list.php - webcams
+http://c4-cams.qwazwsx.xyz/c4-cams/ - random webcam streams
 - github:
 https://github.com/qwazwsx/c4-cams
 - source:
 https://git.io/c4 (
 https://gist.github.com/turbo/189cde3a5a2847f5be73eab712dd4024)
-- source:
 https://github.com/turbo/c4
 https://www.windy.com/-Webcams/webcams - webcams listed by Windy (
 https://www.lookr.com/)
- https://www.nestcamdirectory.com/ - another webcam directory
- http://www.opentopia.com/hiddencam.php - another live camera directory
+https://www.nestcamdirectory.com/ - another webcam directory
+http://www.opentopia.com/hiddencam.php - another live camera directory
 - for livefeed:
 http://www.opentopia.com/webcam/7915?viewmode=livevideo
 https://www.webcamgalore.com/complete-u.html - a huge list
- https://www.webcamtaxi.com/en/ - mostly vacation sites
- https://worldcams.tv/ - vacation sites
- https://worldcam.eu/ - more official cams
- https://balticlivecam.com/ - see above
- https://www.skylinewebcams.com/en.html - more official cams
- https://www.webcamsinnorway.com/webcams.php - webcams in norway
- https://www.africam.com/wildlife/live-african-wildlife-safari-channels/ - webcams in africa
- https://camstreamer.com/live
+https://www.webcamtaxi.com/en/ - mostly vacation sites
+https://worldcams.tv/ - vacation sites
+https://worldcam.eu/ - more official cams
+https://balticlivecam.com/ - see above
+https://www.skylinewebcams.com/en.html - more official cams
+https://www.webcamsinnorway.com/webcams.php - webcams in norway
+https://www.africam.com/wildlife/live-african-wildlife-safari-channels/ - webcams in africa
+https://camstreamer.com/live
 https://explore.org/livecams
- http://www.webcamxp.com/publicipcams.aspx - a small list of ip cams
- https://blueridgecountry.com/travel/fall/fall-foliage-webcams/ - another small list
- https://www.lisd.org/technology/itswebs/elem/curr/webcams.htm
+http://www.webcamxp.com/publicipcams.aspx - a small list of ip cams
+https://blueridgecountry.com/travel/fall/fall-foliage-webcams/ - another small list
+https://www.lisd.org/technology/itswebs/elem/curr/webcams.htm
 https://kwsnet.com/multimedia-webcam-live-cam.html
 https://www.webcamhopper.com/ - more webcams, listed by country
- https://www.the-webcam-network.com/ - same as above
- https://old.reddit.com/r/controllablewebcams/ - a subreddit on the topic
- https://discord.gg/wdjtevG - /r/controllablewebcams' discord
- https://old.reddit.com/r/controllablewebcams/comments/h0riz/ - google search terms
- http://199.104.253.4/view/view.shtml?id=22765 - axis.com example
- https://g1.ipcamlive.com/player/player.php?alias=5b56517614100 - ipcamlive.com example
- https://www.shodan.io/explore/tag/webcam - shodan webcam directory
+https://www.the-webcam-network.com/ - same as above
+https://old.reddit.com/r/controllablewebcams/ - a subreddit on the topic
+https://discord.gg/wdjtevG - /r/controllablewebcams' discord
+https://old.reddit.com/r/controllablewebcams/comments/h0riz/ - google search terms
+http://199.104.253.4/view/view.shtml?id=22765 - axis.com example
+https://g1.ipcamlive.com/player/player.php?alias=5b56517614100 - ipcamlive.com example
+https://www.shodan.io/explore/tag/webcam - shodan webcam directory
 - queries:
 - net:195.46.96.0/19 port:"554"
 - linux upnp avtech
@@ -7800,43 +6606,33 @@ other google search terms:
 http://73.156.111.21:8090/home.html
 - intitle:"supervisioncam protocol"
 - inurl:CgiStart?page=Single
- https://www.shodan.io/search?query=title%253A"Live"+HTML%253A"Axis"+country%253A"US"+200+OK&language=en
- https://explore.org/livecams
-File Storage, [6/4/22 2:16 PM]
+https://www.shodan.io/search?query=title%253A"Live"+HTML%253A"Axis"+country%253A"US"+200+OK&language=en
 ZoomEarth
- https://zoom.earth
-File Storage, [6/4/22 2:16 PM]
+https://zoom.earth
 City Generator
- https://probabletrain.itch.io/city-generator
-File Storage, [6/4/22 2:16 PM]
+https://probabletrain.itch.io/city-generator
 CyberPunk Links
- https://pastebin.com/raw/AJYry5NH
- https://web.archive.org/web/20200928010600
 https://pastebin.com/raw/AJYry5NH
- https://archive.is/7u7Rf
-File Storage, [6/4/22 2:16 PM]
+https://web.archive.org/web/20200928010600
+https://archive.is/7u7Rf
 Saving Audio/Video From YouTube & Many Other Online Streaming Media Services
- https://9xbuddy.org
+https://9xbuddy.org
 https://ripsave.com
 https://sasrip.cf
 https://megaconverter.net
 https://www.videovor.com
- https://downloadmusicschool.com/bandcamp
+https://downloadmusicschool.com/bandcamp
 https://www.klickaud.co
-File Storage, [6/4/22 2:16 PM]
 Best Temporary Emails
- https://vipmail.cyou
+https://vipmail.cyou
 https://edumail.icu
-File Storage, [6/4/22 2:16 PM]
 Cryptogram Solver
- https://www.quipqiup.com
-File Storage, [6/4/22 2:16 PM]
+https://www.quipqiup.com
 View How New York City Looked in the 1940's
- https://1940s.nyc
+https://1940s.nyc
 It's Like Historical Google Street View
-File Storage, [6/4/22 2:17 PM]
 Links From Stefanie Proto
- https://nitter.net/sprp77
+https://nitter.net/sprp77
 Facial recognition search
 imagerecognize.comstarbyface.comin20years.copictriev.compimeyes.com/en/beauty.toolpie.compinkmirror.com
 Whitepaper search
@@ -7909,14 +6705,12 @@ seekoin.comblockchair.com
 blocks.press
 Exploit search engines
 sploitus.comvulmon.comexploitsearch.comnmmapper.com/searchindex/s/thehacklabs.comexploits.shodan.iocvedetails.comexploitalert.com
-File Storage, [6/4/22 2:17 PM]
 Youtube search tools
 ytcomment.kmcat.ukfirst-comment.comchannelcrawler.com/enghadzy.comyoutube-scrape.herokuapp.com/api/search?q=SEARCH-TERM
 Torrent search engines
 torrentseeker.comkickassto.cc
 torrentsearch.site
 ibit.amtorrentproject2.comsearch.torrents.iosnowfl.comidope.setoorgle.com
-Science search engines
 science-search.netscienceopen.comresearch.omicsgroup.orgvadlo.comispybio.comscienceprotocols.orgorefil.dbcls.jp/en/scilit.net
 Medical search engines
 carnap.ailookformedical.com/enseenso.comscholarx.org/searchx/allmedx.commedworm.comdeepaimed.com
@@ -7942,7 +6736,6 @@ darksearch.iotorsearch.netonionlandsearchengine.comonionsearchengine.comtorsearc
 boogle.store
 File search engines
 searchfiles.demegadownload.netglobalfilesearch.comddlsearch.free.frsharedigger.com
-File Storage, [6/4/22 2:17 PM]
 Breached data search
 breachdirectory.tksecureito.comdehashed.comghostproject.frhaveibeenpwned.com
 haveibeensold.app
@@ -7957,57 +6750,47 @@ craigslist super search engines
 searchcraigslist.orgonecraigs.comallcraigslistsearch.commy-craigs-finder.comsearchalljunk.comclsearchengine.comcraigs-list-search.comcraigslistsearchall.com
 Cache / Archive Search Engines
 archivedweb.comcachedviews.comwebcaches.comcachedpages.comcachedpage.cocachearchive.comcachedview.nlviewcached.comtimetravel.mementoweb.org
-File Storage, [6/4/22 2:17 PM]
 Possible future animated backgrounds for weboasis
- http://glslsandbox.com
+http://glslsandbox.com
 https://www.shadertoy.com/view/4sl3Dr
-File Storage, [6/4/22 2:17 PM]
 Memex (Domain-Specific Search)
 Memex:
- https://www.darpa.mil/program/memex
+https://www.darpa.mil/program/memex
 Open Catalog:
- https://web.archive.org/web/20160306005826
+https://web.archive.org/web/20160306005826
 http://opencatalog.darpa.mil/MEMEX.html
-File Storage, [6/4/22 2:17 PM]
 Download Backup of Wikipedia (Just In Case)
 The world is getting crazier and crazier. Better have a small portion of society's knowledge backed up just in case everything goes to hell.
- https://en.wikipedia.org/wiki/Wikipedia:Database_download
- https://dumps.wikimedia.org/enwiki/
- http://xowa.org/home/wiki/Help/Download_XOWA.htm
-File Storage, [6/4/22 2:17 PM]
+https://dumps.wikimedia.org/enwiki/
+http://xowa.org/home/wiki/Help/Download_XOWA.htm
 (Online) PDF Tools
- https://pdfcandy.com
- https://www.pdfescape.com/
- https://pdfhost.io
- https://www.ilovepdf.com
- https://www.xodo.com
-File Storage, [6/4/22 2:17 PM]
+https://pdfcandy.com
+https://www.pdfescape.com/
+https://pdfhost.io
+https://www.ilovepdf.com
+https://www.xodo.com
 IoT ONE helps companies
 realize opportunities and manage threats
 created by rapid technological change.
- https://www.iotone.com
-File Storage, [6/4/22 2:17 PM]
+https://www.iotone.com
 MegaLinks Backup
- https://www71.zippyshare.com/v/behLhk3F/file.html
-File Storage, [6/4/22 2:17 PM]
- https://www.people-search.org
+https://www71.zippyshare.com/v/behLhk3F/file.html
+https://www.people-search.org
 https://persopo.com
 http://www.truepeoplesearch.com/
 SpyDialer seems to work pretty well and it's free:
- https://www.spydialer.com/
+https://www.spydialer.com/
 If you are looking for public records type stuff try Black Book Online:
- https://www.blackbookonline.info/
+https://www.blackbookonline.info/
 I've found similar info just searching around with DDG, some useful sites pop up.
- https://www.zabasearch.com/
- https://www.usphonebook.com/
- https://usersearch.org/index.php
- https://steamid.uk
-File Storage, [6/4/22 2:17 PM]
+https://www.zabasearch.com/
+https://www.usphonebook.com/
+https://usersearch.org/index.php
+https://steamid.uk
 wasmdec - WebAssembly to C Decompiler
- https://wwwg.github.io/web-wasmdec/
-File Storage, [6/4/22 2:17 PM]
+https://wwwg.github.io/web-wasmdec/
 Public Torrent RSS Feeds
- https://rarbg.to/rss.php
+https://rarbg.to/rss.php
 https://www.ettvdl.com/rss.php?cat=all
 https://glodls.to/rss.php
 https://torrentgalaxy.to/rss
@@ -8022,26 +6805,19 @@ https://nyaa.net/feed
 https://anidex.info/rss
 http://fitgirl-repacks.site/feed
 https://www.torrentfunk.com/rss.xml
-File Storage, [6/4/22 2:17 PM]
 Cryptocurrency related links
- https://tokenncoin.com/ --> Monitor real-time market data and get the latest news regarding the emerging multi-billion market today.
- https://www.bitlogic.tech/ --> the tech blog to learn about crypto and other technologies
- https://buyaladdin.com/ --> to buy using cryptos Y
-File Storage, [6/4/22 2:17 PM]
+https://tokenncoin.com/ --> Monitor real-time market data and get the latest news regarding the emerging multi-billion market today.
+https://www.bitlogic.tech/ --> the tech blog to learn about crypto and other technologies
+https://buyaladdin.com/ --> to buy using cryptos Y
 URL fuzzing tool made of Python
- https://github.com/AyoobAli/pyfuzz
-File Storage, [6/4/22 2:17 PM]
+https://github.com/AyoobAli/pyfuzz
 Awesome Hacking
- https://awesomehacking.org
- https://archive.st/archive/2021/5/awesomehacking.org/7r2t/awesomehacking.org/index.html
- https://web.archive.org/web/20210506035945
+https://awesomehacking.org
+https://archive.st/archive/2021/5/awesomehacking.org/7r2t/awesomehacking.org/index.html
+https://web.archive.org/web/20210506035945
 https://awesomehacking.org/
- https://archive.is/8HXei
+https://archive.is/8HXei
 File Storage, [6/4/22 2:11 PM]
- https://gitlab.com/Mr_Goldberg/goldberg_emulator
-https://github.com/Oros42/IMSI-catcher
-https://makenweb.com/SpleeterGUI
-https://dos.zone/en
 https://www.jsonformatting.com
 https://telegra.ph
 https://knownorigin.io
@@ -8049,65 +6825,36 @@ https://rarible.com
 https://opensea.io
 https://www.shadowbanker.io
 https://mudita.com
-https://bitcoiner.live
 https://bestcaptchasolver.com
 https://keygenmusic.tk
-File Storage, [6/4/22 2:11 PM]
- https://dumps.wikimedia.org
+https://dumps.wikimedia.org
 https://booksc.org
 https://2lib.org
 https://fossdroid.com
-https://android.izzysoft.de/repo
-https://github.com/albertomosconi/foss-apps
 https://animeheaven.pro
-https://www.ambient-mixer.com
 https://utk-se.github.io/CodeRibbon
-https://github.com/schollz/croc
-https://orph.link/tripgen
 https://newtrackon.com/list
-https://chimu.moe/en
-https://www.thedarkmod.com
-https://www.memeatlas.com
 https://dictation.io/speech
-https://video2x.org
 https://onlynudes.net
 https://timcast.com
-https://counter.dev
-File Storage, [6/4/22 2:11 PM]
- https://cs-online.club/en/servers
 https://scholar.archive.org
 https://www.channelcrawler.com
-https://hub.balena.io
-https://malsync.moe
-https://fantasyanime.com
-https://info.stylee32.net
 https://thisanimedoesnotexist.ai
-https://soda.privatevoid.net/num/links
-https://peelopaalu.neocities.org
 https://email.faircode.eu
 https://cirrusretro.com
-https://acko.net
-File Storage, [6/4/22 2:11 PM]
- https://smihub.com
+https://smihub.com
 https://critter.camera
-https://gourav.io/clone-wars
-https://gitlab.com/bramw/baserow
-https://github.com/ififfy/flipflip
-https://github.com/manuGMG/1fichier-dl
 https://github.com/harporoeder/ebpfsnitch
 https://www.namebase.io
 https://swipe-porn.com
-https://pdfhost.io
 https://pwoss.org
 https://poa.st
 File Storage, [6/4/22 2:12 PM]
- https://www.edisk.eu
-https://github.com/megadose/OnionSearch
+https://www.edisk.eu
 https://fsi-languages.yojik.eu
 https://based.cooking
 https://www.leocad.org
-File Storage, [6/4/22 2:12 PM]
- https://www.syntropystack.com
+https://www.syntropystack.com
 https://fyptt.to
 https://www.schneier.com
 https://www.voat.xyz
@@ -8117,7 +6864,6 @@ https://github.com/DidierRLopes/GamestonkTerminal
 https://github.com/Ryochan7/DS4Windows
 https://github.com/ridhwaans/homehost
 https://github.com/qarmin/czkawka
-https://awesome.ipfs.io
 https://nopy.to
 https://searchmysite.net
 https://www.ekioh.com/flow-browser
@@ -8129,8 +6875,7 @@ https://www.focalboard.com
 https://chartscss.org
 https://dogehouse.tv
 https://x0.at
-File Storage, [6/4/22 2:12 PM]
- https://satellitephonestore.com
+https://satellitephonestore.com
 https://soap2day.to
 https://www.shellcheck.net
 https://github.com/lminiero/jamrtc
@@ -8142,14 +6887,12 @@ https://40two.app
 https://send.lambda.dance
 https://ytdl.actionsack.com
 https://github.com/ntaraujo/killer
-https://github.com/CorentinJ/Real-Time-Voice-Cloning
 https://github.com/SystemErrorWang/White-box-Cartoonization
 https://github.com/lllyasviel/style2paints
 https://github.com/vijishmadhavan/ArtLine
 https://github.com/microsoft/codetour
 https://www.i-dont-care-about-cookies.eu
-File Storage, [6/4/22 2:12 PM]
- https://decrypt.co
+https://decrypt.co
 https://editor.godotengine.org/releases/latest
 https://github.com/EleutherAI/gpt-neo
 https://github.com/NikolaiT/zardaxt
@@ -8164,8 +6907,7 @@ https://gdevelop-app.com
 https://cutiepi.io
 https://github.com/nccgroup/solitude
 https://quiterss.org
-File Storage, [6/4/22 2:12 PM]
- https://github.com/sunilkumarvalmiki/Anonymous-Developemnt-Resources
+https://github.com/sunilkumarvalmiki/Anonymous-Developemnt-Resources
 https://github.com/privacy-tech-lab/optmeowt-browser-extension
 https://github.com/zhw2590582/ArtPlayer
 https://github.com/tugcanolgun/vigilio
@@ -8196,8 +6938,7 @@ https://octoprint.org
 https://www.opensaw.com
 https://musical-artifacts.com
 https://archiveofourown.org
-File Storage, [6/4/22 2:12 PM]
- https://www.xapo.com
+https://www.xapo.com
 https://fireball.de
 https://sherlock-holm.es
 https://www.acapellas4u.co.uk
@@ -8206,15 +6947,13 @@ https://www.instructables.com
 https://librexapp.com
 https://james.darpinian.com/satellites
 https://ofans.party
-File Storage, [6/4/22 2:12 PM]
- https://whmcs.design
+https://whmcs.design
 https://openarena.ws
 https://www.ourboard.io
 https://hunter.io
 https://www.aliexpress.com
 https://protectli.com
-File Storage, [6/4/22 2:12 PM]
- https://www.openttd.org
+https://www.openttd.org
 https://code.kryo.se/iodine
 https://slate.host
 https://inspirobot.me
@@ -8237,8 +6976,7 @@ https://daddylive.co
 https://sportzonline.to/prog.txt
 https://t.me/s/illegal_services
 https://brie.fi/ng
-File Storage, [6/4/22 2:12 PM]
- https://github.com/FelisCatus/SwitchyOmega
+https://github.com/FelisCatus/SwitchyOmega
 https://gitlab.com/cosmosapps/stealth
 https://gitlab.com/tzkuat/Ressources
 https://emfclothing.com/en
@@ -8252,8 +6990,7 @@ https://www.multy.me
 https://netograph.io
 https://www.firefly-iii.org
 https://ueli.app
-File Storage, [6/4/22 2:12 PM]
- https://paste.ee
+https://paste.ee
 https://censys.io/ipv4
 https://www.shipmap.org
 https://everynoise.com
@@ -8265,8 +7002,7 @@ https://www.eyeofjustice.com/od
 https://www.databreaches.net/news
 https://videy.co
 https://8mb.video
-File Storage, [6/4/22 2:12 PM]
- https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
 https://github.com/Dr-Noob/cpufetch
 https://www.porngo.com
 https://pornxp.com
@@ -8286,8 +7022,7 @@ https://midi.moe
 https://youdieifyou.work
 https://noraj.gitlab.io/the-hacking-trove
 https://inventory.raw.pm
-File Storage, [6/4/22 2:12 PM]
- https://stackedit.io
+https://stackedit.io
 https://paywall.party
 https://github.com/netdata/netdata
 https://www.monitorix.org
@@ -8295,8 +7030,7 @@ https://healthchecks.io
 https://rss.app
 https://rsshub.app
 http://spek.cc
-File Storage, [6/4/22 2:12 PM]
- https://github.com/DualCoder/vgpu_unlock
+https://github.com/DualCoder/vgpu_unlock
 https://www.canva.com
 https://www.figma.com
 https://www.screentogif.com
@@ -8307,8 +7041,7 @@ https://forum.torrminatorr.com
 https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean
 https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
 https://nicotine-plus.github.io/nicotine-plus/
-File Storage, [6/4/22 2:12 PM]
- https://www.openvaers.com/covid-data
+https://www.openvaers.com/covid-data
 https://www.tightvnc.com
 https://www.givesendgo.com
 https://emojify.info
@@ -8316,38 +7049,23 @@ https://monitorss.xyz
 https://myvpn.run
 https://www.torbox.ch
 https://amp.rs
-File Storage, [6/4/22 2:12 PM]
- https://volmarg.github.io
+https://volmarg.github.io
 https://github.com/opensearch-project/OpenSearch
 https://noncesense-research-lab.github.io
 https://ez.lol
 https://aggie.io
 https://github.com/anatolykopyl/youtube-cdl
-https://apps.sentinel-hub.com/eo-browser
-https://mailvelope.com
 https://upbeatradio.net
 https://www.removeddit.com
 https://lofi.cafe
-File Storage, [6/4/22 2:12 PM]
- https://wsbsentiment.io
+https://wsbsentiment.io
 https://tldroptions.io
-https://security-list.js.org
 https://bgp.tools
 https://anydebrid.com
 https://portapps.io
-https://tinytools.directory
-https://survol.me
-https://trackmybacklink.com
-https://nute.app
-https://stacks.rocks
-https://umami.is
 https://goodlinks.app
 https://www.publishthis.email
-https://ackee.electerious.com
-https://github.com/dynobo/normcap
 https://github.com/trashhalo/reddit-rss
-https://github.com/Hari-Nagarajan/fairgame
-https://bookmarkos.com/every-bookmark-manager-ever-made
 https://www.carlostoxtli.com/docs2web
 https://itus.space
 https://grocy.info
@@ -8360,7 +7078,6 @@ https://cwtch.im
 https://strims.gg
 https://platfor.io
 https://tusk.page
-https://pidgin.im
 https://obsidian.md
 https://ripsave.net
 https://www.loudreader.com
@@ -8370,8 +7087,7 @@ https://activitywatch.net
 https://standardnotes.org
 https://www.spikednation.com
 https://otp.landian.vip/en-us/
-File Storage, [6/4/22 2:12 PM]
- https://volumio.org
+https://volumio.org
 https://autonews.io
 https://shadow.github.io
 https://store.minisforum.com
@@ -8387,14 +7103,12 @@ https://adblock-tester.com
 https://imgshare.io
 https://vk.com/vstbest
 https://api.vevioz.com
-https://loader.to
 https://pltext.com
 https://github.com/mayfrost/guides
 https://github.com/adamsatyr/RipTok
 https://github.com/Xmader/musescore-downloader
 https://github.com/taskylizard/piratedgames-megathread
-File Storage, [6/4/22 2:12 PM]
- https://github.com/jaakkopasanen/AutoEq
+https://github.com/jaakkopasanen/AutoEq
 https://openastrotech.com
 https://spacedashboard.com
 https://booba.tv
@@ -8414,7 +7128,6 @@ https://satellitemap.space
 https://findstarlink.com
 https://secure.imvu.com
 https://kiwifarms.cc
-https://poa.st
 https://tube.cadence.moe
 https://sr.ht/~cadence/tube
 https://www.hacker101.com
@@ -8432,8 +7145,7 @@ https://skytransfer.hns.siasky.net
 https://github.com/darkalfx/requestrr
 https://github.com/psanford/wormhole-william
 https://github.com/Jacalz/wormhole-gui
-File Storage, [6/4/22 2:12 PM]
- https://ttm.sh
+https://ttm.sh
 https://miraheze.org
 https://openboard.ch/index.en.html
 https://inteltechniques.com/podcast.html
@@ -8445,9 +7157,7 @@ https://mapchart.net
 https://rawgraphs.io
 https://dht.chylex.com
 https://send.vis.ee
-https://awesomehacking.org
-File Storage, [6/4/22 2:12 PM]
- https://portfolio.zxh.io
+https://portfolio.zxh.io
 https://lokinet.org
 https://micro-editor.github.io
 https://wowidget.github.io
@@ -8462,21 +7172,19 @@ https://crawl.develz.org
 https://www.effedupmovies.com
 https://css-ig.net/pingo
 File Storage, [6/4/22 2:13 PM]
- https://github.com/lebr0nli/slader-extension
+https://github.com/lebr0nli/slader-extension
 https://www.shelf.so
 https://tunnelbroker.net
 https://stumbled.cc
 https://jumpstick.app
 https://www.serverhunter.com
 https://bitflock.com
-https://imagecyborg.com
 http://atlasengineering.io
 https://github.com/vxunderground/MalwareSourceCode
 https://github.com/GONZOsint/gitrecon
 https://github.com/AlexeyAB/darknet
 https://archiveprogram.github.com
-File Storage, [6/4/22 2:13 PM]
- https://build.mmm.page
+https://build.mmm.page
 https://minimal.gallery
 https://volument.com
 https://superchange.is
@@ -8494,14 +7202,11 @@ https://schemeflood.com
 https://www.migadu.com
 https://leakreality.com
 https://pulsedive.com
-https://inventory.raw.pm
-https://www.importyeti.com
 https://github.com/qarmin/szyszka
 https://github.com/AkihiroSuda/lima
 https://github.com/amq/firefox-debloat
 https://github.com/tallero/PGPgram
-File Storage, [6/4/22 2:13 PM]
- https://github.com/TeamShinkansen/Hakchi2-CE
+https://github.com/TeamShinkansen/Hakchi2-CE
 https://github.com/KMFDManic/NESC-SNESC-Modifications
 https://github.com/khlam/discord-sandboxed
 https://github.com/rlv-dan/Snap2HTML
@@ -8521,8 +7226,6 @@ https://wigle.net
 https://www.imploded.com
 https://perkele.cc/software/boom
 https://directmusic.me/wav2png/
-File Storage, [6/4/22 2:13 PM]
- https://umami.is
 https://stealth.org
 https://www.stealthpay.com
 https://github.com/krlvm/PowerTunnel
@@ -8533,7 +7236,6 @@ https://iina.io
 https://www.protocol.com
 https://stackblitz.com
 https://crackitindonesia.com
-https://silentspacemarine.com
 https://www.localcdn.org
 https://wakelet.com
 https://voice2json.org
@@ -8543,8 +7245,7 @@ https://github.com/beucismis/awesome-fetch
 https://github.com/Freaky/Compactor
 https://www.gbasil.dev/bookmarklets
 https://asec.ahnlab.com/en/
-File Storage, [6/4/22 2:13 PM]
- https://www.serenityos.org
+https://www.serenityos.org
 https://adhole.org
 https://seiso.party
 http://liveomg.com
@@ -8559,15 +7260,12 @@ https://github.com/repeats/Repeat
 https://github.com/baykovr/AVPI
 https://github.com/sorenisanerd/gotty
 https://go.fusebit.io/fusebot/
-File Storage, [6/4/22 2:13 PM]
- https://www.pirateship.com
+https://www.pirateship.com
 https://github.com/cotnw/muvi
 https://www.bellingcat.com
 https://www.appaddict.org
 https://counter.social
-https://disclose.io
 https://openmhz.com
-https://playingcards.io
 https://www.diybookscanner.org
 https://helix-editor.com
 https://www.intodns.com
@@ -8577,8 +7275,7 @@ https://www.mindforger.com
 https://github.com/Tyrrrz/YoutubeDownloader
 https://th-ch.github.io/youtube-music
 https://improvedtube.com
-File Storage, [6/4/22 2:13 PM]
- https://github.com/SpheeresX/ytmdesktop
+https://github.com/SpheeresX/ytmdesktop
 https://thehackermind.com
 https://www.exitscam.show
 https://asuswrt-merlin.net
@@ -8592,8 +7289,7 @@ https://syncplay.pl
 https://check.njal.la/dns
 https://domain.glass
 https://node.dev/node-binary
-File Storage, [6/4/22 2:13 PM]
- https://mastershot.app
+https://mastershot.app
 https://github.com/jostroOS/amogOS
 https://icanhazip.com
 https://imgproxify.com
@@ -8613,14 +7309,11 @@ https://sun.aweray.com
 https://www.broker.xxx
 https://home.trebel.io
 https://wormhole.app
-https://decrypt.co
-https://tetr.io
 https://github.com/ufb/Textmarker
 https://app.keeweb.info
 https://ms-paint-i.de
 https://neko.bar
-File Storage, [6/4/22 2:13 PM]
- https://old.reddit.com/r/shoppingbay
+https://old.reddit.com/r/shoppingbay
 https://old.reddit.com/r/RedditbayPro
 https://old.reddit.com/r/TheSellSpot
 https://old.reddit.com/r/REDDITTBAY
@@ -8628,8 +7321,7 @@ https://old.reddit.com/r/Shopping
 https://latesthackingnews.com
 https://thecyberpost.com
 https://dnstats.net
-File Storage, [6/4/22 2:13 PM]
- https://github.com/kangyu-california/PersistentWindows
+https://github.com/kangyu-california/PersistentWindows
 https://github.com/ibraheemdev/modern-unix
 https://github.com/ripmeapp/ripme
 https://github.com/bee-san/pyWhat
@@ -8646,13 +7338,11 @@ http://www.foundphotos.net
 https://projectmoon.dance
 https://pingme.lmno.pk
 https://6b.eleuther.ai
-File Storage, [6/4/22 2:13 PM]
- https://redcorelinux.org
+https://redcorelinux.org
 http://internet-in-a-box.org
 http://www.editthiscookie.com
 https://www.twitch.tv/dutchsinseofficial
 https://github.com/dertuxmalwieder/yaydl
-https://github.com/antoniomika/sish
 https://eternalbox.dev/jukebox_index.html
 https://rave.dj
 https://altstore.io
@@ -8660,10 +7350,8 @@ https://contactfound.com
 https://gethuman.com
 https://buttplug.io
 https://toyhou.se
-https://groups.io
 https://aes67.app
-File Storage, [6/4/22 2:13 PM]
- https://webpy.org
+https://webpy.org
 https://sizzy.app
 https://rizonrice.club
 https://www.deflemask.com
@@ -8679,8 +7367,7 @@ https://www.mobileread.com/forums
 https://tannerv.com/ipod
 https://freeotp.github.io
 https://eternal.report
-File Storage, [6/4/22 2:13 PM]
- https://d3fend.mitre.org
+https://d3fend.mitre.org
 https://v2.onivim.io
 https://github.com/andresriancho/w3af
 https://goodreports.com
@@ -8705,11 +7392,9 @@ https://runestone.academy/runestone/books
 https://world.openfoodfacts.org
 https://www.soundsnap.com
 https://www.findsounds.com
-https://lolbeans.io
 https://darktable.org
 https://www.yummly.com
-File Storage, [6/4/22 2:13 PM]
- https://createfeed.fivefilters.org
+https://createfeed.fivefilters.org
 https://completedns.com/dns-history
 https://dnshistory.org
 https://poweroutage.us
@@ -8726,8 +7411,7 @@ https://spritestack.io
 https://earthly.dev
 https://imgpile.com
 https://pic8.co
-File Storage, [6/4/22 2:13 PM]
- https://afdah.info
+https://afdah.info
 https://jukeblocks.io
 https://file-converter.org
 https://ransomwhe.re
@@ -8736,7 +7420,6 @@ https://www.thisiswhyimbroke.com
 https://pomfcrawl.pythonanywhere.com
 https://linktr.ee
 https://unfeeder.com
-https://osgameclones.com
 https://www.disclose.tv
 https://uupdump.net
 https://xss.is
@@ -8745,8 +7428,7 @@ https://wiki.nikitavoloboev.xyz
 https://audials.com
 https://www.warp.dev
 https://ivanceras.github.io/svgbob-editor/
-File Storage, [6/4/22 2:13 PM]
- https://www.synoforum.com
+https://www.synoforum.com
 https://k9mail.app
 https://kartaview.org
 https://joytokey.net/en
@@ -8773,14 +7455,11 @@ https://github.com/AntiMicroX/antimicroX
 https://github.com/srsran/srsRAN
 https://birdnet.cornell.edu
 https://www.printfriendly.com
-File Storage, [6/4/22 2:13 PM]
- https://www.nocode.tech
-https://debuild.co
+https://www.nocode.tech
 https://www.internal.io
 https://www.makerpad.co
 https://www.appsmith.com
 https://lookimg.com
-https://getaether.net
 https://rocketreach.co
 https://punkspider.org
 https://cipher387.github.io
@@ -8810,8 +7489,7 @@ https://goaccess.io
 https://asmrtags.com
 https://github.com/BLAKE3-team/BLAKE3
 https://github.com/P-H-C/phc-winner-argon2
-File Storage, [6/4/22 2:13 PM]
- https://mactype.net
+https://mactype.net
 https://animeflix.city/home
 https://looking-glass.io
 https://relaxmodapk.com
@@ -8822,8 +7500,7 @@ https://www.eporner.com
 https://yespornplease.to
 https://icelz.newsrade.com/olympics
 https://www.splitgate.com
-File Storage, [6/4/22 2:13 PM]
- https://github.com/tamius-han/ultrawidify
+https://github.com/tamius-han/ultrawidify
 https://spyware.neocities.org/articles/index.html
 https://revolt.chat
 https://www.cirlos.net
@@ -8875,17 +7552,7 @@ https://t.me/s/gdriveguides
 https://github.com/astrada/google-drive-ocamlfuse
 https://github.com/cheems/Any-file-to-Google-Drive
 https://thehelm.com
-https://searchengine.party
-File Storage, [6/4/22 2:13 PM]
- https://www.loyalfans.com
-https://justfor.fans
-https://stars.avn.com
-https://fancentro.com
-https://admireme.vip
-https://www.clips4sale.com
-https://www.manyvids.com
-https://chaturbate.com
-https://www.cam4.com
+https://www.loyalfans.com
 https://copblaster.com
 https://url.dev
 https://babiato.co
@@ -8903,11 +7570,10 @@ https://ludotune.com
 https://crossface.cf
 https://megablock.xyz
 File Storage, [6/4/22 2:14 PM]
- https://kira.vercel.app
+https://kira.vercel.app
 https://pogu.live
 https://kylo.io
 https://digdeeper.neocities.org
-https://spyware.neocities.org/articles/index.html
 https://endless-sky.github.io
 https://github.com/Anuken/Mindustry
 https://github.com/theonedev/onedev
@@ -8919,8 +7585,7 @@ https://www.thistothat.com
 https://duedilly.io
 https://www.buypass.com/ssl/products/acme
 https://cheapbotsdonequick.com
-File Storage, [6/4/22 2:14 PM]
- https://github.com/amd64fox/SpotX
+https://github.com/amd64fox/SpotX
 https://github.com/mollyim/mollyim-android
 https://ihavenotv.com
 https://libreserver.org
@@ -8928,8 +7593,7 @@ https://mergefeed.net
 https://materialize.is
 https://swindledpodcast.com
 https://either.io
-File Storage, [6/4/22 2:14 PM]
- https://postach.io
+https://postach.io
 https://unmark.it
 https://fileforums.com
 https://nulljungle.com
@@ -8960,9 +7624,7 @@ https://cryptopanic.com
 https://dailyhodl.com
 https://bitcoinist.com
 https://www.talk.lol
-File Storage, [6/4/22 2:14 PM]
- https://openaudible.org
-https://arc.io
+https://openaudible.org
 https://archive.st
 https://ghostarchive.org
 https://www.libib.com
@@ -8994,72 +7656,54 @@ https://www.pointsmaker.com
 https://www.buyformeretail.com
 https://www.opendesktop.org
 https://marcosmarp.github.io/GIFinder/
-File Storage, [6/4/22 2:14 PM]
- https://peelopaalu.neocities.org/index.html
-File Storage, [6/4/22 2:14 PM]
+https://peelopaalu.neocities.org/index.html
 فاک.... ادامه بکاپ حالا....
-File Storage, [6/4/22 2:14 PM]
 Websites with Zero Javascript Sorted by Page Size
- https://nojs.club
+https://nojs.club
 https://web.archive.org/web/20211121154057
 https://nojs.club/
-File Storage, [6/4/22 2:14 PM]
 Free Carrier Lookup
- https://www.freecarrierlookup.com
+https://www.freecarrierlookup.com
 Myspace Dragon Hoard
- https://ia803003.us.archive.org/19/items/myspace_dragon_hoard_searcher/viewer.html?q=ganglia&amp;amp;amp;amp;amp;id=141502
+https://ia803003.us.archive.org/19/items/myspace_dragon_hoard_searcher/viewer.html?q=ganglia&amp;amp;amp;amp;amp;id=141502
 Name Check
- https://namechk.com
-File Storage, [6/4/22 2:14 PM]
+https://namechk.com
 Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
- https://w2g.tv
+https://w2g.tv
 The hot new video synchronization platform used to watch videos in realtime with friends!
- https://vynchronize.herokuapp.com
+https://vynchronize.herokuapp.com
 Stream music together!
- https://plug.dj/
+https://plug.dj/
 All Bad Cards
- https://allbad.cards
+https://allbad.cards
 Draw a picture together with your friends in real-time over the internet in your browser.
- https://aggie.io
-File Storage, [6/4/22 2:14 PM]
 Stream Torrents In Browser
- https://zbigz.com
+https://zbigz.com
 Torrent Search (BitLord)
- http://85.143.175.243/
+http://85.143.175.243/
 zbigz tutorial:
- https://www.bitchute.com/video/MuwCoNDdsGQj/
-File Storage, [6/4/22 2:14 PM]
+https://www.bitchute.com/video/MuwCoNDdsGQj/
 Watch Multiple Streams at the same time
- https://twitchtheater.tv for twitch
- https://viewsync.net for youtube
- https://multi.raredrop.co for multiple platforms
-File Storage, [6/4/22 2:14 PM]
+https://twitchtheater.tv for twitch
+https://viewsync.net for youtube
+https://multi.raredrop.co for multiple platforms
 Canarytokens.org - Quick, Free, Detection for the Masses
- https://canarytokens.org/
+https://canarytokens.org/
 Run KolibriOS, Linux or Windows 98 in your browser.
- https://copy.sh/v86/
 Capture the Flag · Put your skills into practice with CTF levels inspired by the real world
- https://www.hacker101.com
-File Storage, [6/4/22 2:14 PM]
 OSINT
- https://www.osintdojo.com/
-File Storage, [6/4/22 2:14 PM]
+https://www.osintdojo.com/
 Convert code from one programming language into another.
- https://ide.onelang.io
-File Storage, [6/4/22 2:14 PM]
- https://botsentinel.com/
-File Storage, [6/4/22 2:14 PM]
+https://botsentinel.com/
 Horizon
 Capture horizontally. Always.
- https://horizon.camera
-File Storage, [6/4/22 2:14 PM]
+https://horizon.camera
 TwitterTV
 Turn any twitter account into a screen saver
- https://twittertv.vercel.app/
+https://twittertv.vercel.app/
 Install any command on any operating system.
- https://command-not-found.com
-File Storage, [6/4/22 2:14 PM]
- https://github.com/0xDanielLopez/TweetFeed
+https://command-not-found.com
+https://github.com/0xDanielLopez/TweetFeed
 https://github.com/BLINKING-IDIOT/Aliens_eye
 https://megatools.megous.com
 https://github.com/zhukov/webogram
@@ -9067,20 +7711,15 @@ https://github.com/LucasLeandro1204/Pornsearch
 http://www.therestartpage.com
 https://area51.to/en
 https://www.foundshit.com/
-File Storage, [6/4/22 2:14 PM]
 Lightweight website collections
- https://250kb.club
+https://250kb.club
 https://512kb.club
 https://1mb.club/
- https://10kbclub.com/
-File Storage, [6/4/22 2:14 PM]
+https://10kbclub.com/
 Multistream, multivideo, and multichat for Twitch, Youtube, and others.
- https://twitchtheater.tv
-File Storage, [6/4/22 2:15 PM]
 Name / URLMax SizeTime KeptExtra Notes
 https://mirrorace.com/
- https://multifilemirror.com
-https://bestdebrid.com
+https://multifilemirror.com
 http://exoshare.com
 http://www.embedupload.com
 https://www.multiup.eu/en/~5 GB?Allows uploading to loads
@@ -9092,7 +7731,7 @@ https://mega.nz/50 GB∞ $
 https://uploadfiles.io5 GB30 Days
 https://openload.pw/∞∞ ?$
 https://bayfiles.com/
- https://anonfile.com
+https://anonfile.com
 https://megaupload.nz
 https://letsupload.cc
 https://openload.cc/20 GB6 Years These are all the
@@ -9137,13 +7776,11 @@ A LOT of these sites are very similar, using XFileSharing
 Post sites in the replies and I'll edit them into the table accordingly
 Thank you to @Beetless(USER)‍ for an assload of sites
 My eyes are melting looking at all these tables :^)
-File Storage, [6/4/22 2:15 PM]
- https://dmca.gripe
+https://dmca.gripe
 https://www.upblight.com
 https://www.upload.ee
-File Storage, [6/4/22 2:15 PM]
 MIRRORING SITES
- https://mirrorace.com
+https://mirrorace.com
 https://www.mirrored.to
 https://www.multifilemirror.com
 https://www.jheberg.net
@@ -9153,10 +7790,10 @@ https://www.mirrorupload.co
 http://www.uploadmagnet.com
 https://rghost.net/
 video hosts
- https://fembed.com
+https://fembed.com
 https://www.vidload.net
 https://vidcloud.co/
- http://videowood.tv
+http://videowood.tv
 https://Onlystream.tv
 https://upstream.to
 https://videobin.co
@@ -9177,13 +7814,11 @@ https://tazvids.com
 http://youwatch.org
 https://vidoza.net
 https://wstream.video/index.html
-http://youwatch.org
 https://www.yourupload.com
 https://www.videomega.co
 https://streamz.cc
 https://jetload.net
 https://doodstream.com
-File Storage, [6/4/22 2:15 PM]
 PROPER CLOUD STORAGE
 drive.google.commega.nz
 one drive
@@ -9194,13 +7829,12 @@ gcloud
 4shared
 zippyshare
 mediafire
- https://fex.net
+https://fex.net
 Sonicseedbox
- https://seedr.cc
+https://seedr.cc
 http://tusfiles.com
 https://Multiup.org
 https://sendit.cloud
-https://www.edisk.eu
 https://trainbit.com
 https://ruu.cloud
 https://vev.io
@@ -9241,7 +7875,6 @@ https://uploadbuzz.cc
 https://uptobox.com
 https://megaup.net
 https://gofile.io
-https://anonfile.com
 https://bayfiles.com
 https://megaupload.is
 https://openload.cc
@@ -9254,16 +7887,15 @@ https://transfercloud.io
 http://filespace.com
 https://1fichier.com/
 UC browser
- https://uptocloud.co
+https://uptocloud.co
 https://letsupload.co/
-File Storage, [6/4/22 2:15 PM]
 more tiny
- https://cyberdrop.me
+https://cyberdrop.me
 https://mar974.com
 https://catbox.moe
 https://safe.waifuhunter.club/
 sendvid
- https://safe.fiery.me
+https://safe.fiery.me
 https://xpkneon.xyz
 https://squid.gay
 http://lolisare.life
@@ -9282,14 +7914,12 @@ https://file.lozy.pink
 http://64.52.23.97
 https://safe.rita.moe/
 hhtps://3.132.133.1
- https://is-never.online
-https://fxy.moe
+https://is-never.online
 https://l.trs.tn
 https://wekeden.net
 https://melijn.me
 https://x.founntain.de
 http://li1103-251.members.linode.com
-https://x.founntain.de
 https://files.anonvodka.xyz
 https://files.zertex.space
 https://safe.vikavo.lt
@@ -9311,22 +7941,17 @@ https://boolin.club
 https://s.taking.kr
 https://yoosk.ovh
 https://erofile.ccvolafile.orgwebmshare.com
-File Storage, [6/4/22 2:15 PM]
 2022 ETC College Rankings Index
- https://www.jobsearchintelligence.com/etc/college-rankings/
-File Storage, [6/4/22 2:15 PM]
- https://wiki.nikitavoloboev.xyz
+https://www.jobsearchintelligence.com/etc/college-rankings/
 https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral
 https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis
 https://stackingthebricks.com/how-blogs-broke-the-web
 https://nesslabs.com/mind-garden
 https://indieweb.org/2020/Pop-ups/GardenAndStream
 https://www.swyx.io/writing/digital-garden-tos
-https://indieweb.org/2020/Pop-ups/GardenAndStream
 https://bonkerfield.org/2020/05/swale-garden-stream
 https://maggieappleton.com/garden-history
-File Storage, [6/4/22 2:15 PM]
- https://notes.andymatuschak.org
+https://notes.andymatuschak.org
 https://gwern.net
 https://tomcritchlow.com
 https://www.swyx.io/writing
@@ -9334,13 +7959,10 @@ https://kevincunningham.co.uk
 https://maggieappleton.com/garden
 https://www.christopherbiscardi.com/garden
 https://nurselog.online
-https://aengusmcmillin.com/brain
 File Storage, [6/4/22 2:07 PM]
- https://gofile.io
 https://letsupload.co
 https://www.allsides.com
 https://ncehk2019.github.io/nce-live
-https://lutris.net
 http://retrowave.ru
 https://plaza.one
 https://www.ar500armor.com
@@ -9358,7 +7980,6 @@ http://templates4share.com
 http://kindzadza.net
 https://www.0daydown.com
 http://rylik.ru
-https://gfxcosy.com
 http://izofile.com
 https://apkpure.com
 https://www.apkhere.com
@@ -9370,8 +7991,6 @@ https://gpldl.com
 http://www.newgamesbox.net
 https://themelord.com
 http://hungryleech.com
-http://leech.ninja
-https://reevown.com
 http://premiumleech.eu
 https://traceurl.catchen.app
 https://github.com/CatChen/traceurl-web
@@ -9389,13 +8008,11 @@ https://github.com/shadowsocksrr/electron-ssr/releases
 https://github.com/hybtoy/ssrrmu
 https://github.com/daoye/speedUpInstaller
 https://github.com/Chocobozzz/OpenVPN-Admin
-https://github.com/toulousain79/MySB
 https://github.com/pritunl/pritunl
 https://client.pritunl.com
 https://tunnelblick.net
 https://github.com/gayanvoice/openvpn-install-for-multiple-users
-File Storage, [6/4/22 2:07 PM]
- https://dark.fail
+https://dark.fail
 https://free-for.dev
 https://www.dns.computer
 https://gf.dev/toolbox
@@ -9412,11 +8029,9 @@ https://www.cc-panel.com
 https://xenia.jp
 https://syntax.fm
 https://frontendhappyhour.com
-https://fex.net
 https://ptorx.com
 https://github.com/Xyfir/ptorx
 https://countermail.com
-https://krunker.io
 https://melody.ml
 http://tmp.ninja
 https://www.pine64.org/pinephone
@@ -9432,8 +8047,7 @@ https://wildduck.email
 https://zerobit.email
 https://myswissmailaddress.com/en
 https://www.trilightzone.org
-File Storage, [6/4/22 2:07 PM]
- https://just-install.github.io
+https://just-install.github.io
 https://www.skytorrents.lol
 https://katcafe.org
 https://github.com/sh-dv/hat.sh
@@ -9441,32 +8055,19 @@ https://hat.sh
 https://sherlock-project.github.io
 https://github.com/sherlock-project/sherlock
 https://github.com/j0be/PowerDeleteSuite
-File Storage, [6/4/22 2:07 PM]
 WEBDEV
- https://nulledpremium.com
-http://templates4share.com
-https://www.0daydown.com
-https://gfxcosy.com
-https://www.themede.com
-https://null-24.com
-https://prowebber.ru
-https://gpldl.com
-https://themelord.com
 LEECH
- https://reevown.com
-http://premiumleech.eu
-https://neodebrid.com
 DRIVER
- https://github.com/ViGEm/ViGEmBus
+https://github.com/ViGEm/ViGEmBus
 ELEARNING
- https://onehack.us
+https://onehack.us
 https://haxnode.com
 https://bookflare.org
 SAVEVIDEOS
- https://ytoffline.net
+https://ytoffline.net
 https://gifrun.com
 UNSORTED
- https://indieweb.org/Getting_Started
+https://indieweb.org/Getting_Started
 https://github.com/seik/stilio
 https://www.piskelapp.com
 https://snipboard.io
@@ -9477,18 +8078,13 @@ http://index-of.es
 https://private.sh
 https://repack.me
 https://rexdl.com
-https://classic.minecraft.net
-https://link-base.org
 https://mp3.pm
 https://www.reddit.com/r/dailyreleases
 https://ext.to
-File Storage, [6/4/22 2:07 PM]
- https://animista.net
+https://animista.net
 https://macbb.org
 https://mac-torrents.me
 https://www.mp3juices.cc
-https://lurrker.com
-https://pcottle.github.io/MSOutlookit
 https://redditbox.us
 https://nh-server.github.io/switch-guide
 https://www.mmnt.ru/int
@@ -9505,7 +8101,6 @@ http://t.bdaily.club
 https://orbit.chat
 https://searchin.the-eye.eu
 https://perma.cc
-https://github.com/Flood-UI/flood
 https://bitwave.tv
 https://crackcity.co
 http://crackstreams.com
@@ -9514,21 +8109,15 @@ https://hackey.stream/rio
 https://memesyndicate.com/kek
 https://globalupload.io
 https://github.com/BobbyWibowo/lolisafe
-https://dmca.gripe
-https://safe.fiery.me
 https://fileup.pro
 http://nimbleclover.moe
 https://dxd.moe
 https://vault.vicariousnetwork.com
 https://yoosk.pl
-https://safe.vikavo.lt
-https://m.narpi.me
 https://zz.ht
 http://papaya.moe
-https://files.htp.sh
 https://sadvibes.co.uk
-File Storage, [6/4/22 2:07 PM]
- https://peepeth.com/welcome
+https://peepeth.com/welcome
 https://knewz.com
 https://awesomelists.top
 http://www.survivorlibrary.com/library-download
@@ -9548,12 +8137,10 @@ https://www.bulkdachecker.com
 https://mindustrygame.github.io
 https://anonaddy.com
 https://www.redditinvestigator.com
-https://lurrker.com
 https://tosdr.org
 https://search.buzz.im
 http://desli.de
-File Storage, [6/4/22 2:07 PM]
- http://bestblackhatforum.com
+http://bestblackhatforum.com
 http://bins.su
 http://carder.cc
 http://coverthacks.com
@@ -9574,7 +8161,6 @@ http://oneddl.org
 http://reteam.org/board
 http://reversing.be/forum
 http://rlpass.com
-http://slither.io
 http://smtphunter.validcheck.net
 http://web.libretro.com
 http://wt1shop.org
@@ -9591,11 +8177,9 @@ http://www.romhacking.net/forum
 http://www.safeskyhacks.com
 http://www.zyberph.com
 https://0mp4ek84.ws
-https://0x00sec.org
 https://alltomp3.org
 https://altenens.org
 https://archive.org/details/comp3321/page/n9/mode/2up
-https://area51.to/en
 https://basetools.sk
 https://bitify.com
 https://bitshacking.com
@@ -9662,14 +8246,11 @@ https://github.com/marketplacekit/marketplacekit
 https://github.com/OpenYiff/Kemono
 https://github.com/ritiek/spotify-downloader
 https://github.com/schollz/getsong
-https://github.com/zhukov/webogram
 https://habr.com/en/all
 https://hack-crack9.blogspot.com
-File Storage, [6/4/22 2:07 PM]
- https://hack2wwworld.blogspot.com
+https://hack2wwworld.blogspot.com
 https:/
 httptoolkit.tech/mock
-https://hunter.io
 https://ic0de.ws
 https://idw.community
 https://inject0r.com
@@ -9682,9 +8263,6 @@ https://leakcheck.net
 https://libguides.hofstra.edu
 https://libroot.com
 https://malvult.net
-https://matt.traudt.xyz/posts/dont-
-https-your-o44SnkW2.html
-https://megaconverter.net
 https://mirror-h.org
 https://murrez.blogspot.com
 https://nethingoez.com
@@ -9737,7 +8315,6 @@ https://www.egifter.com
 https://www.enclave.ac
 https://www.ethicalhacker.net/forums
 https://www.evilsocket.net
-https://www.exploit-db.com/google-hacking-database
 https://www.fark.com
 https://www.freetoolss.com
 https://www.geekwire.com
@@ -9772,8 +8349,7 @@ https://www.trendsmap.com
 https://www.tvaddons.co
 https://www.wilderssecurity.com
 https://yiff.party
-File Storage, [6/4/22 2:07 PM]
- https://rambox.pro
+https://rambox.pro
 http://www.amazingeducationalresources.com
 https://itch.io/c/759545/self-isolation-on-a-budget
 https://github.com/Ph055a/OSINT_Collection
@@ -9786,17 +8362,13 @@ https://worldview.earthdata.nasa.gov
 https://www.scienceresearch.com/scienceresearch/desktop/en/search.html
 https://github.com/n0fate/chainbreaker
 https://gitcoin.co
-File Storage, [6/4/22 2:07 PM]
- https://librewolf-community.gitlab.io
+https://librewolf-community.gitlab.io
 https://github.com/sbuggay/bspview
 https://devanbuggay.com/bspview
 https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files
 https://www.catfiles.net
 https://thenextweb.com
-https://doodstream.com
-File Storage, [6/4/22 2:07 PM]
- https://selfhosted.show
-https://www.textise.net
+https://selfhosted.show
 https://portableapps.com
 https://glimpse-editor.org
 https://www.kinguin.net
@@ -9806,16 +8378,12 @@ https://internet-map.net
 https://free.appnee.com
 https://unrestrict.ovh
 https://github.com/c0re100/qBittorrent-Enhanced-Edition
-https://trackerslist.com
 https://www.uwatchfree.ac
-https://github.com/UnluckyLuke/supercharge-magnet-links
 https://saidit.net
 https://www.ruqqus.com
 https://en.fromsmash.com
-File Storage, [6/4/22 2:07 PM]
- https://github.com/Chevereto/Chevereto-Free
+https://github.com/Chevereto/Chevereto-Free
 https://gitlab.com/mojo42/Jirafeau
-https://github.com/BobbyWibowo/lolisafe
 https://github.com/WeebDev/lolisafe
 https://github.com/nokonoko/uguu
 https://github.com/wallabag/wallabag
@@ -9823,15 +8391,13 @@ https://github.com/t-d-k/librecrypt
 https://truecrypt.ch
 https://www.ciphershed.org
 https://www.veracrypt.fr
-File Storage, [6/4/22 2:07 PM]
- https://telegramchannels.me/channels
+https://telegramchannels.me/channels
 https://addons.mozilla.org/en-US/firefox/addon/invidition
 https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en
 https://tutsnode.net
 https://desirecourse.net
 https://gigacourse.com
 https://plexguide.com/forums
-https://hoarding.me
 https://switch.homebrew.guide
 https://github.com/stewartmcgown/uds
 https://github.com/trimstray/the-practical-linux-hardening-guide
@@ -9842,7 +8408,6 @@ https://privacybadger.org
 https://absolutedouble.co.uk/trace
 https://greasyfork.org/en/scripts/396057-kawai-scripts-soundcloud-downloader
 https://redditenhancementsuite.com
-https://sasrip.cf
 https://addons.mozilla.org/en-US/firefox/addon/media-reaper
 https://docdownloader.com
 https://thetrove.net
@@ -9894,11 +8459,10 @@ https://otxataba.net
 https://skidrowrepacks.com
 https://osmc.tv
 File Storage, [6/4/22 2:08 PM]
- https://openelec.tv
+https://openelec.tv
 https://libreelec.tv
 https://homepage.footybite.com
 http://topnow.se
-https://www.uwatchfree.ac
 https://megaddl.co
 https://hi10anime.com
 https://forumfiles.com
@@ -9950,16 +8514,9 @@ https://showrss.info
 https://github.com/ThePBone/CrunchyrollDownloader
 https://github.com/warner/magic-wormhole
 https://vaibhavpandey.com/apkstudio
-https://forum.xda-developers.com/showthread.php?t=2326604
-https://ibotpeaches.github.io/Apktool
-https://github.com/androguard/androguard
 https://xerosecurity.com/wordpress
-https://github.com/skylot/jadx
-https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md
 https://lardbit.github.io/nefarious
-https://cloudbox.works
 https://gitlab.com/LazyLibrarian/LazyLibrarian
-https://github.com/iperov/DeepFaceLab
 https://pymedusa.com
 https://github.com/manga-download/hakuneko
 https://fopnu.com
@@ -9967,25 +8524,17 @@ https://muwire.com
 https://ww1.justdubs.tv
 https://uppy.io
 https://www.sandboxie.com
-https://github.com/leo-lb/wpbrute-rs
-https://github.com/gkbrk/slowloris
-https://gitlab.com/fredericopissarra/t50
-https://ufonet.03c8.net
 https://github.com/streamlink/streamlink-twitch-gui
 https://www.voidtools.com
 https://github.com/fireshaper/Omnibus
 https://github.com/n1nj4sec/pupy
-https://github.com/mifi/lossless-cut
 http://www.exifpurge.com
 https://www.pep.security
 https://goldenaudiobooks.com
 https://td.fastio.me
 Working
-File Storage, [6/4/22 2:08 PM]
- https://cybermap.kaspersky.com
- http://ping.pe
-File Storage, [6/4/22 2:08 PM]
- https://www.remove.bg
+https://cybermap.kaspersky.com
+http://ping.pe
 https://www.wikiwand.com
 https://adamtheautomator.com/new-windows-terminal
 https://github.com/jakekgrog/GhostDB
@@ -9996,8 +8545,7 @@ https://linuxgsm.com
 https://ola.hallengren.com/sql-server-backup.html
 https://secret.club/2020/07/06/bottleye.html
 https://unsee.cc
-File Storage, [6/4/22 2:08 PM]
- https://www.binaryedge.io
+https://www.binaryedge.io
 https://github.com/thinkst/opencanary
 https://opencanary.readthedocs.io/en/latest
 https://www.grc.com/initdisk.htm
@@ -10005,12 +8553,10 @@ https://www.grc.com/sr/spinrite.htm
 https://autoadmit.com
 https://github.com/axcore/tartube
 https://mp3quack.com
-File Storage, [6/4/22 2:08 PM]
- https://fullstackopen.com/en
+https://fullstackopen.com/en
 https://3v4l.org
 https://codesandbox.io
 https://www.theodinproject.com
-https://javascript.info
 https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking
 https://www.nomadbsd.org
 https://www.furybsd.org
@@ -10064,68 +8610,49 @@ https://root-me.org
 https://microcorruption.com
 https://github.com/kamranahmedse/developer-roadmap
 https://pastebin.com/gfBPg24A
-File Storage, [6/4/22 2:08 PM]
- https://be.cash
+https://be.cash
 https://check-mail.org/free-email-validation-api
 https://trumail.io
 https://www.validator.pizza
 https://github.com/gentilkiwi/mimikatz
-http://www.ps1fun.com
 https://mobilesms.io
 http://www.fotoforensics.com
 https://www.design.rocks
-https://ustv247.tv
-File Storage, [6/4/22 2:08 PM]
- https://probabletrain.itch.io/city-generator
-https://zoom.earth
 https://github.com/github/octodns
 https://github.com/Har-Kuun/OneClickCDN
 https://mailu.io
 https://hub.docker.com/r/tvial/docker-mailserver
-File Storage, [6/4/22 2:08 PM]
- https://github.com/Har-Kuun/easybackup
+https://github.com/Har-Kuun/easybackup
 https://yousub.info
 https://subreply.com/trending
-https://debuild.co
 https://notrelated.xyz
 http://gfxdownload.com
 https://freedownloadae.com
 https://github.com/jseidl/GoldenEye
 http://cryptbb2gezhohku.onion.ly
 https://www.fontget.com
-https://slippi.gg/about
 https://vndb.org
 https://docs.google.com/spreadsheets/d/1plwsZ9q7-jDg8QNUuNXZAmKtov-ZULOZS3TPp08mngg
 https://wiki.js.org
 https://propjockey.github.io/css-sweeper
 http://sandlab.cs.uchicago.edu/fawkes/
-File Storage, [6/4/22 2:08 PM]
- https://huler1996.com/
- https://slingcode.net
+https://huler1996.com/
+https://slingcode.net
 https://github.com/stuntbanana/stuntbanana
 https://badgoy.net
 https://github.com/openbullet/openbullet
 https://openbullet.github.io
 https://forum.openbullet.dev
 https://openbullet.store
-https://www.insecam.org
-https://explore.org/livecams
-https://ifaketextmessage.com
 https://www.boredbutton.com
 https://kitsunekko.net
 https://www.acgnx.se
 https://www.anirena.com
 https://masquerade.site
-https://play.aidungeon.io
 https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1
-https://rave.dj
-https://diffnow.com
-https://check.njal.la/dns
 https://lew.la
-File Storage, [6/4/22 2:08 PM]
- https://thisxdoesnotexist.com/
-File Storage, [6/4/22 2:08 PM]
- https://robotstreamer.com
+https://thisxdoesnotexist.com/
+https://robotstreamer.com
 https://zenithos.org
 https://www.dedigger.com
 https://transformer.huggingface.co
@@ -10138,11 +8665,9 @@ https://teamdrive.mfoxx.workers.dev
 http://td.fastio.me
 https://gd.404edu.workers.dev
 https://teamdrive.xcpx.workers.dev
-https://github.com/stewartmcgown/uds
 https://www.sonicbit.net
 https://github.com/cormac-obrien/richter
 https://cpgrepacks.site
-https://masquerade.site
 https://artemis-repacks.site
 https://tinderfind.me
 https://gramho.com
@@ -10152,38 +8677,30 @@ https://github.com/Tyrrrz/DiscordChatExporter
 https://github.com/PreMiD/PreMiD
 https://remotedesktop.google.com
 https://rentry.co/fwt
-https://rentry.co
 https://tlgrm.eu/stickers
 https://github.com/victornpb/deleteDiscordMessages
-https://2000.shodan.io
 https://resist.berlin
-https://www.mandalagaba.com
-https://excalidraw.com
 https://spot.ecloud.global
 https://bflix.to
 https://myflixer.to
 https://www.stateofthedapps.com
 https://protonvideo.to
-https://osgameclones.com
 http://www.directsearch.net
 https://www.fluidstack.io
 https://www.federacy.com
 https://www.openbugbounty.org
 https://www.bugcrowd.com
 https://www.bugheist.com
-File Storage, [6/4/22 2:08 PM]
- https://psbdmp.ws
+https://psbdmp.ws
 https://codeberg.org/RemixDev/deemix
 https://deemix.app
 https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Downloads
-https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer
 https://felixboiii.github.io/paper-plotter
 https://github.com/liljencrantz/crush
 https://voice.mozilla.org/firefox-voice
 https://0x0.st
 https://www.rareddit.com
 https://typing-is-hard.ch
-https://twiktwok.github.io
 https://edgedb.com
 https://linksnappy.com
 https://www.openscope.co
@@ -10191,7 +8708,6 @@ https://www.flightradar24.com
 https://www.dataviper.io
 https://rslookup.com
 https://vigilante.pw
-https://intelx.io
 https://leak-lookup.com
 https://www.groupsense.io
 https://ashley.cynic.al
@@ -10200,7 +8716,6 @@ https://breachalarm.com
 https://snusbase.com
 https://monitor.firefox.com
 https://dehashed.com
-https://ghostproject.fr
 https://spycloud.com
 https://hacked-emails.com
 http://www.hackinflukyc37se.onion.ly
@@ -10218,7 +8733,6 @@ https://git.rip/exconfidential
 https://bench.monster
 https://cloud-shield.ru
 https://gitlab.com/dacav/crossbow
-https://siasky.net
 https://flixable.com
 https://github.com/Har-Kuun/OneClickDesktop
 https://rebecca-ricks.com/paypal-data
@@ -10227,23 +8741,18 @@ https://www.tildamail.com
 https://wmr.fm/category/podcast/seo-101
 https://www.spreaker.com/show/search-talk-live
 http://www.searchengineforums.com
-https://1v1.lol
 https://reddit-user-analyser.netlify.app
-File Storage, [6/4/22 2:08 PM]
- https://vidcloud.pro
+https://vidcloud.pro
 https://searx.fmac.xyz
 https://searx.prvcy.eu
 http://ruffle.rs
 https://www.monero.how
-http://www.arcadeprehacks.com
-https://www.g7r.com
 https://github.com/Psiphon-Inc/psiphon
 https://getlantern.org
 http://www.chinafirewalltest.com
 https://sharedvn.net
 https://github.com/rossumur/espflix
 https://producingoss.com
-https://1940s.nyc
 https://github.com/naiveHobo/InvoiceNet
 http://24.31.171.181:81/eBooks
 http://heimdall.site
@@ -10254,7 +8763,6 @@ https://github.com/twilco/kosmonaut
 https://orionoid.com
 https://keyoneclick.com
 https://old.reddit.com/r/Starlink
-https://www.redditcommentsearch.com
 https://redditmetis.com
 https://www.rarchives.com
 https://www.redective.com
@@ -10262,8 +8770,7 @@ https://www.archivereddit.com
 http://www.redditarchive.com
 https://www.shellscript.sh
 https://keithclark.github.io/ZzFXM/
-File Storage, [6/4/22 2:08 PM]
- http://www.airnotifier.com
+http://www.airnotifier.com
 https://rebug.me
 https://old.reddit.com/r/ps3homebrew
 https://old.reddit.com/r/ps3hacks
@@ -10280,14 +8787,11 @@ https://bellard.org
 https://fabiensanglard.net
 http://classicdoom.com
 https://gibber.cc
-https://fullstackopen.com/en
 http://www.animetoon.org
 http://www.toonova.net
 https://www.thewatchcartoononline.tv
 https://www.wcostream.com
 https://alohabrowser.com
-http://sauerbraten.org
-https://freedownloadae.com
 https://github.com/pirate/ArchiveBox
 https://matrix.org/docs/projects/try-matrix-now
 https://element.io
@@ -10302,7 +8806,6 @@ https://prothots.com
 https://forum.lewdweb.net
 https://dirtyship.com
 https://ibradome.com
-https://cyberdrop.me
 https://satoshivpn.com
 https://o.mg.lol
 https://github.com/LoadedInReverse/ecm2bin
@@ -10312,9 +8815,7 @@ https://www.rfc-editor.org/rfcrss.xml
 https://macwright.com/rss.xml
 https://drewdevault.com/blog/index.xml
 https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689
-https://bisq.network
 https://github.com/Readarr/Readarr
-https://roll20.net
 https://www.nushell.sh
 https://uxbox.io
 https://www.virsma.com
@@ -10327,8 +8828,7 @@ https://securityonion.net
 https://www.fast.ai
 https://piccolo.click
 https://bibliogram.art
-File Storage, [6/4/22 2:08 PM]
- https://www.lemon64.com
+https://www.lemon64.com
 https://github.com/thunderra1n/Ellpedia
 http://onions53ehmf4q75.onion.ly
 https://github.com/diericx/iceetime
@@ -10347,79 +8847,20 @@ https://simplyaweeb.com
 https://freetubeapp.io
 https://gmailnator.com
 https://upmasked.com
-File Storage, [6/4/22 2:08 PM]
- https://notabug.org/exttex/freezer
+https://notabug.org/exttex/freezer
 https://notabug.org/piratetub/xspotify-mirror
 https://hiven.io
 https://polkadot.network
 https://triptoysfor.me
-https://kosmi.io/openarena
 https://skins.webamp.org
 https://webamp.org
 https://www.monkeystream.net
 https://switching.software
 https://ownersman.com
 https://s-macke.github.io/FSHistory/
-File Storage, [6/4/22 2:08 PM]
- http://resources.infosecinstitute.com
-http://www.windowsecurity.com/articles-tutorials
-https://www.sans.org/reading-room
-https://www.corelan.be/index.php/articles
-http://opensecuritytraining.info/Training.html
-https://www.blackhat.com/html/archives.html
-http://www.securitytube.net
-https://threatpost.com
-http://routerpwn.com
-https://overthewire.org/wargames
-https://www.pentesterlab.com
-http://www.itsecgames.com
-https://www.enigmagroup.org
-http://smashthestack.org
-http://3564020356.org
-https://www.hackthissite.org
-http://www.hackertest.net
-http://0x0539.net
-https://vulnhub.com
-https://ringzer0team.com
-https://root-me.org
-https://microcorruption.com
 https://github.com/muesli/duf
-https://github.com/kamranahmedse/developer-roadmap
-https://pastebin.com/gfBPg24A
-https://check-mail.org/free-email-validation-api
-https://trumail.io
-https://www.validator.pizza
-https://github.com/gentilkiwi/mimikatz
-https://probabletrain.itch.io/city-generator
-https://zoom.earth
-https://github.com/github/octodns
-https://mailu.io
-https://hub.docker.com/r/tvial/docker-mailserver
-https://docs.google.com/spreadsheets/d/1plwsZ9q7-jDg8QNUuNXZAmKtov-ZULOZS3TPp08mngg
-https://wiki.js.org
-https://propjockey.github.io/css-sweeper
-https://slingcode.net
-https://github.com/stuntbanana/stuntbanana
-https://www.insecam.org
-https://explore.org/livecams
-https://ifaketextmessage.com
-https://www.boredbutton.com
-https://kitsunekko.net
-https://www.acgnx.se
-https://www.anirena.com
-https://lew.la
-https://thisvid.space
-https://www.sonicbit.net
-https://www.mandalagaba.com
-https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer
-https://felixboiii.github.io/paper-plotter
-https://github.com/liljencrantz/crush
-https://voice.mozilla.org/firefox-voice
 https://www.avaxgfx.com
-https://www.uploadedpremiumlink.net
 https://www.deepbrid.com/service
-https://ddebrid.com
-https://slippi.gg/about
 https://cyberpunk.xyz
 https://cyberpunk.xyz/theWire
 https://www.defectdojo.org
@@ -10430,16 +8871,9 @@ https://github.com/intelowlproject/IntelOwl
 https://github.com/JoelGMSec/AutoRDPwn
 https://github.com/IncideDigital/Mistica
 https://github.com/spaceraccoon/manuka
-https://fabiensanglard.net
 https://cri.dev
 https://christine.website/blog
-https://jlelse.blog/index.xml
-https://www.rfc-editor.org/rfcrss.xml
-https://macwright.com/rss.xml
-https://drewdevault.com/blog/index.xml
-https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689
-File Storage, [6/4/22 2:08 PM]
- https://virt-manager.org
+https://virt-manager.org
 https://www.qemu.org
 https://github.com/wimpysworld/rolling-rhino
 https://www.theta.tv
@@ -10459,29 +8893,23 @@ https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12
 https://pointerclicker.com/best-dumb-tv
 https://github.com/dstotijn/hetty
 https://github.com/slicer69/doas
-File Storage, [6/4/22 2:08 PM]
- https://github.com/DaveJarvis/keenwrite
-https://github.com/SerenityOS/serenity
+https://github.com/DaveJarvis/keenwrite
 https://moonlight-stream.org
 https://parsecgaming.com
 https://rainway.com
 https://memeinsider.com
-File Storage, [6/4/22 2:08 PM]
- https://github.com/builtbybel
-https://video-cutter-js.com
+https://github.com/builtbybel
 https://github.com/Kagami/ffmpeg.js
 https://github.com/onejgordon/flow-dashboard
 https://github.com/ActivityWatch/activitywatch
 https://github.com/TotallyNotChase/glitch-this
 https://github.com/robertdavidgraham/masscan
-https://u.is/en
 https://nomie.app
 File Storage, [6/4/22 2:09 PM]
- https://www.zrythm.org/en
+https://www.zrythm.org/en
 https://ardour.org
 https://github.com/MaurycyLiebner/enve
 https://github.com/Orama-Interactive/Pixelorama
-https://github.com/tonikelope/megabasterd
 https://github.com/sql-js/sql.js
 https://thumbnail.ws
 http://veeosync.com
@@ -10491,11 +8919,7 @@ https://www.0wx.org
 https://vetch.tv
 https://ip2.network
 https://responsively.app
-https://www.unscreen.com
-https://getleon.ai
-File Storage, [6/4/22 2:09 PM]
- https://multi.raredrop.co
-https://twitchtheater.tv
+https://multi.raredrop.co
 https://viewsync.net
 https://tlauncher.org
 https://multimc.org
@@ -10503,14 +8927,11 @@ https://aternos.org
 https://www.minehut.com
 https://github.com/hlissner/doom-emacs
 https://spacevim.org
-https://zbigz.com
-https://vynchronize.herokuapp.com
 https://coolors.co
 https://github.com/plankanban/planka
 https://github.com/buckket/twtxt
 http://twtxt.xyz
-File Storage, [6/4/22 2:09 PM]
- https://obscurix.github.io
+https://obscurix.github.io
 https://github.com/ckb-next/ckb-next
 https://openrazer.github.io
 https://www.project-aurora.com
@@ -10556,36 +8977,26 @@ https://unofficialcbr.home.blog
 https://newcomic.info
 https://www.cbr.com
 https://comics-all.com
-https://www.abandonwaredos.com
 https://www.dafontfree.io
 https://bitpatron.co
 https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d
-File Storage, [6/4/22 2:09 PM]
- https://hubs.mozilla.com
+https://hubs.mozilla.com
 https://batocera.org
 https://tus.io
-File Storage, [6/4/22 2:09 PM]
- https://hexupload.net
+https://hexupload.net
 https://dbree.org
 https://tvsplurge.io
 https://sendy.co
 https://scrapeulous.com
 https://oogly.io
 https://streamtape.com
-https://videobin.co
-https://upstream.to
 https://github.com/nopbreak/TwitchMod
 https://geysermc.org
 https://www.cryptotips.us
 https://apkmody.io
-https://cloudconvert.com
-File Storage, [6/4/22 2:09 PM]
- https://www.mazterize.com
-https://www.autodraw.com
+https://www.mazterize.com
 http://schnaader.info/precomp.php
 https://www.cinehub.to
-File Storage, [6/4/22 2:09 PM]
- https://vpnapi.io
 https://www.zotero.org
 https://github.com/blackjack4494/yt-dlc
 https://github.com/zudochkin/awesome-newsletters
@@ -10593,16 +9004,13 @@ https://forwardemail.net/en
 https://send.cm
 https://www.cyotek.com/cyotek-webcopy
 https://github.com/iawia002/annie
-https://github.com/andrew--r/channels#english
-https://github.com/epoyraz/Awesome-Youtube-Channels
 https://www.orgroam.com
 https://kedyn.github.io/fusliez-notes
 https://doodrive.com
 https://proscons.page
 https://getomega.dev
 https://github.com/erebe/personal-server/blob/master/README.md
-File Storage, [6/4/22 2:09 PM]
- https://github.com/porjo/freshtube
+https://github.com/porjo/freshtube
 https://github.com/oduwsdl/ipwb
 https://github.com/jsvine/waybackpack
 https://github.com/hartator/wayback-machine-downloader
@@ -10610,7 +9018,6 @@ https://github.com/Rhizome-Conifer/conifer
 https://github.com/nsonaniya2010/SubDomainizer
 https://github.com/dipu-bd/lightnovel-crawler
 https://www.fosshub.com/Easy2Boot.html
-https://dht.chylex.com
 https://github.com/simon987/Discord-Channel-scraper
 https://github.com/SuperGouge/ChanThreadWatch
 https://github.com/frou/yt2pod
@@ -10621,8 +9028,6 @@ https://cutter.re
 https://github.com/Bionus/imgbrd-grabber
 https://add0n.com/broken-link-checker.html
 https://telegra.ph/Websites-and-Telegram-channels-to-download-books-08-04
-File Storage, [6/4/22 2:09 PM]
- https://altstore.io
 https://github.com/rileytestut/AltStore
 https://freezer.life
 https://cloud.google.com/shell
@@ -10644,15 +9049,12 @@ https://stin.to
 https://www.twaku.com
 https://www.everypixel.com
 https://doctoolhub.com
-https://private.sh
-File Storage, [6/4/22 2:09 PM]
- https://criptext.com
+https://criptext.com
 https://bluesmods.com/bluecord.html
 https://nxbrew.com
 https://github.com/ihabunek/twitch-dl
 https://dino.im
-File Storage, [6/4/22 2:09 PM]
- https://acme.sh
+https://acme.sh
 https://parsslio.com
 https://freessl.org
 https://www.gogetssl.com/sslcerts/free-ssl
@@ -10669,10 +9071,8 @@ https://biptv.best
 https://tvtap.bz
 https://voguepay.com
 http://www.unblocktech.com/en/ubox8/
-File Storage, [6/4/22 2:09 PM]
- https://y2mate.guru
+https://y2mate.guru
 https://addoncrop.com
-https://xip.li
 https://utreon.com
 https://gnunet.org
 http://www.pcfreetime.com
@@ -10685,8 +9085,7 @@ https://github.com/arussellsaw/news
 https://github.com/813492291816/BitChan
 https://github.com/soruly/awesome-acg
 https://github.com/tobykurien/WebApps
-File Storage, [6/4/22 2:09 PM]
- https://archillect.com
+https://archillect.com
 https://www.vertex42.com
 https://www.streamsniper.tv
 https://boringproxy.io
@@ -10696,20 +9095,15 @@ https://pilssken.neocities.org/resources
 https://www.51sec.org/2020/04/14/using-cloudflare-workers-to-deploy-a-free-google-drive-directory-indexer-in-5-minutes
 https://goindex.glitch.me
 https://github.com/maple3142/GDIndex
-https://github.com/arussellsaw/news
 https://github.com/autokey/autokey
-https://github.com/tobykurien/WebApps
 https://extensions.libreoffice.org
 https://bellard.org/textsynth
 https://toppub.xyz/publications
 https://www.judyrecords.com
-File Storage, [6/4/22 2:09 PM]
- https://www.stream4free.live
+https://www.stream4free.live
 https://vps.keff.org
 https://yui.cat
-https://archive.org/details/softwarelibrary_flash
-File Storage, [6/4/22 2:09 PM]
- https://trace.moe
+https://trace.moe
 https://www.vmos.com
 https://anime-tv.fun
 https://pureos.net
@@ -10727,50 +9121,25 @@ https://ish.app
 https://getutm.app
 https://github.com/foxcpp/maddy
 http://tinycorelinux.net
-File Storage, [6/4/22 2:09 PM]
- https://trace.moe
-https://www.vmos.com
-https://anime-tv.fun
-https://pureos.net
-https://www.bromite.org
-https://microg.org
-https://apps.evozi.com
-https://auroraoss.com
-https://magisk.me
-https://www.aospextended.com
-https://edxp.meowcat.org
-https://repo.xposed.info
-https://ipadlinux.org
-https://projectsandcastle.org
-https://ish.app
-https://getutm.app
-https://github.com/foxcpp/maddy
-http://tinycorelinux.net
-File Storage, [6/4/22 2:09 PM]
- https://devfonts.gafi.dev
+https://devfonts.gafi.dev
 https://www.brow.sh
 https://coveryourtracks.eff.org
 https://nudes.lol
 http://meowinjapanese.cf
 https://osanime.com
-https://www.indiehackers.com
 https://webwide.io
 https://oguzhaninan.github.io/Stacer-Web
 https://github.com/sbz/freebsd-commands
-https://www.googulator.com
-File Storage, [6/4/22 2:09 PM]
- https://leakforums.co
+https://leakforums.co
 https://revealjs.com
 https://temp.sh
 https://www.hirensbootcd.org
 https://www.temporary-url.com
-https://pcottle.github.io/MSOutlookit
 https://word2cleanhtml.com
 https://fuskator.com
 https://thefappeningblog.com/forum
 https://old.reddit.com/r/MechanicalKeyboards/wiki/switch_guides
-File Storage, [6/4/22 2:09 PM]
- https://scoop.sh
+https://scoop.sh
 https://pipewire.org
 https://xbit.pw
 https://ww1.onionplay.to
@@ -10784,8 +9153,7 @@ https://giftgenius.ai
 https://github.com/KevinJDurant/OpenTorrentSite
 https://codeberg.org/heretic/torrents-csv-server
 https://github.com/urbanguacamole/torrent-paradise
-File Storage, [6/4/22 2:09 PM]
- https://github.com/mikf/gallery-dl
+https://github.com/mikf/gallery-dl
 https://github.com/FaisalUmair/udemy-downloader-gui
 https://github.com/fazalmajid/edgewalker
 https://libredd.it
@@ -10794,7 +9162,7 @@ https://exponent.fm
 https://tryhackme.com
 https://github.com/NekoX-Dev/NekoX
 File Storage, [6/4/22 2:10 PM]
- https://www.memecenter.com
+https://www.memecenter.com
 https://ctrlpew.com
 https://mynoise.net
 https://dnstools.ws
@@ -10807,14 +9175,12 @@ https://domainhacks.info
 http://xona.com/domainhacks
 https://addons.mozilla.org/en-US/firefox/addon/livetl
 https://pyx-2.pretendyoure.xyz/zy/
-File Storage, [6/4/22 2:10 PM]
- https://rumble.com/category/viral
+https://rumble.com/category/viral
 https://github.com/beurtschipper/Depix
 https://github.com/benwilber/boltstream
 https://github.com/VirusTotal/yara
 https://github.com/airbnb/binaryalert
 https://privacytoolslist.com
-https://bitcoinbookmarks.com
 https://github.com/Fmstrat/winapps
 https://github.com/iAPX
 httpd-log-anon-filter
@@ -10826,12 +9192,10 @@ https://rizin.re
 https://freemagazines.top
 https://blackhole.run
 https://3speak.co
-File Storage, [6/4/22 2:10 PM]
- https://github.com/rauenzi/BetterDiscordApp
+https://github.com/rauenzi/BetterDiscordApp
 https://github.com/KieronQuinn/TapTap
 https://recipe-search.typesense.org
-File Storage, [6/4/22 2:10 PM]
- https://spotifeed.timdorr.com
+https://spotifeed.timdorr.com
 https://github.com/cypress-io/cypress
 https://github.com/aristocratos/bpytop
 https://old.reddit.com/r/Piracy/wiki/megathread/related_subreddits
@@ -10852,8 +9216,7 @@ https://github.com/davatorium/rofi
 https://github.com/adi1090x/rofi
 https://github.com/Lyut/SpotiHook2
 https://alexmercerind.github.io/harmonoid/
-File Storage, [6/4/22 2:10 PM]
- https://rockylinux.org
+https://rockylinux.org
 https://blog.cloudlinux.com/announcing-open-sourced-community-driven-rhel-fork-by-cloudlinux
 https://linux.oracle.com/switch/centos
 https://www.oracle.com/linux
@@ -10867,8 +9230,7 @@ https://myri.io
 https://datasette.io
 https://www.mojeek.com
 https://github.com/getmeli/meli
-File Storage, [6/4/22 2:10 PM]
- https://github.com/n7olkachev/imgdiff
+https://github.com/n7olkachev/imgdiff
 https://www.kiwix.org/en
 https://wiki.kiwix.org/wiki/Content_in_all_languages
 https://jmp.chat
@@ -10892,35 +9254,25 @@ https://darkwire.io
 https://www.leapchat.org
 https://cloudquery.io
 https://github.com/khlieng/dispatch
-File Storage, [6/4/22 2:10 PM]
- https://conversejs.org
+https://conversejs.org
 https://sequoia-pgp.org
 https://kivy.org
 https://github.com/ilyakurdyukov/jpeg-quantsmooth
 https://github.com/awnumar/rosen
-https://artbreeder.com
-https://forwardemail.net/en
 https://improvmx.com
 https://www.33mail.com
-File Storage, [6/4/22 2:10 PM]
- https://github.com/muennich/sxiv
+https://github.com/muennich/sxiv
 https://substack.com
-https://myri.io
 https://basicdos.com
 https://github.com/papers-we-love/papers-we-love
 https://grammatech.gitlab.io/Mnemosyne/docs/
-File Storage, [6/4/22 2:10 PM]
- https://sysadmin.it-landscape.info
-https://substack.com
+https://sysadmin.it-landscape.info
 https://www.mmhmm.app
-https://samouraiwallet.com
 https://www.redox-os.org
 https://www.bithash.net/en
 https://nakitcoins.com
 https://fraidyc.at
 https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows
-File Storage, [6/4/22 2:10 PM]
- https://ciphers.pw
 https://gurlic.com
 https://tildes.net
 https://sqwok.im
@@ -10930,20 +9282,14 @@ https://poal.co
 https://sociopathcommunity.com
 https://owncast.online
 https://github.com/fiatjaf/nostr
-File Storage, [6/4/22 2:10 PM]
- https://www.snebu.com
+https://www.snebu.com
 https://github.com/vaibhavk97/GoBooDo
-https://cryptowat.ch
 https://www.boobpedia.com/boobs/Main_Page
 https://upptime.js.org
 https://stork-search.net
-https://www.snebu.com
-File Storage, [6/4/22 2:10 PM]
- https://upptime.js.org
 https://www.magipack.games
 http://zoomquilt2.com
 https://www.kaggle.com/datasets
-http://waifu2x.udp.jp
 https://openproxy.space/list
 https://encode.su
 https://krinkels.org
@@ -10955,102 +9301,49 @@ https://www.my90stv.com
 https://www.cockos.com/licecap
 http://musgle.com
 https://trimage.org
-https://imgops.com
 https://webgradients.com
 https://www.filechef.com
-https://catbox.moe
-File Storage, [6/4/22 2:10 PM]
- https://conversations.im
-https://github.com/Franiac/TwitchLeecher
+https://conversations.im
 https://github.com/KoalaBear84/OpenDirectoryDownloader
 https://file.wikileaks.org/file
 https://www.linkace.org
 https://csgordon.github.io/books.html
-File Storage, [6/4/22 2:10 PM]
- https://webassembly.studio
+https://webassembly.studio
 https://madaidans-insecurities.github.io/guides/linux-hardening.html
 https://madaidans-insecurities.github.io
 https://ainoob.com/en/project/nooboss
 https://www.reddit.tube
-https://healthchecks.io
 https://www.sharepad.io
 https://driveandlisten.herokuapp.com
-File Storage, [6/4/22 2:10 PM]
- https://writefreely.org
+https://writefreely.org
 https://homelabos.com
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://github.com/schollz/rwtxt
 https://beta.ethi.me
 https://appmaker.xyz/pwa-to-apk
 https://www.pwabuilder.com
-https://github.com/Ethereal-Developers-Inc/OpenScan
-https://perkeep.org
-File Storage, [6/4/22 2:10 PM]
- https://crypt.ee
-https://github.com/GRVYDEV/Project-Lightspeed
+https://crypt.ee
 https://sw.kovidgoyal.net/kitty
-https://vertical.carrd.co
 https://cheat.sh
 https://gibrom.org
 https://parsec.app
 https://www.alfredapp.com
-https://docs.inlets.dev
-https://sqlitebrowser.org
-http://inloop.github.io/sqlite-viewer
-https://caprover.com
-https://ngrok.com
-https://localhost.run
-https://localxpose.io
-https://packetriot.com
-https://portmap.io
-https://pagekite.net
-https://github.com/antoniomika/sish
 https://github.com/simon987/od-database
-https://github.com/PrivateBin/PrivateBin
-https://github.com/OSSystems/compress-tools-rs
 https://github.com/pixeltris/TwitchAdSolutions
-https://github.com/rust-lang/rustlings
 https://github.com/pyIDM/PyIDM
-https://www.neverware.com
-https://courvix.com
-https://debuild.co
-https://blankslate.io
-https://netwrks.io/beta
-https://interviews.school
-https://git.rip/exconfidential
 https://del.dog/exconfidential
-https://openai.com/blog/dall-e
 https://moviesverse.in
-File Storage, [6/4/22 2:10 PM]
- https://github.com/redianmarku/Django-Twitter-Clone
-https://github.com/NawalJAhmed/Django-YouTube-App
-https://github.com/chunkydonut21/Youtube-Downloader
-https://languagedrops.com
 https://www.keebtalk.com
-https://www.ghostcapital.org
-https://ezhevika.blogspot.com
-https://www.dreamweapons.net
-https://rockonvinyl.blogspot.com
-https://15.ai
 https://tools.whoisxmlapi.com/whois-history-search
 https://www.fakenamegenerator.com
-File Storage, [6/4/22 2:10 PM]
- https://www.opensource-socialnetwork.org
 https://github.com/Illegal-Services/Illegal_Services
-https://handshake.org
 https://secret.club
-https://timetagger.app
 https://dramatica.online
 https://friendi.ca
-https://fountainofdreams.net
-https://foambubble.github.io/foam
 https://odysee.com
-File Storage, [6/4/22 2:10 PM]
- https://www.sleuthkit.org/autopsy
 https://ramble.pw
 https://tilvids.com
 https://notabug.io
-https://github.com/WorldBrain/Memex
 https://www.omnicalculator.com
 https://www.heahy.com
 https://mnmnotmail.org
@@ -11059,70 +9352,43 @@ https://github.com/nichobi/sponsorblockcast
 https://github.com/nickolas360/harmony
 https://github.com/EionRobb/purple-discord
 https://wikidark.org
-https://pixelcraft.web.app
 https://github.com/FChannel0
-File Storage, [6/4/22 2:10 PM]
- https://app.clouthub.com
+https://app.clouthub.com
 https://pocketnet.app
 https://www.cypress.io
 https://github.com/DrKLO/Telegram
-https://github.com/hellzerg/optimizer
-https://github.com/polymorphicshade/NewPipe
 https://kajiwoto.com
 https://otomi-games.com
-File Storage, [6/4/22 2:11 PM]
- https://github.com/popey/sosumi-snap
-https://github.com/dhsdshdhk/stegpy
 https://github.com/bagaswastu/librebook
-https://www.jingos.com
 https://securephones.io
 https://juicycodes.com
-https://runson.cloud
 http://pdf-giant.net/english
 https://arch.b4k.co
-https://redact.carrd.co
-File Storage, [6/4/22 2:11 PM]
- https://spyse.com
+https://spyse.com
 https://pdfshelter.com
 https://adnauseam.io
 https://cywir.tv
 https://www.packetfence.org
 https://www.perspectiveapi.com
 https://cata-list.github.io
-https://a11yresources.webflow.io
-https://runson.cloud
 https://tagshitter.com
 https://displaypurposes.com
 https://best-hashtags.com
-File Storage, [6/4/22 2:11 PM]
- https://scrub.watch
+https://scrub.watch
 https://www.reddit.com/r/EBook_Resources
-https://newsclapper.com
-https://speed.cloudflare.com
-https://onlysponsors.dev
 https://sitejs.org
-https://filmulator.org
 https://qtpass.org
 https://github.com/passff/passff
-https://github.com/rxi/lite
 https://crackstreams.is
-File Storage, [6/4/22 2:11 PM]
- https://loveeevee.github.io/Dots-Converter
-https://wikipedia-live-monitor.herokuapp.com
 https://github.com/MacKey-255/GoodByeCatpcha
-https://gtfobins.github.io
 https://gutensearch.com
-https://securitytxt.org
 https://deskreen.com
 https://pinetools.com
 https://filelisting.com
 https://www.faganfinder.com
-https://www.msgsafe.io
 https://fetchrss.com
-https://skiftos.org
 https://cvservant.com
 https://www.deviceinfo.me
-https://animate.style
 https://invited.tv
 https://tutturu.tv
 https://www.netflixparty.com
@@ -11132,31 +9398,22 @@ https://offbase.org
 https://github.com/porn-vault/porn-vault
 https://4kremux.com
 https://comicsnake.com
-File Storage, [6/4/22 2:11 PM]
- https://github.com/ValdikSS/GoodbyeDPI
+https://github.com/ValdikSS/GoodbyeDPI
 https://github.com/krlvm/PowerTunnel-Android
 https://addons.mozilla.org/en-US/firefox/addon/twitch-adblock
 https://chrome.google.com/webstore/detail/twitch-adblock/mipdalemhlhfenbikcloloheedmmecme
 https://patriots.win
-https://web.chemdoodle.com
 https://www.ventscape.life
 http://dmoztools.net
-https://heartrate.netlify.app
-https://www.synfig.org
-https://www.charlielee.uk/boats-animator
-https://www.qstopmotion.org
 https://open-directories.reecemercer.dev
 https://hackgence.com/opendirsearch
 https://superkumi.atshop.io
 https://berty.tech
-File Storage, [6/4/22 2:11 PM]
- https://www.allfreedumps.com
+https://www.allfreedumps.com
 https://www.highshortinterest.com
 https://www.spachero.com
 https://gtoolkit.com
-https://maple.pet/webgbcam
 https://www.spoofbox.com
-https://www.recursive.design
 https://github.com/f0cker/crackq
 https://github.com/Joshua1909/CallMeMaybe
 https://github.com/HashPals/Name-That-Hash
@@ -11165,33 +9422,22 @@ https://ytprivate.com
 https://presearch.org
 https://www.redgifs.com
 https://www.airwindows.com/vsts/
-File Storage, [6/4/22 2:11 PM]
- https://github.com/RobbWatershed/GalleryCherry
+https://github.com/RobbWatershed/GalleryCherry
 https://github.com/jvlflame/Javinizer
 https://github.com/cooperdk/YAPO-e-plus
 https://stashapp.cc
-http://teavm.org
-https://newreleases.io
 https://public-apis.io
 https://github.com/public-apis/public-apis
 https://meshtastic.letstalkthis.com
 https://valdikss.org.ru/schare
-https://getaether.net
 https://github.com/db0/subredditScrubber
- https://bedrocklinux.org
+https://bedrocklinux.org
 https://www.tradingview.com/chart
 https://quackr.io
-https://screeps.com
-https://codespells.org
 https://metager.org
 https://www.crackerteam.com/?langid=25
 https://xxxstreams.org
 https://www.gobolinux.org
-https://archivy.github.io
-https://www.insecam.org
-http://arbtt.nomeata.de
-https://www.ytt-tech.com
-https://asdf-vm.com
 https://discord.id
 https://looking.house
 https://endeavouros.com
@@ -11204,117 +9450,60 @@ https://you-tldr.com
 https://fivem.net
 https://github.com/jonasstrehle/supercookie
 https://addons.mozilla.org/en-US/firefox/addon/livetl/
-File Storage, [6/4/22 2:11 PM]
- https://www.cloudpanel.io
+https://www.cloudpanel.io
 https://sockslist.net
-https://www.ytt-tech.com
-https://github.com/penpot/penpot
-https://zbox.io/fs
 https://buildapks.github.io/buildAPKs
 https://cv2you.com
 https://scrolller.com
-https://cyberpunk-life.neocities.org
-https://reports.exodus-privacy.eu.org/en
-https://espanso.org
-https://premid.app
 https://www.proxynation.org
 https://zippysharesearch.com
-https://litestream.io
 https://blog.feedspot.com/world_news_rss_feeds
-https://raidforums.com/Announcement-Database-Index-CLICK-ME
 https://github.com/LeFroid/Viper-Browser
 https://github.com/K1rakishou/Kuroba-Experimental
 https://chrome.google.com/webstore/detail/syncro-omegle-ip-location/mddlplfahhkojhjmmnkjeaghalncgjdb
-File Storage, [6/4/22 2:11 PM]
- https://freevpn.gg
-https://keycombiner.com
+https://freevpn.gg
 https://spacehey.com
-https://en.jingos.com
 https://cyberfear.com
-https://yippy.com
-https://rate.sx
 https://github.com/sergiotapia/torrentinim
 https://github.com/oilshell/oil/wiki/Alternative-Shells
-File Storage, [6/4/22 2:11 PM]
- https://eyedex.org
+https://eyedex.org
 http://lendx.org
-https://ipfs-search.com
 https://www.filesearch.link
-https://open-directories.reecemercer.dev
 https://w3abhishek.github.io/torrentables
 https://sites.google.com/view/l33tech/tools/pasteskimmer
 https://sites.google.com/view/l33tech/tools/ods
 https://calishot-eng-2.herokuapp.com/index-eng/summary
 https://hackgence.com
 https://axisofeasy.com/series/aoe-weekly-digest/
-File Storage, [6/4/22 2:11 PM]
- https://caprover.com
 https://jam.systems
-https://sonobus.net
 https://monkeytype.com
-https://www.sourcetrail.com
-https://github.com/rand-net/khan-dl
-https://github.com/svenmauch/WinSlap
-File Storage, [6/4/22 2:11 PM]
- https://arc.io
 https://www.erome.com
-https://ardupilot.org
 https://widgetbot.io
-https://fatboy.site
 https://www.sublimemerge.com
 https://anonimageboards.com
 https://instantdomainsearch.com
-https://github.com/ALIILAPRO/megabox
-http://stahlworks.com/dev/swiss-file-knife.html
-File Storage, [6/4/22 2:11 PM]
- https://www.azuracast.com
-https://www.bromite.org
-https://github.com/onivim/oni2
+https://www.azuracast.com
 http://mp3splt.sourceforge.net/mp3splt_page/home.php
-https://github.com/Tribler/trustchain-superapp
-https://play.google.com/store/apps/details?id=nl.tudelft.trustchain
-https://github.com/hakavlad/nohang
-https://adversarial.io
 https://diskprices.com
 https://networksdb.io
-https://same.energy
-https://getleon.ai
 https://notabug.org/dlspt/dl-spt
-https://answerthepublic.com
-File Storage, [6/4/22 2:11 PM]
- https://github.com/techtanic/proton-bot
 https://github.com/qeeqbox/social-analyzer
-https://github.com/techtanic/Udemy-Course-Grabber
-https://github.com/exadel-inc/CompreFace
 https://solidtorrents.net
 https://gload.to
-File Storage, [6/4/22 2:11 PM]
- https://wereturtle.github.io/ghostwriter
 https://geminiadvisory.io/blog
-https://open5g.info
-https://www.importyeti.com
-https://zone.vision
-https://calladev.com
 https://lostnintendohistory.github.io/DS-TV-OUT
 http://unsuck-it.com
-https://siasky.net
 https://meowtec.github.io/audio-cutter
 https://www.bearaudiotool.com
-https://www.snowtrack.io
 https://redditsave.com
-https://www.reddit.tube
 https://github.com/firedm/FireDM
 https://peeplink.in
-https://ohh.io
-File Storage, [6/4/22 2:11 PM]
 drivemere.org
 File Storage, [6/4/22 2:03 PM]
- https://blokada.org
 https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722
 https://coursehunters.net
 http://it-ebooks.info
 http://www.allitebooks.com
-http://academictorrents.com
 http://pdf-giant.com
 https://paste.ee/p/BB1EV#Uy2eddMalrZMy5OgPMiVUOqU4bdVNNuN
 https://burles.co/en
@@ -11327,11 +9516,9 @@ https://www.reddit.com/r/opensignups
 https://www.reddit.com/r/invites
 https://opentrackers.org
 http://btracs.com
-https://github.com/dannyti/sboxsetup
 https://github.com/HDVinnie/Torrent-Tracker-Platforms
 https://web4sync.com/forum
 https://sitedev.club/forum
-https://tomato.to
 https://www.mediafire.com/folder/qrbd48rx2yq7l/App's_Source_Code
 https://anon.to
 https://notepad-plus-plus.org
@@ -11342,7 +9529,7 @@ https://1movietv.com
 https://api.123movie.cc
 https://vidsrc.me
 File Storage, [6/4/22 2:04 PM]
- https://github.com/utatti/perfect-scrollbar
+https://github.com/utatti/perfect-scrollbar
 https://screenshot.guru
 http://archive.is
 https://jshint.com
@@ -11363,8 +9550,7 @@ https://speedhost247.com
 https://www.clientvps.com
 https://www.dataplugs.com/en
 https://www.pacswitch.com/en/dedicatedserver.html
-File Storage, [6/4/22 2:04 PM]
- https://unblocked-pw.github.io
+https://unblocked-pw.github.io
 https://github.com/matthiasmullie/minify
 https://github.com/Cerdic/CSSTidy
 https://github.com/mattbasta/crass
@@ -11374,7 +9560,6 @@ https://github.com/Frug/AJAX-Chat
 http://frug.github.io/AJAX-Chat
 https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver
 https://www.arrowchat.com
-https://www.photopea.com
 http://audio-museum.com/Main_Menu.htm
 https://majesy.com
 https://flsaudio.com/en
@@ -11390,10 +9575,8 @@ https://www.bvlist.com
 http://www.saaki.net
 https://www.eff.org/issues/file-sharing/subpoena-defense
 https://bitmitigate.com
-https://www.geekwire.com
 https://torrentfreak.com/received-a-piracy-warning-from-your-isp-heres-what-to-do-1810
-File Storage, [6/4/22 2:04 PM]
- https://nginxconfig.io
+https://nginxconfig.io
 http://ebook3000.com
 https://magazinesdownload.org
 https://github.com/viliusle/miniPaint
@@ -11417,17 +9600,13 @@ https://www.unitvps.com
 https://m247.com/services/m-host
 http://changelog.com
 https://cdnnow.pro
-File Storage, [6/4/22 2:04 PM]
- https://lumpysoft.com
+https://lumpysoft.com
 https://moviesleak.net
 http://animista.net
 https://grid.layoutit.com
 https://bennettfeely.com/clippy
-https://coolors.co
 http://sysadmin.it-landscape.info
 https://github.com/level42ca/lumpysoft
-https://djnotorioussam.com
-https://ddl.to
 https://rnbxclusive1.com
 https://www.edis.at/en/server/kvm-vps/austria-vienna
 https://vscale.io/en
@@ -11438,8 +9617,7 @@ https://chrome.google.com/webstore/detail/firertc/iaamfpbohecgihgnbhmppgekdjkbol
 https://www.ssls.com
 https://torrents-csv.ml
 http://yourls.org
-File Storage, [6/4/22 2:04 PM]
- https://god-games.com
+https://god-games.com
 https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl
 http://ww7.monkrus.ws
 https://www.reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to
@@ -11451,7 +9629,6 @@ https://www.isotopium.com
 https://www.email-encoder.com
 https://alpinelinux.org
 https://helixhosting.ninja
-https://github.com/WeebDev/lolisafe
 https://www.pdf2go.com
 https://docupub.com/pdfcompress
 https://beautifuldingbats.com/hey-howd-you-do-that
@@ -11462,13 +9639,9 @@ https://mediatorrentz.org
 https://vivo.sx
 https://browserbench.org
 https://chromium.woolyss.com
-https://www.remove.bg
 https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38™-generation
-https://www.upload.ee
-https://pdfcandy.com
 https://www.sejda.com
-File Storage, [6/4/22 2:04 PM]
- https://convertio.co
+https://convertio.co
 https://crackwatch.com
 https://www.svp-team.com/wiki/Main_Page
 https://hub.docker.com/r/linuxserver/letsencrypt
@@ -11497,15 +9670,12 @@ https://old.reddit.com/r/wallpapers
 https://old.reddit.com/r/desktops
 https://github.com/pwn20wndstuff/Undecimus
 https://github.com/henrypp/simplewall
-https://github.com/sherlock-project/sherlock
 https://github.com/notable/notable
 https://github.com/Kimbatt/js-Z
 https://www.dnforum.com
 https://www.namepros.com
-File Storage, [6/4/22 2:04 PM]
- https://azidsecurity.blogspot.com/2018/07/best-youtube-channels-to-learn-hacking.html
+https://azidsecurity.blogspot.com/2018/07/best-youtube-channels-to-learn-hacking.html
 https://gto76.github.io/python-cheatsheet
-https://www.reddit.com/r/TrueReddit
 https://gitlab.com/sekreta/sekreta/blob/master/README.md
 https://www.addic7ed.com
 https://subscene.com/browse/popular/all/1
@@ -11520,10 +9690,8 @@ https://beautifier.io
 https://argfx.co
 https://gfxall.com
 https://downloadpsd.cc
-http://gfxmountain.com
 http://streamsquid.com
 https://whatcss.info
-https://mirrorace.com
 https://www.techrepublic.com/article/how-to-enable-tcp-bbr-to-improve-network-speed-on-linux
 https://www.picozu.com
 https://www.vectorizer.io
@@ -11541,22 +9709,16 @@ https://you.dj
 https://github.com/zombieFox/nightTab
 https://vuejsexamples.com
 https://github.com/tympanix/Electorrent
-File Storage, [6/4/22 2:04 PM]
- https://www.moviesjoy.net
+https://www.moviesjoy.net
 https://addons.mozilla.org/en-US/firefox/addon/native_hls_playback
 https://lmshows.se
 https://www.nulled.ch
 https://flixtor.to
-https://linksnappy.com
 https://real-debrid.com
 https://www.premiumize.me
 https://premiumify.com
-https://www.deepbrid.com
 https://prem.link
-https://leechall.com
 https://linkgenerate.com
-https://cocoleech.com
-https://hyperdebrid.net
 http://rapidgrab.pl
 https://www.reddit.com/r/Pentesting/comments/9ondj5/a_good_pentesting_tools_list
 https://stevenuniver.se
@@ -11568,18 +9730,14 @@ https://jerverless.github.io
 https://nuclear.gumblert.tech
 https://www.veed.io
 http://u9g.xyz
-https://www.firertc.com
 https://www.vps.bg/en/dedicated-servers
 https://tvservice.club
-File Storage, [6/4/22 2:04 PM]
- https://pixelmob.co
+https://pixelmob.co
 https://www.class-central.com
-http://index-of.es
 https://www.xml-sitemaps.com
 https://www.porntrex.com
 https://github.com/uuencode/BlaB-Q
 https://torrentparadise.to
-https://www.streamlive.to
 https://github.com/valentinxxx/nginxconfig.io
 https://www.gigsgigscloud.com/premium-china-kvm-vps
 https://www.simcentric.com/en
@@ -11596,7 +9754,6 @@ http://libgen.io/libgen/repository_torrent
 https://invictus.ws
 https://tparser.me
 https://soundpark-club.com
-https://github.com/trimstray/the-practical-linux-hardening-guide
 https://tamalanwar.github.io/periodic-table
 https://backgroundchecks.org/justdeleteme
 https://crohasit.com
@@ -11611,7 +9768,6 @@ https://translate.google.com/translate?hl=en&sl=ru&u=
 https://forum.exploit.in
 https://cdromance.com
 https://github.com/nextapps-de/fat
-https://funkwhale.audio
 https://github.com/i2p-zero/i2p-zero
 http://uncool.club/iceballet/ssh2
 https://snipr.gg
@@ -11622,8 +9778,7 @@ https://snyk.io/test
 https://builds.gg
 http://repo.tantrumtv.com/Roms
 https://omnia.turris.cz/en/
-File Storage, [6/4/22 2:04 PM]
- https://www.warpcache.com
+https://www.warpcache.com
 http://www.metacdn.com
 https://coinshost.com/en
 https://www.killabee-gaming.com
@@ -11636,15 +9791,12 @@ https://github.com/dessalines/lemmy
 https://dev.lemmy.ml
 https://github.com/chrismaltby/gb-studio
 https://www.vepp.com
-File Storage, [6/4/22 2:04 PM]
- https://www.siberdc.com/en
-https://cdnnow.pro
+https://www.siberdc.com/en
 https://www.fastpipe.io/language?change=en
 http://stormwall.pro/en
 http://nooder.net
 https://whaleblue.io
 https://github.com/sereneblue/chameleon/blob/master/readme.md
-https://github.com/tonikelope/megabasterd
 https://github.com/connyduck/donotlink
 https://da.gd/help
 https://www.bitchute.com
@@ -11653,11 +9805,8 @@ https://secretlab.co/collections
 https://gist.github.com/kdev33/d501d5726a6dcc0d1a51879941ec7cd4
 https://www.papaparse.com
 https://www.audiotool.com
-File Storage, [6/4/22 2:04 PM]
- https://flydebrid.com - Free Torrent Downloader
-File Storage, [6/4/22 2:04 PM]
- https://manjaro.org/download/architect
-https://htmlpasta.com
+https://flydebrid.com - Free Torrent Downloader
+https://manjaro.org/download/architect
 https://github.com/ekistece/vlmcsd-autokms
 https://wind4.github.io/vlmcsd
 https://syncthing.net
@@ -11671,9 +9820,7 @@ https://www.comparesmm.com/smm-panels
 http://www.mostrecommendedbooks.com
 https://plausible.io
 https://chrome.google.com/webstore/detail/unmailto/omnmcffbgocomleepoodlfbigkglehpm/
-File Storage, [6/4/22 2:04 PM]
- https://ebooks.betamode.dev
-http://www.mostrecommendedbooks.com
+https://ebooks.betamode.dev
 https://mailshiv.com
 https://aminoeditor.com
 https://www.expandrive.com
@@ -11692,8 +9839,7 @@ https://serversforhackers.com/c/letsencrypt-with-haproxy
 https://perfops.net/flexbalancer
 https://istio.io
 https://jvns.ca/blog/2018/10/27/envoy-basics/
-File Storage, [6/4/22 2:04 PM]
- https://konghq.com/kong
+https://konghq.com/kong
 https://caddyserver.com
 http://www.haproxy.org
 https://www.envoyproxy.io
@@ -11711,8 +9857,7 @@ https://www.trabia.com
 https://ipleak.net
 https://zombieloadattack.com
 https://www.exoticvm.com
-File Storage, [6/4/22 2:04 PM]
- https://pogostick.net/~pnh/ntpasswd
+https://pogostick.net/~pnh/ntpasswd
 https://www.dell.com/en-us/shop/dell-55-4k-conference-room-monitor-c5519q/apd/210-arev/monitors-monitor-accessories
 https://symfony.com
 https://commento.io
@@ -11726,8 +9871,7 @@ https://flagtheory.com
 https://www.offshorecorptalk.com
 https://elegantservices.ae/belize-offshore-company.html
 https://www.certificate-transparency.org
-File Storage, [6/4/22 2:04 PM]
- https://qresear.ch
+https://qresear.ch
 https://offshoreleaks.icij.org
 https://github.com/novnc/noVNC
 https://mremoteng.org
@@ -11740,8 +9884,7 @@ https://ultraviewer.net/en
 https://www.digitalruby.com/ipban
 http://www.us.sorbs.net
 https://deliverbility.com
-File Storage, [6/4/22 2:04 PM]
- https://codermails.in/pricing.html
+https://codermails.in/pricing.html
 https://deliver2inbox.com/plans
 https://buyaccs.com/en
 https://github.com/tootsuite/mastodon
@@ -11756,53 +9899,43 @@ https://www.cgsecurity.org/wiki/PhotoRec
 https://www.cgsecurity.org/wiki/TestDisk
 https://www.cleverfiles.com
 http://www.sleuthkit.org/autopsy/index.php
-https://forum.reverse4you.org
 https://hackernoon.com
-File Storage, [6/4/22 2:04 PM]
- https://www.lopp.net/bitcoin-information.html
+https://www.lopp.net/bitcoin-information.html
 http://clicksdealer.com
-https://www.mail-tester.com
 http://downloadbandcamp.com
 https://databasehub.co
 https://proxyhub.pro
 https://shoppy.gg/@RolexTun
 https://rdpcanada.net/Rdp-canada-residential.html
-https://github.com/zudochkin/awesome-newsletters
 https://bp-servers.com/clients/cart.php
-File Storage, [6/4/22 2:04 PM]
- https://github.com/makepad/makepad
+https://github.com/makepad/makepad
 https://makepad.github.io/makepad
 https://wapm.io/package/drbh/flate
 https://github.com/shindesharad71/News-WebApp-With-Vue
 https://github.com/alemesa/news-api-react
 https://lukasoppermann.github.io/html5sortable/index.html
 https://github.com/lukasoppermann/html5sortable
-https://packetstormsecurity.com
 https://github.com/torch2424/wasmBoy
 https://wasmboy.app
 https://github.com/AssemblyScript/assemblyscript/wiki/Built-with-AssemblyScript
 https://www.kitploit.com/2019/05/cqtools-new-ultimate-windows-hacking.html
 https://noblechairs.com
 File Storage, [6/4/22 2:05 PM]
- https://www.anonabox.com/buy-anonabox-pro.html
+https://www.anonabox.com/buy-anonabox-pro.html
 https://null-byte.wonderhowto.com/how-to/top-80-websites-available-tor-network-0186117
 https://bitmessage.ch
 https://multivacigqzqqon.tor2web.xyz
 https://www.tomshardware.com/news/inwin-928-super-tower-pc-case,39317.html
 https://www.ghacks.net/2019/05/10/simple-ping-blocker-for-firefox
-https://x64dbg.com
-https://redasm.io
 https://imperiya.to
 https://www.microsoft.com/en-us/software-download/mediafeaturepack
 https://github.com/lovell/sharp
 https://github.com/TeaSpeak/TeaSpeak
 http://www.teaspeak.de
-https://www.hackread.com
 https://atshop.io
 http://worldstream.xyz
 https://newsapi.org
-File Storage, [6/4/22 2:05 PM]
- https://jekyllrb.com
+https://jekyllrb.com
 https://github.com/TryGhost/Ghost
 http://sport5.live
 http://acesports.xyz
@@ -11816,15 +9949,11 @@ https://github.com/chubin/cheat.sh
 https://techcrunch.com
 https://identinator.to
 https://sms-telecom.com
-https://vulners.com
 http://sms-telecom.com
-http://smtphunter.validcheck.net
 https://www.groovl.com
 http://f.vision
 https://sphere.tenebris.cc
-https://fake-it.ws
-File Storage, [6/4/22 2:05 PM]
- https://cyberpanel.net
+https://cyberpanel.net
 https://github.com/m0rtem/CloudFail
 https://cxsecurity.com/wlb
 https://metadefender.opswat.com
@@ -11835,13 +9964,10 @@ https://app.any.run
 http://nullsecurity.net/tools.html
 https://github.com/sqlmapproject/sqlmap
 http://ifirstrow.eu
-https://www.olweb.tv
 https://www.iptvm3u.com
 https://www.blackhatseo-tools.com
-http://oneddl.org
 http://cracksurl.com
-File Storage, [6/4/22 2:05 PM]
- https://sunxdcc.com
+https://sunxdcc.com
 http://packetfind.com
 http://www.xdcc.eu
 http://xweasel.org/Search.php
@@ -11849,14 +9975,8 @@ https://www.xrel.to/?lang=en_US
 https://ixirc.com
 http://www.heavendl.com
 https://f.scriptz-team.info
-https://www.usenet-crawler.com
 https://udemycoursesfree2018.blogspot.com
-https://iosgods.com
-File Storage, [6/4/22 2:05 PM]
- https://www.usenet-crawler.com/
-File Storage, [6/4/22 2:05 PM]
- https://www.people-search.org
-https://persopo.com
+https://www.usenet-crawler.com/
 https://www.truepeoplesearch.com
 https://mewe.com
 https://shop.kobol.io
@@ -11864,21 +9984,17 @@ https://github.com/omarroth/invidious
 https://hooktube.com
 https://old.reddit.com/user/MLBStreamsBot2
 https://github.com/Otiel/BandcampDownloader
-https://mlb66.ir
 https://www.dailyiptvlist.com
 https://fluxustv.blogspot.com
 http://www.freshiptv.com
 https://www.oneplaylist.space
 https://dutafilm.com
-https://webp-converter.com
 https://www.thelightphone.com
 https://greysec.net
 https://cryptoworld.is
-File Storage, [6/4/22 2:05 PM]
- https://github.com/beardlyness/NGINXY
+https://github.com/beardlyness/NGINXY
 https://github.com/jc21/nginx-proxy-manager
 https://statically.io
-https://wiki.buyvm.net/doku.php/gre_tunnel
 https://github.com/duy13/vDDoS-Protection
 https://github.com/Daniel15/SocialFeeds
 https://nerdfonts.com
@@ -11888,8 +10004,6 @@ https://addons.mozilla.org/en-US/firefox/addon/search_by_image
 https://github.com/shirosaidev/diskover-web
 https://darksearch.io
 https://github.com/r00tarded/voter
-File Storage, [6/4/22 2:05 PM]
- https://sphere.tenebris.cc
 https://brave.com
 https://dissenter.com
 https://www.jsonstore.io
@@ -11905,18 +10019,15 @@ https://ipvigilante.com
 https://forums.somethingawful.com
 https://zoomquilt.org
 https://doxbin.org
-File Storage, [6/4/22 2:05 PM]
- https://www.reddit.com/r/sjain_guides/comments/9m4m0k/microsoft_office_201319_simple_method_to_download
+https://www.reddit.com/r/sjain_guides/comments/9m4m0k/microsoft_office_201319_simple_method_to_download
 https://www.thesslstore.com
-https://www.indiehackers.com
 https://github.com/warren-bank/HLS-Proxy
 http://www.nosuchcon.org/stream.html
 https://wmspanel.com/nimble
 http_restreaming
 https://github.com/Eyevinn/hls-relay
 https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
-File Storage, [6/4/22 2:05 PM]
- https://www.mediaelementjs.com
+https://www.mediaelementjs.com
 https://github.com/jpillora/xdomain
 https://jpillora.com/xdomain
 https://hls-js.netlify.com/demo
@@ -11927,12 +10038,9 @@ http://www.wrpi.org
 https://www.wamc.org
 https://bellard.org/jslinux
 https://www.osboxes.org
-https://uniquestream.net
-https://uploadfiles.io
 https://rspace.me
 https://www.turris.cz/en/omnia
-File Storage, [6/4/22 2:05 PM]
- https://www.offshoremail.net
+https://www.offshoremail.net
 http://ofezi.com/prices
 https://www.clevver.io/prices
 https://hushed.com/pricing
@@ -11940,8 +10048,7 @@ https://post.sc
 https://www.reddit.com/r/LiveTvLinks/comments/c108fq/weak_spell_is_back
 https://www.concen.org/torrents
 https://github.com/CTemplar
-File Storage, [6/4/22 2:05 PM]
- http://versusutil.com
+http://versusutil.com
 https://github.com/NullArray/NetSet
 https://github.com/olivia-ai/olivia
 https://github.com/angristan/wireguard-install
@@ -11952,10 +10059,7 @@ https://costme.fauz.io
 https://letsencrypt.org
 https://zerossl.com
 https://www.sslforfree.com
-https://www.thesslstore.com
-https://www.ssls.com
-File Storage, [6/4/22 2:05 PM]
- https://getmetastream.com
+https://getmetastream.com
 https://www.synaptop.com
 https://togethr.tv
 https://letsgaze.com
@@ -11970,24 +10074,17 @@ https://project-trident.org
 http://www.midnightbsd.org
 https://reactos.org
 http://anonme.org < NSFW
-File Storage, [6/4/22 2:05 PM]
- http://s3.bitdownload.ir/Learning/LYNDA.COM
+http://s3.bitdownload.ir/Learning/LYNDA.COM
 https://flydebrid.com
-https://www.voidtools.com
 https://rarelust.com
 https://snowfl.com
-https://you.dj
 https://4anime.to
 https://mangahub.io
 https://thatnovelcorner.com
 https://anistream.xyz
 http://www.anime1.com
-File Storage, [6/4/22 2:05 PM]
- http://qoob.name
-https://skidrowrepacks.com
-https://otomi-games.com
-File Storage, [6/4/22 2:05 PM]
- https://serendeputy.com
+http://qoob.name
+https://serendeputy.com
 https://www.epicbrowser.com
 https://www.tzero.com < subsidiary of overstock.com
 https://turingpi.com
@@ -11996,13 +10093,11 @@ https://www.talkatone.com
 https://www.2ndline.co
 https://www.demonsaw.com
 https://www.reddit.com/r/Addons4Kodi/comments/bwjre6/recommended_addons_june_2019/
-File Storage, [6/4/22 2:05 PM]
- https://www.deepnude.com < make nudes with AI.
- https://www.onevanilla.com < anonymous prepaid visa cards.
- https://www.asrockrack.com < ASRock Server Equipment
- https://www.asrockrack.com/general/productdetail.asp?Model=X470D4U2-2T < AMD Server CPU Motherboard with 10Gbe
- https://www.cyberpower.com/eu/en/product/sku/cp1500epfclcd < Great UPS For The Price
- https://www.serverhunter.com
+https://www.deepnude.com < make nudes with AI.
+https://www.onevanilla.com < anonymous prepaid visa cards.
+https://www.asrockrack.com < ASRock Server Equipment
+https://www.asrockrack.com/general/productdetail.asp?Model=X470D4U2-2T < AMD Server CPU Motherboard with 10Gbe
+https://www.cyberpower.com/eu/en/product/sku/cp1500epfclcd < Great UPS For The Price
 https://www.healthline.com/nutrition/nootropics
 https://www.braintropic.com
 https://www.reddit.com/r/Nootropics
@@ -12013,15 +10108,12 @@ https://deepnamer.com
 https://neilpatel.com/ubersuggest
 https://www.brokenlinkcheck.com
 https://www.daskeyboard.com < Great mechanical keyboards
- https://www.hyperxgaming.com/us/keyboards/alloy-elite-mechanical-gaming-keyboard < one of highest rated mechanical keyboards
- https://joplinapp.org
-File Storage, [6/4/22 2:05 PM]
- https://www.reddit.com/r/RBI
+https://www.hyperxgaming.com/us/keyboards/alloy-elite-mechanical-gaming-keyboard < one of highest rated mechanical keyboards
+https://www.reddit.com/r/RBI
 https://www.nomachine.com
 https://www.reddit.com/r/linux_gaming/comments/9oqq3w/guide_migrating_to_linux_in_2019
 http://keypirinha.com
 https://getsharex.com
-https://gchq.github.io/CyberChef
 https://github.com/lupoDharkael/flameshot
 https://bit.tube/dashboard
 https://d.tube
@@ -12033,8 +10125,7 @@ https://www.reddit.com/r/firefox/comments/bhtfx0/firefox_addons_guide
 http://www.exploitsart.com
 https://www.exploit-db.com
 https://mediagoblin.org
-File Storage, [6/4/22 2:05 PM]
- https://nostarch.com
+https://nostarch.com
 https://kingdom-leaks.com
 https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram
 https://www.frontpagelive.com
@@ -12050,13 +10141,10 @@ https://revddit.com/about
 https://dietpi.com
 https://turboget.co
 https://8192.one
-https://pixelfed.org
 https://www.dwservice.net
 https://guacamole.apache.org
 https://anydesk.com/en
-https://www.nomachine.com
-File Storage, [6/4/22 2:05 PM]
- https://spee.ch
+https://spee.ch
 https://repo.dynastic.co
 https://pahe.in
 https://problemkaputt.de/gba.htm
@@ -12064,7 +10152,7 @@ http://themasoftware.com
 https://cdn.hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.tor2web.xyz
 https://www.reddit.com/r/onions/comments/cbfb5c/a_onion_cdn_for_bootstrap_fontawesome_and_jquery/
 File Storage, [6/4/22 2:06 PM]
- https://datgun.hashbase.io
+https://datgun.hashbase.io
 https://github.com/maduce/fosscad-repo
 https://fosscad.org
 https://grabcad.com/library
@@ -12075,24 +10163,18 @@ https://jellyfin.readthedocs.io/en/latest
 https://www.amazon.com/Arctic-Thermal-Efficient-Conductivity-Handling/dp/B00UYTTXSM
 https://privatestorage.io
 https://glitch.com
-https://blokada.org
 https://morene.host/en
 https://www.ettv.to
-https://looking.house
 https://javascriptjob.xyz
 https://gekri.com
 https://bingocv.com
-File Storage, [6/4/22 2:06 PM]
- https://store.pine64.org/?product=rockpro64-4gb-single-board-computer
+https://store.pine64.org/?product=rockpro64-4gb-single-board-computer
 https://blake2.net
 https://en.wikipedia.org/wiki/Argon2
 https://abcjs.net
 https://cybersole.io
 https://sercurius.net
-https://github.com/W00t3k/Awesome-Cellular-Hacking
-File Storage, [6/4/22 2:06 PM]
- https://mp3db.pro
-https://gbhackers.com
+https://mp3db.pro
 https://hypeproxies.io
 https://cssgrid-generator.netlify.com
 https://landgrab.xyz
@@ -12103,17 +10185,12 @@ https://www.stadiumgoods.com
 https://www.iptvbin.com
 https://users.cs.duke.edu/~hbui/temp/player
 https://grampshouse.neocities.org
-File Storage, [6/4/22 2:06 PM]
- https://crypt.ee
 https://cryptomator.org
-https://standardnotes.org
-https://www.protondb.com
 https://lineageos.org
 https://code.fairphone.com/projects/fp-osos/index.html
 https://www.tizen.org
 https://replicant.us
-File Storage, [6/4/22 2:06 PM]
- https://fastpanel.direct
+https://fastpanel.direct
 https://serverscope.io
 https://www.xsl.tel
 https://www.plugserv.com
@@ -12121,14 +10198,11 @@ https://intovps.com
 https://mp3-youtube.download/en
 http://www.playoffstream.com
 https://www.muckrock.com
-https://sportsurge.net
 https://shovl.io
 https://en.metadedi.net
 https://versaweb.com/ddosprotection.php
 https://theonionhost.com
 https://restoreprivacy.com
-https://www.mojeek.com
-https://metager.org
 https://darknetlive.com
 https://rustwasm.github.io/docs/book
 https://www.gitlogs.com
@@ -12138,10 +10212,8 @@ https://archive.st/archive/2019/6/old.reddit.com/asyg/old.reddit.com/r/buildapc/
 https://vidloadr.com
 https://ddownr.com
 https://www.garanntor.us
-http://tilde.town
 https://freedombox.org
 https://www.reddit.com/r/soccercom
-https://afdah.info
 https://www.cinebloom.org
 https://cloudflare-dns.com/help
 https://github.com/dmbaturin/soupault
@@ -12151,22 +10223,18 @@ http://www.freeworldwideiptv.com
 https://www.m3udaily.site
 https://github.com/TheSecondSun/Revssl
 https://tusky.app
-File Storage, [6/4/22 2:06 PM]
- http://www.guetzli.it
+http://www.guetzli.it
 https://www.serverrun.com/en
 https://www.vps.bg
 https://cockpit-project.org
 https://www.123convert.to
-https://uploadrar.com
 https://letsenhance.io
 https://pwndb2am4tzkvold.tor2web.xyz
 https://www.gigsgigscdn.com
 https://profitserver.ru/en/dedicated
 https://pq.hosting/en
 https://www.somagu.com
-File Storage, [6/4/22 2:06 PM]
- http://forum.gsmhosting.com/vbb
-https://coinshost.com/en
+http://forum.gsmhosting.com/vbb
 https://github.com/hestiacp/hestiacp
 https://hestiacp.com
 https://www.hkisl.net/index.php?language=english
@@ -12180,7 +10248,6 @@ https://www.equicex.io/bitcoin-bank-account
 https://disk.yandex.com
 https://eyy.co/links
 https://www.adminer.org
-https://lumpysoft.com
 https://www.bulkrenameutility.co.uk/Download.php
 https://github.com/nvbn/thefuck
 https://fossies.org
@@ -12195,7 +10262,6 @@ https://www.gradient-animator.com
 https://mothereff.in
 http://www.audiotag.info
 http://devilbox.org
-https://github.com/duy13/vDDoS-Protection
 https://vddos.voduy.com
 https://www.1984hosting.com/product/freedns
 https://dns.he.net
@@ -12204,11 +10270,8 @@ https://piracybank.org
 http://tranquility.se
 http://e-hentai.org
 https://serverfield.com.tw
-File Storage, [6/4/22 2:06 PM]
- https://ecosia.org/
-File Storage, [6/4/22 2:06 PM]
- https://www.froala.com
-http://forum.lastos.org
+https://ecosia.org/
+https://www.froala.com
 https://clyp.it
 https://flussonic.com
 https://file.pizza
@@ -12220,23 +10283,17 @@ https://openresty.org/en
 https://the-artifice.com
 https://cryptpad.fr
 https://lumina-desktop.org/features
-https://project-trident.org
 https://singl.page
 https://dissent.cx
-https://catbox.moe
-File Storage, [6/4/22 2:06 PM]
- https://imageoptim.com/online
+https://imageoptim.com/online
 https://imageoptim.com/versions
 https://imageoptim.com/mac
 https://emage.js.org
 https://mmoapi.com/cloudflare-ip-resolver
-https://sportsurge.net
 http://y6stream.club
 https://watchin.today
-File Storage, [6/4/22 2:06 PM]
- https://teaspeak-guide.es
+https://teaspeak-guide.es
 https://carrd.co
-https://dev.lemmy.ml
 https://github.com/ist-dsi/mattermost-cookbook
 https://weechat.org/about
 https://ogboost.com
@@ -12255,15 +10312,13 @@ https://react-devtools-tutorial.now.sh
 https://application.security
 https://exchange.xforce.ibmcloud.com
 https://b-ok.cc
-File Storage, [6/4/22 2:06 PM]
- https://www.codewars.com
+https://www.codewars.com
 https://devurls.com
 https://archivebox.io
 https://www.projectsend.org
 https://github.com/adolfintel/speedtest
 https://bloom.sh
 https://yunohost.org/#/whatsyunohost
-https://freedombox.org
 https://bitnami.com
 https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU
 https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software
@@ -12272,18 +10327,14 @@ https://cloudron.io
 https://sandstorm.io
 https://prosody.im
 https://mongooseim.readthedocs.io/en/latest
-https://conversejs.org
 https://www.jsxc.org
 https://omemo.top
 https://chatsecure.org
 https://lanmessenger.github.io
 https://kiwiirc.com
-https://thelounge.chat
-File Storage, [6/4/22 2:06 PM]
- https://www.stremio.com
+https://www.stremio.com
 https://shadowban.eu
 https://predb.ovh
-https://diggza.com
 https://www.poptox.com
 https://globfone.com
 https://call2friends.com
@@ -12291,14 +10342,10 @@ https://ievaphone.com
 https://neovistas.net
 https://github.com/Simonwep/pickr
 https://catonmat.net/cookbooks/curl
-https://rentry.co
-http://txti.es
 https://pste.eu
-File Storage, [6/4/22 2:06 PM]
- https://crawli.net
+https://crawli.net
 https://malmal.io
 https://keepvid.works
-https://www.bcuninstaller.com
 https://remotepad.io
 https://darknetdiaries.com
 https://github.com/jpillora/cloud-torrent
@@ -12315,50 +10362,39 @@ https://forge.laravel.com
 https://ploi.io
 https://wordops.net
 http://gdmovies.info
-https://crackstation.net
 https://vast.ai
 https://www.waterfox.net
 https://sideprojects.net
 http://spooch.dk/Ebooks
 https://dlfeb.com
-https://tiddlywiki.com
 https://alluc.uno
 https://textmechanic.com
 http://dcrypt.it
 https://chen2.org
-https://bgpstream.com
-https://wasabiwallet.io
 https://greenlock.domains
 https://telebit.cloud
 http://u.nydus.org
-File Storage, [6/4/22 2:06 PM]
- https://pastebin.com/9pWMddLp
+https://pastebin.com/9pWMddLp
 https://github.com/go-shiori/shiori
 https://elementevil.com/forum
 https://github.com/DFabric/dppm
 https://gnudip.datasystems24.net/gnudip/cgi-bin/gnudip.cgi
 https://raw.githack.com
-https://www.irccloud.com
 https://www.producthunt.com
-File Storage, [6/4/22 2:06 PM]
- https://notabug.org/sayem314/d-fi
+https://notabug.org/sayem314/d-fi
 https://crossbox.io
 https://lesspass.com
-https://stealthex.io
 https://webcull.com
 http://pinboard.in
 https://github.com/0x0049/Rocket.Chat.Dark
 https://github.com/cbosdo/rocketchat-dark
 https://blockchair.com
 https://sportsbay.org
-File Storage, [6/4/22 2:06 PM]
 am
- https://prefap.com
-https://github.com/ValdikSS/GoodbyeDPI
+https://prefap.com
 https://hackertarget.com/dns-lookup
 https://dnslookup.online
 http://sourcecodelist.com
-https://zerobit.email
 https://smtpbd.com
 https://cachedpage.co
 https://bp-servers.com
@@ -12368,14 +10404,12 @@ https://coursehunter.net
 https://megadb.tweakly.net/index/megalinks_title.html
 http://raddi.net
 https://www.trp.red
-File Storage, [6/4/22 2:06 PM]
- https://github.com/iptv-org
+https://github.com/iptv-org
 http://www.reloltv.com
 https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext
 https://x-cellular.com
 https://blahdns.com
 https://github.com/ookangzheng/blahdns
-https://hackertarget.com/dns-lookup
 https://datacenterlight.ch
 http://hackademy.pro/home
 https://www.mega-debrid.eu
@@ -12389,10 +10423,8 @@ https://larsjung.de/h5ai
 https://filerun.com
 https://github.com/mickael-kerjean/filestash
 https://www.filestash.app
-https://ngrok.com
 http://serveo.net
 https://github.com/localtunnel/localtunnel
-https://thenextweb.com
 https://btcpayserver.org
 https://github.com/crozuk/pi-hole-wireguard-privoxy
 http://tor66sezptuu2nta.onion.ws
@@ -12400,7 +10432,6 @@ https://wiki.mhut.org/software:libgen_desktop
 http://ebooks-shares.org
 https://ebookhunter.ch
 https://www.bullmask.com
-http://versusutil.com
 https://alternative.me
 https://alternativeto.net
 https://www.airexplorer.net/en
@@ -12408,7 +10439,6 @@ https://raidrive.com
 https://neverthrottled.com
 https://sponsor.ajay.app
 https://asoftmurmur.com
-https://sportsurge.net
 https://www.liveonlinetv.org/tvchannels.php
 https://firestorm-servers.com/en
 https://www.warmane.com
@@ -12418,14 +10448,12 @@ http://leak-lookup.com
 https://darkreader.org
 https://www.etlegacy.com
 http://wolfenstein4ever.de
-http://dcrypt.it
 https://github.com/SergiX44/XBackBone
 https://peerlinks.io
 https://christianpauly.gitlab.io/fluffychat-website/en
 https://github.com/ldidry/lufi
 https://seriesvault.win
-File Storage, [6/4/22 2:06 PM]
- https://libredns.gr
+https://libredns.gr
 https://giftstation.net
 https://www.watchcartoononline.io
 https://watchcartoonsonline.info
@@ -12442,8 +10470,7 @@ https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/dhw2lh/how_to_stream_music_p
 https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/dhcmkw/how_to_play_pc_emulator_android_browser_games
 https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/cveubp/how_to_read_books_comics_manga_magazines_online
 https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/
-File Storage, [6/4/22 2:06 PM]
- https://notabug.org/Aesir/chimera
+https://notabug.org/Aesir/chimera
 https://github.com/schwifty42069/piptv
 http://comicrack.cyolito.com
 https://vaemendis.net/ubooquity
@@ -12453,29 +10480,20 @@ https://animeglare.xyz
 https://goggamespc7v6z5e.onion.ws
 https://github.com/MachineGunnur/GOG-Games
 https://botguard.net/en/welcome
-File Storage, [6/4/22 2:07 PM]
- https://www.lowendtalk.com/discussion/160841/new-all-in-one-gameserver-control-panel-production-beta-starts-november-18th-sign-ups-now-open
+https://www.lowendtalk.com/discussion/160841/new-all-in-one-gameserver-control-panel-production-beta-starts-november-18th-sign-ups-now-open
 https://apirone.com
 https://btcdir.net/services/payment-gateways
 https://paxful.com
 https://www.mkvcage.nl
-https://giftstation.net
-https://libredns.gr
 https://twoseven.xyz
 https://kastapp.co
-https://lordofthefiefs.com
-https://drakewars.com/en
-https://www.torn.com
 https://itch.io
-http://freewebarcade.com
-https://playclassic.games
 http://www.reloltv.com/playlist.txt
 https://ameliorated.info
 https://firebog.net
 https://report-uri.com/home/generate
 https://darkweblinks.org/files/
-File Storage, [6/4/22 2:07 PM]
- https://restream4me.com
+https://restream4me.com
 https://restream.io/en
 http://www.ssh101.com
 https://blog.jonlu.ca/posts/illegal-streams
@@ -12495,7 +10513,6 @@ https://github.com/angristan/docker-pleroma
 https://glitch.sh/sn0w/pleroma-docker
 https://openinternetaccess.com
 https://permanentupload.com
-https://ipfs.io
 https://www.android-x86.org
 https://sporestack.com
 https://www.cyberhour.com
@@ -12505,33 +10522,20 @@ https://www.zerotier.com
 https://saidit.net/s/sjain_guides
 https://nafanz.github.io/cloudstorage.html
 https://www.reddit.com/r/EmbyShares
-https://www.techworm.net
 https://github.com/shaarli/Shaarli
-File Storage, [6/4/22 2:07 PM]
- https://www.accuradio.com/classical
+https://www.accuradio.com/classical
 https://www.yourclassical.org/listen/relax
-https://www.kongregate.com
-https://regexcrossword.com
-https://armorgames.com
-https://www.addictinggames.com
-https://www.newgrounds.com
-https://www.bgames.com
 https://www.bored.com
-https://www.crazymonkeygames.com
 https://www.reddit.com/r/WebGames
 https://www.shufl.com
 https://yespornplease.com
 https://www.sxyprn.com
-https://prefap.com
 https://saidit.net/s/sjain_guides/wiki/downloads
-https://saidit.net/s/sjain_guides
-https://www.reddit.com/r/ApksApps
 http://freebox.us.to:8989
 http://free.vpsbox.info:8989
 http://please.host.us.to:8989
 https://store.vikings.net
 https://www.fairphone.com/en
-https://x-cellular.com
 https://www.silentcircle.com/products-and-solutions/silent-phone
 https://copperhead.co/android/store
 https://puri.sm/products/librem-5
@@ -12552,28 +10556,20 @@ https://itsfoss.com/install-linux-chromebook
 https://tutorials.ubuntu.com/tutorial/install-ubuntu-on-chromebook
 https://cancel.fm/ripcord
 https://en.wikipedia.org/wiki/Comparison_of_file_verification_software
-https://www.comparesmm.com/smm-panels
 https://sharetechlinks.com
 https://shr.biz
-https://openstreamingplatform.com
 https://gitlab.com/Deamos/flask-nginx-rtmp-manager
 https://www.aiowares.com
 https://oldunreal.com
 https://www.escapefromtarkov.com
 https://home.nflbite.com
 https://backlinkshitter.com
-https://otxataba.net
-File Storage, [6/4/22 2:07 PM]
- https://deepwebsites.org/2018/12/17/hacked-sql-dumps-leaks-150
+https://deepwebsites.org/2018/12/17/hacked-sql-dumps-leaks-150
 https://nuclearleaks.com
-https://ghostproject.fr
 https://www.leakedsource.ru
 https://scylla.sh
 https://haveibeenpwned.com
-https://snusbase.com
-https://looking-glass.hostfission.com
-File Storage, [6/4/22 2:07 PM]
- https://archive.is
+https://archive.is
 https://pi-dns.com
 https://patchmypc.com/home-updater-overview
 https://www.demonoid.is
@@ -12581,35 +10577,24 @@ https://loki.network
 https://github.com/loki-project/loki-network
 https://www.tinc-vpn.org
 http://www.jthnx5wyvjvzsxtu.onion.ws
-http://gounlimited.to
 http://onlystream.tv
-https://letsupload.co
 https://speedvideo.net
 http://powvideo.net
 https://vidcloud.co
-https://vup.to
-https://poal.co
 https://credits.oisd.nl
 https://wallpaperplay.com
 https://www.wallpaperfusion.com
 https://www.hdwallpapers.net
 https://interfacelift.com/wallpaper/downloads/date/any
 http://wallpoper.com
-File Storage, [6/4/22 2:07 PM]
- https://github.com/video-dev/hls.js/releases
-https://closure-compiler.appspot.com/home
+https://github.com/video-dev/hls.js/releases
 http://ustvgo.tv
-https://tiiny.host
 http://sportstreamshd.com
 https://daddylive.pw
 https://www.immuniweb.com/websec
 https://marko.fyi/firefox
-https://racaty.com
 https://www.thetatoken.org
 https://endchan.net
-https://livepeer.org
-File Storage, [6/4/22 2:07 PM]
- https://megaup.net
 https://dmzhost.co
 https://github.com/coolcode/dfile
 https://dfile.app
@@ -12632,108 +10617,61 @@ https://caniuse.com
 https://klickaud.net
 File Storage, [6/4/22 2:01 PM]
 ProPublica
- https://www.propublica.org/feeds/54Ghome
+https://www.propublica.org/feeds/54Ghome
 The Independent
- https://www.independent.co.uk/service/rss-feeds-775086.html
+https://www.independent.co.uk/service/rss-feeds-775086.html
 Reuters
- https://www.reuters.com/tools/rss
+https://www.reuters.com/tools/rss
 IA
- https://archive.org/help/rss.php
+https://archive.org/help/rss.php
 https://archive.org/services/collection-rss.php?collection=
 https://archive.org/services/collection-rss.php?mediatype=
 https://archive.org/services/collection-rss.php?query=
 Craigslist
- https://oxford.craigslist.org/d/computers/search/sya?format=rss
+https://oxford.craigslist.org/d/computers/search/sya?format=rss
 https://oxford.craigslist.org/search/hhh?format=rss
 DeathAddict
- https://deathaddict.co/rss/ (The video platform)
- https://forum.deathaddict.co/forums/-/index.rss (The forum index)
- https://forum.deathaddict.co/forums/isis.56/ ->
+https://deathaddict.co/rss/ (The video platform)
+https://forum.deathaddict.co/forums/-/index.rss (The forum index)
+https://forum.deathaddict.co/forums/isis.56/ ->
 https://forum.deathaddict.co/forums/isis.56/index.rss
 DeepWebLink
- https://deepweb.link/feed/
+https://deepweb.link/feed/
 EFF
- https://www.eff.org/rss/updates.xml
+https://www.eff.org/rss/updates.xml
 Recent RFCs
- https://www.rfc-editor.org/rfcrss.xml
 Ars Technica
- https://arstechnica.com/rss-feeds/
+https://arstechnica.com/rss-feeds/
 TorrentFreak
- https://feeds.feedburner.com/Torrentfreak
+https://feeds.feedburner.com/Torrentfreak
 ArchLinux Recent
- https://www.archlinux.org/feeds/news/
+https://www.archlinux.org/feeds/news/
 ... etc.
 Other feed lists
- https://github.com/AboutRSS/ALL-about-RSS (The best list about RSS so far)
- https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md (custom Feed43 feeds)
- https://intellawatch.com/#Feeds (cyber security feeds)
- https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers
+https://github.com/AboutRSS/ALL-about-RSS (The best list about RSS so far)
+https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md (custom Feed43 feeds)
+https://intellawatch.com/#Feeds (cyber security feeds)
+https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers
 https://feed.mikle.com/support/rss-feed-sources-online-news-sites
 https://feeder.co/knowledge-base/rss-content/rss-lists-popular-and-useful-rss-feeds
 https://www.uen.org/feeds/lists.shtml
 https://free.vulniq.com/rss-atom-feeds/home
 https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689 (large opml file)
- https://gist.github.com/benkehoe/2a846d3bb0044ca5d99073458280f36e (aws feeds list)
+https://gist.github.com/benkehoe/2a846d3bb0044ca5d99073458280f36e (aws feeds list)
 Podcasts lists
- https://old.reddit.com/r/podcasts/comments/aknnta/ (100+ fictional podcasts sorted by genre)
- http://audio-drama.com/doku.php (Audio drama podcasts)
- https://old.reddit.com/r/podcasts/comments/75ilo5/do6tp5j/ (100 podcasts for "general" audiences)
- https://github.com/rShetty/awesome-podcasts/blob/master/README.md (tech-focussed)
- https://wiki.nikitavoloboev.xyz/podcasts (tech-focussed;
+https://old.reddit.com/r/podcasts/comments/aknnta/ (100+ fictional podcasts sorted by genre)
+http://audio-drama.com/doku.php (Audio drama podcasts)
+https://old.reddit.com/r/podcasts/comments/75ilo5/do6tp5j/ (100 podcasts for "general" audiences)
+https://github.com/rShetty/awesome-podcasts/blob/master/README.md (tech-focussed)
+https://wiki.nikitavoloboev.xyz/podcasts (tech-focussed;
 https://github.com/nikitavoloboev/knowledge/blob/master/podcasts/podcasts.md)
 HN discussions:
- https://news.ycombinator.com/item?id=9207360
+https://news.ycombinator.com/item?id=9207360
 https://news.ycombinator.com/item?id=13747563
 https://news.ycombinator.com/item?id=13252162
 https://news.ycombinator.com/item?id=1565140
-File Storage, [6/4/22 2:01 PM]
-I've seen threads like these before but it seems like it's mostly the same old (sometimes outdated) sites so I thought I'd update it a little bit. <b>I have personally used every resource on this list.</b>
-Big four
-These are the most commonly shared resources. These are the "big four" in my opinion, but they aren't necessarily the best or the most quality. If you're new to online learning, these are the ones you'll probably go to first.
- http://www.edx.org/ -->EdX Free courses from top universities, pay for a verified certificate. EdX certificates are probably the most valuable certificates here.
- http://www.coursera.com/ -->Coursera Free courses from top universities again, pay for a verified certificate. Has more options than EdX.
- http://www.alison.com/ -->ALISON Lots of free courses with free certificates. In my opinion these courses are not the best quality but if you want some free certifications quick, it's good for that. I would personally advise against spending money there.
- https://www.khanacademy.org/ -->Khan Academy Tons of free courses with tons of useful content, particularly in math. No certificates.
-New resources
-Here are some rarely-shared resources, and in my opinion they're the most valuable.
- https://www.freecodecamp.org/ -->Freecodecamp Free courses on web design (300+ hours each) with free certificates. Incredibly streamlined.
- https://thegymnasium.com/ -->Aquent Gymnasium Free courses on web design and related topics with free certificates. Definitely one of the highest-quality providers here.
- https://lagunita.stanford.edu/ -->Stanford Lagunita Free courses on advanced topics from <em>fucking Stanford</em> with free certificates.
- http://open.edu/openlearn -->OpenLearn Free courses from the Open University, many with free certificates (technically "statements of participation"). Very high-quality courses.
- https://provalenslearning.com/ -->proValens Learning Free and paid courses with certificates from the National Parks Service. I have 3 certificates from here; I highly recommend them if you're interested in this type of stuff.
- https://learndigital.withgoogle.com/digitalgarage/courses -->Google Digital Garage Tons of free and paid courses, with a pretty valuable
-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing -->free certificate in digital marketing
- https://learn.saylor.org/ -->Saylor Academy It's been a <b>long</b> time since I used Saylor Academy but last I remember, they offered free courses, with free certificates, and the learning was pretty high-quality. It might have changed in the 6 or 7 years since I've used Saylor. But they're still advertising "Free, Modern Certificates" on their homepage so maybe not.
-Misc. resources
-Here are some niche resources that don't have such a wide audience or don't offer certificates, but that I have personally found very useful and/or interesting and/or funny.
- https://www.schoolofhaskell.com/ -->School of Haskell Learn
-https://en.wikipedia.org/wiki/Haskell -->Haskell for free. No certificates.
-Code: [Select]
-File Storage, [6/4/22 2:01 PM]
- https://www.youtube.com/user/YaleCourses-->YaleCourses Free video courses hosted on YouTube; a ton of really good information here. Of course, no certificates.
- https://online.hillsdale.edu/dashboard/courses -->Hillsdale College Free courses with free certificates from a real college -- a private, conservative-leaning Christian college that is.
- https://theoreticalminimum.com/ -->Theoretical Minimum Free courses on advanced science topics lead by a seminal physicist, Leonard Susskind. No certificate but the education is top-notch.
- https://www.artybollocks.com/certificate.html -->Become a certified artist instantly It's a joke, but hey, free certificate! Remember to get a free randomly-generated
-https://www.artybollocks.com/generator.html -->artist's statement while you're at it, too.
- http://game-theory-class.org/ -->Game Theory Online Nice little lecture series on game theory that is both standalone on
-https://www.youtube.com/user/gametheoryonline -->YouTube and hosted on Coursera. It's an okay course but I prefer:
- http://gametheory101.com/courses/ -->Game Theory 101 Actually has a ton of free video courses ranging from logic to international relations. No certificates but full of good, useful, dense information.
- http://openmusictheory.com/ -->Open Music Theory An online course (technically a "hybrid textbook) from
-https://hybridpedagogy.org/ -->Hybrid Pedagogy on, you guessed it, music theory. No certificate.
- https://semioticon.com/sio/ -->Semiotics Institute Online Free, highly advanced courses on semiotics led by eminent theorists. No certificates. My personal favorite, but I'm a big nerd and have a background in semiotics already.
- https://www.catholiconline.school/ -->Catholic Online School Tons of free course with tons of free certificates...but it's an online Catholic school. I took a course for fun and now I have a certificate in, uh, "Secret Message of Our Lady of Fatima."
- https://en.wikiversity.org/wiki/Wikiversity:Main_Page -->Wikiversity Tons of user-made courses and other learning resources. It presents itself as a hybrid between a university and a wiki, it even
-https://en.wikiversity.org/wiki/Portal:Research -->conducts its own research and
-https://en.wikiversity.org/wiki/WikiJournal_User_Group -->publishes its own journals! No certificates of course.
- https://openedx.atlassian.net/wiki/spaces/COMM/pages/162245773/Sites+powered+by+Open+edX+Platform -->Any of the sites listed here This is a list of websites which use the EdX architecture, so they're essentially clones. There's a ton to go through and only a fraction of them work, and even less are open to the public. Still, there might be some hidden gems here and there. Some of them will provide certificates and others will not.
-Sites to watch out for
-These are sites I see being thrown around that I believe are either entirely predatory or just not worth the risk.
- https://www.udemy.com/ -->Udemy Udemy is useful for learning practical skills sometimes (keyword sometimes) but the courses themselves are very low-quality, and sometimes make really dishonest claims (like the hundreds of user-made courses that claim to certify you as a CBT / DBT therapist.) Very likely to get scammed here. The certificates are worth jack shit.
- https://www.shawacademy.com/ -->Shaw Academy Tons of shady reviews of this site. I've only used it once personally for their free trial; but I could immediately tell it wasn't worth the risk.
 Last Edit: February 16, 2020, 03:31:05 am by Admin
-More...
 5 Likes
-Quote
 1
 REPLY
 NOTIFY
@@ -12742,83 +10680,66 @@ UNWATCH
 Home
 Links
 Interesting Links
-Free sites for education
 Jump to: Interesting Links
 Quick Reply
 Warning: this topic has not been posted in for at least 180 days.
 Unless you're sure you want to reply, please consider starting a new topic.
-File Storage, [6/4/22 2:01 PM]
 A lolisafe links collection
- https://dmca.gripe/ - 1025MB
- https://gang.moe/ - 10000MB
- https://lolisafe.moe
+https://dmca.gripe/ - 1025MB
+https://gang.moe/ - 10000MB
+https://lolisafe.moe
 https://gg.fm/ - 512MB
- https://safe.fiery.me/ - 512MB
- https://p.yk.tn
+https://safe.fiery.me/ - 512MB
+https://p.yk.tn
 https://serval.is-very-cute.moe/nojs - 128MB
- https://m.narpi.me/nojs - 100MB
- https://take-me-to.space
-https://fileup.pro
-http://nimbleclover.moe
+https://m.narpi.me/nojs - 100MB
 https://safe.0x0.la/ - 2048MB
- https://vortex.64i.de
 https://dxd.moe/ - 500MB
- https://weebtra.sh
+https://weebtra.sh
 https://lolisare.life
 https://iizu.dev
-https://awoo.cafe
-https://files.anonvodka.xyz
-https://file.lozy.pink
 https://manly.gachimuchi.men/ -
 https://wrestled.me
 https://i.myonri.me
 https://msafe.i0.tf
-https://third-rei.ch
 https://loli.solutions/ -
 https://share.wildbook.me/ -
-https://loli.graphics
 https://kafuka.moe
 https://files.felixire.com
 https://i.btrfs.no
 http://lpf.pw/ -
 http://catgirl.wtf
 https://afuckingle.af
-https://fuckingweeb.site
 https://i.simonrahn.xyz
 https://koizora.moe/ - 50MB
- https://www.tranny.pink
+https://www.tranny.pink
 https://vault.vicariousnetwork.com/ - 512MB
- https://yoosk.pl
 https://uwu.tf
 https://safe.vikavo.lt/ - 512MB
- https://imouto.kawaii.su/ - 100MB
- https://safe.mememe.moe
+https://imouto.kawaii.su/ - 100MB
+https://safe.mememe.moe
 https://m.narpi.me/ - 512MB
- https://www.is-on-your.network/ - 512MB
- https://nylonbot.xyz/ - 100MB
- https://cdn.argonaut.pw
+https://www.is-on-your.network/ - 512MB
+https://nylonbot.xyz/ - 100MB
+https://cdn.argonaut.pw
 https://tqco.ovh/ - 512MB
- https://zz.ht/ - 512MB
- http://papaya.moe
-https://files.htp.sh
+https://zz.ht/ - 512MB
 http://is-your.pet
 https://sadvibes.co.uk/ - 512MB
- https://safetmp.waifuhunter.club/ - 1024MB
+https://safetmp.waifuhunter.club/ - 1024MB
 Google queries:
- https://www.google.com/search?q=intext:"self-hosted+file+upload+service"
+https://www.google.com/search?q=intext:"self-hosted+file+upload+service"
 https://www.google.com/search?q=intext:"Maximum+upload+size+per+file+is"
 some lolisafe repositories:
- https://github.com/BobbyWibowo/lolisafe (safe.fiery.me)
- https://github.com/Knallli/lolisafe
-File Storage, [6/4/22 2:01 PM]
+https://github.com/BobbyWibowo/lolisafe (safe.fiery.me)
+https://github.com/Knallli/lolisafe
 Kodi Addons
- https://www.reddit.com/r/Addons4Kodi/comments/e73fib/recommended_addons_december_2019
+https://www.reddit.com/r/Addons4Kodi/comments/e73fib/recommended_addons_december_2019
 https://1drv.ms/x/s!AkespGRmec5OgyLpRcSJia99-_T0
-File Storage, [6/4/22 2:01 PM]
 Archive of interesting links from Zulip chat and other interesting stuff
 Utilities
 Orpalis.PDF.Reducer.Pro.v3.1.8.Portable
- https://mirrorace.com/m/2ehf6
+https://mirrorace.com/m/2ehf6
 https://mega.nz/#!eXJkgKjI!dyTJKIAUo_mYHS1Xu5jCKkTbL2v8tVgtugGtzut086E
 https://upb.me/ARmDl
 https://files.catbox.moe/78t0ob.7z
@@ -12827,44 +10748,37 @@ https://anonymousfiles.io/ERHdzxvj
 https://anonfile.com/Xec1v54bna/Orpalis.PDF.Reducer.Pro.v3.1.8.Portable_7z
 https://share.dmca.gripe/2Uhb5Qefs2eFXviW.7z
 Windows 10 Activator*
- https://anonymousfiles.io/luRycxQ8/
+https://anonymousfiles.io/luRycxQ8/
 Adobe Master Collector*
 An internet connection is required and a VPN is recommended as this tool downloads files from the internet via torrent.
 This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2019.
 Developed by TheCrackerMan, D3LUX3PT3R & m0nkrus
- https://anonfile.com/b21ap356n2/Adobe.m0nkrus.Master.Collector.v1.0.0.9_7z
+https://anonfile.com/b21ap356n2/Adobe.m0nkrus.Master.Collector.v1.0.0.9_7z
 Free VPN?(For a Year)
 tomass:
 hi i just found this promotion if you register your account on
 https://seed4.me/users/register and enter the code BF2019 you will get 365 days of free vpn
 Hacking and Cracking
 Compilation of Word Lists for Password Cracking
- https://weakpass.com/
+https://weakpass.com/
 Best Hash Cracking Software
- https://hashcat.net/hashcat/
 GUI for HashCat
- https://hashkiller.co.uk/Tools/HashcatGUI
 List of Rainbow Tables
- http://project-rainbowcrack.com/table.htm
 Wifi WPA PSK Lookup Tables
- https://www.renderlab.net/projects/WPA-tables/
 Reaver (Wifi Cracking Tool)
- https://github.com/t6x/reaver-wps-fork-t6x
-https://github.com/t6x/reaver-wps-fork-t6x/releases
-https://v3ded.github.io/pwn/hacking-botnets.html
 Comics And Magazines
 Comics
- https://readcomicsonline.ru
+https://readcomicsonline.ru
 http://www.comicscodes.com
 https://getcomics.info
 https://www.comicextra.com
 https://comicpunch.net
 One of my own links for downloading .cbr files (comic book reader, I presume):
- http://the-eye.eu/public/Comics/
+http://the-eye.eu/public/Comics/
 Magazines
 Maximum PC Magazine USA
 August 2019 Issue
- https://docdro.id/TL8zvrV
+https://docdro.id/TL8zvrV
 https://mirrorace.com/m/2Uf8n
 https://bayfiles.com/43Afx64ene/Maximum_PC_08.2019_pdf
 https://files.catbox.moe/yq86tm.pdf
@@ -12872,9 +10786,9 @@ https://upb.me/BP0Tl
 https://share.dmca.gripe/RSlJ5mMbu3174Xxy.pdf
 September 2019 Issue
 Compressed*
- https://anonfile.com/VdA2p65bn9/Maximum_PC_09.2019_compressed_pdf
+https://anonfile.com/VdA2p65bn9/Maximum_PC_09.2019_compressed_pdf
 Uncompressed
- https://docdro.id/pypWzTb
+https://docdro.id/pypWzTb
 https://mirrorace.com/m/Sjja
 https://mega.nz/#!TDAHBCTK!1RlkVtRVkaJVBWyh_5_HxKh_d6HB3uiogwmvD51ZAFo
 https://1fichier.com/?5e9t99vo3wt4fap7id1s
@@ -12882,12 +10796,10 @@ https://upb.me/twUkT
 https://bayfiles.com/25p3dd43n6/MaximumPCMagazineSept2019_7z
 https://files.catbox.moe/54uo7t.7z
 Web Designer Issue 291 (2019)*
- https://anonfile.com/Ka57p555n2/Web-Designer.Issue.291.2019_pdf
+https://anonfile.com/Ka57p555n2/Web-Designer.Issue.291.2019_pdf
 Custom PC Magazine (October 2019 Issue)
-Compressed*
- https://anonfile.com/o76dp158n8/Custom.PC.10.2019.Compressed_pdf
-Uncompressed
- https://docdro.id/g7oEoQk
+https://anonfile.com/o76dp158n8/Custom.PC.10.2019.Compressed_pdf
+https://docdro.id/g7oEoQk
 https://mega.nz/#!ebYT3IoT!p_6QdBHYFpJTU9KLAeeQakSROCuf3cduNvSldwNp_Cw
 https://upb.me/XhzBv
 https://anonymousfiles.io/ITL6nKF2
@@ -12897,9 +10809,8 @@ https://mirrorace.com/m/Sjl5
 https://bayfiles.com/Bc1ddc46n8/Custom.PC.10.2019_7z
 Computer Music Magazine (October 2019 Issue)
 Compressed
- https://anonfile.com/td7bp755n9/Computer.Music.10.2019.Compressed_pdf
-Uncompressed
- https://docdro.id/z4eZuyo
+https://anonfile.com/td7bp755n9/Computer.Music.10.2019.Compressed_pdf
+https://docdro.id/z4eZuyo
 https://mega.nz/#!bTY1jITb!-k8oDpbGle5kQU7D8IuEjd81uoPY0kmh5I94St-1itQ
 https://upb.me/z1JAZ
 https://1fichier.com/?qg2lbe45q2um1dm2vcao
@@ -12908,10 +10819,8 @@ https://anonymousfiles.io/qP1R7CEh
 https://files.catbox.moe/b9qysw.7z
 https://bayfiles.com/i5xbd24cnf/Computer.Music.10.2019_7z
 PC Magazine USA (August 2019 Issue)
-Compressed*
- https://anonfile.com/v19bp555na/PC.Magazine.08.2019.Compressed_pdf
-Uncompressed
- https://docdro.id/qbxUjD7
+https://anonfile.com/v19bp555na/PC.Magazine.08.2019.Compressed_pdf
+https://docdro.id/qbxUjD7
 https://mega.nz/#!SeQhXKJa!_tkDLQWriI80CgEWljhgUcn48shiRBNVMA4elVlxUtI
 https://1fichier.com/?nbvdvgjbasglqs9dzle2
 https://mirrorace.com/m/2eeec
@@ -12919,62 +10828,54 @@ https://upb.me/nYG1q
 https://anonymousfiles.io/NNmUu8qh
 https://bayfiles.com/B7tad74bnb/PCMagazineUSA.August.2019_7z
 https://files.catbox.moe/xqodsm.7z
-File Storage, [6/4/22 2:01 PM]
 Macworld Magazine USA (September 2019 Issue)
-Compressed
- https://anonfile.com/YaBfp15anb/Macworld_USA_09_Compressed_pdf
-Uncompressed
- https://mirrorace.com/m/2eeds
+https://anonfile.com/YaBfp15anb/Macworld_USA_09_Compressed_pdf
+https://mirrorace.com/m/2eeds
 https://files.catbox.moe/h9upor.7z
 https://1fichier.com/?fhlg6tsrnwh2f67eg4nu
 https://anonfile.com/G6m6db41n9/MacWorldSept19_7z
 https://bayfiles.com/Jcm4de4en0/MacWorldSept19_7z
 E-Books
- http://www.rlslog.net/category/ebooks
+http://www.rlslog.net/category/ebooks
 http://gen.lib.rus.ec
-https://b-ok.cc
-https://www.pdfdrive.com
 https://ebookbb.com
 https://ibookpile.net
 http://www.ebook3000.com
-http://www.allitebooks.com
 http://www.freebookspot.es
-https://dlfeb.com
 http://www.spooch.dk/Ebooks
 https://forcoder.su
 http://index-of.es/EBooks
 https://avxhm.se/ebooks
 Movies
 Best Streaming Sites That Aren't On The StartPage
- https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/
 Dave Chappelle's NETFLIX Special "Sticks and Stones"
 Torrent:
 https://rarbg.to/torrents.php?imdb=tt10810424
 720p Streaming:
 https://oload.site/embed/lLoT_OZvL3Y
 A random list of "real" torrents from 8675309
- https://thepiratebay10.org/torrent/34408441/Peaky.Blinders.S05E02.REPACK.1080p.HDTV.x264-BRISK[TGx]
- https://thepiratebay10.org/torrent/34417658/Young.Justice.S03E26.Nevermore.1080p.DCU.WEB-DL.AAC2.0.H264-NTb[
- https://thepiratebay10.org/torrent/34408452/Peaky.Blinders.S05E02.REPACK.720p.WEB.x265-MiNX[TGx]
- https://thepiratebay10.org/torrent/34412151/WWE_Monday_Night_Raw_2019_08_26_HDTV_x264-NWCHD_[TJET]
- https://thepiratebay10.org/torrent/34425007/Bachelor.in.Paradise.S06E08.720p.HULU.WEB-DL.DDP5.1.H.264-NTb
- https://thepiratebay10.org/torrent/34422462/WWE.SmackDown.Live.2019.08.27.HDTV.x264-NWCHD[TGx]
- https://thepiratebay10.org/torrent/34416868/Young.Justice.S03E24.Into.the.Breach.720p.DCU.WEB-DL.AAC2.0.H264
- https://thepiratebay10.org/torrent/34423083/The.Protector.2019.1080p..WEB-Rip.DD.5.1.HEVC-DDR[EtHD]
- https://thepiratebay10.org/torrent/34408408/Peaky.Blinders.S05E02.HDTV.x264-BRISK[ettv]
- https://thepiratebay10.org/torrent/34412179/Dark.Sense.2019.720p.WEBRip.800MB.x264-GAlaxyRG[TGx]
- https://thepiratebay10.org/torrent/34422413/Bachelor.in.Paradise.S06E07.720p.HULU.WEB-DL.DDP5.1.H.264-NTb
- https://thepiratebay10.org/torrent/34417468/Young.Justice.S03E25.Overwhelmed.720p.DCU.WEB-DL.AAC2.0.H264-NTb
- https://thepiratebay10.org/torrent/34418607/Witches_in_the_Woods.2019.HDRip.XViD-ETRG
- https://thepiratebay10.org/torrent/34427441/The_Dead_Dont_Die.2019.DVDRip.XviD.AC3-EVO
- https://thepiratebay10.org/torrent/34417598/Young.Justice.S03E24.WEB.x264-PHOENiX[TGx]
- https://thepiratebay10.org/torrent/34414626/Clown.2019.HDRip.XViD-ETRG
- https://thepiratebay10.org/torrent/34417515/Young.Justice.S03E25.WEB.x264-PHOENiX[TGx]
- https://thepiratebay10.org/torrent/34416671/How.to.Train.Your.Dragon.The.Hidden.World.2019.720p.BluRay.x264
- https://thepiratebay10.org/torrent/34412409/The.Terror.S02E03.WEB.H264-FLX[ettv]
- https://thepiratebay10.org/torrent/34422470/WWE_SmackDown_Live_2019_08_27_720p_HDTV_x264-NWCHD_[TJET]
+https://thepiratebay10.org/torrent/34408441/Peaky.Blinders.S05E02.REPACK.1080p.HDTV.x264-BRISK[TGx]
+https://thepiratebay10.org/torrent/34417658/Young.Justice.S03E26.Nevermore.1080p.DCU.WEB-DL.AAC2.0.H264-NTb[
+https://thepiratebay10.org/torrent/34408452/Peaky.Blinders.S05E02.REPACK.720p.WEB.x265-MiNX[TGx]
+https://thepiratebay10.org/torrent/34412151/WWE_Monday_Night_Raw_2019_08_26_HDTV_x264-NWCHD_[TJET]
+https://thepiratebay10.org/torrent/34425007/Bachelor.in.Paradise.S06E08.720p.HULU.WEB-DL.DDP5.1.H.264-NTb
+https://thepiratebay10.org/torrent/34422462/WWE.SmackDown.Live.2019.08.27.HDTV.x264-NWCHD[TGx]
+https://thepiratebay10.org/torrent/34416868/Young.Justice.S03E24.Into.the.Breach.720p.DCU.WEB-DL.AAC2.0.H264
+https://thepiratebay10.org/torrent/34423083/The.Protector.2019.1080p..WEB-Rip.DD.5.1.HEVC-DDR[EtHD]
+https://thepiratebay10.org/torrent/34408408/Peaky.Blinders.S05E02.HDTV.x264-BRISK[ettv]
+https://thepiratebay10.org/torrent/34412179/Dark.Sense.2019.720p.WEBRip.800MB.x264-GAlaxyRG[TGx]
+https://thepiratebay10.org/torrent/34422413/Bachelor.in.Paradise.S06E07.720p.HULU.WEB-DL.DDP5.1.H.264-NTb
+https://thepiratebay10.org/torrent/34417468/Young.Justice.S03E25.Overwhelmed.720p.DCU.WEB-DL.AAC2.0.H264-NTb
+https://thepiratebay10.org/torrent/34418607/Witches_in_the_Woods.2019.HDRip.XViD-ETRG
+https://thepiratebay10.org/torrent/34427441/The_Dead_Dont_Die.2019.DVDRip.XviD.AC3-EVO
+https://thepiratebay10.org/torrent/34417598/Young.Justice.S03E24.WEB.x264-PHOENiX[TGx]
+https://thepiratebay10.org/torrent/34414626/Clown.2019.HDRip.XViD-ETRG
+https://thepiratebay10.org/torrent/34417515/Young.Justice.S03E25.WEB.x264-PHOENiX[TGx]
+https://thepiratebay10.org/torrent/34416671/How.to.Train.Your.Dragon.The.Hidden.World.2019.720p.BluRay.x264
+https://thepiratebay10.org/torrent/34412409/The.Terror.S02E03.WEB.H264-FLX[ettv]
+https://thepiratebay10.org/torrent/34422470/WWE_SmackDown_Live_2019_08_27_720p_HDTV_x264-NWCHD_[TJET]
 Midsommar 2019
- https://openload.co/f/70iEAq0FvrM/Midsommar.2019.720p.HDCAM.900MB.getb8.x264-BONSAI_weboasis.mkv
+https://openload.co/f/70iEAq0FvrM/Midsommar.2019.720p.HDCAM.900MB.getb8.x264-BONSAI_weboasis.mkv
 (@Admin pls shift this to 1fichier too)
 Nick Zedd - They Eat Scum (1979)
 Magnet:
@@ -12985,100 +10886,72 @@ https://pastebin.com/dcVhnS4Y
 https://drive.google.com/drive/folders/1RHx8UoSiEDMRhpS-rkIzjf2aOKbJnznW
 NSFW
 Free Premium Account (MomPOV)
- https://mompov.com
+https://mompov.com
 id: slackdad
 pass: campus23
 Television
 Night Gallery (1969 - 1973) (Series Collection)
-Magnet:
 https://pastebin.com/MMTGGkHS
 Spent a lot more time doing this than I should have damn,,,,
 Was hosted on chat, so I have shifted it to
-https://anonymousfiles.io
 https://anonfile.com/
 Request @Admin to shift this to his 1fichier premium account
-More...
 3 Likes
-Quote
-File Storage, [6/4/22 2:01 PM]
 Alternatives to RapidVideo, OpenLoad, StreamCherry, VeryStream That Are Offline
- http://gounlimited.to
-http://onlystream.tv
-https://letsupload.co
-https://speedvideo.net
-http://powvideo.net
-https://vidcloud.co
-https://vup.to
 https://saruch.co
-File Storage, [6/4/22 2:01 PM]
 Huge web app library website
- https://appsco.pe/
-File Storage, [6/4/22 2:01 PM]
+https://appsco.pe/
 Various Maps / World Monitoring
- http://hisz.rsoe.hu/alertmap/index2.php (Emergency & Disaster Map World-Wide).
- https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map (Live Piracy Map).
- https://www.windy.com/?44.166,-77.404,5 (Windy. Live weather map).
- https://www.flightradar24.com/ (Flight Radar - Live).
- https://www.mapchannels.com/ (Unique Google Maps / Street View & Sync with YouTube).
+http://hisz.rsoe.hu/alertmap/index2.php (Emergency & Disaster Map World-Wide).
+https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map (Live Piracy Map).
+https://www.windy.com/?44.166,-77.404,5 (Windy. Live weather map).
+https://www.flightradar24.com/ (Flight Radar - Live).
+https://www.mapchannels.com/ (Unique Google Maps / Street View & Sync with YouTube).
 File Storage, [6/4/22 2:02 PM]
 Web game links to pass the time
 These games also work on mobile unless said otherwise
- https://www.towergame.app/ Desc: drop bricks to build tower endless from what in aware
- https://playcanv.as/p/2OlkUaxF/ (Flappy bird) Desc: you all know this game therefore I have come to the assumption that no description is needed
- https://bsehovac.github.io/the-cube/ (Rubik cube) Desc: ”works” for mobile but still wouldn't recommend
- https://offline-dino-game.firebaseapp.com/ (Chrome dino game) Desc: can't crouch on mobile so you will die to birds
- https://doodlecricket.github.io/index.html Desc: click anywhere to start goal is to hit a ball
- https://tmaiadev-snake.netlify.com/ (snake)
- https://proxx.app/ (similar to mine sweeper) Desc: has epic modern look
- https://poopsweeper-game.firebaseapp.com/ (minesweeper but with poop emojis)
- https://www.krunker.io (FPS) Desc: best web game I have seen PC ONLY
- https://robofight.io
- https://miniroyale.io
- https://appsco.pe/app/regretris (Tetris) Desc: very annoying
- https://weboas.is/arcade/racing/ Desc: spent a few hours on this my self lol
- https://web.archive.org/web/20190904214647
-https://thecircle.netlify.com/
-File Storage, [6/4/22 2:02 PM]
- https://robofight.io
+https://www.towergame.app/ Desc: drop bricks to build tower endless from what in aware
+https://playcanv.as/p/2OlkUaxF/ (Flappy bird) Desc: you all know this game therefore I have come to the assumption that no description is needed
+https://bsehovac.github.io/the-cube/ (Rubik cube) Desc: ”works” for mobile but still wouldn't recommend
+https://offline-dino-game.firebaseapp.com/ (Chrome dino game) Desc: can't crouch on mobile so you will die to birds
+https://doodlecricket.github.io/index.html Desc: click anywhere to start goal is to hit a ball
+https://tmaiadev-snake.netlify.com/ (snake)
+https://proxx.app/ (similar to mine sweeper) Desc: has epic modern look
+https://poopsweeper-game.firebaseapp.com/ (minesweeper but with poop emojis)
+https://www.krunker.io (FPS) Desc: best web game I have seen PC ONLY
+https://robofight.io
 https://miniroyale.io
- https://geoguessr.com/ - Randomly placed somewhere in the world on google maps. Try to guess the location as close as possible.
- https://www.thewikigame.com/group - Get from point A to point B within 120 seconds.
-File Storage, [6/4/22 2:02 PM]
+https://appsco.pe/app/regretris (Tetris) Desc: very annoying
+https://weboas.is/arcade/racing/ Desc: spent a few hours on this my self lol
+https://web.archive.org/web/20190904214647
+https://thecircle.netlify.com/
+https://geoguessr.com/ - Randomly placed somewhere in the world on google maps. Try to guess the location as close as possible.
+https://www.thewikigame.com/group - Get from point A to point B within 120 seconds.
 Semi-auto drawing site
- http://weavesilk.com/
-File Storage, [6/4/22 2:02 PM]
+http://weavesilk.com/
 Morse & Binary translator
- https://vcjhwebdev.github.io/useless-translator/
-File Storage, [6/4/22 2:02 PM]
+https://vcjhwebdev.github.io/useless-translator/
 Tuner Ninja
- https://tuner.ninja/
+https://tuner.ninja/
 Free online instrument tuner. Tune your guitar, ukulele or any other instrument. Get in tune easily and accurately without installing anything.
-File Storage, [6/4/22 2:02 PM]
 Metronome, Tuner and Tone Generator
- https://musickit.jull.dev/tuner
+https://musickit.jull.dev/tuner
 Moved from: Discussions to here (Interesting links)
-File Storage, [6/4/22 2:02 PM]
 Wayback machine for old-school MIDI files
- https://bitmidi.com/
-File Storage, [6/4/22 2:02 PM]
+https://bitmidi.com/
 How To Pretend To Be A Super Secret Hacker
- http://hackertyper.com/
-File Storage, [6/4/22 2:02 PM]
+http://hackertyper.com/
 Fileroom.io | Easy way to share files across WiFi
 Make two devices go to fileroom.io and mess around! There are practical uses like transferring files between your phone and PC or sharing files between a friend
- https://file.pizza/
-File Storage, [6/4/22 2:02 PM]
+https://file.pizza/
 Great Cannon of China against LIHKG
- https://pastebin.com/3BBHpy9L
- https://weboas.is/paste/oS8uW71zqn
-File Storage, [6/4/22 2:02 PM]
+https://pastebin.com/3BBHpy9L
+https://weboas.is/paste/oS8uW71zqn
 Investigating YouTube's ID system
- https://webapps.stackexchange.com/questions/54443/format-for-id-of-youtube-video#answer-101153
+https://webapps.stackexchange.com/questions/54443/format-for-id-of-youtube-video#answer-101153
 TL;DR
 videoID regex:
-Code: [Select]
 [0-9A-Za-z_-]{10}[048AEIMQUYcgkosw]channelID regex:
-Code: [Select]
 [0-9A-Za-z_-]{21}[AQgw]
 Theoretical total of videoID:
 ((10+26+26+2)^10)*16 = 18446744073709552000
@@ -13091,43 +10964,37 @@ Normal playlist"PL""Liked videos""LL" + channelID"Favorites""FL" + channelID"Alb
 Note: "FL" and "LL" prefixed playlists do not always exist, "UU" does. For exception see Note #2
 e.g.
 Google's Channel
- https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA200 OK
+https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA200 OK
 https://www.youtube.com/playlist?list=UUK8sQmJBp8GCxrOtXWBpyEA200 OK
 https://www.youtube.com/playlist?list=FLK8sQmJBp8GCxrOtXWBpyEA200 OK
 https://www.youtube.com/playlist?list=LLK8sQmJBp8GCxrOtXWBpyEA404 Not Found
 Note #2, The Artist Channel Addendum:
 Some "Official Artist Channel"s like this one:
-Code: [Select]
- https://www.youtube.com/channel/UCvj9Q8jeaaXlj2OprcRraaw/videosdo not have a working "UU"-playlist, but setting the "view" parameter to "0" gives a page of Uploads.
-Code: [Select]
- https://www.youtube.com/channel/UCvj9Q8jeaaXlj2OprcRraaw/videos?view=0
+https://www.youtube.com/channel/UCvj9Q8jeaaXlj2OprcRraaw/videosdo not have a working "UU"-playlist, but setting the "view" parameter to "0" gives a page of Uploads.
+https://www.youtube.com/channel/UCvj9Q8jeaaXlj2OprcRraaw/videos?view=0
 As of writing, this page lists 48 videos.
 The "Music" playlist (?list=OLAK5uy_lmaILYPoTHL6tyqMrgijDPk92eWPdB6og) 37
 The "More from the artist" playlist (?list=OLAK5uy_l-0NSlPhIKjdEKnQ9eVIuf8DHMDpA7Mzk) 11
 ... = 48
 With disable_polymer set to 1, the "Play all"-Button on the "Uploads" row links to
-Code: [Select]
- https://www.youtube.com/watch?v=Bmb-lXFSIZc&list=RDBmb-lXFSIZc&start_radio=1#t=0
+https://www.youtube.com/watch?v=Bmb-lXFSIZc&list=RDBmb-lXFSIZc&start_radio=1#t=0
 Note #2.5, YouTube Mix:
 A "Youtube mix" playlist has no "/playlist?list=" page.
 They are generated as "RD" + videoID
 v= Bmb-lXFSIZclist=RDBmb-lXFSIZc
 From youtube_dl/extractor/youtube.py:
- https://github.com/ytdl-org/youtube-dl/blob/3f46a25a971b6c1e56747cc4813c1ccdfb18aaa2/youtube_dl/extractor/youtube.py#L2770
-Code: [Select]
+https://github.com/ytdl-org/youtube-dl/blob/3f46a25a971b6c1e56747cc4813c1ccdfb18aaa2/youtube_dl/extractor/youtube.py#L2770
 ('RD', 'UL', 'PU')
 https://github.com/ytdl-org/youtube-dl/blob/3f46a25a971b6c1e56747cc4813c1ccdfb18aaa2/youtube_dl/extractor/youtube.py#L2650
-Code: [Select]
 The mixes are generated from a single video
 the id of the playlist is just 'RD' + video_id
- https://github.com/ytdl-org/youtube-dl/blob/3f46a25a971b6c1e56747cc4813c1ccdfb18aaa2/youtube_dl/extractor/youtube.py#L2447
-Code: [Select]
+https://github.com/ytdl-org/youtube-dl/blob/3f46a25a971b6c1e56747cc4813c1ccdfb18aaa2/youtube_dl/extractor/youtube.py#L2447
 (?:PL|LL|EC|UU|FL|RD|UL|TL|OLAK5uy_)?[0-9A-Za-z-_]{10,}
 Top tracks, they can also include dots
 |(?:MC)[\w\.]*
 Note #3, More artistic oddities:
 Found this reddit thread:
- https://old.reddit.com/r/DataHoarder/comments/9ir3v8/youtube_uploads_playlist_not_showing_all_uploads/
+https://old.reddit.com/r/DataHoarder/comments/9ir3v8/youtube_uploads_playlist_not_showing_all_uploads/
 Pointing to
 https://www.youtube.com/user/LanaDelRey
 ->
@@ -13136,7 +11003,7 @@ MusicOLAK5uy_knhh3pG5gDeGO0AdWPoXoxSYp-lhFKG2Y200 OKMore from the artistOLAK5uy_
 = Apparently, "Official Artist Channel"s can have a "UU"-playlist
 Note #4, Documentation:
 "Introduction to Official Artist Channels"
- https://support.google.com/youtube/answer/7336634?hl=en
+https://support.google.com/youtube/answer/7336634?hl=en
 YouTube video:
 Note #5, Generating A List:
 If you want to generate a certain portion of the IDs based on the above provided regex patterns,
@@ -13145,7 +11012,6 @@ https://github.com/asciimoo/exrex
 Filesize number crunching:
 11 Bytes videoID + 1 Byte \n delimiter = 12 Bytes
 18446744073709552000 theo. total * 12 = 221360928884514620000 B ~ 221361 PB
-File Storage, [6/4/22 2:02 PM]
 Direct Downloads
 Online Photo Editor:
 https://pixlr.com/editor/
@@ -13157,36 +11023,28 @@ https://www.bluevertigo.com.ar/
 Logos:
 https://www.brandsoftheworld.com/
 Ebooks:
- https://forum.mobilism.org/viewforum.php?f=120
+https://forum.mobilism.org/viewforum.php?f=120
 https://www.mobileread.com/forums/ebooks.php?order=desc&sort=dateline
 https://manybooks.net
 http://libgen.io/
 Mp3:
- https://musicpleer.media
+https://musicpleer.media
 https://musicpleer.tv/
-File Storage, [6/4/22 2:02 PM]
 Cut Google Out Of Your Life!
- https://www.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/
- https://old.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/
- https://archive.st/archive/2019/6/old.reddit.com/v7i7/old.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/index.html
-File Storage, [6/4/22 2:02 PM]
+https://www.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/
+https://old.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/
+https://archive.st/archive/2019/6/old.reddit.com/v7i7/old.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/index.html
 Squoosh.app - Online Image Compressor Developed by Google
 Squoosh is an image compression web app that allows you to dive into the advanced options provided by various image compressors.
- https://github.com/GoogleChromeLabs/squoosh/
-Website:
-https://squoosh.app
-File Storage, [6/4/22 2:02 PM]
+https://github.com/GoogleChromeLabs/squoosh/
 Download Bandcamp
- https://www.downloadbandcamp.com
+https://www.downloadbandcamp.com
 Lets you download any user's album/s on bandcamp in 312 kbps mp3 format
-File Storage, [6/4/22 2:02 PM]
 My bookmark list in my browser is massive. I'm constantly exploring online. Any site I come across that catches my attention, I bookmark it. Here's all the bookmarks unfiltered and unorganized.
- https://konard.github.io/twittermatrix/messages.html
+https://konard.github.io/twittermatrix/messages.html
 https://www.donation-tracker.de
 https://gitlab.com/NickBusey/HomelabOS
 https://github.com/faizann24/XssPy/
-File Storage, [6/4/22 2:02 PM]
- https://snusbase.com
 https://gauger.io/fonticon
 https://www.pawelzorzan.eu/stuff
 https://www.soyoustart.com/us/essential-servers
@@ -13195,8 +11053,7 @@ https://github.com/iamadamdev/bypass-paywalls-firefox
 https://github.com/FluxionNetwork/fluxion
 https://github.com/maurosoria/dirsearch
 https://gchq.github.io/CyberChef/
-File Storage, [6/4/22 2:02 PM]
- https://github.com/wpscanteam/wpscan
+https://github.com/wpscanteam/wpscan
 https://github.com/ZerBea/hcxtools
 https://github.com/pi-hole/FTL
 https://fivethirtyeight.com
@@ -13204,20 +11061,16 @@ https://www.smfpacks.com
 https://shoppy.gg/user/nakedturtle
 http://bitcoin.directory
 https://github.com/dsmurrell/awesome-bitcoin-cash
-https://docdownloader.com
 https://scribddownloader.org
 https://thepiratebay.org/user/generation2/
-File Storage, [6/4/22 2:02 PM]
- http://sdelements.github.io/lets-chat
+http://sdelements.github.io/lets-chat
 https://www.virwox.com
 https://upstore.net
 https://dropapk.com
 https://www.grc.com/securitynow.htm
-https://www.getthefont.com
 https://github.com/clsid2/mpc-hc/releases
 http://slider.kz
-File Storage, [6/4/22 2:02 PM]
- https://www.svgbackgrounds.com
+https://www.svgbackgrounds.com
 https://mattermost.com
 https://github.com/joker25000
 https://hostfory.com
@@ -13226,8 +11079,7 @@ https://www.reddit.com/user/goretsky/m/security
 https://github.com/matthewgall/beta.ipinfo.in
 https://dev.maxmind.com/geoip/geoip2/geolite2
 https://github.com/Ahmdrza/detect-browser
-File Storage, [6/4/22 2:03 PM]
- https://techguylabs.com
+https://techguylabs.com
 https://jscompress.com
 https://www.limetorrents.info
 https://update10.info
@@ -13236,11 +11088,6 @@ https://tld-list.com
 https://devdocs.io
 http://pxtoem.com
 https://www.noisli.com
-https://larsjung.de/h5ai
-https://ploi.io
-https://x64dbg.com
-File Storage, [6/4/22 2:03 PM]
- https://doxbin.org
 https://www.onlineocr.net
 https://discord.biz
 https://ginernet.com/en
@@ -13255,8 +11102,7 @@ https://www.searchonions.com
 https://github.com/malwaredllc/byob/blob/master/README.md
 https://addons.mozilla.org/en-US/firefox/addon/youtube-classic
 http://www.crimeflare.info:82/cfs.htm
-File Storage, [6/4/22 2:03 PM]
- https://www.reddit.com/r/Scholar
+https://www.reddit.com/r/Scholar
 https://b-ok.xyz
 https://www1.swatchseries.to
 http://userinfo.io
@@ -13264,8 +11110,7 @@ https://ui1.io
 https://github.com/circlecell/jscompress.com
 https://www.cybrary.it
 https://github.com/hgoebl/mobile-detect.js
-File Storage, [6/4/22 2:03 PM]
- https://github.com/simonepri/upash
+https://github.com/simonepri/upash
 https://github.com/DamonOehlman/detect-browser
 https://github.com/lancedikson/bowser
 https://github.com/faisalman/ua-parser-js
@@ -13277,8 +11122,7 @@ https://memo.cash
 https://onehostcloud.hosting
 https://impreza.host/en
 https://hosting.danwin1210.me
-File Storage, [6/4/22 2:03 PM]
- https://www.afinilexpress.com
+https://www.afinilexpress.com
 https://gaming.stackexchange.com/questions/254631/difference-between-cl-interp-ratio-1-and-2
 https://indacoin.com
 http://easyautocomplete.com/example/duckduckgo-ajax-api
@@ -13288,12 +11132,10 @@ https://img42.com
 https://www.browserling.com/tools
 https://sendit.gg
 https://universalscammerlist.com
-http://www.metacdn.com
 http://typerendering.com
 https://yisp.nl
 http://asn.cymru.com/cgi-bin/whois.cgi
-File Storage, [6/4/22 2:03 PM]
- https://lite.ip2location.com
+https://lite.ip2location.com
 https://hackertarget.com/whois-lookup
 https://hackertarget.com/ip-tools
 https://onlinemathtools.com
@@ -13304,12 +11146,10 @@ https://feedrapp.info
 https://github.com/inuyaksa/jquery.nicescroll/releases
 http://nanami-tan.info/#HTMLPage
 https://www.hostingdiscussion.com
-https://dmzhost.co
 http://hi-load.net
 https://github.com/clsid2/mpc-hc
 https://www.reddit.com/r/Addons4Kodi/
-File Storage, [6/4/22 2:03 PM]
- http://www.emucr.com
+http://www.emucr.com
 https://www.reddit.com/r/MSToolkit
 https://github.com/Alexays/Epiboard
 https://www.facebook.com/TheOfficeExtended
@@ -13326,9 +11166,7 @@ https://thepiratebay10.org/user/generation2
 http://torrentz.to
 http://mygoodstream.pw
 https://n.exchange
-https://cata-list.github.io
-File Storage, [6/4/22 2:03 PM]
- https://wiki.archlinux.org/index.php/Firefox/Tweaks#Performance
+https://wiki.archlinux.org/index.php/Firefox/Tweaks#Performance
 https://www.privacytools.io/#about_config
 https://www.reddit.com/r/firefox/wiki/aboutconfig
 https://gitlab.com/Madis0/hidden-settings/blob/master/firefox.md
@@ -13344,25 +11182,16 @@ https://www.startpage.com
 https://www.desmos.com/calculator
 https://radio.garden
 https://rainwave.cc/chiptune
-http://everynoise.com
-File Storage, [6/4/22 2:03 PM]
- http://pluto.tv
-https://earth.nullschool.net
+http://pluto.tv
 https://www.music-map.com
 https://repl.it
 http://ineedaresu.me
 https://cvmkr.com
-https://www.pdfdrive.com
 https://apollotv.xyz
 https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online
 https://www.alexa.com/siteinfo/weboas.is
-https://videospider.in
-https://www.arconaitv.us
 https://stream.allsprk.tv
-https://lookmovie.ag
 http://streamm4u.com
-File Storage, [6/4/22 2:03 PM]
- https://thenounproject.com
 https://theporndude.com
 https://laracasts.com
 https://joinmastodon.org
@@ -13371,9 +11200,7 @@ https://www.flashscore.com/live-scores
 https://www.fireeye.com/cyber-map/threat-map.html
 https://www.digitalattackmap.com
 https://threatmap.checkpoint.com/ThreatPortal/livemap.html
-https://cybermap.kaspersky.com
 https://threatmap.fortiguard.com
-https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38™-generation
 https://leakth.is
 http://newalbumreleases.net
 https://nippyspace.com
@@ -13383,30 +11210,19 @@ https://www.reddit.com/r/ttvreborn
 https://icons8.com
 https://www.timetowatch.video
 http://aedownloadpro.com
-File Storage, [6/4/22 2:03 PM]
- http://screenshotcomparison.com
+http://screenshotcomparison.com
 https://github.com/Igglybuff/awesome-piracy
 https://pastebin.com/thLgSkNE
 https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050
-https://snowfl.com
 https://monimoapp.netlify.com
 https://tutsgalaxy.com
 https://twist.moe
-https://scnlog.me
 http://www.downduck.com
-https://forcoder.su
-https://link-base.org
-https://maulvi.github.io
 https://sci.booksdescr.com
-https://onionplay.net
-https://www.skytorrents.lol
-https://mp3db.pro
-File Storage, [6/4/22 2:03 PM]
- https://lafand.com
+https://lafand.com
 https://psarips.net
 http://www.freemagspot.me
 https://downmagaz.com
-http://www.freebookspot.es
 https://wsmmirror.info
 https://www.psbdmp.ws
 https://wiki.mozilla.org/Trusted_Recursive_Resolver
@@ -13429,35 +11245,25 @@ https://besthosting.ua/en
 https://www.w3space.net
 https://chatra.io
 https://i.privacyinfinity.com
-https://ddos-guard.net/en
 https://www.databases.today
 http://filechef.com
 https://gitcomp.com
 http://gramuser.com
-File Storage, [6/4/22 2:03 PM]
- http://www.filewish.com
-https://www.svgrepo.com
+http://www.filewish.com
 http://xtragfx.com
 https://varvy.com/rel/dns-prefetch.html
 https://www.dnsleaktest.com
 https://deepweb.link
-https://nohat.cc
-http://slider.kz
-https://dmca.gripe
 https://www.reddit.com/r/sjain_guides
 http://archive.is/O21oA
-https://mrs0m30n3.github.io/youtube-dl-gui
-https://ytdl-org.github.io/youtube-dl/index.html
 https://rocket.chat
 https://www.lastpass.com
 https://www.dashlane.com
 https://aidownload.com
 https://twitter.com/painter701
-File Storage, [6/4/22 2:03 PM]
- https://vstorrent.org
+https://vstorrent.org
 https://audionews.org
 https://audioz.download
-https://flsaudio.com/en
 https://www.doperoms.com
 https://www.emucr.com
 https://jakearchibald.github.io/svgomg
@@ -13468,7 +11274,6 @@ https://www.woot.com
 https://slickdeals.net/deals/tech
 https://pcgamingwiki.com/wiki/Home
 https://www.reddit.com/r/firefox/comments/8szssc/firefox_addon_guide
-https://nafanz.github.io/cloudstorage.html
 https://nafanz.github.io/filesharing.html
 http://upfile.mobi
 http://upload.run
@@ -13477,20 +11282,14 @@ https://radio.dubbeh.net
 https://www.reddit.com/user/101ByDesign/m/trading
 https://orpheus.network
 https://unfollo.com
-https://thetrove.net
 https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0
 https://www.reddit.com/r/switchHaxing
-https://getaether.net
 https://www.reddit.com/r/PiratedGames/comments/9vnncj/good_sites_for_roms_now_emuparadise_is_down/e9dznyo
 https://europixhd.net
-https://www.epik.com
-https://ihavenotv.com
 https://jetsetradio.live
 http://kmediatv.com
-File Storage, [6/4/22 2:03 PM]
- https://disroot.org/en
+https://disroot.org/en
 https://universal-bypass.org
-https://forum.tuts4you.com
 https://siliconlottery.com/collections/all
 https://fluiddata.com
 https://meta.sr.ht
@@ -13512,45 +11311,28 @@ https://sigavpn.com/index.php
 https://upload.vaa.red
 https://www.neomailbox.com/services/secure-email
 https://posteo.de/en
-https://metager.org
-https://github.com/warner/magic-wormhole
 https://cryptostorm.is
 https://protonvpn.com
 https://nordvpn.com
-File Storage, [6/4/22 2:03 PM]
- https://vcp.ovpn.to
+https://vcp.ovpn.to
 https://www.azirevpn.com
-https://solidtorrents.net
-https://www.upblight.com
-https://poal.co
 https://voat.co
 https://raddle.me
-https://saidit.net
-https://notabug.io
 https://phuks.co
 https://onhax.me
 https://crackingpatching.com
 https://www.apkmirror.com
 https://www.fcportables.com
-http://www.binrev.com/forums
 https://demonforums.net
-http://offensivecommunity.net
 https://babiato.com
 http://www.appcake.net
 http://getapk.co
 https://iphonecake.com
 https://tutuapp.vip/pc
-https://www.usenet-crawler.com
-http://packetfind.com
-http://www.xdcc.eu
-https://www.searchftps.net
 http://nzbindex.nl
 http://atdhe.pro
 https://www.stream2watch.ws
-File Storage, [6/4/22 2:03 PM]
- http://cybercrime-tracker.net
-https://area51.to/en
-https://forum.exetools.com
+http://cybercrime-tracker.net
 https://www.linkr.top
 https://easycrypt.co
 https://zionapp.live
@@ -13558,59 +11340,44 @@ https://tastedive.com
 https://troypoint.com
 https://cyberflixtv.xyz
 https://www.caststreams.com/app
-https://dognzb.cr
-https://nzbgeek.info
 https://www.reddit.com/r/usenet/wiki/indexers
 https://www.vulnerability-lab.com
 https://www.zerodayinitiative.com/advisories/published
 https://www.querverweis.net/en/site/text
 https://en.ddl.me
-File Storage, [6/4/22 2:03 PM]
- https://www.escripts.club
+https://www.escripts.club
 https://yts.am
 http://moviemagnet.co
-https://tparser.me
-https://orionoid.com
 https://w1.alluc.uno
 https://cgs.the-eye.eu
 https://hdencode.com
 https://enkel.fyi
 https://threadbase.io
-http://waifu2x.udp.jp
 https://www.erowid.org
 https://thewirecutter.com
-https://www.omnicalculator.com
 https://isthereanydeal.com
 https://regex101.com
 https://stellarium-web.org
 https://www.materialui.co
 https://www.deviantart.com
-https://www.vertex42.com
 https://forekast.com
 https://www.tblop.com
-https://vocaroo.com
 https://www.regextester.com
 https://www.danstools.com
 https://www.wolframalpha.com
-File Storage, [6/4/22 2:03 PM]
- https://mynoise.net
 https://123apps.com
-https://www.zotero.org
 https://www.reddit.com/user/newfieboy27/m/securityadmins
 https://www.reddit.com/user/twistdafterdark/m/digital_security
 https://www.reddit.com/user/ninjamutske/m/nfswgif
 https://www.reddit.com/user/Prometheus1/m/ask_reddits
 https://newalbum.club
 https://horriblesubs.info
-https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online
 https://cmd.to/fm
 https://www.wireguard.com
 https://torrentfreak.com/vpn-services-keep-anonymous-2018
 https://infekt.ws
-https://file.pizza
 https://www.watch2gether.com
 https://cytu.be
-https://www.reddit.com/r/EmbyShares
 https://github.com/causefx/Organizr
 https://github.com/mescon/Muximux
 https://github.com/linuxserver/Heimdall
@@ -13618,122 +11385,91 @@ https://github.com/causefx/iDashboard-PHP
 https://github.com/Hellowlol/HTPC-Manager
 https://github.com/Monitorr/Monitorr
 https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI
-https://www.techworm.net
 https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv
 https://github.com/eiskaltdcpp/eiskaltdcpp
 https://launchpad.net/linuxdcpp
 http://www.flylinkdc.com
 https://www.airdcpp.net
 http://tankafett.biz/?do=hublist
-https://ixirc.com
-https://apkpure.com
 https://blackmod.net
 https://android-zone.ws
 File Storage, [6/4/22 1:56 PM]
 Roms
- http://repo.tantrumtv.com/Roms/
-File Storage, [6/4/22 1:56 PM]
+http://repo.tantrumtv.com/Roms/
 Technical PDF's
- https://github.com/tpn/pdfs
+https://github.com/tpn/pdfs
 File Storage, [6/4/22 1:57 PM]
 Humble Bundle E-Books
- https://public.cubiclehero.com/ebooks/all/
-File Storage, [6/4/22 1:57 PM]
+https://public.cubiclehero.com/ebooks/all/
 Open Directory of Video
- http://verificacion.surweb.es/video/
-File Storage, [6/4/22 1:57 PM]
+http://verificacion.surweb.es/video/
 TV Series Google Drive Links
- https://drive.google.com/drive/folders/1TorNoKWwdj8-aWRjNsJtHAIkmwWVS-ySk7BdKho7C2M
-File Storage, [6/4/22 1:57 PM]
+https://drive.google.com/drive/folders/1TorNoKWwdj8-aWRjNsJtHAIkmwWVS-ySk7BdKho7C2M
 folder of someone's stuff
- https://lyrica.sio.pw/
-File Storage, [6/4/22 1:57 PM]
+https://lyrica.sio.pw/
 TV Shows
- https://seriesvault.win/
-File Storage, [6/4/22 1:57 PM]
+https://seriesvault.win/
 Dirhunt - an open directory crawler
- https://github.com/Nekmo/dirhunt
+https://github.com/Nekmo/dirhunt
 Installation methods:
 https://docs.nekmo.org/dirhunt/installation.html
-TL;DR:
-Code: [Select]
 $ pip install dirhunt
-Usage:
 https://docs.nekmo.org/dirhunt/usage.html
-TL;DR:
-Code: [Select]
 $ dirhunt
 http://furnitureporn.com/
 Note: this tool can automatically search for proxies to use via proxy-db which uses ProxyNova by default.
-File Storage, [6/4/22 1:57 PM]
 300TB Google Drive Share
- https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu
-File Storage, [6/4/22 1:57 PM]
+https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu
 Byte Magazine old issues in PDF from 1975 till 1986 & Beyond
- http://malus.exotica.org.uk/~buzz/byte/pdf/
-File Storage, [6/4/22 1:57 PM]
+http://malus.exotica.org.uk/~buzz/byte/pdf/
 Open Directory Search Tools
- http://palined.com/search
 https://proisk.com
 https://opendirsearch.abifog.com
-https://lumpysoft.com
 https://odcrawler.xyz
-https://www.eyeofjustice.com/od
-https://filepursuit.com
-https://www.filechef.com
 Know of some more? Link them below please.
 Thanks for these! Couple more:
- https://open-directories.reecemercer.dev
 https://hackgence.com/opendirsearch/
 Search And index Engines DDLs :-
- https://filepursuit.com/
- https://filesearch.download/
- https://www.filesearch.link/
- https://ipfs-search.com/
+https://filepursuit.com/
+https://filesearch.download/
+https://www.filesearch.link/
+https://ipfs-search.com/
 Search GDrive:-
- https://www.dedigger.com/
- https://w3abhishek.github.io/torrentables/
- https://eyedex.org/ (Search The Eye)
+https://www.dedigger.com/
+https://w3abhishek.github.io/torrentables/
+https://eyedex.org/ (Search The Eye)
 Search Open Directory DDLs :-
- https://odcrawler.xyz/
- https://www.filechef.com/
- https://opendirsearch.abifog.com/
- http://palined.com/search/
- https://ewasion.github.io/opendirectory-finder/
- https://open-directories.reecemercer.dev/
- https://lumpysoft.com/
- https://www.eyeofjustice.com/od/
- https://sites.google.com/view/l33tech/tools/ods
- http://lendx.org/
+https://odcrawler.xyz/
+https://www.filechef.com/
+https://opendirsearch.abifog.com/
+http://palined.com/search/
+https://ewasion.github.io/opendirectory-finder/
+https://open-directories.reecemercer.dev/
+https://lumpysoft.com/
+https://www.eyeofjustice.com/od/
+http://lendx.org/
 Archiving And Searching Engines:-
- https://the-eye.eu/ (archives and indexes Web Pages)
- http://archive.ph/ (archives web snapshots)
- https://archive.org/ ( The Internet Archive)
- https://archive.org/web/ (The Wayback Machine)
+https://the-eye.eu/ (archives and indexes Web Pages)
+http://archive.ph/ (archives web snapshots)
+https://archive.org/ ( The Internet Archive)
+https://archive.org/web/ (The Wayback Machine)
 FTP Indexers:-
- https://www.mmnt.ru/int/
- https://www.searchftps.net
- https://www.catfiles.net/
- https://sites.google.com/view/l33tech/tools/pasteskimmer (Paste search tool)
- https://calishot-eng-2.herokuapp.com/index-eng/summary
- https://github.com/simon987/od-database
-File Storage, [6/4/22 1:57 PM]
+https://www.mmnt.ru/int/
+https://www.catfiles.net/
+https://sites.google.com/view/l33tech/tools/pasteskimmer (Paste search tool)
 Google Drive Google Dork
 site:drive.google.com +"drive/folders"
-File Storage, [6/4/22 1:57 PM]
 site:workers.dev +"keyword"
 site:workers.dev keyword
-File Storage, [6/4/22 1:57 PM]
 Anime Collection
- https://storage.kanzaki.ru
+https://storage.kanzaki.ru
 https://storage.kanzaki.ru/ANIME___
 https://belia.fr/animes/
-File Storage, [6/4/22 1:57 PM]
 Open Directories Of Movies And TV Shows
- http://dl1.parsmovies.net
+http://dl1.parsmovies.net
 http://dl3.tvto.ga/ There 5 servers on this site, can change the number in the url accordingly
- http://anilist1.ir/ This one is really good because they provide multiple video codecs and pixel quality for movies and tv shows
- http://cdn1.moviehaat.net:8888
+http://anilist1.ir/ This one is really good because they provide multiple video codecs and pixel quality for movies and tv shows
+http://cdn1.moviehaat.net:8888
 http://185.105.101.222
 http://117.103.80.101/FTP
 http://98.145.185.175/insignia
@@ -13745,21 +11481,17 @@ http://dl2.perserver.site
 http://ir2.papionvod.ir/Media
 http://dl4.golchinup.ir
 http://dl3.golchinup.ir/
- https://watchmoviesonline.in/openload/
- http://flixhub.net/Data
+https://watchmoviesonline.in/openload/
+http://flixhub.net/Data
 https://belia.fr/films/
-File Storage, [6/4/22 1:57 PM]
 Directory of Computer And Software Courses From Different Publishers
- https://www.kgay4all.com/seioqueseiporleroqueleio/
-File Storage, [6/4/22 1:57 PM]
+https://www.kgay4all.com/seioqueseiporleroqueleio/
 Music MP3's
- https://vaporwave.ivan.moe/list/
-File Storage, [6/4/22 1:57 PM]
+https://vaporwave.ivan.moe/list/
 E book
- http://www.pauladaunt.com/books/
-File Storage, [6/4/22 1:57 PM]
+http://www.pauladaunt.com/books/
 ODMovieIndexer
- https://github.com/LaundroMat/ODmovieindexer
+https://github.com/LaundroMat/ODmovieindexer
 Extract and index movie information of movies found in open directories posted on r/opendirectories.
 Dump of a script I wrote to run through an open directory (typically found on /r/opendirectories) and
 Extract the movie name, year and resolution
@@ -13768,7 +11500,6 @@ http://www.omdbapi.com/> to fetch all details (director, genres, IMDB rating, ..
 Save it to a <
 https://typesense.org/> node so that the movies are searchable. The front-end for that is at <
 https://github.com/LaundroMat/odMovieSearch>
-Usage:
 Install dependencies with poetry.
 I typically use a Jupyter notebook to run things. In Reddit - Opendirectory scraper.ipynb there are a few scripts to muck around with things.
 The easiest way to scrape a directory is with the first script in the above mentioned notebook.
@@ -13778,14 +11509,11 @@ main.parse_txt() extracts the movie name for each file and runs it through OMDB
 main.output_movies() saves the movies as a markup file, ordered by IMDB rating
 main.index_single_movie() saves each movie to the typesense index.
 This code is provided as-is. Do with it what you want. If you need support, open an issue, but I can't guarantee I'll be able to help.
-File Storage, [6/4/22 1:57 PM]
 Massive Google Drives
- https://drive.bartixxx.workers.dev
- https://gd.cinemaflix.workers.dev/1:/
-File Storage, [6/4/22 1:57 PM]
+https://drive.bartixxx.workers.dev
+https://gd.cinemaflix.workers.dev/1:/
 Open Directory Downloader
- https://github.com/KoalaBear84/OpenDirectoryDownloader/
-Open Directory Downloader
+https://github.com/KoalaBear84/OpenDirectoryDownloader/
 Indexes open directories listings in 100+ supported formats, including FTP, Google Drive, GoIndex (alternatives).
 Written in C# with .NET (Core), which means it is cross platform!
 Downloading is not (yet) implemented, but is already possible when you use the resulting file into another tool (for most of the formats).
@@ -13796,95 +11524,79 @@ aria2c -i theurlsfile.txt
 If you have improvements, supply me with a pull request! If you have a format not yet supported, please let me know.
 Releases / Binaries
 For builds (64-bit) for Windows, Linux and Mac, or ARM/ARM64 builds for Pi:
- https://github.com/KoalaBear84/OpenDirectoryDownloader/releases
+https://github.com/KoalaBear84/OpenDirectoryDownloader/releases
 When using the self-contained releases you don't need to install the .NET Runtime.
 Prerequisites
 When you are NOT using the self-contained releases, you need to install the latest/current Runtime version of .NET:
- https://dotnet.microsoft.com/download/dotnet/current/runtime
-File Storage, [6/4/22 1:57 PM]
+https://dotnet.microsoft.com/download/dotnet/current/runtime
 Movies, TV, Anime
- https://bot1.heavendrive.workers.dev
+https://bot1.heavendrive.workers.dev
 https://restless-snow-6822.uzemalik.workers.dev
 https://filmyraiderz.mirrortodrive.workers.dev
- https://drive.mystuff007.workers.dev
- https://apd.msbots.workers.dev < Has multiple different drives, change drive in upper left.
- https://tg.dailysarkarnaukri.workers.dev/0:/Collections/
+https://drive.mystuff007.workers.dev
+https://apd.msbots.workers.dev < Has multiple different drives, change drive in upper left.
+https://tg.dailysarkarnaukri.workers.dev/0:/Collections/
 File Storage, [6/4/22 1:58 PM]
 Anime
- https://dl.beatz.workers.dev
+https://dl.beatz.workers.dev
 https://dl.aporiz.workers.dev/
-File Storage, [6/4/22 1:58 PM]
 Movies, TV, Games
- https://pingu.drk1.workers.dev
- https://rapid-mode-60e8.gamingcorner.workers.dev
- https://index.artemisleech.workers.dev/
-File Storage, [6/4/22 1:58 PM]
+https://pingu.drk1.workers.dev
+https://rapid-mode-60e8.gamingcorner.workers.dev
+https://index.artemisleech.workers.dev/
 1080P Movies
- https://files.bacod.workers.dev/Movies/
-File Storage, [6/4/22 1:58 PM]
+https://files.bacod.workers.dev/Movies/
 IMDB Top 250
- https://gd.yzqiang6.workers.dev/IMDB_Top250/
- https://su.suwellcc.workers.dev/IMDB TOP250（1789.23G）/
-File Storage, [6/4/22 1:58 PM]
+https://gd.yzqiang6.workers.dev/IMDB_Top250/
+https://su.suwellcc.workers.dev/IMDB TOP250（1789.23G）/
 Open Directory Crawler
- https://odcrawler.xyz
-File Storage, [6/4/22 1:58 PM]
 Movies & TV Shows
- https://leone74.thoon.feralhosting.com/torrent
+https://leone74.thoon.feralhosting.com/torrent
 https://tartarus.feralhosting.com/firepig/JP/
-File Storage, [6/4/22 1:58 PM]
 Tons of content, good speeds, get it while you still can
- https://one.driveindex.ga
+https://one.driveindex.ga
 https://two.driveindex.ga
 https://three.driveindex.ga
 https://four.driveindex.ga
 https://five.driveindex.ga
 https://big.driveindex.ga
 https://driveindex.ga
-File Storage, [6/4/22 1:58 PM]
 Open Directories Of Documentaries
- http://doc.downloadha.com/h/Documentaries
+http://doc.downloadha.com/h/Documentaries
 http://doc.downloadha.com/Behnam/Documentaries
 http://doc.downloadha.com/Tade/Documentaries
 http://doc.downloadha.com/Tade/Documentries/
-File Storage, [6/4/22 1:58 PM]
 eBooks sorted by author
- http://vetaly.ddns.net/hdd/books
+http://vetaly.ddns.net/hdd/books
 https://www.themcintyres.dyndns.org/av/ebooks/
- http://serviceiii.ddns.net/Logos/Media/Books
+http://serviceiii.ddns.net/Logos/Media/Books
 http://24.31.171.181:81/eBooks/
-File Storage, [6/4/22 1:58 PM]
 80's Movies
- http://infavod.ddns.net/Movies/80s/
-File Storage, [6/4/22 1:58 PM]
- https://drive.google.com/drive/folders/1u3g-xxaiLQVEgbrKDlElviZ-QRonTzI1
+http://infavod.ddns.net/Movies/80s/
+https://drive.google.com/drive/folders/1u3g-xxaiLQVEgbrKDlElviZ-QRonTzI1
 Alan Watts Audiobooks Collection
-File Storage, [6/4/22 1:58 PM]
 Survival E-Books & Guides
- http://www.zetatalk11.com/docs/
-File Storage, [6/4/22 1:58 PM]
+http://www.zetatalk11.com/docs/
 Few SubReddits About Making Money Online
- https://old.reddit.com/r/slavelabour
+https://old.reddit.com/r/slavelabour
 https://old.reddit.com/r/beermoney
 https://old.reddit.com/r/WorkOnline
 https://old.reddit.com/r/forhire
 https://old.reddit.com/r/signupsforpay
 https://old.reddit.com/r/HireaWriter/
-File Storage, [6/4/22 1:58 PM]
 Tech Interview Handbook
- https://techinterviewhandbook.org
+https://techinterviewhandbook.org
 Curated interview preparation materials for busy engineers
 Brought to you by the author of the Blind 75 List
- https://techinterviewhandbook.org/introduction/
+https://techinterviewhandbook.org/introduction/
 What is this?
 The Tech Interview Handbook contains carefully curated content to help you ace your next technical interview with a focus on algorithms. While there are a ton of interview resources on the internet, the best ones are either not free, or they do not cover the complete interview process, usually only focusing on algorithms.
 Why do I want this?
 This repository has practical content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful as well.
 Who is this for?
 Whether you are a beginner to technical interviews or a seasoned engineer who have not been on the other side of the interviewing table in a while and want to get back into the game, the Tech Interview Handbook has got you covered.
-File Storage, [6/4/22 1:58 PM]
 Remote Software Jobs with a 4 Day Work Week
- https://4dayweek.io
+https://4dayweek.io
 Do these jobs pay less?
 You'll be working ~80%25 hours of a full-time contract, so some companies will pay ~80%25 of a full-time salary - for other companies there is little / no difference. Ultimately, you can decide for yourself if you think these positions pay less. Even if they do, you'll pay less tax meaning your effective hourly salary will increase
 Am I still entitled to paid vacation / pension etc?
@@ -13895,18 +11607,14 @@ Should I mention I'd like to work 4 days in my application?
 Each job listing is categorised as "open to 4 days" and "advertised as 4 days". If the listing is only "open to 4 days" you should mention that you are interested in being employed on a 4 day contract in your application. Either way, it's good to be clear from the start; there is no harm mentioning what job schedule you are looking for in the application.
 Am I lazy if I only work 4 days per week?
 Definitely not. When Microsoft Japan tested a four-day work week, productivity jumped by 40%25; so as the saying goes, you're "working smarter, not harder".
-File Storage, [6/4/22 1:58 PM]
 Apply for a job through SSH, ssh jobs.hackclub.com
- http://jobs.hackclub.com
-File Storage, [6/4/22 1:58 PM]
+http://jobs.hackclub.com
 82 remote-first companies that actively hire
- https://www.remotecompany.com/blog/remote-first-companies-list
- https://archive.st/archive/2021/5/www.remotecompany.com/7qu1/www.remotecompany.com/blog/remote-first-companies-list.html
- https://web.archive.org/web/20210509203410
 https://www.remotecompany.com/blog/remote-first-companies-list
-File Storage, [6/4/22 1:58 PM]
+https://archive.st/archive/2021/5/www.remotecompany.com/7qu1/www.remotecompany.com/blog/remote-first-companies-list.html
+https://web.archive.org/web/20210509203410
 IPster
- https://ipster.io
+https://ipster.io
 Peer-to-peer job notifications. IPster is a simple job notification system with private and focussed discussions. IPster is used by people who like to help each other find jobs first-hand in a simple and non-intrusive way.
 Why you'll love IPster:
 It's peer-to-peer, no marketing, and no pretense
@@ -13916,74 +11624,53 @@ Ask your peers for help when you are looking for a new job
 Help your peers and let them know of an opportunity
 Ask for recommendations
 Good opportunities don't last long, let your friends know first-hand.
-File Storage, [6/4/22 1:58 PM]
 A Guide To Earning Money Without a Traditional Job
- https://i.postimg.cc/kgDQS2NS/money.png
- https://images2.imgbox.com/6c/33/T8FDii0L_o.png
+https://i.postimg.cc/kgDQS2NS/money.png
+https://images2.imgbox.com/6c/33/T8FDii0L_o.png
 File Storage, [6/4/22 1:59 PM]
 Remotive - Helping Tech Professionals Land Remote Jobs
- https://remotive.io/remote-companies
- https://twitter.com/remotiveio
+https://remotive.io/remote-companies
+https://twitter.com/remotiveio
 2500+ Companies Hiring Remotely in 2021
-File Storage, [6/4/22 1:59 PM]
 WorkAtAStartup
- https://www.workatastartup.com/jobs?role=
-File Storage, [6/4/22 1:59 PM]
+https://www.workatastartup.com/jobs?role=
 400+ Companies Hiring Remotely Right Now
- https://periodix.net/blog/392-companies-hiring-remotely-right-now-upd-apr-2020/
-File Storage, [6/4/22 1:59 PM]
+https://periodix.net/blog/392-companies-hiring-remotely-right-now-upd-apr-2020/
 Stock Options Trading 101
- https://www.youtube.com/watch?v=3bELT5FZCic
-File Storage, [6/4/22 1:59 PM]
- https://remotepad.io
+https://www.youtube.com/watch?v=3bELT5FZCic
 RemotePad - Largest Remote Job Board
-File Storage, [6/4/22 1:59 PM]
 Seedl.co - Startup jobs with a positive impact.
-File Storage, [6/4/22 1:59 PM]
 Job Board For Remote Tech Workers
- https://www.linuxjobs.io
-https://javascriptjob.xyz
-https://hackwage.com
+https://www.linuxjobs.io
 https://remotely.tech/
-File Storage, [6/4/22 1:59 PM]
 My full-blown beginner's guide to making money online
- https://www.reddit.com/r/WorkOnline/comments/a4nvc7/my_fullblown_beginners_guide_to_making_money/
- https://archive.st/archive/2019/6/old.reddit.com/oxau/old.reddit.com/r/WorkOnline/comments/a4nvc7/my_fullblown_beginners_guide_to_making_money/index.html
-File Storage, [6/4/22 1:59 PM]
+https://www.reddit.com/r/WorkOnline/comments/a4nvc7/my_fullblown_beginners_guide_to_making_money/
+https://archive.st/archive/2019/6/old.reddit.com/oxau/old.reddit.com/r/WorkOnline/comments/a4nvc7/my_fullblown_beginners_guide_to_making_money/index.html
 10 Useful Websites to Make Money Online!
- https://www.youtube.com/watch?v=uukLQU2mOcM
-File Storage, [6/4/22 1:59 PM]
+https://www.youtube.com/watch?v=uukLQU2mOcM
 Stable online job without a Bachelor's degree
- https://www.ipalfish.com/klian/web/palfish/help/guideline_en.html
- https://medium.com/oakary/why-teaching-english-online-for-palfish-f86f0a5415ec
+https://www.ipalfish.com/klian/web/palfish/help/guideline_en.html
+https://medium.com/oakary/why-teaching-english-online-for-palfish-f86f0a5415ec
 You must be native English speaker from US/Canada/UK/Ireland/Aus/New Zealand
 You essentially teach rich Chinese kids English and read books to them. You don't need to be bilingual although I'm sure it would help.
- https://www.offers.internationalopenacademy.com/astrella/course/advanced-120-tefl-course
+https://www.offers.internationalopenacademy.com/astrella/course/advanced-120-tefl-course
 TEFL/TESOL course unfortunately is required...Only 120 hour course.
- https://archive.st/archive/2019/4/old.reddit.com/i0ty/old.reddit.com/r/WorkOnline/comments/b96v0c/stable_online_job_without_a_bachelors_degree/index.html
+https://archive.st/archive/2019/4/old.reddit.com/i0ty/old.reddit.com/r/WorkOnline/comments/b96v0c/stable_online_job_without_a_bachelors_degree/index.html
 Last Edit: April 05, 2019, 03:05:26 am by Admin
-File Storage, [6/4/22 1:59 PM]
 GamerMine
- https://gamermine.com
-File Storage, [6/4/22 1:59 PM]
-Quote
+https://gamermine.com
 Gamermine is another amazing site with an active owner and some cool features. When you first come onto the site you will be greeted with a free dollar, which will be withdraw-able once you start earning. Payouts on this site are also instant, which is one of the big reasons I like this site so much. There is also a nice leveling system to give you bonuses for the more you earn. As you level up through the five tiers, you will get a bonus offer %25 and a referral offer %25. The bonus offer %25 gives you a certain percent more from every offer you complete. This maxes out at 10%25 once you reach the max level. The offer already pay decent and this makes them pay very well once you are given that bonus. If you have a problem on the site you will need to contact the owner on discord and he will usually help you out pretty quick. There is also an option to wager your coins on dice that is in site to make some more coins. This site is a close second to Gain.
 Withdraw Methods
 There is Paypal, Bitcoin, Ethereum, Amazon gift cards, Steam gift cards, League of Legends gift cards, and OPSkins withdraw options. All of which are instant. 1000 coins is $1.
-File Storage, [6/4/22 1:59 PM]
 Gain.gg
- https://gain.gg
-Quote
+https://gain.gg
 Gain is definitely my favorite site that I have found through the years. The owner is super nice and helpful and there is almost always somebody on to help you. Once you join the site you start unverified and withdraw won't be instant but if the owner or admins are on, they will put it through for you. After just a few surveys you will get verified by the owner and withdraw will be instant. This is the best feature of this site considering almost any other site that I go on it takes ages for my withdraw to go through. The payouts on Gain are pretty good and definitely better than some of the bigger name sites. With 5 different offer walls there is never a shortage of surveys. 10/10 site.
-Withdraw Methods
 There is Paypal, Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Bitskins, and OPSkins to cash out. All of which are instant after verification. 1000 coins is $1.
-File Storage, [6/4/22 1:59 PM]
 Coupon Extensions & Sites?
 Besides honey, what extensions or sites do you use?
- https://www.joinhoney.com
+https://www.joinhoney.com
 I've had success with
- https://www.wethrift.com/
-File Storage, [6/4/22 1:59 PM]
+https://www.wethrift.com/
 Be Aware of Techniques for Dilution, Misdirection & Control of an Internet Forum
 Strategies can be linked back to things such as
 https://en.wikipedia.org/wiki/COINTELPRO
@@ -13996,7 +11683,6 @@ Topic dilution is not only effective in forum sliding it is also very useful in 
 Flood Detected. Post Discarded
 Technique #4 - 'INFORMATION COLLECTION'
 Information collection is also a very effective method to determine the psychological level of the forum members, and to gather intelligence that can be used against them. In this technique in a light and positive environment a 'show you mine so me yours' posting is initiated. From the number of replies and the answers that are provided much statistical information can be gathered.
-File Storage, [6/4/22 1:59 PM]
 An example is to post your 'favourite weapon' and then encourage other members of the forum to showcase what they have. In this matter it can be determined by reverse proration what percentage of the forum community owns a firearm, and or a illegal weapon. This same method can be used by posing as one of the form members and posting your favourite 'technique of operation.' From the replies various methods that the group utilizes can be studied and effective methods developed to stop them from their activities.
 lmao captcha
 Technique #5 - 'ANGER TROLLING'
@@ -14005,11 +11691,8 @@ Technique #6 - 'GAINING FULL CONTROL'
 It is important to also be harvesting and continually maneuvering for a forum moderator position. Once this position is obtained, the forum can then be effectively and quietly controlled by deleting unfavourable postings - and one can eventually steer the forum into complete failure and lack of interest by the general public. This is the 'ultimate victory' as the forum is no longer participated with by the general public and no longer useful in maintaining their freedoms. Depending on the level of control you can obtain, you can deliberately steer a forum into defeat by censoring postings, deleting memberships, flooding, and or accidentally taking the forum offline. By this method the forum can be quickly killed. However it is not always in the interest to kill a forum as it can be converted into a 'honey pot' gathering center to collect and misdirect newcomers and from this point be completely used for your control for your agenda purposes.
 CONCLUSION
 Remember these techniques are only effective if the forum participants DO NOT KNOW ABOUT THEM. Once they are aware of these techniques the operation can completely fail, and the forum can become uncontrolled. At this point other avenues must be considered such as initiating a false legal precedence to simply have the forum shut down and taken offline. This is not desirable as it then leaves the enforcement agencies unable to track the percentage of those in the population who always resist attempts for control against them. Many other techniques can be utilized and developed by the individual and as you develop further techniques of infiltration and control it is imperative to share then with HQ.
-Source:
 http://archive.ph/lB2EX
-File Storage, [6/4/22 1:59 PM]
 Podcast Recommendations
- https://darknetdiaries.com
 https://open.spotify.com/show/5D4o5HRlI5WvCVByljK8lb?si=23b32e4c1f2a454d&nd=1
 https://www.youtube.com/channel/UCaR-e8ComPih10DqPi3sdWg
 https://wondery.com/shows/american-history-tellers
@@ -14023,268 +11706,215 @@ https://twit.tv/shows/security-now
 https://ping.firewalls.com/
 My favorite podcast. Always have great content.
 The Privacy, Security, and OSINT Show with Michael Bazzell
- https://soundcloud.com/user-98066669
-https://inteltechniques.com/podcast.html
+https://soundcloud.com/user-98066669
 The Hacker Mind
- https://thehackermind.com
 Crypto Podcast:
 Exit Scam
 A podcast series about the death and afterlife of Gerald Cotten.
- https://www.exitscam.show/
-File Storage, [6/4/22 1:59 PM]
- https://swindledpodcast.com/
+https://www.exitscam.show/
+https://swindledpodcast.com/
 Swindled is an American true crime podcast written and hosted by an anonymous "concerned citizen", who has never revealed his identity. The scripted series explores the world of white-collar crime, political corruption, and corporate greed.
-File Storage, [6/4/22 1:59 PM]
 All Episodes + Bonus Episodes
 (112)
- https://mega.nz/folder/h8lkiSxK#DmFM0Qzl-AWc9qRnfUQbUQ
+https://mega.nz/folder/h8lkiSxK#DmFM0Qzl-AWc9qRnfUQbUQ
 (113)
 The Money Doctor (W. Neil Gallagher).mp3
- https://mirrorace.org/m/36n4s
+https://mirrorace.org/m/36n4s
 File Storage, [6/4/22 2:00 PM]
 Reference
- https://nitter.net/Sinoc229/status/1445639261974261766
+https://nitter.net/Sinoc229/status/1445639261974261766
 and all of twitter.
 i found the magnet that contains all the leak, taken from 4chan where it was publicly posted.
 Here enjoy
 magnet:?xt=urn:btih:N5BLZ6XECNEHHARHJOVQAS4W7TWRXCSI&dn=twitch-leaks-part-one&tr=udp%253A%252F%252Fopen.stealth.si%253A80%252Fannounce
 Admin, feel free to move this topic somewhere else or delete it if it's against Rules.
-File Storage, [6/4/22 2:00 PM]
 Here's a link to the thread on 4chan, if anyone is interested:
 https://boards.4channel.org/g/thread/83691438
-File Storage, [6/4/22 2:00 PM]
- https://github.com/ytdl-org/youtube-dl
-https://github.com/MrS0m30n3/youtube-dl-gui
-https://github.com/axcore/tartube
+https://github.com/ytdl-org/youtube-dl
 https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts
-File Storage, [6/4/22 2:00 PM]
- https://www.youtube.com/channel/UCnI14172Jam1j8VQARxlXJA
+https://www.youtube.com/channel/UCnI14172Jam1j8VQARxlXJA
 https://chrisandriessen.nl
 https://www.reddit.com/r/pcmasterrace/comments/3f10k0/things_to_removedisable_in_windows_10
 https://www.reddit.com/r/AskReddit/comments/b7pavw/hey_reddit_what_are_some_must_have_programs_for
 https://www.reddit.com/r/buildapc/comments/8o6txz/what_are_the_best_things_to_do_with_a_clean
 https://www.revouninstaller.com/
- https://wpd.app
-https://www.oo-software.com/en/shutup10
-https://hard-configurator.com
-https://github.com/securitywithoutborders/hardentools
- https://filecr.com
+https://filecr.com
 https://izofile.com
-https://haxnode.com
-https://crackingpatching.com
-http://cracksurl.com
-https://getintopc.com
-File Storage, [6/4/22 2:00 PM]
- https://www.youtube.com/watch?v=s4nQ_mFJV4I
 https://www.youtube.com/watch?v=s4nQ_mFJV4I
-File Storage, [6/4/22 2:00 PM]
 Image "Cloaking" for Personal Privacy
- https://sandlab.cs.uchicago.edu/fawkes/
-File Storage, [6/4/22 2:00 PM]
- https://www.youtube.com/watch?v=Tkmtc_f9_2g
-File Storage, [6/4/22 2:00 PM]
+https://sandlab.cs.uchicago.edu/fawkes/
+https://www.youtube.com/watch?v=Tkmtc_f9_2g
 Don't Talk To The Police
- https://www.youtube.com/watch?v=d-7o9xYp7eE
+https://www.youtube.com/watch?v=d-7o9xYp7eE
 https://www.youtube.com/watch?v=eCVa-bmEHuQ
 https://www.youtube.com/watch?v=JTurSi0LhJs
 https://www.youtube.com/watch?v=p22ZR-CUIw0
-File Storage, [6/4/22 2:00 PM]
 How to Deal with Police at Your Door
- https://www.youtube.com/watch?v=z_ckcdtQ95w
-File Storage, [6/4/22 2:00 PM]
+https://www.youtube.com/watch?v=z_ckcdtQ95w
 When can police ask for ID?
- https://www.youtube.com/watch?v=eV_ANiGk4Sc
-File Storage, [6/4/22 2:00 PM]
+https://www.youtube.com/watch?v=eV_ANiGk4Sc
 The RIGHT Way to Handle a Police Stop
- https://www.youtube.com/watch?v=eDJrQBwJpqk
+https://www.youtube.com/watch?v=eDJrQBwJpqk
 https://www.youtube.com/watch?v=sVx0NpYbtus
 Bad acting but useful information
-File Storage, [6/4/22 2:00 PM]
 Backup of Reddit's /r/Piracy
- https://www.reddit.com/r/Piracy/comments/b3zzzp/complete_backup_of_this_sub/
- https://github.com/nid666/PiracyArchive
- http://the-eye.eu/r.piracy_1.1.2016-20.04.2019.txt
- http://the-eye.eu/r.piracy_1.1.2016-20.04.2019.7z
+https://www.reddit.com/r/Piracy/comments/b3zzzp/complete_backup_of_this_sub/
+https://github.com/nid666/PiracyArchive
+http://the-eye.eu/r.piracy_1.1.2016-20.04.2019.txt
+http://the-eye.eu/r.piracy_1.1.2016-20.04.2019.7z
 magnet:?xt=urn:btih:25938143aa7ffacf39c4f571507dd6fc6aa53dc6&dn=Reddit.7z
- https://archive.org/download/Reddit.7z/Reddit.7z
-File Storage, [6/4/22 2:00 PM]
+https://archive.org/download/Reddit.7z/Reddit.7z
 Free Software links
- https://ewora.blogspot.com/
-File Storage, [6/4/22 2:00 PM]
+https://ewora.blogspot.com/
 Face Recognition
- https://github.com/ageitgey/face_recognition
-File Storage, [6/4/22 2:00 PM]
+https://github.com/ageitgey/face_recognition
 Two Paid Anti-Detection Browsers For The Ultra Paranoid
- https://www.antidetectbrowser.com
+https://www.antidetectbrowser.com
 https://antidetect.org (Insane Prices)
 Bonus...
- https://sphere.tenebris.cc Free?
-File Storage, [6/4/22 2:00 PM]
+https://sphere.tenebris.cc Free?
 RedditRaffler - Easily hold fair raffles on Reddit
- https://www.redditraffler.com/
-File Storage, [6/4/22 2:00 PM]
+https://www.redditraffler.com/
 Censys- A "Internet Scanner"
- https://developerinsider.co/censys-find-and-analyze-any-server-and-device-on-the-internet
+https://developerinsider.co/censys-find-and-analyze-any-server-and-device-on-the-internet
 https://www.censys.io
-https://censys.io/ipv4
- https://www.zoomeye.org
+https://www.zoomeye.org
 https://www.shodan.io/
-File Storage, [6/4/22 2:00 PM]
 Finding Content
- https://sanet.lc
- http://rlsbb.ru
- https://rarelust.com/movies-index/
+https://sanet.lc
+http://rlsbb.ru
+https://rarelust.com/movies-index/
 Please, feel free to add anything else
-File Storage, [6/4/22 2:00 PM]
 Three Sites That Can Help Bypass Paywalls
- https://outline.com
-https://www.textise.net
+https://outline.com
 https://via.hypothes.is
- https://github.com/iamadamdev
-https://burles.co/en
-https://universal-bypass.org
-File Storage, [6/4/22 2:01 PM]
+https://github.com/iamadamdev
 Explore Quake/GoldSrc Maps (BSP Files) In Your Browser
- https://github.com/sbuggay/bspview
 https://devanbuggay.com/bspview/
 bspview is a tool to view Quake/GoldSrc maps in your browser. You can see a live demo of this here:
 https://devanbuggay.com/bspview. I've supplied a few BSP files to explore that can be selected from the dropdown. However, you can also drag and drop any supported .bsp file onto the window to load it
-File Storage, [6/4/22 2:01 PM]
 Program Your Own Music
- https://petersalomonsen.com/webassemblymusic/livecodev2/?gist=5b795090ead4f192e7f5ee5dcdd17392
+https://petersalomonsen.com/webassemblymusic/livecodev2/?gist=5b795090ead4f192e7f5ee5dcdd17392
 https://www.gibber.cc is a awesome one
-File Storage, [6/4/22 2:01 PM]
 An AI Dungeon 2 links collection
- https://play.aidungeon.io/ (The official web client - signup accepts m.kuku.lu's addresses)
- https://github.com/AIDungeon/AIDungeon
+https://play.aidungeon.io/ (The official web client - signup accepts m.kuku.lu's addresses)
+https://github.com/AIDungeon/AIDungeon
 https://github.com/thadunge2/AIDungeon
 https://henk.tech/aid/ (AIDungeon 2 Unleashed, based on thadunge2's fork) (Version 2.0 Announcement:
 https://old.reddit.com/r/AIDungeon/comments/eddu0k/)
- https://github.com/VBPXKSMI/Open-CYOAI-Project/wiki (comprehensive wiki about AI Dungeon 2's functionality)
- https://mega.nz/#F!51ED1CSA!YbifAmboqSLCrr3Y78axqw (trained models "made by anons")
+https://github.com/VBPXKSMI/Open-CYOAI-Project/wiki (comprehensive wiki about AI Dungeon 2's functionality)
+https://mega.nz/#F!51ED1CSA!YbifAmboqSLCrr3Y78axqw (trained models "made by anons")
 Other community-maintained forks:
- https://gitlab.com/aolko/ZenDungeon
+https://gitlab.com/aolko/ZenDungeon
 https://github.com/storybro/storybro
 https://github.com/cloveranon/Clover-Edition
- https://familiarcycle.net/aidungeon-on-windows.html (old windows installation guide)
- https://pastebin.com/UMUV0KTw (newer version of the above)
- https://lanekelly.github.io/coldcut/ (windows installer)
- https://8kun.top/v/res/16806658.html (Fans.)
- https://8kun.top/hgg/res/372541.html
- https://pastebin.com/u/ArgieAnon (pastebin account writing about using AI Dungeon)
- https://pastebin.com/CfRVsZ6G (attempt of keeping track of fork changes)
- https://pastebin.com/KH12Yq81 ("How To Install AI Dungeon 2 Locally On Windows")
- https://pastebin.com/nWZCtAws ("Guide on how to make the Colab version look nice on mobile")
- https://pastebin.com/BUcarvvv ("How to save your AI from becoming retarded")
- https://pastebin.com/f1dM2GgU (brief explanation of top_k, temp and top_p)
-File Storage, [6/4/22 2:01 PM]
-Github
+https://familiarcycle.net/aidungeon-on-windows.html (old windows installation guide)
+https://pastebin.com/UMUV0KTw (newer version of the above)
+https://lanekelly.github.io/coldcut/ (windows installer)
+https://8kun.top/v/res/16806658.html (Fans.)
+https://8kun.top/hgg/res/372541.html
+https://pastebin.com/u/ArgieAnon (pastebin account writing about using AI Dungeon)
+https://pastebin.com/CfRVsZ6G (attempt of keeping track of fork changes)
+https://pastebin.com/KH12Yq81 ("How To Install AI Dungeon 2 Locally On Windows")
+https://pastebin.com/nWZCtAws ("Guide on how to make the Colab version look nice on mobile")
+https://pastebin.com/BUcarvvv ("How to save your AI from becoming retarded")
+https://pastebin.com/f1dM2GgU (brief explanation of top_k, temp and top_p)
 Releases
- https://github.com/owner/repo/releases.atom
+https://github.com/owner/repo/releases.atom
 Tags
- https://github.com/owner/repo/tags.atom
+https://github.com/owner/repo/tags.atom
 Commits
- https://github.com/owner/repo/commits/branch.atom
- https://www.githubstatus.com/history.rss (incident report history)
- https://github.com/security-advisories (security advisories)
+https://github.com/owner/repo/commits/branch.atom
+https://www.githubstatus.com/history.rss (incident report history)
+https://github.com/security-advisories (security advisories)
 Hacker News
- https://edavis.github.io/hnrss
+https://edavis.github.io/hnrss
 https://github.com/polyrabbit/hacker-news-digest (
 http://hackernews.betacat.io/feed)
- https://news.ycombinator.com/rss
+https://news.ycombinator.com/rss
 with article contents:
 https://morss.it
-https://news.ycombinator.com/rss
 TwitchRSS (check RSSBox for alternative)
- https://twitchrss.appspot.com/vod/channelname (Appends " - LIVE" if a live broadcast)
- https://twitchrss.appspot.com/vodonly/channelname (Only shows vods)
- https://github.com/lzeke0/TwitchRSS
+https://twitchrss.appspot.com/vod/channelname (Appends " - LIVE" if a live broadcast)
+https://twitchrss.appspot.com/vodonly/channelname (Only shows vods)
+https://github.com/lzeke0/TwitchRSS
 Note: If the channel has vod archival disabled, the feed will remain empty
-or
- https://github.com/m3taas/stfg (turn twitch follow list into feeds)
+https://github.com/m3taas/stfg (turn twitch follow list into feeds)
 YouTube
- https://www.youtube.com/feeds/videos.xml?channel_id=ChannelID
+https://www.youtube.com/feeds/videos.xml?channel_id=ChannelID
 https://invidious.instance/feed/channel/ChannelID
 https://invidious.instance/feed/playlist/PlaylistID
 Youtube as podcast
- https://github.com/alnixon/youtube-dl-podcast (shell script)
- https://github.com/mlichwa/YT-Podcaster (php app)
- https://github.com/frou/yt2pod
+https://github.com/alnixon/youtube-dl-podcast (shell script)
+https://github.com/mlichwa/YT-Podcaster (php app)
 https://github.com/podify-org/podify (
 https://www.podify.org/)
- https://github.com/BurnsCommaLucas/youtube-dl-podcast (requires API key)
- https://github.com/i3arnon/YouCast
+https://github.com/BurnsCommaLucas/youtube-dl-podcast (requires API key)
+https://github.com/i3arnon/YouCast
 https://github.com/mxpv/podsync
 https://www.podnoms.com/ (requires registration)
- https://listenbox.app/ (demo:
+https://listenbox.app/ (demo:
 https://listenbox.app/i/gbG5sTFjmMA) (requires registration, does not update for free)
 BitChute
- https://www.bitchute.com/feeds/rss/channel/ChannelName/
+https://www.bitchute.com/feeds/rss/channel/ChannelName/
 Soundcloud / iTunes
- https://getrssfeed.com/
-e.g.
+https://getrssfeed.com/
 https://soundcloud.com/user-98066669 ->
 https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss
 iTunes only
- http://picklemonkey.net/feedflipper-home
+http://picklemonkey.net/feedflipper-home
 https://podshows.fr/itunesrss
 https://github.com/gromnitsky/itunesrss (demo:
 http://gromnitsky.users.sourceforge.net/js/itunesrss/)
-or
 take the iTunes ID
- https://itunes.apple.com/podcast/id967692038 -> 967692038
- https://itunes.apple.com/lookup?id=967692038&entity=podcast (returns json metadata; 'feedUrl' for feed)
+https://itunes.apple.com/podcast/id967692038 -> 967692038
+https://itunes.apple.com/lookup?id=967692038&entity=podcast (returns json metadata; 'feedUrl' for feed)
 as a bookmarklet:
 https://github.com/djm/uncover-itunes-rss-bookmarklet
- https://www.apple.com/rss
+https://www.apple.com/rss
 https://rss.itunes.apple.com/ (
 https://affiliate.itunes.apple.com/resources/blog/introduction-rss-feed-generator/)
 Spotify
- https://github.com/timdorr/spotifeed (demo:
+https://github.com/timdorr/spotifeed (demo:
 https://spotifeed.timdorr.com/)
 Reddit
- https://www.reddit.com/.rss
+https://www.reddit.com/.rss
 https://www.reddit.com/r/subreddit.rss
 https://www.reddit.com/user/user.rss
-(
 https://old.reddit.com/r/pathogendavid/comments/tv8m9/pathogendavids_guide_to_rss_and_reddit/)
- https://reddit-top-rss.herokuapp.com/ (for specific subreddits with score thresholds)
- https://github.com/johnwarne/reddit-top-rss
- https://inline-reddit.com/feed/?subreddit=crackwatch/new
+https://reddit-top-rss.herokuapp.com/ (for specific subreddits with score thresholds)
+https://github.com/johnwarne/reddit-top-rss
+https://inline-reddit.com/feed/?subreddit=crackwatch/new
 https://inline-reddit.com/feed/?multireddit=security&user=goretsky
-(
 https://hg.icculus.org/icculus/inline-reddit/)
- https://reddit.0qz.fun/r/subreddit.json
+https://reddit.0qz.fun/r/subreddit.json
 Telegram
- https://tg.i-c-a.su/ (supports media downloads)
- https://tg.i-c-a.su/json/channelname
- https://tg.i-c-a.su/rss/channelname
+https://tg.i-c-a.su/ (supports media downloads)
+https://tg.i-c-a.su/json/channelname
+https://tg.i-c-a.su/rss/channelname
 Tumblr
- https://nasa.tumblr.com/rss
+https://nasa.tumblr.com/rss
 Facebook
- https://github.com/irfancharania/fb-feed-gen
+https://github.com/irfancharania/fb-feed-gen
 WebOas.is (ElkArte)
- https://weboas.is/forum/index.php?action=.xml;type=atom;limit=10;board=20.0
+https://weboas.is/forum/index.php?action=.xml;type=atom;limit=10;board=20.0
 Mastodon
- https://Mastodon.Instance/users/userhandle.rss
-or
- https://Mastodon.Instance/@userhandle.rss
-File Storage, [6/4/22 2:01 PM]
+https://Mastodon.Instance/users/userhandle.rss
+https://Mastodon.Instance/@userhandle.rss
 Stack Exchange
 Specific question
- https://stackoverflow.com/feeds/question/15869473
+https://stackoverflow.com/feeds/question/15869473
 Recent Questions
- https://stackoverflow.com/feeds/
- https://*.stackexchange.com/feeds/featured (/hot, /week, /month)
+https://stackoverflow.com/feeds/
+https://*.stackexchange.com/feeds/featured (/hot, /week, /month)
 SE Site Directory
- https://stackexchange.com/feeds/sites
+https://stackexchange.com/feeds/sites
 "A Directory of RSS Feeds of Popular Social Sites"
- https://www.labnol.org/internet/rss-feeds-directory/21242/
-Tools
+https://www.labnol.org/internet/rss-feeds-directory/21242/
 Torrent Trackers
- https://github.com/Jackett/Jackett
+https://github.com/Jackett/Jackett
 RSSBox
- https://rssbox.herokuapp.com/
+https://rssbox.herokuapp.com/
 Allows generation of Atom feeds for
 Twitter (All posts, excluding retweets and replies, with media)
 Youtube (uses feed provided by Youtube)
@@ -14299,9 +11929,9 @@ ustream (download)
 imgur (all, only animated/pictures/albums)
 svt play
 It can be self-hosted on Heroku, with Elastic Beanstalk, Kubernetes or your regular Docker image.
- https://github.com/stefansundin/rssbox
+https://github.com/stefansundin/rssbox
 RSS-Bridge
- https://github.com/RSS-Bridge/rss-bridge
+https://github.com/RSS-Bridge/rss-bridge
 Allows generation of Atom/RSS feeds for
 Bandcamp: last release from bandcamp for a tag
 Cryptome: most recent documents from Cryptome.org
@@ -14320,12 +11950,12 @@ Twitter: keyword/hashtag search or user timeline
 Wikipedia: highlighted articles from Wikipedia in English, German, French or Esperanto
 YouTube: YouTube user channel, playlist or search
 And other "bridges" (xenforo, private trackers, wordpress, etc.):
- https://github.com/RSS-Bridge/rss-bridge/tree/master/bridges
+https://github.com/RSS-Bridge/rss-bridge/tree/master/bridges
 Creating your own:
- https://github.com/RSS-Bridge/rss-bridge/wiki/How-to-create-a-new-Bridge
+https://github.com/RSS-Bridge/rss-bridge/wiki/How-to-create-a-new-Bridge
 https://github.com/RSS-Bridge/rss-bridge/wiki/BridgeAbstract
 Example:
- https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/TwitchBridge.php
+https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/TwitchBridge.php
 It supports multiple output formats:
 Atom
 HTML
@@ -14333,18 +11963,17 @@ JSON
 Mrss
 plaintext
 And a format API to create custom ones:
- https://github.com/RSS-Bridge/rss-bridge/wiki/How-to-create-a-new-Format
+https://github.com/RSS-Bridge/rss-bridge/wiki/How-to-create-a-new-Format
 https://github.com/RSS-Bridge/rss-bridge/wiki/FormatInterface
 https://github.com/RSS-Bridge/rss-bridge/wiki/FormatAbstract
-Example:
- https://github.com/RSS-Bridge/rss-bridge/blob/master/formats/HtmlFormat.php
+https://github.com/RSS-Bridge/rss-bridge/blob/master/formats/HtmlFormat.php
 It can be self-hosted on Heroku, Scalingo or a regular Docker image.
- https://github.com/RSS-Bridge/rss-bridge/wiki/Requirements
+https://github.com/RSS-Bridge/rss-bridge/wiki/Requirements
 https://github.com/RSS-Bridge/rss-bridge/wiki/Installation
 Some websites hosting a public instance:
- https://rss-bridge.snopyta.org/ (247/247 bridges enabled)
- https://sebsauvage.net/rss-bridge/ (185/185 bridges enabled)
- https://rss-bridge.lamop.fr
+https://rss-bridge.snopyta.org/ (247/247 bridges enabled)
+https://sebsauvage.net/rss-bridge/ (185/185 bridges enabled)
+https://rss-bridge.lamop.fr
 https://wtf.roflcopter.fr/rss-bridge
 http://rssbridge.chamallow.com
 https://rss.bka.li
@@ -14354,222 +11983,209 @@ List:
 https://github.com/RSS-Bridge/rss-bridge/wiki/Public-hosts
 Note: Like other website scrapers, such as searx, bridges like GoogleSearch may return HTTP 429 errors.
 RSSHub
- https://github.com/DIYgod/RSSHub
-Allows generation of Atom feeds for
 social media
 Disqus
-Mastodon
 pixiv
-Telegram
 Twitter (following, timeline)
 Youtube
 etc. (
 https://docs.rsshub.app/en/social-media.html)
-File Storage, [6/4/22 2:01 PM]
 new media
 Engadget
 iDownloadBlog
 Nautilus
 The Verge
 World Health Organization | WHO
-etc. (
 https://docs.rsshub.app/en/new-media.html)
 programming
 GitHub
 GitLab
-Hacker News
 Linux Patchwork
 LWN.net
-etc. (
 https://docs.rsshub.app/en/programming.html)
-etc. (
 https://docs.rsshub.app/en/)
 Examples:
- https://rsshub.app/twitter/user/noconviolence
+https://rsshub.app/twitter/user/noconviolence
 https://rsshub.app/telegram/channel/DeezloaderRemix
 https://rsshub.app/github/repos/the-eye-team
 https://rsshub.app/github/pull/busyloop/lolcat
 Self-hosted Feed readers
- https://github.com/FreshRSS/FreshRSS (
+https://github.com/FreshRSS/FreshRSS (
 https://demo.freshrss.org/)
- https://git.tt-rss.org/fox/tt-rss (
+https://git.tt-rss.org/fox/tt-rss (
 https://github.com/HenryQW/Awesome-TTRSS) (demo:
 https://srv.tt-rss.org/tt-rss/ (usr=demo, pass=demo)) (
 https://tt-rss.snopyta.org/ (
 https://account.snopyta.org/pwm/public/newuser))
- https://github.com/codysnider/urss (TT-RSS fork)
- https://github.com/jaesivsm/JARR (demo:
+https://github.com/codysnider/urss (TT-RSS fork)
+https://github.com/jaesivsm/JARR (demo:
 https://jarr.info/ (usr=5bnhbdk, pass=@f5.si))
- https://github.com/samuelclay/NewsBlur (
+https://github.com/samuelclay/NewsBlur (
 https://www.newsblur.com/folder/everything)
- https://github.com/swanson/stringer
+https://github.com/swanson/stringer
 https://github.com/feedbin/feedbin
 https://github.com/miniflux/miniflux (Simplicity, seriously)
- https://github.com/fazalmajid/temboz (two-column reader with a focus on filtering)
- https://github.com/simplepie/simplepie (
+https://github.com/fazalmajid/temboz (two-column reader with a focus on filtering)
+https://github.com/simplepie/simplepie (
 http://simplepie.org/demo/)
- https://github.com/LeedRSS/Leed
+https://github.com/LeedRSS/Leed
 https://github.com/cubny/lite-reader (demo:
 http://cubny.com/lite-reader/)
- https://github.com/toxinu/leselys
+https://github.com/toxinu/leselys
 https://github.com/tontof/kriss_feed (demo:
 https://tontof.net/feed/;
 https://tontof.net/kriss/feed/)
- https://github.com/Athou/commafeed (demo:
+https://github.com/Athou/commafeed (demo:
 https://www.commafeed.com/ (usr=am2h, pass=am2h@tapi.re))
- https://github.com/sismics/reader (demo:
+https://github.com/sismics/reader (demo:
 https://reader-demo.sismics.com/ (usr=demo, pass=demo))
- https://github.com/channikhabra/yarr (
+https://github.com/channikhabra/yarr (
 http://channikhabra.github.io/yarr/)
- https://github.com/huginn/huginn (IFTTT, but open-source, customizable and norse)(
+https://github.com/huginn/huginn (IFTTT, but open-source, customizable and norse)(
 https://vimeo.com/61976251)
- https://github.com/nerevu/riko
+https://github.com/nerevu/riko
 https://github.com/NicolasLM/feedsubs (
 https://feedsubs.com/)
- https://github.com/pietheinstrengholt/rssmonster (inspired by google reader)
- https://github.com/feedhq/feedhq
+https://github.com/pietheinstrengholt/rssmonster (inspired by google reader)
+https://github.com/feedhq/feedhq
 https://github.com/GetStream/Winds
 https://github.com/jtanza/rufus (
 http://rufus.news/)
- https://github.com/arussellsaw/news (
+https://github.com/arussellsaw/news (
 https://news.russellsaw.io/)
- https://github.com/geekuillaume/Freader (
+https://github.com/geekuillaume/Freader (
 https://freader-rss.herokuapp.com/)
- https://github.com/truerss/truerss (
+https://github.com/truerss/truerss (
 http://demo.truerss.net/)
- https://github.com/harold/rss-box
+https://github.com/harold/rss-box
 https://github.com/SSilence/selfoss
 https://sourceforge.net/projects/gregarius
 https://github.com/ncarlier/nunux-reader
 https://github.com/ahernp/django-feedreader
 Podcast-specific
- https://github.com/janw/tapedrive (focus on archival)
+https://github.com/janw/tapedrive (focus on archival)
 Feed Readers
- https://github.com/lwindolf/liferea
+https://github.com/lwindolf/liferea
 https://github.com/QuiteRSS/quiterss
 https://github.com/martinrotter/rssguard
 https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs
 https://github.com/newsboat/newsboat (for all those lynx users)
- https://github.com/akinozgen/youtube-to-newsboat (converts youtube Subscriptions export to newsboat urls file)
- https://github.com/Lallassu/gorss (another cli feed reader)
- https://github.com/seenaburns/picofeed (yet another cli feed reader)
- https://git.sr.ht/~tho/lydia
+https://github.com/akinozgen/youtube-to-newsboat (converts youtube Subscriptions export to newsboat urls file)
+https://github.com/Lallassu/gorss (another cli feed reader)
+https://github.com/seenaburns/picofeed (yet another cli feed reader)
+https://git.sr.ht/~tho/lydia
 https://github.com/hello-efficiency-inc/raven-reader
 http://www.feedbucket.com/ (web-based service)
- https://github.com/mikefrancis/nosh (demo:
+https://github.com/mikefrancis/nosh (demo:
 https://nosh.rocks/)
- https://github.com/moonmoon/moonmoon
+https://github.com/moonmoon/moonmoon
 https://github.com/readerself/readerself
 https://github.com/dertuxmalwieder/rssfs
 https://github.com/flok99/rsstail (tail for rss feeds)
- https://github.com/gvalkov/rsstail.py
+https://github.com/gvalkov/rsstail.py
 https://github.com/YoloSwagTeam/feedstail
 https://github.com/tylerharper/wag
-Podcast-specific
- https://github.com/gpodder/gpodder
+https://github.com/gpodder/gpodder
 https://github.com/manolomartinez/greg
-File Storage, [6/4/22 2:01 PM]
- https://github.com/rafaelmartins/marrie
+https://github.com/rafaelmartins/marrie
 https://github.com/brokkr/poca
 https://github.com/m3nu/upodder
 https://github.com/arthurnn/podcast
 https://github.com/IBM/PodcastDownloader
 https://github.com/janw/podcast-archiver (focus on archival)
- https://github.com/robotmlg/podsnatch (focus on archival)
+https://github.com/robotmlg/podsnatch (focus on archival)
 Android
- https://github.com/FredJul/Flym (
+https://github.com/FredJul/Flym (
 https://f-droid.org/en/packages/net.frju.flym/)
- https://gitlab.com/spacecowboy/Feeder (
+https://gitlab.com/spacecowboy/Feeder (
 https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
- https://github.com/nilsbraden/ttrss-reader-fork (
+https://github.com/nilsbraden/ttrss-reader-fork (
 https://f-droid.org/en/packages/org.ttrssreader/)
- https://github.com/poloure/rss (
+https://github.com/poloure/rss (
 https://f-droid.org/en/packages/com.poloure.simplerss/)
- https://github.com/aminecmi/ReaderforSelfoss (
+https://github.com/aminecmi/ReaderforSelfoss (
 https://f-droid.org/en/packages/apps.amine.bou.readerforselfoss/)
- https://git.feneas.org/christophehenry/freshrss-android (
+https://git.feneas.org/christophehenry/freshrss-android (
 https://f-droid.org/en/packages/fr.chenry.android.freshrss/)
- https://play.google.com/store/apps/details?id=com.spians.plenary
+https://play.google.com/store/apps/details?id=com.spians.plenary
 Browser extension
- https://github.com/podStation/podStation
+https://github.com/podStation/podStation
 https://github.com/adamsanderson/brook
 https://github.com/dauphine-dev/drop-feeds
 https://github.com/SmartRSS/Smart-RSS
- https://en.wikipedia.org/wiki/List_of_podcatchers
+https://en.wikipedia.org/wiki/List_of_podcatchers
 https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators
 https://wiki.archlinux.org/index.php/List_of_applications/Internet#News_aggregators
 Feed View in Firefox (Removed in Firefox 64+)
- https://github.com/brief-rss/brief
+https://github.com/brief-rss/brief
 https://nodetics.com/feedbro
 https://github.com/shgysk8zer0/awesome-rss (Brings back the Feed Subscription button in the URL bar)
- https://github.com/aureliendavid/rsspreview (Brings back the Feed Preview)
- https://addons.mozilla.org/firefox/addon/feed-preview/ (comparable to the one above;
+https://github.com/aureliendavid/rsspreview (Brings back the Feed Preview)
+https://addons.mozilla.org/firefox/addon/feed-preview/ (comparable to the one above;
 https://hg.guido-berhoerster.org/addons/firefox-addons/feed-preview/)
- https://addons.mozilla.org/firefox/addon/rss-html/ (keeps it simple; does not preserve feed url)
+https://addons.mozilla.org/firefox/addon/rss-html/ (keeps it simple; does not preserve feed url)
 Manual RSS Builders
- http://createfeed.fivefilters.org
+http://createfeed.fivefilters.org
 https://politepol.com/en/ (
 https://github.com/taroved/pol)
- https://feed43.com/ (demo:
+https://feed43.com/ (demo:
 https://node2.feed43.com/weboasis_tech_feed.xml)
- https://github.com/damoeb/rss-proxy/ (demo:
+https://github.com/damoeb/rss-proxy/ (demo:
 https://rssproxy.migor.org/)
- https://feedity.com
+https://feedity.com
 https://rss.app/rss-feed
 http://fetchrss.com/manual
 Full Article Extractors
- https://github.com/pictuga/morss (demo:
+https://github.com/pictuga/morss (demo:
 https://morss.it/)
- https://fulltextrssplz.whtsky.me
+https://fulltextrssplz.whtsky.me
 https://www.freefullrss.com
 http://fullcontentrss.com
 https://feedex.net
 http://ftr.fivefilters.org/
 Item Filtering
- https://siftrss.com
+https://siftrss.com
 https://github.com/bcongdon/rssfilter (demo:
 https://rssfilter.netlify.app/)
- https://github.com/gromnitsky/grepfeed (demo:
+https://github.com/gromnitsky/grepfeed (demo:
 https://serene-river-17732.herokuapp.com/)
 Other Feed Generators
- https://github.com/amsehili/genRSS (media library -> rss)
- https://github.com/herrbischoff/screaming-liquid-tiger (media library -> rss)
- https://github.com/albertobeta/PodcastGenerator (
+https://github.com/amsehili/genRSS (media library -> rss)
+https://github.com/herrbischoff/screaming-liquid-tiger (media library -> rss)
+https://github.com/albertobeta/PodcastGenerator (
 http://www.podcastgenerator.net/demo)
- https://github.com/fossasia/searss (search engine result -> rss)
- https://github.com/Kombustor/rss-fulltext-proxy (retrieves full-text content)
- https://github.com/mediadrop/mediadrop
+https://github.com/fossasia/searss (search engine result -> rss)
+https://github.com/Kombustor/rss-fulltext-proxy (retrieves full-text content)
+https://github.com/mediadrop/mediadrop
 https://github.com/dewey/feedbridge (
 https://feedbridge.notmyhostna.me/)
- https://fivefilters.org/content-only
+https://fivefilters.org/content-only
 http://www.webrss.com
 https://github.com/h43z/rssify (python script with configurable scraping)
 Feedsearch
- https://feedsearch.dev/ (using
+https://feedsearch.dev/ (using
 https://github.com/DBeath/feedsearch-crawler)
- http://www.rssmicro.com/api.web
+http://www.rssmicro.com/api.web
 https://feedly.com/i/search
 https://www.datorss.com
 https://github.com/davidesantangelo/feedirss-api (
 https://api.feedirss.com/)
- https://github.com/AntonioStipic/RssNewsAPI (
+https://github.com/AntonioStipic/RssNewsAPI (
 https://newsapi.xyz/)
- https://search.feedi.me/ (
+https://search.feedi.me/ (
 https://github.com/davidesantangelo/feedi)
- http://www.2rss.com
+http://www.2rss.com
 https://feeds.pub/explore
 Podcastsearch
- https://podbay.fm
 https://www.listennotes.com
 https://player.fm/
-File Storage, [6/4/22 2:01 PM]
 Use the magnifying glass in the top right corner, search for talks/podcasts, go to the page and click "Public Feed".
- https://podurama.com/home
+https://podurama.com/home
 https://podhunt.app
 https://podhound.co
 https://podflix.app
 https://podnami.com/ (podcast episodes aggregator)
- https://pod.link
+https://pod.link
 https://pdcstly.com
 http://rssrad.io/#/podcast/search
 https://fyyd.de
@@ -14580,116 +12196,112 @@ https://vocalmatic.com/podcasts
 https://www.spreaker.com
 https://podsearch.com/
 Feed2Mail
-File Storage, [6/4/22 2:01 PM]
-Feed2Mail
- https://github.com/rcarmo/rss2imap
+https://github.com/rcarmo/rss2imap
 https://github.com/wking/rss2email
 https://github.com/skx/rss2email/ (golang port of the above)
- https://github.com/sulami/feed2maildir
+https://github.com/sulami/feed2maildir
 https://github.com/teythoon/rss2maildir
 https://github.com/jspricke/rss2maildir
 https://github.com/feed2imap/feed2imap
 https://github.com/acg/rssdrop (rss to maildir)
- https://github.com/sloonz/ua ('rss2json' tool)
- https://www.feedsub.com
+https://github.com/sloonz/ua ('rss2json' tool)
+https://www.feedsub.com
 https://blogtrottr.com
 https://feedlivery.com
 https://myrss.email/
 Feed2Json
- https://feed2json.org/convert?url=
+https://feed2json.org/convert?url=
 https://predb.org/rss.xml
 Note: Part of the effort to establish feeds in JSON, not XML. (Specification:
 https://jsonfeed.org/version/1)
- https://meetingguide.org/validate?url= (JSON feed validator)
+https://meetingguide.org/validate?url= (JSON feed validator)
 Feed2IRC
- https://github.com/gehaxelt/python-rss2irc
+https://github.com/gehaxelt/python-rss2irc
 Feed2ActivityPub
- https://github.com/dariusk/rss-to-activitypub
+https://github.com/dariusk/rss-to-activitypub
 Embedding Feeds
- https://github.com/bloopletech/rss2html (
+https://github.com/bloopletech/rss2html (
 https://rss.bloople.net/)
 Lorem-RSS
- https://github.com/mbertolacci/lorem-rss (
+https://github.com/mbertolacci/lorem-rss (
 https://lorem-rss.herokuapp.com/)
 FeedValidator
- https://www.feedvalidator.org/check.cgi?url=
+https://www.feedvalidator.org/check.cgi?url=
 https://validator.w3.org/feed
 https://castfeedvalidator.com/?url= (podcast-specific)
- https://podba.se/validate/?url= (podcast-specific)
- http://rssvalidator.net
+https://podba.se/validate/?url= (podcast-specific)
+http://rssvalidator.net
 https://cap-validator.appspot.com/validate
 https://www.zbozi.cz/validace-feedu/
 Other tools
- https://github.com/synzen/Discord.RSS (discord rss bot)
- https://backfeed.strangecode.com/ (collecting removed entries from archive.org)
- https://github.com/taophp/rss-merger (merging multiple feeds)
- https://github.com/jasonmunro/cypht (
+https://github.com/synzen/Discord.RSS (discord rss bot)
+https://backfeed.strangecode.com/ (collecting removed entries from archive.org)
+https://github.com/taophp/rss-merger (merging multiple feeds)
+https://github.com/jasonmunro/cypht (
 https://cypht.org/install.html, webmail client)
- https://github.com/anarcat/feed2tweet (rss to twitter)
- https://opml-gen.ovh/ (opml generator)
- https://github.com/embyt/balloonrss (only notifications)
+https://github.com/anarcat/feed2tweet (rss to twitter)
+https://opml-gen.ovh/ (opml generator)
+https://github.com/embyt/balloonrss (only notifications)
 Libraries & scripts
- https://github.com/kurtmckee/feedparser (feed parser written in python: doc:
+https://github.com/kurtmckee/feedparser (feed parser written in python: doc:
 https://pythonhosted.org/feedparser/)
- https://github.com/jmoiron/speedparser (rewrite of feedparser using lxml: diff:
+https://github.com/jmoiron/speedparser (rewrite of feedparser using lxml: diff:
 https://github.com/jmoiron/speedparser#differences)
- https://github.com/custom-components/feedparser (feed parser for home-assistant)
- https://github.com/lkiesow/python-feedgen (feed generator written in python: doc:
+https://github.com/custom-components/feedparser (feed parser for home-assistant)
+https://github.com/lkiesow/python-feedgen (feed generator written in python: doc:
 https://feedgen.kiesow.be/)
- https://github.com/grangier/python-goose (python article extractor)
- https://github.com/danmactough/node-feedparser
+https://github.com/grangier/python-goose (python article extractor)
+https://github.com/danmactough/node-feedparser
 https://github.com/ahkimkoo/node-article-extractor
 https://github.com/j0k3r/graby (article extractor written in php)
- https://github.com/advancedlogic/GoOse (article extractor written in golang)
- https://github.com/codelucas/newspaper (doc:
+https://github.com/advancedlogic/GoOse (article extractor written in golang)
+https://github.com/codelucas/newspaper (doc:
 https://newspaper.readthedocs.io/en/latest/)
- https://github.com/Anonyfox/elixir-scrape (feed scraper written in elixir)
- https://github.com/feedparser/feedparser (feed parser written in ruby)
- https://github.com/sveetch/django-feedparser (django app for rendering feeds)
+https://github.com/Anonyfox/elixir-scrape (feed scraper written in elixir)
+https://github.com/feedparser/feedparser (feed parser written in ruby)
+https://github.com/sveetch/django-feedparser (django app for rendering feeds)
 Other resources
- https://rssguide.neocities.org/ (guide to adding rss feed to Neocities site)
- https://raymii.org/s/articles/Tiny-Tiny-RSS-Readability-plaintext.html (TT-RSS + Readability)
- https://www.godo.dev/tutorials/hugo-full-text-rss/ (full text rss for hugo site)
+https://rssguide.neocities.org/ (guide to adding rss feed to Neocities site)
+https://raymii.org/s/articles/Tiny-Tiny-RSS-Readability-plaintext.html (TT-RSS + Readability)
+https://www.godo.dev/tutorials/hugo-full-text-rss/ (full text rss for hugo site)
 Last Edit: February 26, 2021, 07:53:28 pm by user
-File Storage, [6/4/22 2:01 PM]
 More Feeds
 Miscellaneous Warez Feeds
- http://api.crackwatch.com/rss/cracks.xml
+http://api.crackwatch.com/rss/cracks.xml
 http://gen.lib.rus.ec/rss
 http://www.horriblesubs.info/rss.php?res=all
 https://snahp.it/?feed=atom&cat=CategoryNum
 RARBG
- https://rarbg.to/rssdd_magnet.php
+https://rarbg.to/rssdd_magnet.php
 https://rarbg.to/rssdd.php?categories=27;28
 https://github.com/banteg/rarbg (python script to generate feed)
 PREs
- https://predb.me/?group=groupname&rss=1
-https://predb.org/rss.xml
+https://predb.me/?group=groupname&rss=1
 https://predb.pw/rss.php
 srrDB
- https://www.srrdb.com/feed
+https://www.srrdb.com/feed
 https://www.srrdb.com/feed/srrs
 https://www.srrdb.com/feed/titles
 GOG Games by MachineGunnur
- http://goggamespc7v6z5e.onion/rss
+http://goggamespc7v6z5e.onion/rss
 Opentrackers Signups
- https://opentrackers.org/feed/
+https://opentrackers.org/feed/
 showRSS
- https://showrss.info/browse
+https://showrss.info/browse
 https://showrss.info/show/ID.rss
 https://showrss.info/show/schedule/ID.rss (upcoming)
- https://showrss.info/other/shows.rss (additions)
+https://showrss.info/other/shows.rss (additions)
 Miscellaneous Gaming Feeds
 PCGamingWiki News
- https://community.pcgamingwiki.com/forum/6-news-and-general-pc-gaming.xml/
+https://community.pcgamingwiki.com/forum/6-news-and-general-pc-gaming.xml/
 Delisted Games (from Steam)
- https://rssbox.herokuapp.com/twitter/735790862811140096/DelistedGames?with_media=1&include_rts=0
+https://rssbox.herokuapp.com/twitter/735790862811140096/DelistedGames?with_media=1&include_rts=0
 SteamPrices
- https://www.steamprices.com/ae/feed
+https://www.steamprices.com/ae/feed
 Steam News Feed
- https://store.steampowered.com/feeds/news.xml
+https://store.steampowered.com/feeds/news.xml
 CheapShark Index
- https://www.cheapshark.com/api/1.0/deals?output=rss
+https://www.cheapshark.com/api/1.0/deals?output=rss
 https://www.cheapshark.com/api/1.0/deals?storeID=1&output=rss
 StoreIDs:
 1 - Steam
@@ -14711,76 +12323,70 @@ StoreIDs:
 29 - 2Game
 SavyGamer
 All deals:
- https://feeds.feedburner.com/Savygamer
+https://feeds.feedburner.com/Savygamer
 http://savygamer.co.uk/category/deals/feed
 By category:
- http://savygamer.co.uk/category/deals/*/feed
-e.g.
+http://savygamer.co.uk/category/deals/*/feed
 All PC deals:
- http://savygamer.co.uk/category/deals/pc/feed
+http://savygamer.co.uk/category/deals/pc/feed
 All PC deals with digital dist.:
- http://savygamer.co.uk/category/deals/pc/dd/feed
+http://savygamer.co.uk/category/deals/pc/dd/feed
 GoG News
- https://www.gog.com/news/feed
+https://www.gog.com/news/feed
 GoG Connect
- https://rssbox.herokuapp.com/twitter/855507876839739392/GOGConnectAlert?with_media=1 (unaffiliated twitter account)
+https://rssbox.herokuapp.com/twitter/855507876839739392/GOGConnectAlert?with_media=1 (unaffiliated twitter account)
 GamingOnLinux
- https://www.gamingonlinux.com/article_rss.php
+https://www.gamingonlinux.com/article_rss.php
 Steam-RSS script for Feedbin
- https://github.com/bendodson/Steam-RSS
-(
+https://github.com/bendodson/Steam-RSS
 https://bendodson.com/weblog/2016/05/17/fetching-rss-feeds-for-steam-game-updates/)
 Steam game updates
- https://www.reddit.com/r/pcgaming/comments/64e84b/how_to_keep_track_of_game_updatespatches_in_steam/dg1l7h8
+https://www.reddit.com/r/pcgaming/comments/64e84b/how_to_keep_track_of_game_updatespatches_in_steam/dg1l7h8
 https://steamcommunity.com/games/mysummercar/rss/ ->
 https://steamcommunity.com/games/mysummercar/rss/
-More general:
- https://steamcommunity.com/games/STEAMAPPID/rss/
-e.g.
+https://steamcommunity.com/games/STEAMAPPID/rss/
 https://steamcommunity.com/games/897030/rss/
 Miscellaneous Feeds
 BBC
- https://www.bbc.co.uk/news/10628494
+https://www.bbc.co.uk/news/10628494
 http://feeds.bbci.co.uk/news/rss.xml?edition=int
 http://feeds.bbci.co.uk/news/rss.xml
 http://feeds.bbci.co.uk/zhongwen/simp/rss.xml
 CNN
- http://rss.cnn.com/rss/cnn_topstories.rss
+http://rss.cnn.com/rss/cnn_topstories.rss
 Digg
- http://digg.com/rss/index.xml
+http://digg.com/rss/index.xml
 Flickr
- https://www.flickr.com/services/feeds/photos_public.gne?format=atom
+https://www.flickr.com/services/feeds/photos_public.gne?format=atom
 GoogleNews
- https://news.google.com/rss?hl=cs&gl=CZ&ceid=CZ:cs
+https://news.google.com/rss?hl=cs&gl=CZ&ceid=CZ:cs
 https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
 https://news.google.com/atom?hl=en-US&gl=US&ceid=US:en
 Harvard
- https://blogs.harvard.edu/feed/atom
+https://blogs.harvard.edu/feed/atom
 https://blogs.harvard.edu/feed/rdf/
 CNET
- https://www.cnet.com/rss/ or
+https://www.cnet.com/rss/ or
 http://feeds.japan.cnet.com/rss/cnet/lessig.rdf
 OSNews
- https://www.osnews.com/feed
+https://www.osnews.com/feed
 https://www.osnews.com/files/recent.rdf
-Engadget
- http://engadget.com/rss.xml
+http://engadget.com/rss.xml
 CVEs
- https://rssbox.herokuapp.com/twitter/821806287461740544/CVEnew (
+https://rssbox.herokuapp.com/twitter/821806287461740544/CVEnew (
 https://twitter.com/CVEnew/)
 Customizable feeds:
- https://www.cvedetails.com/vulnerability-feeds-form.php
+https://www.cvedetails.com/vulnerability-feeds-form.php
 Exploit-DB
- https://www.exploit-db.com/rss.xml
+https://www.exploit-db.com/rss.xml
 XKCD
- https://xkcd.com/rss.xml
+https://xkcd.com/rss.xml
 https://xkcd.com/atom.xml
 YahooNews
- https://news.yahoo.com/rss/topstories
+https://news.yahoo.com/rss/topstories
 SimpleCast
- https://feeds.simplecast.com/ID
-ProPublica
- https://www.propubli
+https://feeds.simplecast.com/ID
+https://www.propubli
 File Storage, [6/4/22 1:55 PM]
 Fucking Saved Messages, [12/9/21 11:59 AM]
 [Forwarded from Obito]
@@ -14850,50 +12456,33 @@ Weathering with you -> Great
 با ایناش مخالف بودم. بقیه رو یا ندیدم یا دیدم و موافق بودم با جایی که طرف گذاشتشون
 در کل لیست خوبیه دمش گرم
 بیا اینارو ببین، اون قسمت پایینشم دوستم گفته که حرفه ایه
-File Storage, [6/4/22 1:55 PM]
 لاپوتا رو یادته
-File Storage, [6/4/22 1:56 PM]
 انیمه ماکیا
-File Storage, [6/4/22 1:56 PM]
 @MsgCopierBot
-File Storage, [6/4/22 1:56 PM]
 کپی از کانال هایی که محدودیت کپی گذاشتن
 Copy messages
-File Storage, [6/4/22 1:56 PM]
 @Waydroid
-File Storage, [6/4/22 1:56 PM]
 So meaning it will work or I still need
- https://docs.waydro.id/faq/get-waydroid-to-work-through-a-vm
+https://docs.waydro.id/faq/get-waydroid-to-work-through-a-vm
 (I didn't tried waydroid yet, was searching word "Nvidia" for workarounds)
-File Storage, [6/4/22 1:56 PM]
- https://www.gamingonlinux.com/2021/10/nvidia-beta-4952905-rolls-out-with-gbm-for-expanded-wayland-support/
+https://www.gamingonlinux.com/2021/10/nvidia-beta-4952905-rolls-out-with-gbm-for-expanded-wayland-support/
 And arch supports it
- https://archlinux.org/packages/extra/x86_64/nvidia/
+https://archlinux.org/packages/extra/x86_64/nvidia/
 So meaning, In theory, it should work, but any one can confirm?
-File Storage, [6/4/22 1:56 PM]
 No, duo to a bug in qt kde will be painfully slow
-File Storage, [6/4/22 1:56 PM]
 They fixed this problem in plasma 5.24 but you'll need to wait for it to be released
-File Storage, [6/4/22 1:56 PM]
- https://invent.kde.org/plasma/kwin/-/merge_requests/1689
-File Storage, [6/4/22 1:56 PM]
+https://invent.kde.org/plasma/kwin/-/merge_requests/1689
 I'm not sure if this is the only bug that's causing slowdowns though
 There might be more problems after this
-File Storage, [6/4/22 1:56 PM]
 So software rendering is the only solution for now
-File Storage, [6/4/22 1:56 PM]
 If you have access to kde beta 5.24 you can try that
 It should theoretically work but it's beta software so it's not garanteed
-File Storage, [6/4/22 1:56 PM]
- https://docs.waydro.id/faq/get-waydroid-to-work-through-a-vm
-File Storage, [6/4/22 1:56 PM]
 September 15, 2020, 08:32:45 am
- https://cutedeadguys.net
+https://cutedeadguys.net
 https://forogore.com
 https://www.documentingreality.com/forum
 https://theync.com
 https://www.shockgore.com
-https://www.kaotic.com
 https://www.liveleak.com
 https://www.livegore.com
 https://www.bestgore.com
@@ -14908,65 +12497,57 @@ https://dreamindemon.com/community/ewr-porta
 https://www.youtube.com/watch?v=RsdoGIasHfA
 https://www.youtube.com/watch?v=MDQIzGPxOx8
 https://old.bigcat.space/
- https://www.deathplz.com/ - a list of gore sites
- https://kaotic.com/ - large video hosting site
- https://crazyshit.com/ - video hosting site with a snarky comment section
- https://www.liveleak.com/ - some uploaders add context to their uploads
- https://www.livegore.com/
- https://saidit.net/s/WatchPeopleDie/ - successor of /r/watchpeopledie
- https://leakreality.com/videos?type=featured
- https://hoodsite.com/
- https://www.elblogdepropaganda.com/
- https://www.documentingreality.com/forum/ - heavily rate-limited forum
- http://www.agresori.com/
- https://muchozucko.com - timing out
- https://www.ndtv.com/topic/shocking-video
- https://forogore.com/
- https://goregrish.com/ - deathaddict's shinier sibling
- http://gore.tube/
- http://www.icysleep.de/ - timing out
- https://diedart.com/ - timing out
- https://www.bestgore.com/all-the-gore/ - infamous blog
- http://porjati.net/
- https://elblogdelnarco.com/
- https://stranakrovi.net/
- http://carro-groce.com/
- http://grotty-monday.com/
- http://www.charonboat.com/
- http://choosedeath.free.fr/Pages/Main.htm - blast from the past web design
- https://www.gorejunkies.com/
- https://cutedeadguys.net/
- http://terroristmedia.com/nukem/forum/
- https://www.shockgore.com/
- https://seegore.com/
- https://horriblevideos.com/
- https://theync.com/
- https://deathaddict.co/ - infamous forum & video hosting site (requires login)
- https://www.churchofeuthanasia.org
+https://www.deathplz.com/ - a list of gore sites
+https://kaotic.com/ - large video hosting site
+https://crazyshit.com/ - video hosting site with a snarky comment section
+https://www.liveleak.com/ - some uploaders add context to their uploads
+https://www.livegore.com/
+https://saidit.net/s/WatchPeopleDie/ - successor of /r/watchpeopledie
+https://hoodsite.com/
+https://www.elblogdepropaganda.com/
+https://www.documentingreality.com/forum/ - heavily rate-limited forum
+http://www.agresori.com/
+https://muchozucko.com - timing out
+https://www.ndtv.com/topic/shocking-video
+https://forogore.com/
+https://goregrish.com/ - deathaddict's shinier sibling
+http://gore.tube/
+http://www.icysleep.de/ - timing out
+https://diedart.com/ - timing out
+https://www.bestgore.com/all-the-gore/ - infamous blog
+http://porjati.net/
+https://elblogdelnarco.com/
+https://stranakrovi.net/
+http://carro-groce.com/
+http://grotty-monday.com/
+http://www.charonboat.com/
+http://choosedeath.free.fr/Pages/Main.htm - blast from the past web design
+https://www.gorejunkies.com/
+https://cutedeadguys.net/
+http://terroristmedia.com/nukem/forum/
+https://www.shockgore.com/
+https://seegore.com/
+https://horriblevideos.com/
+https://theync.com/
+https://deathaddict.co/ - infamous forum & video hosting site (requires login)
+https://www.churchofeuthanasia.org
 https://lbry.tv/@BestGore:2
- http://dramatica.online/index.php/Shock_sites (contains NSFW/NSFL images!).
- http://encyclopediadramatica.wiki/index.php/Shock_sites (again, contains NSFW/NSFL images!).
- https://epicroadtrips.us/2003/summer/nola/nola_offsite/FQ_en.wikipedia.org/en.wikipedia.org/wiki/List_of_shock_sites.html /
+http://dramatica.online/index.php/Shock_sites (contains NSFW/NSFL images!).
+http://encyclopediadramatica.wiki/index.php/Shock_sites (again, contains NSFW/NSFL images!).
+https://epicroadtrips.us/2003/summer/nola/nola_offsite/FQ_en.wikipedia.org/en.wikipedia.org/wiki/List_of_shock_sites.html /
 https://archive.is/uOE9X.
- https://screamer.wiki/Category:Shock_sites.
- https://web.archive.org/web/*/movies.ogrish.com/*.
- https://web.archive.org/web/*/ogrish.com/archives/*.
- https://en.wikipedia.org/wiki/The_Dawn_of_the_Black_Hearts
-https://leakreality.com
+https://screamer.wiki/Category:Shock_sites.
+https://web.archive.org/web/*/movies.ogrish.com/*.
+https://web.archive.org/web/*/ogrish.com/archives/*.
+https://en.wikipedia.org/wiki/The_Dawn_of_the_Black_Hearts
 https://stranakrovi.com/videos
 https://bestgore.fun
 https://www.reddit.com/r/MakeMyCoffin
 https://worldstarhiphop.com/videos/
-File Storage, [6/4/22 1:56 PM]
 یکم gore
-File Storage, [6/4/22 1:56 PM]
 Open Directory Search Tool
- https://opendirsearch.abifog.com
-https://cgs.the-eye.eu
-File Storage, [6/4/22 1:56 PM]
 Search Open Amazon S3 Buckets
- https://buckets.grayhatwarfare.com/
-File Storage, [6/4/22 1:55 PM]
+https://buckets.grayhatwarfare.com/
 چرا خدا وجود نداره؟
 جوابت خیلی سادس
 ۱- خدا کلا خارج از منطق عه، یعنی با حواس پنج گانه نمیشه حس کرد، دلایل قانع کننده ای هم برا اینکه خارج از حواس پنج گانس ارائه ندادن جز رادیو و فلان بسیال، آقا، وقتی من چیزی برام ملموس نباشه قبولش ندارم!
@@ -14977,8 +12558,7 @@ File Storage, [6/4/22 1:55 PM]
 ۶- پیامبرا و امام ها چرا باید مظلوم و نمد الهی بمیرن وقتی خدا میتونست مثل حضرت ابراهیم اونا رو نجات بده و عیسی و زبون موسی و خلاصه خیلیایی دیگه رو نجات نداد رو نجات بده، چرا نداد؟
 اگر خدایی هم باشه خدای سادیست
 ۷- نظم و ترتیب رو نگین خدا خدا، جهان همینیه که هستش و ما بین کل کهکشان ها که مورچه هم نیستیم تنها حالتی هستیم که توش حیات وجود داره، یعنی بهترین احتمالیم، که یعنی خدا میتونه نباشه و این نظم و ترتیب به خودی خود وجود داشته باشه
-File Storage, [6/4/22 1:55 PM]
- https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889
+https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889
 https://arunkprasad.com/log/amateurs-and-professionals
 https://arunkprasad.com/log/who-uses-todo-lists
 https://blog.codinghorror.com/todont
@@ -14987,14 +12567,13 @@ https://blog.frantic.im/all/todo-apps-are-meant-for-robots
 https://en.m.wikipedia.org/wiki/Poe's_law
 https://quire.io/
 Only the self-learned is learned. Others are taught
- https://nakst.gitlab.io/essence
+https://nakst.gitlab.io/essence
 http://Brew.fm
 JCS – Criminal Psychology
- https://flipgrid.com/cassiozen
+https://flipgrid.com/cassiozen
 https://github.com/rickwierenga/sci-hub-injector
 bookmarklet
- https://chrome.google.com/webstore/detail/paperpanda/ggjlkinaanncojaippgbndimlhcdlohf
-https://eloquentjavascript.net
+https://chrome.google.com/webstore/detail/paperpanda/ggjlkinaanncojaippgbndimlhcdlohf
 https://www.bbc.co.uk/programmes/m0012fjk/episodes/player
 https://3dify.me
 https://css-speedrun.netlify.app
@@ -15004,35 +12583,33 @@ https://marginalrevolution.com/marginalrevolution/2022/01/advice-on-finding-a-ta
 Modern Romance” by Aziz Ansari
 How To Get A Date Worth Keeping by Henry Cloud
 واچ لیستم
- https://bayfiles.com/J5D2s458xb/Charles_Le_Gai_Eaton_-_Islam_and_the_Destiny_of_Man_1985_-_libgen.lc_pdf
+https://bayfiles.com/J5D2s458xb/Charles_Le_Gai_Eaton_-_Islam_and_the_Destiny_of_Man_1985_-_libgen.lc_pdf
 قرار شد قبل خودکشی اینو بخونم ببینم چیه :/
- https://www.defectivebydesign.org/
- https://www.fsf.org/
+https://www.defectivebydesign.org/
+https://www.fsf.org/
 @foss_desktop
- https://cloudflare.com/cdn-cgi/trace
- https://github.com/lima-vm/lima
+https://cloudflare.com/cdn-cgi/trace
+https://github.com/lima-vm/lima
 https://github.com/zevlg/telega.el
 https://ubiquity.acm.org/article.cfm?id=3333611
 @qwjun
- https://m.youtube.com/playlist?list=PL-eVf9RWeoWGrJ0y_H2G8qZqxD3QjEvj9
+https://m.youtube.com/playlist?list=PL-eVf9RWeoWGrJ0y_H2G8qZqxD3QjEvj9
 When you talk you are only repeating what you already know, but if you listen, you may learn something new.
-File Storage, [6/4/22 1:55 PM]
-واچ لیستم
- https://github.com/publiusfederalist/zooko
+https://github.com/publiusfederalist/zooko
 https://www.gstatic.com/ipranges/goog.json
 https://github.com/amritb/poor-mans-vpn
 zswap
- http://donw.io
+http://donw.io
 https://www.freecodecamp.org/learn
 https://www.alice.org/hedycode.com
 Khan Academy's coding lessons
- https://scratch.mit.edu/
+https://scratch.mit.edu/
 https://www.freebasic.net/
 https://www.lexaloffle.com/dl/docs/pico-8_manual.html
 https://bookshop.org/books/how-to-destroy-surveillance-capitalism/9781736205907
 https://github.com/jameshealyio/bang-bookmarks
 https://dagshub.com/blog/github-copilot-not-code/
- http://programmers.stackexchange.com/questions/60544/why-do-game-developers-prefer-windows/88055#88055
+http://programmers.stackexchange.com/questions/60544/why-do-game-developers-prefer-windows/88055#88055
 https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks
 https://github.com/r0f1/linuxhelp
 https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era
@@ -15043,41 +12620,34 @@ https://www.deta.sh
 https://www.youtube.com/watch?v=Biy6EiLQjPY
 https://www.covidtests.gov
 https://doesnottranslate.com/
-File Storage, [6/4/22 1:55 PM]
- https://instagram.com/chinapply_group?utm_medium=copy_link
+https://instagram.com/chinapply_group?utm_medium=copy_link
 هزینه مشاوره بعد پذیرش دانشگاه چین و چین هم دانشگاه مفته
-File Storage, [6/4/22 1:55 PM]
 اگر ویندوز ۱۱ میخواین نصب بکنید منتظر نسخه
 Windows 11 Sun Valley 2 (22H2)
 که احتمالا پاییز یا تابستون میاد باشید یا
 The upcoming Windows 11 22H2 will likely be released in August 2022.
 همینطور که میدونید و میدونیم، ویندوز ۱۱ وضعیت جالبی نداره، البته هیچکس جلوتون رو نگرفته نسخه Dev رو نصب کنید.
-File Storage, [6/4/22 1:55 PM]
- https://github.com/orgs/makedeb/repositories
+https://github.com/orgs/makedeb/repositories
 https://github.com/hwittenborn/repositories
 لازمه dur، دقیق نمیدونم چیکار میکنه
- https://docs.waydro.id
+https://docs.waydro.id
 https://github.com/casualsnek/waydroid_script
 نصب waydroid و سپس اضافه کردن سرطان GSM و انشاالله بشود گیم زد، مثل wsa میمونه ولی نیتیو تر
 File Storage, [6/4/22 1:54 PM]
 سرور رسمی دیسکورد گوگل فوشیا
- https://discord.gg/pjfYkmbq69
+https://discord.gg/pjfYkmbq69
 رو داخل سایت رسمیش پیدا کردم
- https://fuchsia.dev/fuchsia-src/contribute/community/get-involved#join_a_discussion_group
+https://fuchsia.dev/fuchsia-src/contribute/community/get-involved#join_a_discussion_group
 گروه دیسکوردش رفتم هیچی نفهمیدم لفت دادم D;
-File Storage, [6/4/22 1:54 PM]
 به به، چه مقاله ای شود این!
- https://www.gq.com/story/male-rape-in-the-military
-File Storage, [6/4/22 1:54 PM]
+https://www.gq.com/story/male-rape-in-the-military
 مطلب جالب بخونم بعدا
- https://malwaretips.com/threads/ublockorigin-flexible-modes.100950/
-File Storage, [6/4/22 1:55 PM]
+https://malwaretips.com/threads/ublockorigin-flexible-modes.100950/
 درمورد تارهای اتری تحقیق کن
-File Storage, [6/4/22 1:55 PM]
- https://www.myfreeocr.com/en
+https://www.myfreeocr.com/en
 https://www.whosampled.com
 Feeling like okabe Rintaro
- https://libreddit.alefvanoon.xyz/r/steinsgate/comments/pe4azf/i_am_obsessed_with_okabe_from_steinsgate_and_i
+https://libreddit.alefvanoon.xyz/r/steinsgate/comments/pe4azf/i_am_obsessed_with_okabe_from_steinsgate_and_i
 https://www.wallabag.it/en
 https://codeload.github.com
 https://waifulabs.com/blog/ai-creativity
@@ -15086,7 +12656,6 @@ https://www.ramoswriter.com/how-to-read-more
 https://t.me/archnewsfa
 https://www.telegraph.co.uk/lifestyle/wellbeing/diet/10634081/John-Yudkin-the-man-who-tried-to-warn-us-about-sugar.html
 یک سری چیزا برا بررسی بعدا ام/اضافه کردن به فری مدیا
-File Storage, [6/4/22 1:55 PM]
 منبع منابع همه چیز:
 این منبع منابعه، یعنی منبعی که منابع رو معرفی میکنه، با این راهنماها میتونید اکثر چیزای دیجیتال رو راحت پیدا کنید، اگر بخوام یک چیز و فقط یک چیز بهتون معرفی کنم که تا اخر عمرتون مدیون باشید همینه!
 Freemediaheckyeah:
@@ -15094,48 +12663,44 @@ __
 راهنمای دسته بندی شده تمیز:
 (بکاپ های مختلف داره اگر یکی از کار بیوفته بقیه باشن)
 1- reddit (نسخه اصلی)
- https://www.reddit.com/r/freemediaheckyeah/wiki
+https://www.reddit.com/r/freemediaheckyeah/wiki
 (برای حفظ حریم خصوصی و عدم فیلترینگ فرانت اند اوپن سورس بدون دردسر مثل libreddit و teddit استفاده کنید، مثلا
- https://libreddit.alefvanoon.xyz/r/freemediaheckyeah/wiki
+https://libreddit.alefvanoon.xyz/r/freemediaheckyeah/wiki
 و البته خودشم چند instance معرفی کرده مثل:
- https://fmhy.herokuapp.com
+https://fmhy.herokuapp.com
 https://libredd.it/r/FREEMEDIAHECKYEAH/wiki
 https://teddit.net/r/FREEMEDIAHECKYEAH/wiki
 امیدوارم بدردتون بخوره)
 GitHub Backup (بکاپ روزانه)
- https://github.com/nbats/FMHYedit/ (نسخه بروزتر ولی تمیز نی)
- https://github.com/nbats/FMHY/wiki (نسخه اصل بکاپ ها)
+https://github.com/nbats/FMHYedit/ (نسخه بروزتر ولی تمیز نی)
+https://github.com/nbats/FMHY/wiki (نسخه اصل بکاپ ها)
 _
 Saidit Backup (بکاپ روزانه)
- https://saidit.net/s/freemediaheckyeah/wiki/index
+https://saidit.net/s/freemediaheckyeah/wiki/index
 محتوای مثبت هیجده اش (نسخه اصلی برای مثبت هیجده)
- https://saidit.net/s/freemediafuckyeah/wiki/index
+https://saidit.net/s/freemediafuckyeah/wiki/index
 Rentry Backup (بکاپ روزانه):
- https://rentry.co/FMHY
-_
 NotABug Backup (بکاپ روزانه):
- https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages
-__
+https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages
 Wayback Machine (بکاپ گه گاهی):
- https://web.archive.org/web
+https://web.archive.org/web
 https://www.reddit.com/r/FREEMEDIAHECKYEAH/
-_
 Disroot Backup (بکاپ گه گاهی)(Password: FMHY):
- https://bin.disroot.org/?afb37f030fe77ed8#9PJEnnb8qKd4VExxU3su5kSjcHpsVUP9CqkZ8AjrZasa
+https://bin.disroot.org/?afb37f030fe77ed8#9PJEnnb8qKd4VExxU3su5kSjcHpsVUP9CqkZ8AjrZasa
 Wiki backup: (بکاپ گه گاهی):
- https://ufile.io/mn5hdnjs
+https://ufile.io/mn5hdnjs
 سرور دیسکوردشون:
 لینک رسمی سرور دیسکوردشون:
- https://discord.fmhy.tk/
+https://discord.fmhy.tk/
 دانلود برنامه دیسکورد:
- https://discord.com/download
+https://discord.com/download
 پیشنهاد میکنم جوین بشین چون کاملترین و به روز ترین و اینکه میتونی لینکای در حال تست هم ببینی، اگر میتونید لینک سابمیت کنید
 کلا هرچی خودم داشته باشم مثلا لینکی چیزی اونجا سابمیت میکنم، اونجا یه مرجع و یه منبع برا هرچیزیه که بخواین، میتونید منبع منابع دیگه هم توش پیدا کنید، کاملترینه، چیزی در حدش ندیدم
 Discord Server Backup:
 بکاپ به صورت فایل اگر سرور پرید مثل همین اخیرا
- https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw
+https://mega.nz/folder/cRRCQSrb#cT9Pkauyena6IWBt7zYZJw
 مکان های غیر فعال دیگه که شاید اگر خواستن از دیسکورد منتقل بشن برن هم:
- https://www.guilded.gg/i/1EqadvqE
+https://www.guilded.gg/i/1EqadvqE
 https://revolt.movies4discord.xyz/invite/GMs0de3D
 اونجا بعد باید اکانت بزنید
 File Storage, [6/4/22 1:47 PM]
@@ -15155,104 +12720,74 @@ ID пользователя - 1202378755
 @opensourcetg TG Opensource Discussion
 @awnews_group AWnews group
 @usergespam 𝙐𝙨𝙚𝙧𝙂𝙚 𝙊𝙛𝙛𝙏𝙤𝙥𝙞𝙘
-File Storage, [6/4/22 1:47 PM]
 Seedit4.me
-File Storage, [6/4/22 1:47 PM]
 اندونزی دیتابیس ۵
-File Storage, [6/4/22 1:47 PM]
 کلیپ مستند انقلاب اوپن سورس (
 https://www.aparat.com/v/BKgiT/مستند_انقلاب_اوپن_سورس(متن_باز)_-_کامل_با_زیرنویس_فارسی)
 این کلیپ به زبان ساده توضیح داده (حدود ۳ دقیقه س )
 کلیپ اهمیت استفاده از نرم افزار اوپن سورس (
 https://www.aparat.com/v/UHf5Q/اهمیت_استفاده_از_نرم_افزار_های_آزاد_(Open_Source))
 متن باز (اوپن سورس) ویکیپدیا
-File Storage, [6/4/22 1:47 PM]
- https://forum.ubuntu.ir/index.php?topic=139706.15
-File Storage, [6/4/22 1:47 PM]
- https://mehdix.ir/stallman.html
+https://forum.ubuntu.ir/index.php?topic=139706.15
+https://mehdix.ir/stallman.html
 File Storage, [6/4/22 1:48 PM]
 Uploadgram
 اندروید
 برنامه ای متن باز است که به شما امکان می دهد پرونده ها را به صورت ناشناس از طریق سرورهای تلگرام بارگذاری و به اشتراک بگذارید. نیازی به ثبت نام و مجوز ندارد.
 #اوپن_سورس
- https://github.com/Pato05/uploadgram-app
+https://github.com/Pato05/uploadgram-app
 فضای ذخیره سازی ابر رایگان و نامحدود از تلگرام
 لینک دانلود از #گیتهاب
- https://github.com/Pato05/uploadgram-app/releases/tag/v1.0.0-beta.6
+https://github.com/Pato05/uploadgram-app/releases/tag/v1.0.0-beta.6
 لینک دانلود از اف دروید
- https://f-droid.org/packages/com.pato05.uploadgram/
+https://f-droid.org/packages/com.pato05.uploadgram/
 بات آپلود گرام
 برای تبدیل فایل به لینک دانلود
 ذخیره فایل و...
 @uploadgrammebot
- https://uploadgram.me/
-File Storage, [6/4/22 1:48 PM]
+https://uploadgram.me/
 جناب اگر که طرفدار ایلان ماسک هستی ویدیوهای این playlist رو ببین :
- https://m.youtube.com/playlist?list=PL-eVf9RWeoWGrJ0y_H2G8qZqxD3QjEvj9
-File Storage, [6/4/22 1:48 PM]
 @linuxtnt
-File Storage, [6/4/22 1:48 PM]
- https://t.me/linuxscoop
-File Storage, [6/4/22 1:48 PM]
- https://t.me/ArchLinuxYDerivadas
-File Storage, [6/4/22 1:48 PM]
- https://t.me/linuxiha
-File Storage, [6/4/22 1:48 PM]
+https://t.me/linuxscoop
+https://t.me/ArchLinuxYDerivadas
+https://t.me/linuxiha
 برای یاد گیری همیشه توزیع دبیان رو پیشنهاد میدم.توزیع مادر هست.و همه مواردرو داره
 داخل سایتش هم کتابی داره که توی گوگل سرچش کنی میاد
 debian handbook
 که هم pdf داره هم تحت وب هست.
 طبق اون میتونی پیش بری.
 یک نقشه راه هم درست کردم که سریع میتونی باهاش لینوکس رو شروع کنی. برات میفرستم
-File Storage, [6/4/22 1:48 PM]
 [ File : linux roadmap.pdf ]
 نقشه راه سریع لینوکس
-File Storage, [6/4/22 1:48 PM]
 ادامه
-File Storage, [6/4/22 1:48 PM]
 اگر هم فکر می کنی اینترنت ماهواره ای آینده است یا اولین شرکت اینترنت ماهواره ای SpaceX هست این ویدیو رو اول ببین :
 DEBUNKING : StarLink
-File Storage, [6/4/22 1:48 PM]
- https://m.youtube.com/watch?v=45ANTNKTJ0s
+https://m.youtube.com/watch?v=45ANTNKTJ0s
 اینم ببین
-File Storage, [6/4/22 1:48 PM]
 How To Get Started in CTF?
- https://muff1n.medium.com/how-to-get-started-in-ctf-6094940fd4d9
-File Storage, [6/4/22 1:48 PM]
- https://ctftime.org/ctf-wtf/
-File Storage, [6/4/22 1:48 PM]
- https://m.youtube.com/watch?v=zaUCDZ9d09Y
- https://mehdix.ir/stallman.html
-File Storage, [6/4/22 1:48 PM]
- https://t.me/ubports
-File Storage, [6/4/22 1:48 PM]
- https://m.youtube.com/watch?v=zaUCDZ9d09Y
-File Storage, [6/4/22 1:48 PM]
+https://muff1n.medium.com/how-to-get-started-in-ctf-6094940fd4d9
+https://ctftime.org/ctf-wtf/
+https://m.youtube.com/watch?v=zaUCDZ9d09Y
+https://t.me/ubports
 جستجوی گوگل از منطقه دیگری
 هنگامی که نیاز به یافتن نتایج جستجوی گوگل از منطقه دیگری دارید، باید به تنظیمات موتور جستجو بروید و پارامترهای جستجو را تغییر دهید. در صورت نیاز به دانستن تفاوت بین بسیاری از مکان ها، به یک روال غیر ضروری عجیب تبدیل می شود.
 سرویس عالی I Search From این کار را آسان‌تر می‌کند و به شما امکان می‌دهد بدون تغییر تنظیمات خود موتور جستجو، نتایج را از منطقه دیگری ببینید. این ابزار همچنین برای تبلیغ کنندگان و شرکت هایی که به دنبال ردیابی رتبه وب سایت خود در گوگل هستند ضروری است.
- http://isearchfrom.com/
+http://isearchfrom.com/
 #معرفی_سایت
-File Storage, [6/4/22 1:48 PM]
 Movie-Map
 سایتی است که با استفاده از هوش مصنوعی، علایق شما را ارزیابی می کند و نام فیلم ها و برنامه های تلویزیونی را ارائه می دهد که قطعا شما را جذب می کند.
 برای جستجو به سایت مراجعه کنید و نام فیلم مورد علاقه خود را در نوار جستجو وارد کنید. (به زبان انگلیسی ) . هر چه عنوان فیلم به شما نزدیکتر باشد، احتمال دوست داشتن آن بیشتر است.
- https://www.movie-map.com/
-#معرفی_سایت
+https://www.movie-map.com/
 File Storage, [6/4/22 1:49 PM]
 WebBrowserTools
-(
 https://webbrowsertools.com/) ابزاری برای افزایش امنیت مرورگر
 با استفاده از برنامه های ارائه شده در اینجا ، می توانید به راحتی حریم خصوصی ، امنیت آنلاین خود را بررسی کرده و همچنین بهره وری مرورگر خود را افزایش دهید.
 مجموعه ایی از ابزار کاربردی
- https://webbrowsertools.com/
-#معرفی_سایت
-File Storage, [6/4/22 1:49 PM]
-#معرفی_سایت
+https://webbrowsertools.com/
 ی #ترفند خیلی عالی میخام نشونتون بدم برای سرچ کردن و رسیدن بهمون نتیجه دلخواه
 یه وقتایی هست میخایید سایتهای مشابه اون سایت رو پیدا کنید مطمئنا با گوگل سرچ نمیتونین
 فقط کافیه لینک سایتی رو که مشابه‌شو نیاز دارین اینجا سرچ کنید
- http://similarsites.com
+http://similarsites.com
 حالا تمام سایتهایی که مشابه این سایت خدمات ارائه میدن رو میاره برامون
 این سایت یه ابزار دیگه داره
 https://www.similartech.com/
@@ -15267,27 +12802,22 @@ https://github.com/wgl0419/open-source-email)
 تایید مشاهده عکس ها / لینک های باز
 عکس ها را با ردیاب های تعبیه شده شناسایی می کند
 جعبه ابزار ضد فیشینگ
- https://email.faircode.eu/
- https://github.com/M66B/FairEmail/releases
-#اوپن_سورس
-File Storage, [6/4/22 1:49 PM]
+https://email.faircode.eu/
+https://github.com/M66B/FairEmail/releases
 از سکوت در ویدیوها بگذرید
 در حین تماشای محتوای ویدئویی مختلف به صورت آنلاین، به ویژه سخنرانی های آموزشی، ممکن است متوجه شویم که سخنرانی گوینده بسیار کند است و مکث های طولانی در ویدیو وجود دارد.
 اگر محتوای ویدیو به خودی خود جالب است، اما روایت خسته کننده آن خسته کننده است، پس باید از برنامه افزودنی Skip Silence از github.com (
 https://github.com/vantezzen/skip-silence) برای مرورگرهای مبتنی بر موتور کرومیوم استفاده کنید.
 این افزونه به شما این امکان را می دهد که به طور خودکار بخش هایی از ویدیو را بدون صدا افزایش دهید و در تنظیمات می توانیم آستانه صدا را تنظیم کنیم که سکوت در نظر گرفته می شود. Skip Silence با اکثر سایت‌ها از جمله YouTube کار می‌کند
 فایرفاکس
- https://addons.mozilla.org/de/firefox/addon/skip-silence/
+https://addons.mozilla.org/de/firefox/addon/skip-silence/
 کروم
- https://chrome.google.com/webstore/detail/skip-silence/fhdmkhbefcbhakffdihhceaklaigdllh
-File Storage, [6/4/22 1:49 PM]
+https://chrome.google.com/webstore/detail/skip-silence/fhdmkhbefcbhakffdihhceaklaigdllh
 چگونه ویدیوهای یوتیوب را بر اساس موقعیت جغرافیایی جستجو کنیم؟
 سازندگان یوتیوب می توانند ویدیوهای خود را آپلود کنند و مشخص کنند که در چه موقعیت جغرافیایی ایجاد شده اند. این یک ویژگی جالب است که با آن می توانید فرهنگ کشورهای مختلف را کشف کنید یا یک منطقه خاص را از زوایای مختلف مشاهده کنید (اگر وبلاگ نویس در حال فیلمبرداری پویا باشد).
 سرویس اختصاصی YouTube Geofind (
 https://mattw.io/youtube-geofind/location) برای چنین کاری ایجاد شده است. یک نقطه از نقشه را انتخاب کنید و تمام ویدیوهایی که از این منطقه دانلود شده اند را مشاهده خواهید کرد.
- https://mattw.io/youtube-geofind/location
-#معرفی_سایت
-File Storage, [6/4/22 1:49 PM]
+https://mattw.io/youtube-geofind/location
 Click&Clean
 یک افزونه مرورگر جالب که بسیاری از ویژگی های مفید را ترکیب می کند. این برنامه با هدف سهولت هر چه بیشتر کار با مرورگر ایجاد شده است.
 اسکن کامپیوتر برای بدافزار
@@ -15300,43 +12830,35 @@ Click&Clean
 این افزونه رابط کاربری دلپذیر و کاربرپسندی دارد، درک آن دشوار نخواهد بود.
 لینک دانلود
 https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?hl=en
-File Storage, [6/4/22 1:49 PM]
 Rethink
 DNS + Firewall
-اندروید
-Android
- https://rethinkdns.com/app
+https://rethinkdns.com/app
 Rethink DNS + Firewall ساده ترین راه برای نظارت بر فعالیت برنامه ، دور زدن سانسور اینترنت ، مسدود کردن تبلیغات و ردیاب ها در دستگاه Android شما است.
 منبع باز
- https://github.com/celzero/rethink-app
+https://github.com/celzero/rethink-app
 فایروال
 از اتصال برنامه ها به اینترنت جلوگیری کنید
 مسدود کردن محتوا
 تبلیغات ، ردیاب ها ، بدافزار و موارد دیگر را مسدود کنید
 به عنوان مثال ، نمی توان به طور کامل برنامه های پیام رسان را فایروال کرد
 مشاهده لیست مسدود ساز
- https://rethinkdns.com/app#blocklists
-لینک دانلود
- https://github.com/celzero/rethink-app/releases/download/v0.5.3g/rethinkdns18.apk
+https://rethinkdns.com/app#blocklists
+https://github.com/celzero/rethink-app/releases/download/v0.5.3g/rethinkdns18.apk
 ضد سانسور
 نظارت بر ترافیک
 #حریم_خصوصی
-#اوپن_سورس
 #گیتهاب
-File Storage, [6/4/22 1:49 PM]
 نحوه یادگیری نقاشی با استفاده از برنامه
 بسیاری از مردم می خواهند نقاشی را شروع کنند، اما نمی دانند از کجا شروع کنند. خواه طراحی روی تبلت گرافیکی باشد یا طراحی سنتی با مداد. در چنین مواقعی می توانید با خیال راحت از سرویس TryDraw (
 https://www.trydraw.com/) استفاده کنید
 TryDraw (
 https://www.trydraw.com/)
 تسلط بر اصول اولیه طراحی را برای مبتدیان و کسانی که می خواهند در هنرهای تجسمی پیشرفت کنند آسان می کند. در اینجا می توانید یاد بگیرید که چگونه چشم، گوش، بینی و غیره انسان را در یک فرآیند گام به گام ساده بکشید. رایگان و بدون ثبت نام و محتوا به طور مداوم به روز می شود.
- https://www.trydraw.com/
-#معرفی_سایت
-File Storage, [6/4/22 1:49 PM]
+https://www.trydraw.com/
 قبلا توضیح دادیم که برای دور زدن محدودیت فری تریال یا ثبتنام میشه از فیک میل و ترفند نقطه گذاری بین آیدی جمیل میشه سایتها رو گول زد ولی بعضی وقتا هیچکدوم این روشها جواب نیس دیگه
 سرویس ایمیل یاندکس یکی از ایمیلهای معتبر هستش که میشه اونو با ۱۳ دامنه مختلف استفاده کرد
 یه اکانت توی این سرویس بسازید
- https://passport.yandex.com/registration?mode=register
+https://passport.yandex.com/registration?mode=register
 وقتی ایمیل ساخته شد میتونید از این دامنه ها استفاده کنید
 @ yandex.ru
 @ yandex.by
@@ -15352,78 +12874,64 @@ File Storage, [6/4/22 1:49 PM]
 @ yandex.uz
 @ ya.ru
 صندوق پستی هر ۱۳ مورد همون صندوق دریافت کننده شماس
-File Storage, [6/4/22 1:49 PM]
 1812 سرور شادوساکس بصورت کانفیگ کلش
- https://proxypoolss.fly.dev/clash/config
-File Storage, [6/4/22 1:49 PM]
+https://proxypoolss.fly.dev/clash/config
 برای دریافت سرور رایگان پروتکلهای ساپورت کننده ساگرنت مثه snl VLESS Trojan ...
 از این دوتا منبع استفاده کنید
 هر اکانت هفت روز فعال میشه نیاز به ایمیل هم نداره فقط یوزر پسورد دلخواه وارد کنید
- https://www.fastssh.com
- https://howdy.id/
-File Storage, [6/4/22 1:49 PM]
+https://www.fastssh.com
+https://howdy.id/
 آیا میدونستین نقشه‌های اطلس دنیا اندازه غیر واقعی رو به ما نشون میده ؟
 در واقع هر چه از خط استوا به طرف شمال و یا جنوب بریم اندازه کشورها از نظر وسعت روی نقشه بزرگتر نشون داده میده
 اگه میخایین اندازه دقیق روی نقشه کشورها رو روی نقشه ببینید به این سایت برید
- https://thetruesize.com
-#معرفی_سایت
-File Storage, [6/4/22 1:49 PM]
+https://thetruesize.com
 اینکه سرور دست خودتون باشه بهترین روش اتصال به وی پی ان هستش
 حتی امنترین سرویس‌های vpn ادعاهایی که دارن قابل راستی آزمایی نیست
 اگه امکانش رو دارید vps شخصی بگیرید و خودتون vpn بسازید خیلی بهتره حتی اگه دانش فنی و حوصله کپی پیست کردن هم ندارید فقط کافیه مشخصات vps رو اینجا وارد کنید
- https://github.com/amnezia-vpn/desktop-client/
- http://myvpn.run
+https://github.com/amnezia-vpn/desktop-client/
+http://myvpn.run
 تا وی پی ان شخصی تونو با چندین پروتکل بهتون بده
-File Storage, [6/4/22 1:49 PM]
 OpenVpn-install (
 https://github.com/Nyr/openvpn-install)
 wireguard install (
 https://github.com/Nyr/wireguard-install)
 نصب کننده OpenVPN , wireguard برای Ubuntu، Debian، AlmaLinux، Rocky Linux، CentOS و Fedora
 این اسکریپت به شما امکان می دهد سرور VPN خود را در کمتر از یک دقیقه راه اندازی کنید، حتی اگر قبلا از OpenVPN استفاده نکرده باشید. طراحی شده است تا حد امکان محجوب و همه کاره باشد.
- https://github.com/Nyr/openvpn-install
- https://github.com/Nyr/wireguard-install
+https://github.com/Nyr/openvpn-install
+https://github.com/Nyr/wireguard-install
 اگه سرور شخصی ندارید میتونید از این سرویس vps فقط ماهی یک دلار هزینه داره
- https://virmach.com/
+https://virmach.com/
 VPS.agRoboVps.biz
-File Storage, [6/4/22 1:49 PM]
 Lightning SHARE
 یک سرویس میزبانی و اشتراک فایل منبع باز است.
 کاربران می توانند فایل هایی با حجم کمتر از 20 مگابایت آپلود کنند و با استفاده از "کد مشترک" (کد سه کلمه ای ارائه شده توسط word-aas) فایل های میزبانی شده قبلی را دانلود کنند.
 فایل رو بصورت لینک مستقیم دانلود در میاره
 پس از دانلود فایل، کاربری که آن را آپلود کرده است یک کد دریافت می کند و می تواند آن را با دیگران به اشتراک بگذارد یا هر زمان که بخواهد فایل را حذف کند. فایل ها پس از 21 روز به طور خودکار حذف می شوند
- https://github.com/chroline/lightning-share
+https://github.com/chroline/lightning-share
 وب سایت:
 https://lightning-share.vercel.app/
-#معرفی_سایت
-File Storage, [6/4/22 1:49 PM]
-[ Photo ]
 Linux Journey (
 https://linuxjourney.com/)
 سرویسی برای آزمایش دانش شما از سیستم های لینوکس است.
 آیا می خواهید دانش لینوکس خود را بهبود بخشید؟ یا اینکه بررسی کردن خود امری عادی است؟
 آیا چیزی از آن متوجه نمی شوید یا به دنبال پاسخی برای یک سوال خاص هستید؟ این راهنمای رایگان کمربند سیاه مبتدی تا لینوکس بسیار مفید خواهد بود.
- https://linuxjourney.com/
-#معرفی_سایت
-File Storage, [6/4/22 1:49 PM]
+https://linuxjourney.com/
 Buster: Captcha Solver for Humans
 دور زدن reCAPTCHA
 رو مخی ترین بخش ورود به بعضی سایتها
 حل reCAPTCHA صوتی و تصویری
-#اوپن_سورس
- https://github.com/dessant/buster
+https://github.com/dessant/buster
 افزونه مرورگر اج
- https://microsoftedge.microsoft.com/addons/detail/admkpobhocmdideidcndkfaeffadipkc
+https://microsoftedge.microsoft.com/addons/detail/admkpobhocmdideidcndkfaeffadipkc
 افزونه مرورگر فایرفاکس
- https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/
+https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/
 افزونه مرورگر کروم دسکتاپ و یاندکس اندروید
- https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
-File Storage, [6/4/22 1:49 PM]
+https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
 CryptoList (
 https://github.com/coinpride/CryptoList)
 مجموعه ای از بلاک چین و منابع مختلف ارزهای دیجیتال
 این مخزن شامل منابع موضوعی مختلفی است: مجلات، کانال های رسانه ای، چت ها، اکانتهای توییتر ، تحلیل‌ها ، انجمن ها، فیلم ها و موارد دیگر
- https://github.com/coinpride/CryptoList
+https://github.com/coinpride/CryptoList
 #رمزارز
 File Storage, [6/4/22 1:50 PM]
 Kali Tools (
@@ -15446,9 +12954,7 @@ https://en.kali.tools/)
 ابزارهای گزارش دهی
 محیط ها و برنامه های تمرینی آسیب پذیر
 رمزگذاری داده ها و ضد پزشکی قانونی
- https://en.kali.tools/
-#معرفی_سایت
-File Storage, [6/4/22 1:50 PM]
+https://en.kali.tools/
 Mirotalk (
 https://github.com/miroslavpejic85/mirotalk) (p2p)
 تماس تصویری زنده، چت و پخش صفحه به طور کامل در مرورگر پیاده سازی شده است. پشتیبانی شده توسط WebRTC
@@ -15465,26 +12971,20 @@ https://github.com/miroslavpejic85/mirotalk) (p2p)
 .تخته سفید آموزشی پیشرفته برای معلمین و مدرسین
 و بسیاری دیگه از قابلیتهای عالی
 وبسایت
- https://mirotalk.up.railway.app/
-#اوپن_سورس
- https://github.com/miroslavpejic85/mirotalk
-#معرفی_سایت
-File Storage, [6/4/22 1:50 PM]
+https://mirotalk.up.railway.app/
+https://github.com/miroslavpejic85/mirotalk
 3d Aim Trainer
 بالا بردن مهارت در بازیهای شوتر
 سرعت ایم گرفت نشانه گیری و شلیک
 در بازیهایی مثه csgo , وارزون ، پابجی و کالاف موبایل و...
- https://www.3daimtrainer.com/
+https://www.3daimtrainer.com/
 میتونید بصورت آنلاین مهارتهایی مثه اسنایپ زدن ، هیپ فایر، موومنت اسلحه رو بالا ببرید
- https://www.3daimtrainer.com/quick-play/
+https://www.3daimtrainer.com/quick-play/
 یا اینکه نرم افزار رو در ios , اندروید و ویندوز دانلود کنید
- https://www.3daimtrainer.com/download/
-#معرفی_سایت
+https://www.3daimtrainer.com/download/
 #گیم_کلاب
-File Storage, [6/4/22 1:50 PM]
 دفترچه یادداشت آنلاین
-#معرفی_سایت
- https://www.google.com/keep
+https://www.google.com/keep
 https://primapad.com
 https://www.onenote.com/hrd
 https://www.zippyjot.com
@@ -15492,14 +12992,12 @@ https://www.rapidtables.com/tools/notepad.html
 https://clickup.com
 https://www.memonotepad.com
 https://anotepad.com/
-File Storage, [6/4/22 1:50 PM]
 لیستی از منابع مفید
-#معرفی_سایت
 امنیت و حریم خصوصی
- https://restoreprivacy.com/privacy-tools/
- https://www.privacytools.io/
+https://restoreprivacy.com/privacy-tools/
+https://www.privacytools.io/
 آنتی ویروس ها:
- http://fuckingscan.me
+http://fuckingscan.me
 http://nodistribute.com
 http://www.file2scan.net
 http://anubis.iseclab.org
@@ -15507,29 +13005,25 @@ https://anonscanner.com
 http://virusscan.jotti.org/it
 https://www.virustotal.com/nl/
 خدمات کار با IP:
- http://ip-api.com
+http://ip-api.com
 http://ipaddress.com
 http://www.whatismyip.com
 http://www.ip2location.com/demo
 http://freegeoip.net/static/index.html
 http://www.ip-adress.com/ipaddresstolocation/
 بررسی ناشناس بودن:
- https://ipleak.net
-https://www.dnsleaktest.com
 https://diafygi.github.io/webrtc-ips/‌‌
 حذف پس زمینه از عکس
- https://www.stickermule.com/trace
- https://www.remove.bg/
-File Storage, [6/4/22 1:50 PM]
+https://www.stickermule.com/trace
+https://www.remove.bg/
 چگونه فایلهای مایکروسافت استور رو مستقیم و بدون داشتن اکانت و ورود به اپ مایکروسافت استور دانلود کنیم ؟
 فقط کافیه لینک برنامه ایی رو میخاییم نصب کنیم از مایکروسافت استور بگیریم
 حالا به لینک زیر برید
- https://store.rg-adguard.net/
+https://store.rg-adguard.net/
 لینک کپی شده رو پیست کنید
 دقت کنید در منو گزینه URL Link انتخاب شده باشه
 روی کلیک کنید
 برای نصب اپ‌های مایکروسافت استور، به دو فایل AppxBundle و EAppxBundle نیاز است. بنابراین لینک فایل‌ها را یکی‌یکی بررسی کنید و فایل‌هایی با این دو پسوند را دانلود کنید. پس از دانلود کردن فایل‌ها، می‌بایست روی فایل نصب دبل‌کلیک کنید و مراحل نصب را طی کنید
-File Storage, [6/4/22 1:50 PM]
 GHunt
 یک ابزار OSINT مدولار برای استخراج اطلاعات از هر حساب Google است.
 در حال حاضر، می تواند بازیابی کند:
@@ -15539,9 +13033,8 @@ GHunt
 • عکس های عمومی، مدل ها و سیستم عامل گوشی ها
 • نرم افزار نصب شده
 و ...
- https://github.com/mxrch/GHunt
+https://github.com/mxrch/GHunt
 #osint
-File Storage, [6/4/22 1:50 PM]
 تست ردیابی مرورگر
 در حال حاضر، میلیون‌ها کاربر که در هنگام مرور اینترنت نگران حریم خصوصی خود هستند، از ابزارهایی برای مخفی کردن فعالیت‌های خود تا حد امکان استفاده می‌کنند و از تکنیک‌هایی مانند مرورگر وب ناشناس یا حتی استفاده از راه‌حل‌های شبکه خصوصی مجازی (VPN) استفاده می‌کنند. با این حال، این بدان معنا نیست که فعالیت آنلاین کاربران کاملاً ایمن خواهد بود، زیرا ابزارهای مختلفی برای دور زدن این محافظت ها وجود دارد.
 Supercookie
@@ -15550,33 +13043,21 @@ Supercookie
 روش ردیابی حتی در حالت ناشناس مرورگر نیز کار می کند و با پاک کردن کش، بستن مرورگر یا راه اندازی مجدد سیستم عامل، استفاده از VPN یا نصب AdBlockers پاک نمی شود.
 برای تست مرورگر به سایت زیر برید
 اگه تونست شناسه‌ی مرورگر شما رو پیدا کنه اون مرورگر خوب نیست
- https://supercookie.me/
-#اوپن_سورس
- https://github.com/jonasstrehle/supercookie
-File Storage, [6/4/22 1:50 PM]
+https://supercookie.me/
 @hosseinsarticles
-File Storage, [6/4/22 1:50 PM]
 منظورم سایتی مثل restoreprivacy.com هست
-File Storage, [6/4/22 1:50 PM]
 @madcod
-File Storage, [6/4/22 1:50 PM]
 Whosampled.com
-File Storage, [6/4/22 1:50 PM]
 خب کارم با اون اکانتم تموم شد و پاکیدمش، حالا دالیییی
-File Storage, [6/4/22 1:50 PM]
 @prpd47
 فقط انسان های چند بعدی میتونن راهو پیدا کنن، گفتم بگم، نوتیفیکشن رو حالا خواستین باز کنید، حالا ممکنه به مدت طولانی فعالیت نداشته باشیم یا شت داشته باشیم تا نت حل بشه، خب اینجا هم شاهد مرگ تدریجیش میشین
 تعداد افراد باقی مونده از اینجا: ۱۱
-File Storage, [6/4/22 1:50 PM]
 پشیمون شدم، نوتیف رو خاموش کنید اینجا دیه انباریمه پیام های ذخیره شده چرته کلا این همه دردسر کشیدیم
-File Storage, [6/4/22 1:50 PM]
 خب فور رو باز میزارم برا یک هفته و مطالبمون قبل
- https://t.me/c/1242591850/1944
+https://t.me/c/1242591850/1944
 هستش و بعدش این کانال رو کاملا پرایویت میکنم و ادامه راه @prpd47 هستش که فقط ۳ نفر از ۲۳ پیداش کردن، و عجب wiki درست کردن دردسر داره ها
 گپ خودمونی هم @floss_frauds هستم بیشتر، حوصله زدن گپ و مدیریتشو ندارم اونجا با دوستا دور همیم
-File Storage, [6/4/22 1:50 PM]
 I cut my cloud bill by 95%25 using Traefik, Tailscale, and K3s
-(
 https://www.youtube.com/watch?v=Wh_HpPwSswo)Hacker News: Newest
 Article URL:
 https://www.youtube.com/watch?v=Wh_HpPwSswo
@@ -15584,93 +13065,55 @@ Comments URL:
 https://news.ycombinator.com/item?id=29757469
 Points: 3
 Comments: 0
- https://news.ycombinator.com/item?id=29757469
 You can save this video with @download_it_bot (
 https://t.me/download_it_bot?start=aximobot_caption)
-File Storage, [6/4/22 1:50 PM]
- https://www.youtube.com/watch?v=eOeOfBl3mbI
-File Storage, [6/4/22 1:50 PM]
- https://github.com/conwnet/github1s
-File Storage, [6/4/22 1:50 PM]
- https://www.lofi.cafe/
-File Storage, [6/4/22 1:50 PM]
- https://free-for.dev/#/
-File Storage, [6/4/22 1:50 PM]
+https://www.youtube.com/watch?v=eOeOfBl3mbI
+https://github.com/conwnet/github1s
+https://www.lofi.cafe/
+https://free-for.dev/#/
 github.dev
 vscode.dev
 github1s.com
-File Storage, [6/4/22 1:50 PM]
- https://hn.algolia.com
-File Storage, [6/4/22 1:50 PM]
- https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases
-https://github.com/massgravel/Microsoft-Activation-Scripts
+https://hn.algolia.com
+https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases
 https://github.com/luzeadev/winactivate
 File Storage, [6/4/22 1:51 PM]
- https://github.com/dwmkerr/hacker-laws
-File Storage, [6/4/22 1:51 PM]
+https://github.com/dwmkerr/hacker-laws
 7 ژانویه از رگ گردن به شما نزدیک تر است، زود جمعش کنید لفت بدید
 سوره زجر، آیه 47
-File Storage, [6/4/22 1:51 PM]
 خواستی کتاب چیستی علم رو بخون
-File Storage, [6/4/22 1:51 PM]
 اگرم می‌خوای دستت بیاد فلسفه چیست افلاطون رو بخون
-File Storage, [6/4/22 1:51 PM]
 برو نقد عقل محض کانت بخون
-File Storage, [6/4/22 1:51 PM]
 Best Form of Government on Mars
-(
 https://www.youtube.com/watch?v=OMm5AGZ1NVw)Hacker News: Newest
-Article URL:
 https://www.youtube.com/watch?v=OMm5AGZ1NVw
-Comments URL:
 https://news.ycombinator.com/item?id=29769450
 Points: 1
-Comments: 0
- https://news.ycombinator.com/item?id=29769450
-You can save this video with @download_it_bot (
-https://t.me/download_it_bot?start=aximobot_caption)
-File Storage, [6/4/22 1:51 PM]
 بیا پس فلسفه علم بگم که امروز بحث شد
 چیستی علم
 انقلاب‌های علمی توماس کوهن
-File Storage, [6/4/22 1:51 PM]
 من از کتاب تیدمن خوندم دو جلده گزاره‌ها جلد یکش و دو محمولات
 ولی یک کتاب اومده می‌گن آسون‌تره
-File Storage, [6/4/22 1:51 PM]
- https://t.me/Students_of_modern_logic_Qom
-File Storage, [6/4/22 1:51 PM]
- https://nostarch.com/cyberjutsu
-File Storage, [6/4/22 1:51 PM]
- https://www.dreamtime.tech/docs/installation
+https://t.me/Students_of_modern_logic_Qom
+https://nostarch.com/cyberjutsu
+https://www.dreamtime.tech/docs/installation
 لخت کننده دختر مردم چون جنده اند، بعدا پروف یکیو بردارم تست کنم روش، فرار کنید تا میتونید
-File Storage, [6/4/22 1:51 PM]
 Kino no tabi
 Hibane renmai
-File Storage, [6/4/22 1:51 PM]
 لعنتیا عکساتون و ویدیو هاتون رو بزارید اینستا برا تست نیاز میشه، شاید کلیپ با دیپ هم باهاش درست کردیم
-File Storage, [6/4/22 1:51 PM]
- https://libredd.it/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_indexes
+https://libredd.it/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_indexes
 هم برا ویکی های مختلف دیگه، اونایی که بولد شدن بهترن
-File Storage, [6/4/22 1:51 PM]
 Enabling children and beginning programmers to build AI programs with Snap (
 https://ecraft2learn.github.io/ai/)
 Hacker News: Newest
-Article URL:
 https://ecraft2learn.github.io/ai/
-Comments URL:
 https://news.ycombinator.com/item?id=29779198
-Points: 1
-Comments: 0
- https://news.ycombinator.com/item?id=29779198
-File Storage, [6/4/22 1:51 PM]
 کلا عاشق هر خبریم که توش بچه و برنامه نویسی با هم باشن، باید چکش کنم :)
-File Storage, [6/4/22 1:51 PM]
- https://dustinbrett.com
+https://dustinbrett.com
 https://github.com/DustinBrett/daedalOS
 سورس کدش
 دسکتاپ تحت وب؟
 باو از این سکسی تر؟
-File Storage, [6/4/22 1:51 PM]
 خب داره دیر میشه ها....
 گفتم بگم، از 28 نفر 9 نفر میمونن درخت گیلاسمون، گفتم بگم
 File Storage, [6/4/22 1:52 PM]
@@ -15679,17 +13122,13 @@ File Storage, [6/4/22 1:52 PM]
 ۲- عینک رو با مایه ظرفشویی یا دستشوری کاملا اغشته میکنیم و اب میکشیم و در این پروسه درست به شیشه عینک نمی‌زنیم و پاک کردن مایه ظرفشویی رو به فشار اب می‌سپاریم و یکم عینک رو تکون میدیم قطره ها بریزه
 ۳- بدون دست زدن شیشه عینک با پارچه عینک تمیز میکنیم
 و اینگونه عینک شما بدون حتی یک لکه پاکه پاکه و اعصاب خوردی پاک کردن مثل مبتدیا رو ندارید
-File Storage, [6/4/22 1:52 PM]
 هرچی میخوام بزرگتر فکر کنم پروژه سخت تر و نیاز به تحقیق بیشتر داره، اخرش از کتاب مدرسه ای هم بدتر میشه، حیف که تو جنگ حلوا تقسیم نمیکنن و باید سریع تمومش کنم، عناوین و کلی چیز دیگه هم همین نمی‌مونه، اینجا باید تصمیم بگیرم دقیقا چی میخوام بسازم و چقدر وسیع بسازم و باید قبل مرگم تمومش کنم، شاید یک مدت باید لیبره افیس ورد بشینم با خودم کلنجار برم، شاید وبلاگ پرایویت بنویسم، بعدش تموم کردم بخشیش رو اینجا پیست کنم
-File Storage, [6/4/22 1:52 PM]
 باو خیلی فکرمو داره درگیر می‌کنه ولی نه ایده دارم نه نت، بمونه برا بعد
-File Storage, [6/4/22 1:52 PM]
- https://www.gamingonlinux.com/wiki/Main_Page
-File Storage, [6/4/22 1:52 PM]
+https://www.gamingonlinux.com/wiki/Main_Page
 دوستان این منبعی رو که میزارم در واقع منبع اصلی سرورهای شادوساکس و کلش
 که الان گذاشتم
 همه وبسایتهایی که میبنید یکی هستن
- https://hello.stgod.com
+https://hello.stgod.com
 https://proxies.bihai.cf
 https://sspool.nl
 https://proxypool-guest997.herokuapp.com
@@ -15740,162 +13179,119 @@ https://origamiboy.herokuapp.com
 https://proxy.suntiefeng.com
 https://proxypoolss.fly.dev
 https://ednovas.design/
-File Storage, [6/4/22 1:52 PM]
- https://downsub.com/
-File Storage, [6/4/22 1:52 PM]
+https://downsub.com/
 muffon (
 https://github.com/staniel359/muffon) -
 یک مرورگر/سرویس پخش موسیقی دسکتاپ است که صدا و تصویر را از سرویس هایی مانند: LastFM، Discogs، VK، YouTube، Deezer، Yandex Music، Spotify، SoundCloud، Bandcamp، Genius می گیرد.
 به شما امکان می دهد به هنرمندان گوش دهید، ویدیوها را تماشا کنید، برچسب ها را مشاهده کنید و حتی به کل آلبوم ها گوش دهید. بدون آگهی است و استفاده از آن کاملاً رایگان است.
 لینک دانلود برای ویندوز مک لینوکس
- https://github.com/staniel359/muffon/releases/tag/v0.1.0-alpha.16
-File Storage, [6/4/22 1:52 PM]
+https://github.com/staniel359/muffon/releases/tag/v0.1.0-alpha.16
 جون جدتون اینقدر متاورس متاورس نکنید، اگر اتاق مجازی برا کنرافرانس هستش که vrchat هستش، اگر یه دنیا پر از کسایی هستش که عینک ar میپوشن و بولشیت میبینن مثل پوکمون گو و اون عینک اطلاعات به سرور ارسال می‌کنه و پرایواسی دنیای واقعی رو به چوخ بده، اونم شدنی نیست به دلیل محدودیت پردازش و بشه چطور بشریت رو اینقدر احمق فرض کردن؟
 اصلا نه nft رو درک میکنم نه این متاورس، نه اون web3، نه خریدن زمین داخل متاورس، بعدشم متاورس ای که دست فیسبوک و مایکروسافت باشه رو....
 این اوپن سورس هم خدایی چرا وجود داره
-File Storage, [6/4/22 1:52 PM]
 فکر کنم این مادر فلسفه هکری هستش
- http://www.catb.org/~esr/faqs/hacker-howto.html
-File Storage, [6/4/22 1:52 PM]
- https://github.com/expressvpn/lightway-core
+http://www.catb.org/~esr/faqs/hacker-howto.html
+https://github.com/expressvpn/lightway-core
 https://github.com/expressvpn/lightway-laser
 می‌دونستید که lightway پروتکلش اوپن سورس کرده اکسپرس؟
- https://www.expressvpn.com/blog/lightway-open-source-security-audit/
+https://www.expressvpn.com/blog/lightway-open-source-security-audit/
 حالا حرف جالبی که گفته
 "Anyone may also contribute to this code, as well as use it freely—even other VPN providers!"
 خط اخرش خندم گرفت، وقتی سورس کد لایسنس اش رو میبینی نوشته GPL2، که یعنی نمیتونی رو نرم افزار سورس بسته ات استفاده کنی، ای شیطون میگم چرا این جیگر پر استفاده نشد، اخه اکثر شرکت های وی پی ان یتیم برنامشون سورس بسته هستش، از جمله خود اکسپرس
-File Storage, [6/4/22 1:52 PM]
- https://github.com/zriyans/awesome-OS
-File Storage, [6/4/22 1:52 PM]
- https://github.com/remote-android/redroid-doc
+https://github.com/zriyans/awesome-OS
+https://github.com/remote-android/redroid-doc
 Looks promising....
-File Storage, [6/4/22 1:52 PM]
 @DL_Pack
 پک استیکر مورد علاقه
-File Storage, [6/4/22 1:52 PM]
- https://archivebox.io/
+https://archivebox.io/
 بعدا باید بررسی کنم
-File Storage, [6/4/22 1:52 PM]
- https://yunohost.org/
+https://yunohost.org/
 عجب جیگریه
- https://github.com/wallabag/wallabag
 چیز نه چندان جالب
-File Storage, [6/4/22 1:52 PM]
- https://github.com/kevinthew/linuxgems
+https://github.com/kevinthew/linuxgems
 بعدا چکش کنم
-File Storage, [6/4/22 1:52 PM]
- https://github.com/0xc0ffeec0de/opm
+https://github.com/0xc0ffeec0de/opm
 Sounds fuckin promising
 File Storage, [6/4/22 1:53 PM]
- https://www.theverge.com/2018/7/12/17561768/dont-feed-the-trolls-online-harassment-abuse
+https://www.theverge.com/2018/7/12/17561768/dont-feed-the-trolls-online-harassment-abuse
 https://www.conspiracychart.com
 https://eth.build
 https://github.com/synchronizing/mitm
 چند چیز برا بررسی
- https://fa.wikipedia.org/wiki/جدول_رنگین‌کمانی
+https://fa.wikipedia.org/wiki/جدول_رنگین‌کمانی
 فکر میکردم کرک کردن خیلی سخت باشه اما نه!
 داستان Mark lepine جالبه
-File Storage, [6/4/22 1:53 PM]
-#معرفی_سایت
 یک شبکه اجتماعی برای به اشتراک گذاشتن کاردستی و آموزش
 Instructables
- https://www.instructables.com/
+https://www.instructables.com/
 وایرایشگر آنلاین پی دی اف
 PDF Escape
- https://www.pdfescape.com/
 جستجوی پیشرفته عکس های با کیفیت بالا
 Pixabay
- https://pixabay.com/
+https://pixabay.com/
 فتوشاپ آنلاین
 Pixlr
- https://pixlr.com/
+https://pixlr.com/
 پیام خصوصی با قابلیت امحا پیام
 Privnote
- https://privnote.com/
+https://privnote.com/
 اسکرین شات صفحات وب
 Screenshot Guru
- https://screenshot.guru/
+https://screenshot.guru/
 Chrome Music Lab
 آموزش موسیقی همراه با یادگیری علوم ریاضی و هنر برای کودکان
 یه سایت عالی برای سرگرم کردن کودکان با گوشی
- https://musiclab.chromeexperiments.com/
-File Storage, [6/4/22 1:53 PM]
+https://musiclab.chromeexperiments.com/
 CryptoList
-مجموعه ای از بلاک چین و منابع مختلف ارزهای دیجیتال
 این مخزن شامل منابع موضوعی مختلفی است: مجلات، کانال های تلگرامی ،ارائه سیگنال، چت ها، انجمن ها، فیلم ها و موارد دیگر
- https://github.com/coinpride/CryptoList
-File Storage, [6/4/22 1:53 PM]
 جان بخشیدن به هنر با هوش مصنوعی
 ابزار آنلاین sketch.metademolab.com به شما این امکان را می دهد که به نقاشی ها (مثلاً کودکان) جان ببخشید و انیمیشن های کوچکی از آنها بسازید. در بهترین سنت، این سرویس از هوش مصنوعی پشتیبانی می‌کند.
 به سایت (
 https://sketch.metademolab.com/canvas) بروید و فرمت تصویر را بررسی کنید. باید روی یک ورقه تمیز، بدون چروک، به خوبی روشن و با حداقل سایه روی ورق رنگ شود.
 عکس مورد نظر خود را آپلود کنید. در مرحله بعد، از کادر برای انتخاب کاراکتر روی برگه استفاده کنید. در مرحله بعد کاراکتر به صورت خودکار رنگ می شود. در صورت لزوم، می توانید ماسک را با یک پاک کن و مداد لمس کنید.
 در مرحله بعد، هوش مصنوعی "نقاشی" را برای انیمیشن تنظیم می کند. در صورت لزوم می توانید آن را ویرایش کنید. در پایان، شخصیت زنده می شود. در سمت چپ، می توانید انواع مختلف حرکت را انتخاب کنید.
- https://sketch.metademolab.com/canvas
-#معرفی_سایت
-File Storage, [6/4/22 1:53 PM]
+https://sketch.metademolab.com/canvas
 تست ناشناس بودن
 test your anonymity
 آی پی من چیست ؟
- https://ipx.ac/
+https://ipx.ac/
 نشتی دارم
- https://www.doileak.com
+https://www.doileak.com
 https://www.doileak.com/classic.html
 تست نشت DNS
- http://dnsleaktest.com/
+http://dnsleaktest.com/
 تست نشت ipv6
- http://ipv6-test.com/
+http://ipv6-test.com/
 پروکسی من چیه؟
- http://whatismyproxy.com/
+http://whatismyproxy.com/
 آنچه که هر مرورگر در مورد شما می داند
- http://webkay.robinlinus.com/
+http://webkay.robinlinus.com/
 چک Tor (در صورت استفاده از تور)
- https://check.torproject.org/
-#معرفی_سایت
-File Storage, [6/4/22 1:53 PM]
+https://check.torproject.org/
 Hacker News: Newest:
 Aero: An experimental, Unix-like OS written in Rust
-Article URL:
 https://github.com/Andy-Python-Programmer/aero
-Comments URL:
 https://news.ycombinator.com/item?id=29820417
 Points: 5
-Comments: 0
- https://github.com/Andy-Python-Programmer/aero
-File Storage, [6/4/22 1:53 PM]
 سرطان:
 قضیه اسم گذاری سگ امبر هرد رو سرچ کنید برا خنده،
 "نام سگ امبر هرد" یا "قضیه نامگذاری سگ امبر هرد"
 همون زنیکه نجاست دوجنس‌گرا که رید تخت جانی دپ، قضیه خیلی وقت پیشه که تعریف کردن برام و جالب بود و سرچ کردم و خلاصه واقعا زنا معیوب المغزن، نخست وزیره هم خوب جوابشو داد
-File Storage, [6/4/22 1:53 PM]
- https://t.me/White_Makes_Right
+https://t.me/White_Makes_Right
 کانال سفید پوستا و جهت به اصطلاح نئو نازی گونه دارن، مرض دارم بعدا چکش کنم
-File Storage, [6/4/22 1:53 PM]
- https://jadi.net/projects/
+https://jadi.net/projects/
 یادم بمونه کتاب just for fun ترجمه جادی رو بخونم :)
-File Storage, [6/4/22 1:53 PM]
- https://allthevaccines.org/
+https://allthevaccines.org/
 درباره همه واکسن های بشری؟ بمونه برا لیست بررسی
-File Storage, [6/4/22 1:53 PM]
- https://github.com/intigos/possimpible
+https://github.com/intigos/possimpible
 https://speechcat.org
 http://beej.us/guide/bgipc/
-File Storage, [6/4/22 1:53 PM]
-منبع منابع همه چیز:
-این منبع منابعه، یعنی منبعی که منابع رو معرفی میکنه، با این راهنماها میتونید اکثر چیزای دیجیتال رو راحت پیدا کنید، اگر بخوام یک چیز و فقط یک چیز بهتون معرفی کنم که تا اخر عمرتون مدیون باشید همینه!
 1- Freemediaheckyeah:
-راهنمای دسته بندی شده تمیز:
- https://www.reddit.com/r/freemediaheckyeah/wiki
 (همین ولی فرانت اند اوپن سورس بدون دردسر لاگینش و حریم خصوصی)
- https://libreddit.alefvanoon.xyz/r/freemediaheckyeah/wiki
 محتوای مثبت هیجده
- https://saidit.net/s/freemediafuckyeah/wiki/index
 لینک دیسکورد، پیشنهاد میکنم جوین بشین چون کاملترین و به روز ترین و اینکه میتونی لینکای در حال تست هم ببینی، اگر میتونید لینک سابمیت کنید
- https://discord.gg/McUYwwGUGY
-دانلود برنامه دیسکورد:
- https://discord.com/download
+https://discord.gg/McUYwwGUGY
 پ.ن: کلا هرچی خودم داشته باشم مثلا لینکی چیزی اونجا سابمیت میکنم، اونجا یه مرجع و یه منبع برا هرچیزیه که بخواین، میتونید منبع منابع دیگه هم توش پیدا کنید، کاملترینه، چیزی در حدش ندیدم
-File Storage, [6/4/22 1:53 PM]
 Boots — Yesterday at 6:26 AM
 It is with deep regret and profound sadness that we inform you that the Admin and owner of WebOasis may have taken his life yesterday. Around 4pm PST Admin posted his suicide note on his forums. We have no way contacting anyone or trying to get him help since he was a very private person and made sure to keep his identity a secret. In his note he assured us it had nothing to do with copyright or anything internet related and strictly personal. He also wrote would be up for a few months. He had a tendency to pay for it a few months in advance and we estimate it'll stay up for the next 3 to 6 months.
 His site was what helped me and many others learn about piracy and privacy matters. In fact if it wasnt for weboasis I would have never found my way onto FMHY. He was a friend and while we sometimes butted heads on issues, I will forever be grateful for the time i got to spend with him. He will be missed.
@@ -15903,17 +13299,15 @@ Please if you are going through some tough times and are thinking about taking y
 Suicide Hotlines in The United States
 Crisis Text Line Text HOME to 741741
 National Suicide Prevention Lifeline 1-800-273-8255
- https://suicidepreventionlifeline.org/
+https://suicidepreventionlifeline.org/
 As per his promise, Weboasis admin posted the source code to the website. If you want to save it or even start your own version of it in memory of admin, here you go
- https://mega.nz/file/oMliRaxC#Fb-7HAm4mn9HtdTCkMFZlalsIRfZTWFohn9bkqIV2dI
+https://mega.nz/file/oMliRaxC#Fb-7HAm4mn9HtdTCkMFZlalsIRfZTWFohn9bkqIV2dI
 https://bayfiles.com/B72fi559x5/weboasis_zip
 https://www.solidfiles.com/v/4YLKyzDxWLW4G
 https://x0.at/u6lC.zip
-File Storage, [6/4/22 1:53 PM]
 شدید برام غمناکه و درونمو داره میخوره
-File Storage, [6/4/22 1:53 PM]
 اینم حرفای اخرش
- https://weboas.is/forum/index.php?topic=5760.0
+https://weboas.is/forum/index.php?topic=5760.0
 you’re reading this, than its already too late. Life is a game that I can’t seem to win lately and I'm tired of losing. I know I'm not the first to feel this way. It's time for a new strategy. I just need to get away from this world forever. Clearly I’m not compatible. I'm sorry to my friends and family that will have to find me like this, but it's the only way forward. I’ve been at a low point in my life the past two months and don’t foresee it getting any better. In fact it seems to be spiraling out of control even more.
 Also, don’t you dare blame this on guns. Someone determined to take their own life would find a way to do it one way or another.
 Rest assured this is all taking place in my personal life and has nothing to do with WebOasis. I don’t keep IP logs and your data for the forum and chat will remain safe and encrypted until the server inevitably expires months from now at which point it will be wiped/destroyed. To quell any potential rumors, I want to repeat this is a personal matter and has nothing to do with the site or copyright mafia.
@@ -15922,72 +13316,50 @@ I’m a man of my word and will post the source code publicly. Maybe someone can
 To the individual(s) in real life that are trying to ruin me, congratulations, you’ve won! You almost certainly won’t ever see this, but if you do…Now I no longer have to worry about you and you no longer have to worry about me. You’re welcome.
 Goodbye <3 Webby
 DOWNLOAD SOURCE:
- https://mega.nz/file/oMliRaxC#Fb-7HAm4mn9HtdTCkMFZlalsIRfZTWFohn9bkqIV2dI
-https://bayfiles.com/B72fi559x5/weboasis_zip
-https://www.solidfiles.com/v/4YLKyzDxWLW4G
-https://x0.at/u6lC.zip
-File Storage, [6/4/22 1:53 PM]
- https://github.com/hackerkid/Mind-Expanding-Books
-File Storage, [6/4/22 1:53 PM]
- https://t.me/blackhackerir
-File Storage, [6/4/22 1:53 PM]
+https://github.com/hackerkid/Mind-Expanding-Books
+https://t.me/blackhackerir
 بعدا تبلیغات رو چک کنم بد نیست
-File Storage, [6/4/22 1:53 PM]
- https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
 https://github.com/proninyaroslav/blink-comparison
-File Storage, [6/4/22 1:54 PM]
- https://yewtu.be/channel/UCjjwExYSPRWwjj9WwydrVmA
-File Storage, [6/4/22 1:54 PM]
+https://yewtu.be/channel/UCjjwExYSPRWwjj9WwydrVmA
 خب باید بشینم تعریف کنم برای خودم چین، Short Term به معنی کارایی که میخوام امروز فردا انجام بدم و تموم بشه هستش، Medium term برا کارایی که شاید چند ماه طول بکشه تا انجامش، long Term هم معلوم نیست کی تموم بشه ولی طول می‌کشه و شایدم ادم نیستم که انجامش بدم ولی باید انجام بدم بلاخره دیر یا زود، never ending term هم کارایی که بی پایان هستند و باید انجام بشه، done هم تکمیل شد
-File Storage, [6/4/22 1:54 PM]
- https://github.com/BookStackApp/BookStack
+https://github.com/BookStackApp/BookStack
 به به, نرم افزار فقط اوپن سورس!
-File Storage, [6/4/22 1:54 PM]
 انیمه Garden blue و grand blue
-File Storage, [6/4/22 1:54 PM]
 سطل زباله ملت:
-@tempforyou
 @JOURSARAEIJJHS
 @pack1235
 @www_wc_com
 بکاپ از اینجا:
 @shDi_mrVi
 گاهی باید قاطی لجن شد چیزای خوب پیدا کرد، ولی معمولا حوصله و زمان نیست چون سلیقه (taste) دیگران افتضاحه (برای من)
-File Storage, [6/4/22 1:54 PM]
 سایدلود کردن در ایفون ظاهراً فایلش IPA و مثل APK خودمون میمونه
 تست برنامه ها بدون خود ایفون یک روشش xcode هستش
 باید شدید تحقیق بشه
-File Storage, [6/4/22 1:54 PM]
- https://landchad.net/
+https://landchad.net/
 آموزش سلف هاست چیزای مختلف
- https://www.ziyasadr.com/
+https://www.ziyasadr.com/
 کلی کصشر و بیتکوین
 @CykaBlyat_Army
 بعدا باید چک کنم
-File Storage, [6/4/22 1:54 PM]
 [ Video ]
 Rappin' for Jesus
- https://www.youtube.com/watch?v=Kppx4bzfAaE
-File Storage, [6/4/22 1:54 PM]
+https://www.youtube.com/watch?v=Kppx4bzfAaE
 قشنگ توضیح داد چرا ایده nft بولشیته ولی متاسفانه انگلیسی هستش و یتیما متوجه نمیشن
- https://libredd.it/r/OutOfTheLoop/comments/rho91b/whats_up_with_the_nft_hate/horr549/?context=3
-File Storage, [6/4/22 1:54 PM]
- https://youfeellikeshit.com
-https://github.com/qarmin/czkawka
+https://libredd.it/r/OutOfTheLoop/comments/rho91b/whats_up_with_the_nft_hate/horr549/?context=3
+https://youfeellikeshit.com
 https://privacytests.org
 https://twitter.com/HoldenShearer/status/1480312592803446790
 https://controld.com
-https://t.me/linuxscoop
 @IRLinuxGP
- https://t.me/PythonLinuxExperts
+https://t.me/PythonLinuxExperts
 https://t.me/linux_mint_users
-https://t.me/Fedorair
 ارسال هرزنامه با پیوست های مخرب فیشینگ یک روش نسبتاً محبوب برای انتشار بدافزار و آلوده کردن رایانه های کاربران در اینترنت است. طبق گفته‌های شرکت‌های مختلف آنتی ویروس، سهم ایمیل‌های دارای پیوست‌های مخرب 3 تا 5 درصد از حجم کل ترافیک هرزنامه است، یعنی حداقل یک حرف از هر 30 حرف در جریان هرزنامه، یک شگفتی مخرب را به همراه دارد.
 اغلب اوقات، یک ایمیل مخرب حتی با نام آن قابل شناسایی است. اما اتفاق می افتد که یک پیام ویروسی به خوبی پنهان شده است و نیاز به تجزیه و تحلیل دقیق دارد.
 قبل از اینکه هر ایمیلی رو باز کنید اونو چک کنید
 آدرس ایمیل فرستنده را تأیید کنید:
- https://centralops.net/co/emaildossier.aspx
- https://2ip.ru/mail-checker
+https://centralops.net/co/emaildossier.aspx
+https://2ip.ru/mail-checker
 http://ru.smart-ip.net/check-email
 https://ivit.pro/services/email-valid/
 https://www.xverify.com
@@ -15997,42 +13369,36 @@ https://www.emailmarker.com
 https://quickemailverification.com
 https://emailrep.io/
 مطمئن شوید که نام دامنه فرستنده با ایمیل مطابقت دارد:
- https://2ip.ru/whois
+https://2ip.ru/whois
 http://www.ripn.su/nic/whois
 https://whoer.net/ru/checkwhois
 http://www.securrity.ru/whoiz.html
 ارزیابی ایمنی لینک ها در ایمیل:
- https://scanurl.net
+https://scanurl.net
 https://longurl.info
 https://vms.drweb.ru/online
 https://virusdesk.kaspersky.com
 https://opentip.kaspersky.com/
 ما فایل های پیوست شده را در "sandboxes" تجزیه و تحلیل کنید:
- https://cuckoo.cert.ee
-https://www.hybrid-analysis.com
+https://cuckoo.cert.ee
 https://malwr.com
 https://any.run/
 بعدا فری مدیا اضافه کنم
 Aaron Swartz
-File Storage, [6/4/22 1:54 PM]
- https://github.com/BoltzmannEntropy/interviews.ai
+https://github.com/BoltzmannEntropy/interviews.ai
 https://www.youtube.com/watch?v=EUlM3wx546o
 https://hackernews.pro
 https://blog.mozilla.org/en/mozilla/we-need-more-than-deplatforming
 https://hackernewstitles.netlify.app
-https://odysee.com/@CyberLounge:a/six-bullshit-arguments-against-right-to-repair:8
 https://github.com/jbruchon/elks
 https://www.youtube.com/watch?v=_zgoENmeddA
 واچ لیستم، بعضی هم چرک نویسی برا یک سری مقاله ها که تو فکر نوشتنم.
-File Storage, [6/4/22 1:54 PM]
 چطور به نظرم مایکروسافت با همین روند پیش بره میمیره در دراز مدت توسط گوگل:
 شروع کنیم با اینکه موتور جستجوگرش از بینگ بهتره، ویندوز موبایل به اندروید باخت، افیس هم Google Doc هستش و دانش آموزاشون استفاده میکنن (و کلی الترناتیو دیه هم هستش)، شاید به صد در صد امکانات مایکروسافت افیس نرسه ولی شدید بهتر از سابسکریپشن ماهانه هستش و میتونی گوگل درایو ذخیره کنی و با دوستات ادیت کنی، بعد همینم افیس وب اومد وگرنه ندوشن سر یه برنامه الکترون بیس سنگین آشغال پره تلمتری بیخیال نمیشن که
 حتی azure اگر مایکروسافت داشته باشه گوگل هم گوگل کلاود داره (ولی aws انگار بصرفه تره و زیاد با سرویس ابری کار نکردم
 سیستم عامل ویندوز میمونه، دانش آموزا و دانشجو ها تا قبلا مک میخریدن، الان یواش یواش مک بوک میخرن چون ارزونه و جدیدا هم میتونن حتی برنامه لینوکس توش اجرا کنن و تعداد کروم بوک یوزرا از مک یوزرا بیشتر شده، حالا این وسط وقتی تعداد ویندوز یوزرا کم و کمتر میشن مایکروسافت میاد TPM 2 و سی پی یو نسل هشتم رو اجباری می‌کنه که سیستم جدید بخرین و فکرشو بکن فوشیا دسکتاپ بیاد چه میشه، ممنونیم مایکروسافت، خواهشاً به ناامید کردنمون ادامه بده!
-File Storage, [6/4/22 1:54 PM]
 راهنمای rss
- https://reddit.com/r/pathogendavid/comments/tv8m9/pathogendavids_guide_to_rss_and_reddit/
-
+https://reddit.com/r/pathogendavid/comments/tv8m9/pathogendavids_guide_to_rss_and_reddit/
 3- link check list
 File Storage, [6/4/22 1:45 PM]
 چرا باید از آدرس ایمیل یکبار مصرف استفاده کرد؟
@@ -16042,7 +13408,7 @@ File Storage, [6/4/22 1:45 PM]
 سایتهای ارایه دهند ایمیل موقت
 fake mail
 tempr.email/en
- https://tempr.email/en
+https://tempr.email/en
 https://10minutemail.com
 https://burnermail.io
 https://www.guerrillamail.com
@@ -16053,7 +13419,6 @@ https://www.sharklasers.com
 https://mytemp.email
 http://www.mintemail.com
 http://www.eyepaste.com/mailsucker.net
-https://www.emailondeck.com
 https://getnada.com
 http://www.fakeinbox.com
 https://temp-mail.org
@@ -16072,9 +13437,6 @@ https://mail.tm/en/
 @smtpbot
 @tmpmailbot
 @TempMail_org_bot
-#معرفی_سایت
-#حریم_خصوصی
-File Storage, [6/4/22 1:45 PM]
 @APT_IR
 اینم آموزش ها رو به صورت فایل دانلودی گذاشته، بدک نیست خوبه
 ایران سایبر
@@ -16082,23 +13444,14 @@ File Storage, [6/4/22 1:45 PM]
 Doonatech
 چند تا کانال و گروه خوب واسه اعضا..
 دو تا کانال اولی سایت هم دارن
-File Storage, [6/4/22 1:45 PM]
-[ File : اشتراک‌ها.csv ]
-1
-File Storage, [6/4/22 1:45 PM]
 [ File : اشتراک‌ها.csv ]
 2
-File Storage, [6/4/22 1:45 PM]
 Feedly
 Innoreader
 ...
-File Storage, [6/4/22 1:45 PM]
 "That depends on your use case, your threat model, and how you harden it."
-File Storage, [6/4/22 1:45 PM]
 Windows sort of assumes the user is stupid. Linux does not. But the user is always stupid, so I’m not keen on that assumption.
-File Storage, [6/4/22 1:45 PM]
 @PythonLinuxExperts
-[ Photo ]
 قبل از پرسیدن سؤال حتما توزیع لینوکس یا سیستم عامل خود را نام ببرید.
 قبل از فعالیت قوانین را مطالعه کنید:
 @ArchLinux_IR
@@ -16108,14 +13461,9 @@ File Storage, [6/4/22 1:45 PM]
 bbs.archusers.ir
 ویکی آرچ لینوکس پارسی:
 wiki.archusers.ir
-File Storage, [6/4/22 1:45 PM]
 شدوساکس بیشتر isp ها دارن میبندن چون طول پکت شدوساکس همیشه ثابته و میتونن خیلی راحت بخونن راحت میبندن کم کم همه شدوساکسا از کار میوفته
 کنار اون دارن از asn ها هم با رنج های بزرگ مییندن
-File Storage, [6/4/22 1:45 PM]
 ترکیب شدوساکس و obfs4 یا v2ray فکر کنم این مشکل رو حل کنه.
-File Storage, [6/4/22 1:45 PM]
-[ Photo ]
-File Storage, [6/4/22 1:45 PM]
 ماجرا:
 در اعماق تاریکی و بدون اینکه دانسته باشد، یک ماهی در حال گذشتن، مسیر دشوار و زمان کند میگذرد، گه گاهی لحظه هایی پرسه میزند و تماشا میکند و سپس رد میشود (این حکایت، حکایت یک معتاد مجازی ای هستش که دچار نفرین ۱۸ سالگی گشته! (زمانی نفرینه که لش کرده باشی، هدفی نداشته باشی، ۱۰ ساعت روز رو پشت گوشی هستی و داری چت می‌کنی و مقاله میخونی و انتهایی نداره، "ولگرد مجازی" بودن تویی!)
 سازگار شدن سخته مخصوصا اگر درونگرا باشی، حتی اگر تسلط محیط دستت باشه و کاری کنی که فکر کنن تصمیم هایی که گرفتن تصمیم های خودشون بوده در حالی که پیشاپیش چیزی که میخوای فکر کنن با توجه به شناختی که داری طرف/محیط و همیشه برگه اس رو واسه موقع مناسب نگه‌می‌داری و یاد میگیری و تقلید میکنی، سعی می‌کنی گاهی حرف های بزنی گه گاهی که متناقض با حرفهای سابقت باشه به امید گنگ تر شدنت، محیط مختلف رفتار های مختلف، باز اخرش میبینی وقتی انگیزه و هدفی نداری، سست میشی و "انسان موجودی اجتماعی است" رو یادت میاد و میگی احتمالا انسان نیستم...
@@ -16125,19 +13473,11 @@ File Storage, [6/4/22 1:45 PM]
 ماهواره چرته و اینترنت نامحدود اگر بود ماهواره منسوخ میشد، وضع بسی دوشوار بود و خلاصه چند روزی شروع به رفتن محیط کار پدر و عادت بهش کردیم و تجربه جالب و لحظه های شیرینیه، زمان میگذره به هر حال، خیلی مفیده، فرصتی برا فکر کردن به اشتباهات گذشته و حسرت خوردن شدید، کلافه شدن در زمان حال، و استرس‌عه آینده، دیه یه نقطه ای به بعد به این نتیجه میرسی که درخت نیستی که ریشه ات یک گوشه گیر کرده باشه، ولی خب اینجوری هم نیست که یه بادی بوزه تورو با خودش ببره، محیطو بلاخره باید عوض کرد، شایدم باز کردن پنجره کافی باشه، محیط بدجور رو ادم تاثیر میزاره، فرصت خیلی خوبیه، تنوع هم بد نیست، خلاصه اره دیگه، اول باید هدف و انگیزه بعد اراده و تلاش خستگی ناپذیر و عطش در بهتر شدن باشه وگرنه فرقی با یک مرده نداری، دوم اینکه با استفاده از اولی محیط ات رو دستکاری یا تغییر بده و اگر نمیتونی سازگار شو وگرنه فقط خودتی که خل میشی، سوم خدای بزرگ و متعال رو نساییدم که هر وقت فکر می‌کنی بدتر از این نمیشه سورپرایزت میکنه و همیشه تهه ذهنت هستش که میتونستم بدتر از اینی که هستم باشم
 هممم، کجا بودم...؟
 اها، یادم افتاد، الان با گوشیم وای فای رایگان مرکز خرید استفاده میکنم که یه تومار زجه بنویسم که ابراز وجود کنم چون حوصله قدم زدن با خانواده رو ندارم، بکاپ بگیر کانالو لفت بده اگر مشکلی بید، عشقیه، دارم پرتقال پوست میکنم :/
-File Storage, [6/4/22 1:45 PM]
 stranger things
-File Storage, [6/4/22 1:45 PM]
-@www_wc_com
 File Storage, [6/4/22 1:46 PM]
- https://cuppajoe.xyz/linux.html
-File Storage, [6/4/22 1:46 PM]
- https://www.dynadot.com
-File Storage, [6/4/22 1:46 PM]
+https://cuppajoe.xyz/linux.html
+https://www.dynadot.com
 کورسرا فعلن خوبه
-File Storage, [6/4/22 1:46 PM]
-[ Photo ]
-File Storage, [6/4/22 1:46 PM]
 #Movie sources alternatives:
 Please use serious fact checkers like
 https://spyculture.com before indoctrinating yourself with propaganda.
@@ -16150,21 +13490,20 @@ Addons >
 Sports devil
 https://github.com/kodibae/repository.kodibae/raw/master/repository.kodibae/repository.kodibae-1.0.0.zip
 Magic dragon
- https://diamondbuild.xyz
+https://diamondbuild.xyz
 Botallen jio tv and hostar disney
- https://github.com/botallen/repository.botallen/releases/download/v2.0.0/repository.botallen-2.0.0.zip
+https://github.com/botallen/repository.botallen/releases/download/v2.0.0/repository.botallen-2.0.0.zip
 Fusion installer
 https://fusion.tvaddons.co
 Spanish: @KodiManiac
 ⃣Cloudstream [app for streaming torrent
 Download [izzyondroid]
 https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/
-Source [Github]
 https://github.com/LagradOst/CloudStream-3
 ⃣Popcorn Time
 ⃣Stremio
 Sonarr series
- https://sonarr.tv
+https://sonarr.tv
 https://github.com/Sonarr/Sonarr
 Radarr films
 Lidarr music
@@ -16179,24 +13518,20 @@ TbFlix
 Web:
 [Worldwide]
 ⃣
-https://hdencode.com
-⃣
 https://torrentgalaxy.to
-⃣
 https://cineb.net
-⃣
 https://pahe.life [dynamic domain, changes time to time, if any issue try asking in group chat]
 Regional
 [India] Encodes in 480p 720p 1080 Mainly x265
- https://katmoviehd.nl [Download from filehosting and team drive]
+https://katmoviehd.nl [Download from filehosting and team drive]
 Indian movies
- https://1jalshamoviez.art [Download from filehosting]
+https://1jalshamoviez.art [Download from filehosting]
 They use dynamic domains and lots of advertisement [ublock origin is recommended]
 Dmca is rough in idnia
 German torrent site
- https://oxtorrent.com
+https://oxtorrent.com
 Turk tv series/movies
- https://turkish123.com
+https://turkish123.com
 Mirror
 https://w.turkish123.net
 This bot fetches subtitles for those who need in all available lang
@@ -16208,52 +13543,38 @@ Real-Debrid
 Cinehub
 List will be updated whenever necessary
 Harvey Weinstein wasn't hurt during the creation of this list, there was no intention to infringe any copyright and all links were crowdsourced from internet
-File Storage, [6/4/22 1:46 PM]
 APIs for OSINT
 List of API's for gathering information about phone numbers, addresses, domains etc
- https://github.com/cipher387/API-s-for-OSINT
+https://github.com/cipher387/API-s-for-OSINT
 #api #osint
-File Storage, [6/4/22 1:46 PM]
 privacy.sexy
 Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
- https://privacy.sexy
- https://github.com/undergroundwires/privacy.sexy
-File Storage, [6/4/22 1:46 PM]
+https://privacy.sexy
+https://github.com/undergroundwires/privacy.sexy
 Haveno
- https://github.com/haveno-dex/haveno
+https://github.com/haveno-dex/haveno
 Private and decentralized way to #exchange #Monero for national currencies or other #cryptocurrencies. Haveno uses peer-to-peer networking and multi-signature escrow to facilitate trading without a trusted third party custodian. Disputes can be resolved using non-custodial arbitration. Everything is built around Monero and Tor.
 Haveno is the Esperanto word for "Harbor". The project is stewarded by a core Team, currently formed by 2 people: ErCiccione and Woodser. See the FAQ in the wiki for more information about the project
- https://github.com/haveno-dex/haveno/wiki/FAQ
+https://github.com/haveno-dex/haveno/wiki/FAQ
 Haveno is still work in progress. There are no binaries available at this stage. If you want to test Haveno you have to compile it first (see
 https://github.com/haveno-dex/haveno/blob/master/docs/installing.md).
 Status of the project
 At the moment Haveno is only a Proof of Concept. It's already possible to initiate crypto <-> XMR and fiat <-> XMR trades, but the platform still needs a lot of work before being available for public use.
-File Storage, [6/4/22 1:46 PM]
 GrapheneOS Camera
 Based on Android's CameraX library
- https://github.com/GrapheneOS/Camera
+https://github.com/GrapheneOS/Camera
 #camera #photo
-File Storage, [6/4/22 1:46 PM]
 [ File : KDE and Gnome.pdf ]
 تفاوت KDE و Gnome
 @DebianLinux
-File Storage, [6/4/22 1:46 PM]
- https://t.me/otakumemes
-File Storage, [6/4/22 1:46 PM]
+https://t.me/otakumemes
 @mangaloader
-File Storage, [6/4/22 1:46 PM]
 @awmanga
-File Storage, [6/4/22 1:46 PM]
 @eestie
-File Storage, [6/4/22 1:46 PM]
-@www_wc_com
-File Storage, [6/4/22 1:46 PM]
 انیمه ورد
- https://t.me/anidlws
+https://t.me/anidlws
 @animworlddl
-File Storage, [6/4/22 1:46 PM]
- https://github.com/a9v8i/andtroj
-File Storage, [6/4/22 1:46 PM]
+https://github.com/a9v8i/andtroj
 music-downloading:
 download songs Music downloads are NOT supported in this mod unless used with a premium Spotify account.
 If you do not have a premium Spotify account and must download music:
@@ -16269,9 +13590,7 @@ C. Use telegram bots:
 @Spotybot
 @DeezloaderTCBot (Playlist)
 @JioDLBot
-@Spotdlrobot
 @songdl_bot
-@vkmusic_bot
 @DeezerMusicBot (Playlist)
 @JoeyMusicbot (Playlist)
 @Deezer_spotify_bot
@@ -16281,7 +13600,6 @@ C. Use telegram bots:
 @mzz2bot
 @PieRatedBot (Playlist)
 @SpotifyMusicDownloaderBot
-@MusicDownloaderRobot
 @FindMusicPleaseBot
 @getmediabot
 @mptribot
@@ -16289,7 +13607,6 @@ C. Use telegram bots:
 @Musicassistbot
 @MusicKeeperBot
 @MuzzzBot
-@mzz2bot
 @pocket_music_bot
 @RadioBot
 @scdlbot
@@ -16299,153 +13616,55 @@ C. Use telegram bots:
 @yandex_music_bot
 @musicder_bot
 @betamusicbot
-@vkm_bot
 @SongRefBot
 @DeezEmpireBot
 @spotifysavebot (Playlist)
 @DeezerSongBot (Playlist)
 ارزش محتوایی نداره، صرفا جهت ذخیره سازیه چون جالب بود و مرتب کردنشون بماند برا بعد بازسازی کانال
-File Storage, [6/4/22 1:46 PM]
 @nvda_fa
-File Storage, [6/4/22 1:46 PM]
 orca screen reader
-File Storage, [6/4/22 1:47 PM]
 Learn Linux
 Is this your first time with Linux? Don't worry, we all were once like you. Have a fun time learning Linux.
 Choose Linux Distro
 Libre Hunt (
 https://librehunt.org/) | Distro Chooser
-(
 https://distrochooser.de/en)Basics
 Live Boot (
 https://old.reddit.com/r/techsupport/wiki/livelinuxsession) | Installation
-(
 https://old.reddit.com/r/techsupport/wiki/linuxinstallation)Learning
 Linux Academy (
 https://linuxacademy.com/) | Linux Command (
 https://linuxcommand.org/) | Linux Journey (
 https://linuxjourney.com/) | Linux Survival
-(
 https://linuxsurvival.com/)Wikipedia
 Arch Linux (
 https://wiki.archlinux.org/index.php/Table_of_contents) | Manjaro (
 https://wiki.manjaro.org/index.php?title=Category:Contents_Page) | Debian (
 https://www.debian.org/doc/manuals/debian-reference/) | Ubuntu
-(
 https://help.ubuntu.com/lts/ubuntu-help/index.html)#learn_linux
-File Storage, [6/4/22 1:47 PM]
 @linux_mint_resources
-File Storage, [6/4/22 1:47 PM]
- https://github.com/digitalblossom/alternative-frontends
-File Storage, [6/4/22 1:47 PM]
- https://github.com/einaregilsson/Redirector
-File Storage, [6/4/22 1:47 PM]
+https://github.com/digitalblossom/alternative-frontends
+https://github.com/einaregilsson/Redirector
 @archnewsfa
-File Storage, [6/4/22 1:47 PM]
 مطلب جدید وبلاگ با موضوع «نرم‌افزار هوش مصنوعی که مسائل ریاضی رو حل می‌کنه» منتشر شد:
 kthkn.ir/OuAxPzMY
 این نرم‌افزار یک نرم‌افزار پردازش تصویر ساده‌ست که می‌تونه مسائل ریاضی رو تشخیص بده و با کمک ولفرام آلفا حلشون کنه. در این پست هم کدهاش رو گذاشتم، هم مراحلی که طی شد تا به نتیجه خوب برسه رو توضیح دادم.
 @haghiri75_blog
-File Storage, [6/4/22 1:47 PM]
 در پایان شمارو با این جمله کپی پیست شده تنها میزارم و قشنگ توضیح داد:
-"That depends on your use case, your threat model, and how you harden it."
-File Storage, [6/4/22 1:47 PM]
- https://madaidans-insecurities.github.io/
-File Storage, [6/4/22 1:47 PM]
+https://madaidans-insecurities.github.io/
 مثلا index.hashhacker.com
-File Storage, [6/4/22 1:47 PM]
 Gw1.torlock.info
-File Storage, [6/4/22 1:47 PM]
-Jackett
 File Storage, [6/4/22 1:42 PM]
 pornolab.net
-File Storage, [6/4/22 1:42 PM]
-#Movie sources alternatives:
-Please use serious fact checkers like
-https://spyculture.com before indoctrinating yourself with propaganda.
-⃣Kodi
-Download [Fdroid]
-https://f-droid.org/packages/org.xbmc.kodi/
-Source [Github]
-https://github.com/xbmc/xbmc
-Addons >
-Sports devil
-https://github.com/kodibae/repository.kodibae/raw/master/repository.kodibae/repository.kodibae-1.0.0.zip
-Magic dragon
- https://diamondbuild.xyz
-Botallen jio tv and hostar disney
- https://github.com/botallen/repository.botallen/releases/download/v2.0.0/repository.botallen-2.0.0.zip
-Fusion installer
-https://fusion.tvaddons.co
-Spanish: @KodiManiac
-⃣Cloudstream [app for streaming torrent
-Download [izzyondroid]
-https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/
-Source [Github]
-https://github.com/LagradOst/CloudStream-3
-⃣Popcorn Time
-⃣Stremio
-Sonarr series
- https://sonarr.tv
-https://github.com/Sonarr/Sonarr
-Radarr films
-Lidarr music
-Mylar comics
-Readarr ebooks
-Bazarr subtitles
-Pulsarr addon to get movies from IMDB
-Jellyfin web ui
-Jackett
-VidMasta
-TbFlix
-Web:
-[Worldwide]
-⃣
-https://hdencode.com
-⃣
-https://torrentgalaxy.to
-⃣
-https://cineb.net
-⃣
-https://pahe.life [dynamic domain, changes time to time, if any issue try asking in group chat]
-Regional
-[India] Encodes in 480p 720p 1080 Mainly x265
- https://katmoviehd.nl [Download from filehosting and team drive]
-Indian movies
- https://1jalshamoviez.art [Download from filehosting]
-They use dynamic domains and lots of advertisement [ublock origin is recommended]
-Dmca is rough in idnia
-German torrent site
- https://oxtorrent.com
-Closed source:
-@ModdedPrivate (beetv)
-Real-Debrid
-Cinehub
-List will be updated whenever necessary
 Harvey Weinstein wasn't damaged during the creation of this list, there was no intention to infringe any copyright and all links were crowdsourced from internet
-File Storage, [6/4/22 1:42 PM]
-APIs for OSINT
-List of API's for gathering information about phone numbers, addresses, domains etc
- https://github.com/cipher387/API-s-for-OSINT
-#api #osint
-File Storage, [6/4/22 1:42 PM]
- https://a.holyubofficial.net/go/im_
+https://a.holyubofficial.net/go/im_
 https://media.giphy.com/media/3o7btT1T9qpQZWhNlK/giphy.gif
-File Storage, [6/4/22 1:42 PM]
 DeGoogle (
 https://github.com/tycrek/degoogle)
 گوگل را از زندگی ما حذف کنید.
 این فهرست بزرگی از جایگزین‌های محصولات Google است، از افزونه‌های مرورگر گرفته تا کتاب‌ها و مقالات مختلف.
- https://github.com/tycrek/degoogle
+https://github.com/tycrek/degoogle
 "من چیزی برای پنهان کردن ندارم، اما چیزی ندارم که به شما نشان دهم."
-#گیتهاب
-#حریم_خصوصی
-File Storage, [6/4/22 1:42 PM]
-privacy.sexy
-Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
- https://privacy.sexy
- https://github.com/undergroundwires/privacy.sexy
-File Storage, [6/4/22 1:42 PM]
 ▎优质频道特别推荐
 推送内容：
 •全平台APP/游戏等限免(全天)
@@ -16453,29 +13672,27 @@ File Storage, [6/4/22 1:42 PM]
 •羊毛线报推送(早/晚)
 •常年抽奖
 资源资讯羊毛聚合频道
- https://t.me/BaccanoSoul
+https://t.me/BaccanoSoul
 ❶羊毛薅到底底底底底底：
- https://t.me/LycorisStore
+https://t.me/LycorisStore
 ❷资源存储频道：
- https://t.me/JustReformation
+https://t.me/JustReformation
 ❸激情群聊 ：
- https://t.me/HazardOn
+https://t.me/HazardOn
 ❹随性投稿bot: (格式在置顶)
 @LycorisVia_bot
 ❺免翻墙QQ羊毛群
 【彼岸❶组羊毛优惠捡漏群】：
- https://qm.qq.com/cgi-bin/qm/qr?k=ljdb0cKqi45eIyreTIEohDMCrCWz1DHc&authKey=0WylNwRZ1E3BT+unFI9KbwA5ymLx+BPu/fupIrKCri8vX0OjMpwirRtaJioUgcKr&noverify=0
+https://qm.qq.com/cgi-bin/qm/qr?k=ljdb0cKqi45eIyreTIEohDMCrCWz1DHc&authKey=0WylNwRZ1E3BT+unFI9KbwA5ymLx+BPu/fupIrKCri8vX0OjMpwirRtaJioUgcKr&noverify=0
 ▎双十一拆购物抵现红包🧧
 京东「反复打开三次」
- https://u.jd.com/3wFPvba
+https://u.jd.com/3wFPvba
 天猫
- https://m.tb.cn/h.fgViPkX
-File Storage, [6/4/22 1:42 PM]
+https://m.tb.cn/h.fgViPkX
 Free Labs to Train ur CTF Skills
 > Academy Hackaflag -BR
 https://academy.hackaflag.com.br
 > Try Hack Me
-https://tryhackme.com
 > Attack-Defense
 https://attackdefense.com
 > alert to win
@@ -16532,8 +13749,6 @@ https://shellterlabs.com/pt
 https://www.holidayhackchallenge.com
 > SmashTheStack
 http://smashthestack.org/wargames.html
-> Try Hack Me
-https://tryhackme.com
 > The Cryptopals Crypto Challenges
 https://cryptopals.com
 > Vulnhub
@@ -16545,7 +13760,6 @@ http://www.wechall.net
 > Zenk-Security
 https://www.zenk-security.com/epreuves.php
 ●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:42 PM]
 A small selection of Cybersecurity-themed computer games for those who want to use new scenarios of gamification in information security.
 مجموعه کوچکی از بازی های رایانه ای با موضوع امنیت سایبری برای کسانی که می خواهند از سناریوهای جدید گیمیفیکیشن در امنیت اطلاعات استفاده کنند.
 🕹 Replica (
@@ -16567,13 +13781,10 @@ p.s. Definitely high-quality implementation, thanks to IBM.
 https://store.steampowered.com/app/994670/ThreatGEN_Red_vs_Blue/) - left this game for last, as it deserves special attention as a valuable copy, which is great for the option of gamification in information security, because it was originally designed for this very purpose.
 As the name implies, this is a simulator of the confrontation between the Red team and the Blue team. The goals are appropriate, the resources are the same as in life - people, budget and time. Some need to competently build a defense, others need to bypass it.
 An excellent option for gamification, since the game has a network mode - it is very easy to organize small exercises for one and a half to two hours. In addition, the developers are constantly updating the game and have made a separate enterprise product based on it.
-●▬۩❁ @geeekgirls ❁۩▬●
 #game
-File Storage, [6/4/22 1:42 PM]
- https://t.me/aftana
-File Storage, [6/4/22 1:42 PM]
+https://t.me/aftana
 channel
- https://t.me/hafezeye_tarikhi
+https://t.me/hafezeye_tarikhi
 https://t.me/transload
 https://t.me/botlist
 https://t.me/TorrentBots
@@ -16605,7 +13816,7 @@ https://t.me/SSRSUB
 https://t.me/FarshidManafi
 https://t.me/azarijahromi
 @GpOtaku
- https://t.me/BotsArchive
+https://t.me/BotsArchive
 https://t.me/RinkaOfficial
 https://t.me/tvlab1
 https://t.me/juznem
@@ -16617,14 +13828,13 @@ https://t.me/wbnet
 https://t.me/geeekgirls
 https://t.me/newestbots
 https://t.me/King_network7
-https://t.me/newestbots
 https://t.me/vpn_proxy66
 https://t.me/NetClub_iR
 https://t.me/proSSH
 https://t.me/raavionline1
 https://t.me/toranji
 group
- https://t.me/linux98ir
+https://t.me/linux98ir
 https://t.me/LinChat
 bot
 @reverseSearchBot
@@ -16643,141 +13853,67 @@ bot
 @UploadDxbot
 @MenuBuilderBot
 @TeleLeecherbot
-@DKTextToSpeechBot
-File Storage, [6/4/22 1:42 PM]
- https://subscene.com/
-File Storage, [6/4/22 1:42 PM]
- https://t.me/books_audio671
-File Storage, [6/4/22 1:42 PM]
+https://subscene.com/
+https://t.me/books_audio671
 چیستی علم چارلمز رو بخون
-File Storage, [6/4/22 1:42 PM]
 بهت می‌گه علم چیه
-File Storage, [6/4/22 1:42 PM]
 علم یک روشه
-File Storage, [6/4/22 1:42 PM]
 Princess mononoke
-File Storage, [6/4/22 1:42 PM]
- https://fa.m.wikipedia.org/wiki/تچان_(روانشناسی)
+https://fa.m.wikipedia.org/wiki/تچان_(روانشناسی)
 File Storage, [6/4/22 1:43 PM]
- https://news.ycombinator.com/item?id=26014344
-File Storage, [6/4/22 1:43 PM]
- https://news.ycombinator.com/item?id=15675582
-File Storage, [6/4/22 1:43 PM]
- https://news.ycombinator.com/item?id=21913598
-File Storage, [6/4/22 1:43 PM]
- https://news.ycombinator.com/item?id=28967540
-File Storage, [6/4/22 1:43 PM]
- https://t.me/aboutrss
-File Storage, [6/4/22 1:43 PM]
+https://news.ycombinator.com/item?id=26014344
+https://news.ycombinator.com/item?id=15675582
+https://news.ycombinator.com/item?id=21913598
+https://news.ycombinator.com/item?id=28967540
+https://t.me/aboutrss
 viking
-File Storage, [6/4/22 1:43 PM]
 Dead Reaper 『リーパーボーイ』⁪⁬⁮
-File Storage, [6/4/22 1:43 PM]
 TheSocialDilemma.com , ssd.eff.org
-File Storage, [6/4/22 1:43 PM]
 بلک میرور
-File Storage, [6/4/22 1:43 PM]
- https://liangroup.net/academy/where-to-start-security
-File Storage, [6/4/22 1:43 PM]
- https://memoryleaks.ir/how-to-become-a-hacker/#base-knowledge
-File Storage, [6/4/22 1:43 PM]
+https://liangroup.net/academy/where-to-start-security
+https://memoryleaks.ir/how-to-become-a-hacker/#base-knowledge
 mobina.ta41@gmail.com
 mobi1234
-File Storage, [6/4/22 1:43 PM]
 @dprb_bot
-File Storage, [6/4/22 1:43 PM]
 منظور اون اینستالر نیست، منظورش اینه که خود ایزوی لایو داره اون وایفای رو، این پکیج ها هستن:
 iw
 iwd
 wireless_tools
 wpa_supplicant
 اگه networkmanager هم نصب کرده باشی، با nmtui یا nm-applet میتونی مدیریت کنی
-File Storage, [6/4/22 1:43 PM]
- https://wiki.archlinux.org/title/Network_configuration/Wireless
-File Storage, [6/4/22 1:43 PM]
+https://wiki.archlinux.org/title/Network_configuration/Wireless
 iwctl هم
 اسم پکیجش iwctl هست منظورم همین بود
 تو این لینکی که فرستادم هم با wireless_tools مقایسه ش کرده
-File Storage, [6/4/22 1:43 PM]
 برای helper هم، trizen رو بگیر، تگ های نصب رو ادیت کن و بذارش تو $PATH
-File Storage, [6/4/22 1:43 PM]
 میخوام nixos و ارچ رو یاد بگیرم
-File Storage, [6/4/22 1:43 PM]
 بعدش برم سراغ debian minimal
-File Storage, [6/4/22 1:43 PM]
- https://github.com/weareblahs/wsatools
-File Storage, [6/4/22 1:43 PM]
+https://github.com/weareblahs/wsatools
 thetanarena.com
-File Storage, [6/4/22 1:43 PM]
 کتاب‌های راس هریس خوب اند برات
-File Storage, [6/4/22 1:43 PM]
- https://www.arjmandpub.com/Book/1314/5/ACT-به-زبان-ساده-الفباي-درمان-مبتني-بر-پذيرش-و-تعهد
+https://www.arjmandpub.com/Book/1314/5/ACT-به-زبان-ساده-الفباي-درمان-مبتني-بر-پذيرش-و-تعهد
 File Storage, [6/4/22 1:44 PM]
- https://www.pressebnesina.com/Product/98/کتاب-رهایی-از-دام-آمیختگی-و-اجتناب-شدیدراهنمای-غلبه-بر-چالش-های-درمان-در-ACT
-File Storage, [6/4/22 1:44 PM]
+https://www.pressebnesina.com/Product/98/کتاب-رهایی-از-دام-آمیختگی-و-اجتناب-شدیدراهنمای-غلبه-بر-چالش-های-درمان-در-ACT
 تله شادمانی هم که داری
 این سه تا از کتاب‌های مهم راس هریس اند
-File Storage, [6/4/22 1:44 PM]
- https://sayehsokhan.com/default.aspx?TabId=502&Id=27524&mId=1&title=تله شادمانی
-File Storage, [6/4/22 1:44 PM]
+https://sayehsokhan.com/default.aspx?TabId=502&Id=27524&mId=1&title=تله شادمانی
 تفسیرت از ناخودآگاه چیه؟ دیگه ناخودآگاه پویای فرویدی و یونگی و لاکانی نداریم
 پردازش ناخودآگاه داریم اسم انگلیسی شو یادم رفته
 بعد هیپنوز برو خودت یاد بگیر امتحان کن
 دکتر عنایت اله شهیدی آنلاین می‌ذاره
-File Storage, [6/4/22 1:44 PM]
- https://www.instagram.com/dr.e.shahidi/
-File Storage, [6/4/22 1:44 PM]
+https://www.instagram.com/dr.e.shahidi/
 همین خود رو بگیر یادبگیر
-File Storage, [6/4/22 1:44 PM]
- https://www.instagram.com/dr.e.shahidi/
-File Storage, [6/4/22 1:44 PM]
 سایت
- https://reports.exodus-privacy.eu.org
+https://reports.exodus-privacy.eu.org
 کمک می کند تا بفهمید برنامه های نصب شده روی تلفن شما در مورد شما چه اطلاعاتی جمع آوری می کنند و چه اجازه هایی به آنها می دهید.
-#معرفی_سایت
-File Storage, [6/4/22 1:44 PM]
- https://t.me/helping_gnulinux
-File Storage, [6/4/22 1:44 PM]
- https://www.ultrahypnos.com/
-File Storage, [6/4/22 1:44 PM]
-ارسال هرزنامه با پیوست های مخرب فیشینگ یک روش نسبتاً محبوب برای انتشار بدافزار و آلوده کردن رایانه های کاربران در اینترنت است. طبق گفته‌های شرکت‌های مختلف آنتی ویروس، سهم ایمیل‌های دارای پیوست‌های مخرب 3 تا 5 درصد از حجم کل ترافیک هرزنامه است، یعنی حداقل یک حرف از هر 30 حرف در جریان هرزنامه، یک شگفتی مخرب را به همراه دارد.
-اغلب اوقات، یک ایمیل مخرب حتی با نام آن قابل شناسایی است. اما اتفاق می افتد که یک پیام ویروسی به خوبی پنهان شده است و نیاز به تجزیه و تحلیل دقیق دارد.
-قبل از اینکه هر ایمیلی رو باز کنید اونو چک کنید
-آدرس ایمیل فرستنده را تأیید کنید:
- https://centralops.net/co/emaildossier.aspx
- https://2ip.ru/mail-checker
-http://ru.smart-ip.net/check-email
-https://ivit.pro/services/email-valid/
-https://www.xverify.com
-https://mailvalidator.ru
-https://www.zerobounce.net
-https://www.emailmarker.com
-https://quickemailverification.com
-https://emailrep.io/
-مطمئن شوید که نام دامنه فرستنده با ایمیل مطابقت دارد:
- https://2ip.ru/whois
-http://www.ripn.su/nic/whois
-https://whoer.net/ru/checkwhois
-http://www.securrity.ru/whoiz.html
-ارزیابی ایمنی لینک ها در ایمیل:
- https://scanurl.net
-https://longurl.info
-https://vms.drweb.ru/online
-https://virusdesk.kaspersky.com
-https://opentip.kaspersky.com/
-ما فایل های پیوست شده را در "sandboxes" تجزیه و تحلیل کنید:
- https://cuckoo.cert.ee
-https://www.hybrid-analysis.com
-https://malwr.com
-https://any.run/
-File Storage, [6/4/22 1:44 PM]
+https://t.me/helping_gnulinux
+https://www.ultrahypnos.com/
 با توجه حذف قریب‌الوقوع ،پروتکل شادوساکس از سرویس surfshark
 جایگزینی که مثه سورف شارک ،شادوساکس پر سرعت با آی پی زیاد و بدون محدودیت در اختیار کاربر بزاره وجود نداره
 یه سری سایت هستن سرور موقت شادوساکس میدن میتونین از اونا استفاده کنید
-#معرفی_سایت
 سایتهای ارائه دهنده وی پی ان سرور رایگان موقت
 V2ray Xray Trojan shadowsocks openvpn wireguard socks5 proxy ssh
- https://howdy.id
+https://howdy.id
 https://opentunnel.net/xray
 https://www.vstunnel.com
 https://cyber-gateway.net
@@ -16787,7 +13923,6 @@ https://www.boostvpn.net
 https://www.ssh-free.com
 https://sshocean.com
 https://akunssh.net
-https://www.fastssh.com
 https://greenssh.com
 https://globalssh.net
 https://interssh.com
@@ -16824,7 +13959,6 @@ https://cyberssh.com
 https://cloudssh.us
 http://myssh.info
 http://createssh.com
-http://createssh.com
 http://free-ssh.xyz
 https://vpnudp.com
 https://www.jagoanssh.com
@@ -16839,87 +13973,61 @@ https://sshkit.com
 https://www.lastssh.com
 https://www.openproxy.co
 http://www.portssh.com
-File Storage, [6/4/22 1:44 PM]
-سایت
- https://reports.exodus-privacy.eu.org
-کمک می کند تا بفهمید برنامه های نصب شده روی تلفن شما در مورد شما چه اطلاعاتی جمع آوری می کنند و چه اجازه هایی به آنها می دهید.
-#معرفی_سایت
-File Storage, [6/4/22 1:44 PM]
 Copyfish (
 https://ocr.space/copyfish)
 یک ابزار افزونه مرورگر برای استخراج و ترجمه متن از تصاویر، ویدئوها و حتی اسناد PDF غیر قابل ویرایش است. در ابتدا، ترجمه با استفاده از Google Translate انجام می شود، اما در صورت تمایل می توانید از دیگران استفاده کنید.
 برای تشخیص و کپی متن، باید روی نماد افزونه در پنل مرورگر کلیک کنید و سپس قسمت مورد نظر را در تصویر انتخاب کنید. این افزونه فوراً کاراکترها را تشخیص می دهد و متن را در یک پنجره بازشو ارائه می دهد.
 Copyfish OCR for Chrome
-(
 https://chrome.google.com/webstore/detail/copyfish--free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)Copyfish OCR for Firefox
-(
 https://addons.mozilla.org/en-US/firefox/addon/copyfish-ocr-software/)Copyfish OCR for Edge
-(
 https://microsoftedge.microsoft.com/addons/detail/ankheondabfngkjomknppbpkjcdabdlg)
 کلیپ آموزشی
-(
 https://youtu.be/vfg8pwjJVIc)#معرفی_سایت
-#اوپن_سورس
-File Storage, [6/4/22 1:44 PM]
 اکثر کاربران سیاست حفظ حریم خصوصی را به عنوان یک سند قانونی نمی بینند، بنابراین، بدون خواندن آن، «موافق» را فشار می دهند و ادامه می دهند. البته تا زمانی که مشکلی پیش نیاید.
 ToSDR (
 https://tosdr.org/)
 وب سایتی است که قراردادهای طولانی کاربر را به خلاصه های کوتاه تبدیل می کند و سپس وب سایت ها را از A (خیلی خوب) به F (بسیار بد) بر اساس آنها درجه بندی می کند. به عنوان مثال، فیس بوک و آمازون هر دو دارای E هستند و DuckDuckGo شایسته دریافت A است.
 همچنین می‌توانید افزونه‌ای را نصب کنید که خلاصه‌ای از شرایط استفاده از سایت‌هایی را که بازدید می‌کنید نمایش دهد. اگر به سایتی بروید که در آن حریم خصوصی ضعیف است، یک اعلان کوچک در گوشه سمت راست پایین ظاهر می شود.
- https://tosdr.org/
+https://tosdr.org/
 Mozilla Firefox add-on
-(
 https://addons.mozilla.org/firefox/downloads/latest/terms-of-service-didnt-read/addon-latest.xpi)
 Google Chrome extension
-(
 https://chrome.google.com/webstore/detail/terms-of-service-didn’t-r/hjdoplcnndgiblooccencgcggcoihigg)
-#حریم_خصوصی
-File Storage, [6/4/22 1:44 PM]
 میتونید برای دیدن فیلم و سریال آنلاین از این سایتها استفاده کنید
- https://azm.to
 https://www.movie4k.dev
 https://www13.gomoviesfree.page/
-File Storage, [6/4/22 1:44 PM]
 GoLogin Browser
 Antidetect browser
- https://gologin.com/
+https://gologin.com/
 نرم افزاری است که به شما امکان می دهد اثر انگشت دیجیتال خود را با جعل کردن تمام پارامترهایی که سایت ها می توانند ببینند، پنهان و کنترل کنید. با پوشاندن این تنظیمات، می توانید هویت واقعی اینترنتی را برای دور زدن سیستم های ضد کلاهبرداری تقلید کنید.
 یک مرورگر حرفه ایی ضد ردیابی ضد اثرانگشت
 windows linux macOS android
- https://github.com/gologinapp/gologin
+https://github.com/gologinapp/gologin
 لینک دانلود برای اندروید
- https://play.google.com/store/apps/details?id=com.gologin.gologin_mobile
+https://play.google.com/store/apps/details?id=com.gologin.gologin_mobile
 میتونید هر پروفایل رو جداگانه تعریف کنید
 از قبیل تایم زون زبان حتی نوع سیستم عامل مرورگر و ip
 و این پروفایلها رو در مرورگر سیو کنید و هر بار که نیاز داشتید استفاده کنید
 هفت روز میتونید از اکانت freetrial استفاده کنید و بعد دوباره لاگ اوت کنید و اکانت جدید بسازید
-File Storage, [6/4/22 1:45 PM]
 lambdatest
-(
 https://www.lambdatest.com/)Free RDP
 مرورگر ابری
 طیف گسترده ایی از مرورگر و سیستم عامل
 قابلیت ادغام ابزار برنامه نویسی
 محدودیت رایگان 60دقیقه در ماه
- https://www.lambdatest.com/
-#معرفی_سایت
-File Storage, [6/4/22 1:45 PM]
+https://www.lambdatest.com/
 دیدن کلیپهای یوتیوب ، دانلود و پخش آنلاین فیلم /سریال/ انیمه
 به لینک زیر برید و ی اکانت بسازید
- https://hyperbeam.com
+https://hyperbeam.com
 ی اتاق گفتگو تشکیل بدید در صورت تمایل به دوستان لینک جوین ب اتاق رو بدید
 ی مرورگر مجازی روی سرور هتزنر آلمان با سرعت بالا براتون فعال میشه
-#معرفی_سایت
-File Storage, [6/4/22 1:45 PM]
 دوستان ، عذرخواهی میکنم صادقانه شتابزده عملکردم بدون تست و مطالعه دقیق پست رو گذاشتم
 کسی‌که اتاق رو تشکیل میده از اینترنتش کم میشه و کساییکه به اتاق جوین میدن براشون رایگانه مطلب رو از ی وبسایت روسی دیدم توی ترنسلت اشتباها متوجه شدم.
-File Storage, [6/4/22 1:45 PM]
 Motrix (
 https://motrix.app/)
 لینوکس مک ویندوز
 یک دانلود منیجر چند منظوره است که از دانلود HTTP، FTP، BitTorrent، Magnet و غیره پشتیبانی می کند.
 متن باز
-ویژگی ها:
 • رابط کاربری ساده و شهودی
 • پشتیبانی از بیت تورنت و مگنت
 • BitTorrent را انتخابی دانلود کنید
@@ -16928,112 +14036,31 @@ https://motrix.app/)
 • طراحی زیبا
 • کاربر-عامل ساختگی
 • حالت تاریک
-وبسایت
- https://motrix.app/
-#اوپن_سورس
- https://github.com/agalwood/Motrix
+https://motrix.app/
+https://github.com/agalwood/Motrix
 صفحه دانلود آخرین نسخه
- https://github.com/agalwood/Motrix/releases/tag/v1.6.11
-File Storage, [6/4/22 1:45 PM]
+https://github.com/agalwood/Motrix/releases/tag/v1.6.11
 PrivadoVPN
- https://privadovpn.com
+https://privadovpn.com
 ios / Android / Windows macOS
-
-File Storage, [6/4/22 1:45 PM]
 FreyaVPN
 اندروید ویندوز آی‌اواِس مک کروم فایرفاکس
 مستقر در سوئد
- https://www.freyavpn.com/
-
-File Storage, [6/4/22 1:38 PM]
-#معرفی_سایت
-سایتهای ارائه دهنده وی پی ان سرور رایگان موقت
-V2ray Xray Trojan shadowsocks openvpn wireguard socks5 proxy ssh
- https://howdy.id
-https://opentunnel.net/xray
-https://www.vstunnel.com
-https://cyber-gateway.net
-https://sshagan.net
-https://www.racevpn.com
-https://www.boostvpn.net
-https://www.ssh-free.com
-https://sshocean.com
-https://akunssh.net
-https://www.fastssh.com
-https://greenssh.com
-https://globalssh.net
-https://interssh.com
-https://www.vpncreator.com
-https://octopusvpn.xyz
-http://www.sshudp.com
-https://sshweb.net
-https://sshvpn-vpsmax.com
-https://mytunneling.com
-https://jetssh.com
-https://sshaccess.com
-https://accountvpn.com
-https://sshdo.com
-https://www.speedssh.com
-https://www.sshssl.com
-https://www.sshmaker.com
-https://librevpn.org
-https://sharevpn.org
-https://sshdropbear.net
-https://www.bestvpnssh.com
-https://www.readyssh.net
-https://digitalssh.net
-https://sshstores.net
-https://sshmax.net
-https://vpnhack.com
-https://cloudssh.net
-http://www.squid-proxy.net
-https://www.dynamicssh.com
-https://www.monthlyssh.com
-https://skyssh.com
-http://s.cowbjsq.com/share/8jzmg1
-https://www.freevpn.us
-https://cyberssh.com
-https://cloudssh.us
-http://myssh.info
-http://createssh.com
-http://createssh.com
-http://free-ssh.xyz
-https://vpnudp.com
-https://www.jagoanssh.com
-https://www.vpnjantit.com
-https://dewassh.net
-http://criarssh.com
-https://ciscossh.com
-https://freesslvpn.us
-https://spotssh.com
-https://contassh.com
-https://sshkit.com
-https://www.lastssh.com
-https://www.openproxy.co
-http://www.portssh.com
+https://www.freyavpn.com/
 File Storage, [6/4/22 1:38 PM]
 [ GIF ]
-File Storage, [6/4/22 1:38 PM]
- https://t.me/ESICAChannel
-File Storage, [6/4/22 1:38 PM]
- https://www.youtube.com/watch?v=8dtCc1E3t5M
-File Storage, [6/4/22 1:38 PM]
-[ Video ]
+https://t.me/ESICAChannel
+https://www.youtube.com/watch?v=8dtCc1E3t5M
 Mood Swings
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:38 PM]
 Black Hat Python
- https://youtube.com/playlist?list=PLJA9dZicBDKft6oroDC9liqs8jXfynOyO
+https://youtube.com/playlist?list=PLJA9dZicBDKft6oroDC9liqs8jXfynOyO
 Linux for hackers
- https://youtube.com/playlist?list=PLJA9dZicBDKfchoaTzN5CoGHIFiDTuYpk
+https://youtube.com/playlist?list=PLJA9dZicBDKfchoaTzN5CoGHIFiDTuYpk
 Overthewire challenge 0-22
- https://youtube.com/playlist?list=PLJA9dZicBDKfg8UeA8ivKdNSVvut6OkMp
+https://youtube.com/playlist?list=PLJA9dZicBDKfg8UeA8ivKdNSVvut6OkMp
 CTF challenges
- https://youtube.com/playlist?list=PLJA9dZicBDKfHMdrGZiKCza66NnEr_GXj
+https://youtube.com/playlist?list=PLJA9dZicBDKfHMdrGZiKCza66NnEr_GXj
 ━━━━━━━━━━━━━
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:38 PM]
-[ Photo ]
 #OSINT #Security I will deal with you a topic that is completely different from the previous ones. Let's talk about free applications (that did not fall into other categories) that should definitely be installed on a smartphone and computer for a corporate security officer:
 ├briar (
 https://briarproject.org/)(Security Messenger)
@@ -17083,11 +14110,8 @@ https://github.com/AlessandroZ/LaZagne) (Credentials Recovery)
 http://sleuthkit.org/autopsy/) (Forensics Platform)
 └ipvm (
 https://calculator.ipvm.com/)(CCTV Calculator)
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:38 PM]
 Marie Curie
 Chernobyl S02
-File Storage, [6/4/22 1:38 PM]
 Recommended Places to start your Mods/Cracks Journey (OG Message (
 https://t.me/c/1321162446/38375))
 Mobile
@@ -17133,149 +14157,61 @@ Is this release/file/ safe?
 If you have any doubt you can run it in VM Or Sandbox to test it. For android you can use shelter (given in notes) and stuff like that as well.
 Read this for better understanding of how to avoid viruses - Thesis On Zero Day Cracked Software, Games & Online Scanner Virus Detection (
 https://onehack.us/t/thesis-on-zero-day-cracked-software-games-online-scanner-virus-detection/96856)
-File Storage, [6/4/22 1:38 PM]
 @ultrahqproxiesbot
-File Storage, [6/4/22 1:38 PM]
-Recommended Places to start your Mods/Cracks Journey (OG Message (
-https://t.me/c/1321162446/38375))
-Mobile
-In Telegram : Modzilla (
-https://t.me/Modzilla) , Modded Central (
-https://t.me/ModdedCentral) , Amrts (
-https://t.me/AMRTSOFFICIAL) , PA4FreeReborn (
-https://t.me/PA4FreeReborn)
-Website : Mobilism (
-https://forum.mobilism.me/), Modding United (
-http://www.moddingunited.xyz/) , Rockmods (
-https://www.rockmods.net/) , Androeed (
-https://www.androeed.ru/)
-Apps (Playstore of mods XD) : Mobilism (
-http://forum.mobilism.org/app)
-Alternative of playstore: Fdroid(for Opensource apps) (
-https://www.f-droid.org/) , Aptoide (
-https://en.aptoide.com/) , Apkpure (
-https://m.apkpure.com/) , Apkmirror (
-https://www.apkmirror.com/)
-PC
-Websites/Forums : Nsaneforums (
-https://nsaneforums.com/) , Filecr (
-http://filecr.com/) , sanet.st (
-http://sanet.st/) , appnee (
-https://appnee.com/) , Rutracker (
-http://rutracker.net/) , Ru-board (
-https://forum.ru-board.com/) , Aiowares (
-https://aiowares.com/) , Mydigitallife (
-https://forums.mydigitallife.net/) , Getintopc (
-http://getintopc.com/)(use as last resort)
-Repacks : Lrepacks (
-http://lrepacks.ru/) , Rsload (
-http://rsload.net/) , Repack.me (
-http://repack.me/)
-Telegram : Aiosetup (
-https://t.me/aiosetup) , keygen_fortress (
-https://t.me/keygen_fortress)
-IMPORTANT NOTES:
-This list is not for best modding sites. This list is made, keeping in mind new users who don't know which site to use and end's up downloading viruses.
-Browse with uBlock Origin at all times to block popups and ads, thus avoiding any malicious downloads.
-Is this release/file/ safe?
-If you have any doubt you can run it in VM Or Sandbox to test it. For android you can use shelter (given in notes) and stuff like that as well.
-Read this for better understanding of how to avoid viruses - Thesis On Zero Day Cracked Software, Games & Online Scanner Virus Detection (
-https://onehack.us/t/thesis-on-zero-day-cracked-software-games-online-scanner-virus-detection/96856)
-File Storage, [6/4/22 1:38 PM]
 🧱 Some useful Blogs to learn SSRF 🧱
 ⦾
 https://portswigger.net/web-security/ssrf
-⦾
 https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery
-⦾
 https://cobalt.io/blog/a-pentesters-guide-to-server-side-request-forgery-ssrf
-⦾
 https://payatu.com/blog/arjuns/a-basic-approach-to-ssrf
-⦾
 https://opensourceagenda.com/projects/allthingsssrf
-⦾
 https://neuralegion.com/blog/ssrf-server-side-request-forgery/
-⦾
 https://trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-ssrf-to-compromise-case-study/
-⦾
 https://0xn3va.gitbook.io/cheat-sheets/web-application/server-side-request-forgery
-━━━━━━━━━━━━━
-●▬۩❁ @geeekgirls ❁۩▬●
 #ssrf
-File Storage, [6/4/22 1:38 PM]
-(
 https://github.com/phath0m/JadedWraith) Lightweight UNIX backdoor for ethical hacking.
 JadedWraith is a powerful backdoor capable of either listening on a TCP port or sniffing packets for a "magic" ICMP packet instructing the backdoor to either callback or listen. This is partly inspired by tools such as PRISM, however, unlike PRISM (
 https://github.com/andreafabrizi/prism) JadedWraith incorporates shoddy cryptography to obfuscate command and control. JadedWraith can be used to execute remote commands or upload follow on payloads.
 🧷
 https://github.com/phath0m/JadedWraith
-●▬۩❁ @geeekgirls ❁۩▬●
 #backdoor #hacking #UNIX
-File Storage, [6/4/22 1:38 PM]
 Karma_V2 - A Passive Open Source Intelligence (OSINT) Automated Reconnaissance (Framework)
 https://kitploit.com/2021/10/karmav2-passive-open-source.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+PentestTools+(PenTest+Tools)
-●▬۩❁ @geeekgirls ❁۩▬●
 #Pentesting #BugBounty #OSINT
-File Storage, [6/4/22 1:38 PM]
-[ Photo ]
 Overview of data science
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:38 PM]
-[ Photo ]
 A holistic cyber security framework. #cybersecurity@NIST
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:38 PM]
-[ Photo ]
-Overview of data science
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:39 PM]
-[ Photo ]
-A holistic cyber security framework. #cybersecurity@NIST
-●▬۩❁ @geeekgirls ❁۩▬●
 File Storage, [6/4/22 1:39 PM]
 n German the word "Verschlimmbessern" means "to make something worse while repairing it."
 In English we call that "software development."
 در آلمانی کلمه "Verschlimmbessern" به معنای "بدتر کردن چیزی هنگام تعمیر آن است".
 در زبان انگلیسی ما آن را "توسعه نرم افزار" می نامیم.
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:39 PM]
- https://www.programiz.com/python-programming/modules/math
-File Storage, [6/4/22 1:39 PM]
- https://repl.it/@aneagoie/Operator-Precedence
-File Storage, [6/4/22 1:39 PM]
- https://www.geeksforgeeks.org/python-int-function/
-File Storage, [6/4/22 1:39 PM]
+https://www.programiz.com/python-programming/modules/math
+https://repl.it/@aneagoie/Operator-Precedence
+https://www.geeksforgeeks.org/python-int-function/
 Free RDP
 RDP mobile
 RDP gaming
 رایگان تست ۱۴ روزه
 آزمایش تلفن همراه در فضای ابری
 اپل اندروید مک ویندوز
- https://www.perfecto.io/
-#معرفی_سایت
-File Storage, [6/4/22 1:39 PM]
+https://www.perfecto.io/
 Barinsta
 یک سرویس گیرنده منبع باز جایگزین اینستاگرام
 بدون ساخت حساب کاربری میتونید همه ی پستهای رو ببینید استوری‌ها رو دانلود کنید
 میتونید با اکانت خودتون وارد بشین
 از حریم خصوصی شما در برابر اینستاگرام محافظت می کند: برنامه فقط آنچه را که برای نمایش محتوا و آنچه در تنظیمات انتخاب کرده اید به شما نیاز دارد درخواست می کند.
 هیچ داده ایی جمع آوری نمیشه همه راههای نظارت اینستاگرام مسدود شده
-#اوپن_سورس
- https://github.com/BalintViragJ/barinsta
- https://barinsta.austinhuang.me/
+https://github.com/BalintViragJ/barinsta
+https://barinsta.austinhuang.me/
 دانلود
- https://f-droid.org/en/packages/me.austinhuang.instagrabber/
+https://f-droid.org/en/packages/me.austinhuang.instagrabber/
 فایل نصبی
-File Storage, [6/4/22 1:39 PM]
-[ Photo ]
 #Exclusive
 Extreme Privacy: What It Takes to Disappear 3rd Edition 2021
 Download For FREE: hide01.ir/extreme-privacy
-(
 https://hide01.ir/extreme-privacy)@Hide01
 @RedBlueHit
 @RedBlueTM
-File Storage, [6/4/22 1:39 PM]
 Linux PrivEsc Enumeration Tools
 LinPeas:
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
@@ -17287,13 +14223,9 @@ Linux Smart Enumeration:
 https://github.com/diego-treitos/linux-smart-enumeration
 Linux Priv Checker:
 https://github.com/linted/linuxprivchecker
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:39 PM]
 hackerEnv - automation tool that quickly and easily sweep IPs and scan ports, vulnerabilities and exploit them
 https://github.com/abdulr7mann/hackerEnv
-●▬۩❁ @geeekgirls ❁۩▬●
 #exploit #vulnerabilities
-File Storage, [6/4/22 1:39 PM]
 Good Python resources
 Official Tutorial (
 https://docs.python.org/3/tutorial/index.html) - Book
@@ -17310,58 +14242,15 @@ https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Vide
 • MIT OpenCourseWare (
 http://ocw.mit.edu/6-0001F16) - Course
 • Python for Beginners - Hindi
-(
 https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)• Python for Beginners - English
-(
 https://youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl)• Python 2021 Updated with Notes - Hindi
-(
 https://youtu.be/gfDE2a7MKjA)• Sample Project - J.A.R.V.I.S
-(
 https://youtu.be/4k9CphTdnWE)• Django for Beginners
-(
 https://youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr)• Machine Learning using Python - Hindi
-(
 https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)• Machine Learning using Python - English
-(
 https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)• Python Game development using PyGame - Hindi
-(
 https://youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb)●▬۩❁ @geeekgirls ❁۩▬●
 #python
-File Storage, [6/4/22 1:39 PM]
-Good Python resources
-Official Tutorial (
-https://docs.python.org/3/tutorial/index.html) - Book
-• Dive Into Python 3 (
-https://www.diveinto.org/python3/table-of-contents.html) - Book
-• Hitchhiker's Guide! (
-https://docs.python-guide.org/) - Book
-• Learn Python (
-https://www.learnpython.org/) - Interactive
-• Project Python (
-http://projectpython.net/) - Interactive
-• Python Video Tutorials (
-https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Video
-• MIT OpenCourseWare (
-http://ocw.mit.edu/6-0001F16) - Course
-• Python for Beginners - Hindi
-(
-https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)• Python for Beginners - English
-(
-https://youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl)• Python 2021 Updated with Notes - Hindi
-(
-https://youtu.be/gfDE2a7MKjA)• Sample Project - J.A.R.V.I.S
-(
-https://youtu.be/4k9CphTdnWE)• Django for Beginners
-(
-https://youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr)• Machine Learning using Python - Hindi
-(
-https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)• Machine Learning using Python - English
-(
-https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)• Python Game development using PyGame - Hindi
-(
-https://youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb)●▬۩❁ @geeekgirls ❁۩▬●
-#python
-File Storage, [6/4/22 1:39 PM]
 Network Tools
 NetworkMiner (
 http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
@@ -17403,9 +14292,7 @@ Netz (
 https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
 RustScan (
 https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
-●▬۩❁ @geeekgirls ❁۩▬●
 #network
-File Storage, [6/4/22 1:39 PM]
 چاقوی سوئیسی برای کار با فایل ها
 123apps (
 https://123apps.com/)
@@ -17413,45 +14300,34 @@ https://123apps.com/)
 https://chrome.google.com/webstore/detail/web-apps-by-123apps/dpplndkoilcedkdjicmbeoahnckdcnle/related?hl=ru) وجود دارد که با آن می توانید به سرعت و به راحتی عملکرد مورد نظر را پیدا کنید.
 ابزار آنلاین به شما کمک می کند تا به سرعت برش دهید، برش دهید، ویدیو را بچرخانید، حجم و سرعت ضبط صدا را تغییر دهید، زیر و بم درست را انجام دهید. علاوه بر این، این سرویس می تواند با PDF کار کند: تقسیم، ادغام، فشرده سازی، چرخش، صادرات به فرمت دیگر. 123apps (
 https://123apps.com/) بسیاری از مشکلاتی که ما هر روز با آن روبرو هستیم را حل می کند.
- https://123apps.com/
+https://123apps.com/
 افزونه کروم
- https://chrome.google.com/webstore/detail/web-apps-by-123apps/dpplndkoilcedkdjicmbeoahnckdcnle/related?hl=ru
-#معرفی_سایت
-File Storage, [6/4/22 1:39 PM]
-[ Photo ]
+https://chrome.google.com/webstore/detail/web-apps-by-123apps/dpplndkoilcedkdjicmbeoahnckdcnle/related?hl=ru
 Kitsunebi
 ابزاری برای دور زدن فیلترینگ با استفاده از پروتکل socks5 v2ray shadowsock
 اوپن سورس (متن باز )
- https://github.com/eycorsican/kitsunebi-android
+https://github.com/eycorsican/kitsunebi-android
 کسایی که روی همراه اول سرورهای شادوساکس یا v2ray براشون کانکت نمیشه از این کلاینت استفاده کنن
 لینک دانلود از گوگل پلی
- https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android
-File Storage, [6/4/22 1:39 PM]
-[ Photo ]
-#معرفی_سایت
+https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android
 بهترین سایت های انلاین برای اسکن فایل ها و وبسایت ها از نظر ویروسی بودن
- https://sitecheck.sucuri.net/\
- https://www.fortiguard.com/faq/onlinescanner
- https://virusdesk.kaspersky.com/
- https://virusscan.jotti.org/
- https://analysis.avira.com/en/submit
- https://metadefender.opswat.com/
- https://www.virustotal.com/gui/home/upload
+https://sitecheck.sucuri.net/\
+https://www.fortiguard.com/faq/onlinescanner
+https://virusdesk.kaspersky.com/
+https://virusscan.jotti.org/
+https://analysis.avira.com/en/submit
+https://metadefender.opswat.com/
+https://www.virustotal.com/gui/home/upload
 #Site / #Free
 @king_network7
-File Storage, [6/4/22 1:39 PM]
- https://ssd.eff.org/en/module/seven-steps-digital-security
-File Storage, [6/4/22 1:39 PM]
+https://ssd.eff.org/en/module/seven-steps-digital-security
 نحوه حذف واترمارک از تصویر
 Inpaint (
 https://theinpaint.com/)
 یک سرویس پردازش عکس ساده و راحت است که به شما امکان می دهد علامت علامت را به سرعت بردارید ، بی نظمی های پوست را در عکس های عمودی برطرف کنید ، یا مثلاً اشیاء غیر ضروری را در مرورگر خلاص کنید.
- https://theinpaint.com/
-#معرفی_سایت
-File Storage, [6/4/22 1:39 PM]
+https://theinpaint.com/
 Pinding
- https://pidgin.im/
-لینوکس مک ویندوز
+https://pidgin.im/
 پروتکل OTR چیست ؟
 پروتکلی است که به افراد اجازه می دهد تا با استفاده از ابزارهای ارسال پیام متداول خود، مکالمات محرمانه داشته باشند. OTR به شیوه های زیر این امنیت را فراهم می آورد:
 چت های شما را کدگذاری می کند.
@@ -17460,29 +14336,19 @@ Pinding
 چرا باید از Pidgin+OTR استفاده کنم؟
 هنگامی که با استفاده از Google Hangouts یا چت فیسبوک، واتساپ و یا هر مسنجر دیگه ایی ...، روی سایتهایی نظیر گوگل یا فیسبوک چت می کنید، این چت با استفاده از HTTPS کدگذاری شده است؛ بدان معنا که از متن چت شما بهنگام تبادل، در برابر شخص سوم یا هکرها محافظت می شود. اما با این وجود، محتوای پیامتان در برابر فیسبوک یا گوگل محافظت شده نیست و با توجه به اینکه گوگل و فیسبوک به مکالمات شما دسترسی دارند، ممکن است آنها را به مقامات قانونی تحویل دهند
 افزونه های pinding روی تمام مسنجرها قابل نصب هستش
- https://www.pidgin.im/plugins/
-File Storage, [6/4/22 1:39 PM]
+https://www.pidgin.im/plugins/
 Lalal.ai
 یک ابزار مفید برای نوازندگان تازه کار ، به شما امکان می دهد آهنگها را به اجزای مختلف تجزیه کنید تا بتوان آنها را جداگانه مطالعه کرد یا در ایجاد آهنگهای خود مجدداً مورد استفاده قرار گرفت.
 یک سرویس هوش مصنوعی ساده و مستقیم قادر به تجزیه یک قطعه به قسمتهای جداگانه است: آواز ، ساز ، درامز ، باس ، گیتار الکتریک و آکوستیک و غیره. هر آهنگ را می توان به طور جداگانه گوش داد و بارگیری کرد.
 برنامه رایگان دارای 10 دقیقه محدودیت برای پردازش فایل های صوتی تا 50 مگابایت است. این سایت با فرمت های mp3 ، ogg و wav کار می کند. البته محدودیت زمانی ناخوشایند است ، اما می توان به راحتی آن را دور زد.
- https://www.lalal.ai/
-#معرفی_سایت
-File Storage, [6/4/22 1:39 PM]
-[ Video ]
+https://www.lalal.ai/
 Core
 بزرگترین مجموعه مقالات تحقیقاتی جهان ،در دسترس عموم
- https://core.ac.uk
-#معرفی_سایت
+https://core.ac.uk
 File Storage, [6/4/22 1:40 PM]
-[ Photo ]
 اپ رو باز میکنید همون اول گزینه ثبتنام میاد با یکی از این فیک میل ها اکانتشو بگیرید
- https://mail.tm/en/
 بات
-@TempMail_org_bot
-@fakemailbot
 حتما ایمیلی رو که تانل بیر میفرسه تایید کنید
-File Storage, [6/4/22 1:40 PM]
 مجموعه ای از خدمات برای بررسی ایمنی لینک ها
 1.
 https://scanurl.net/
@@ -17496,18 +14362,12 @@ https://transparencyreport.google.com/safe-browsing/search
 https://2ip.ru/site-virus-scaner/
 6.
 https://www.urlvoid.com/
-#معرفی_سایت
-File Storage, [6/4/22 1:40 PM]
-[ Photo ]
 ClonBrowser (
 https://www.clonbrowser.com/)
-Antidetect browser
 مرورگر‌ضد تشخیص
 مجهز به ابزار کاردینگ
 7 روز رایگان
- https://www.clonbrowser.com/
-File Storage, [6/4/22 1:40 PM]
-[ Photo ]
+https://www.clonbrowser.com/
 Webtor (
 http://webtor.io/)
 سرویسی برای دسترسی آنلاین به محتویات هر فایل تورنتی است که دارای همتا است.
@@ -17515,30 +14375,22 @@ http://webtor.io/)
 پخش محتوا (به عنوان مثال، یک فیلم) بدون انتظار برای دانلود کامل فایل از شبکه BitTorrent، یعنی. تقریبا فوری.
 لینک تورنت رو بصورت لینک مستقیم و پخش آنلاین تبدیل میکنه
 همه چیز رایگان و بدون ثبت نام است. شما می توانید هر دو تورنت عمومی و خصوصی را دانلود کنید. دانلودها کاملاً ناشناس و ایمن هستند، آدرس IP کاربر برای شرکت کنندگان در شبکه BitTorrent قابل مشاهده نیست.
- http://webtor.io/
-#معرفی_سایت
-File Storage, [6/4/22 1:40 PM]
+http://webtor.io/
 وزیر ارتباطات و فناوری اطلاعات :گمنامی کاربران فضای مجازی یک چالش جدی است (
 https://www.isna.ir/news/1400080604295/گمنامی-کاربران-فضای-مجازی-یک-چالش-جدی-است)
-File Storage, [6/4/22 1:40 PM]
-[ Photo ]
 Tribler
 سرویس گیرنده BitTorrent با بهبود حریم خصوصی و تشخیص محتوای P2P ، ضد سانسور و بارگیری تورنت ناشناس
 پخش آنلاین هنگام بارگیری
 Ticiousr از شبکه اختصاصی Tor-like مخصوص خود برای بارگیری های ناشناس استفاده می کند. برای گنو / لینوکس ، macOS و ویندوز موجود است
- https://github.com/Triefr/tribler
-وب سایت:
+https://github.com/Triefr/tribler
 https://www.tribler.org/
 نویسنده:
 https://github.com/Triefr/tribler/graphs/contributors
 صفحه دانلود برای ویندوز لینوکس مک
- https://www.tribler.org/download.html
-File Storage, [6/4/22 1:40 PM]
-[ Photo ]
+https://www.tribler.org/download.html
 Privacy Possum
-(
 https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/) یکی از معروف ترین پلاگین های فایرفاکس است که برای مبارزه با نظارت از طریق مسدود کردن و جعل داده های جمع آوری شده توسط اسکریپت های ردیابی مختلف طراحی شده است.
- https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/
+https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/
 Privacy Possum (
 https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/)
 از پذیرش کوکی‌ها جلوگیری می‌کند، سرصفحه‌های HTTP کوکی‌های تنظیم و ارجاع‌دهنده را مسدود می‌کند و اثر انگشت مرورگر را مخدوش می‌کند که اثر انگشت را دشوار می‌کند.
@@ -17548,25 +14400,15 @@ https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/)
 https://panopticlick.eff.org/) برای بررسی مسدود شدن کوکی ها و ردیاب های تبلیغاتی استفاده کنید.
 ما از سایت Webkay (
 https://webkay.robinlinus.com/) برای بررسی نشت های مختلف استفاده می کنیم: IP، داده های سخت افزاری، نسخه سیستم عامل و خود مرورگر.
-File Storage, [6/4/22 1:40 PM]
 Need a custom search engine for your #OSINT research: choose from more than 70 alternatives by @sprp77
- https://docs.google.com/spreadsheets/d/1fBPz6KHsFXryhu6JNrj1l-Rl04bEKLfinyCgCIqTyzU/edit#gid=436019663
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:40 PM]
+https://docs.google.com/spreadsheets/d/1fBPz6KHsFXryhu6JNrj1l-Rl04bEKLfinyCgCIqTyzU/edit#gid=436019663
 🎟 Free Labs to practice SSRF 🎟
- https://github.com/jdonsec/AllThingsSSRF
- https://github.com/incredibleindishell/SSRF_Vulnerable_Lab
- https://github.com/m6a-UdS/dvca
-●▬۩❁ @geeekgirls ❁۩▬●
-#ssrf
-File Storage, [6/4/22 1:40 PM]
+https://github.com/jdonsec/AllThingsSSRF
+https://github.com/incredibleindishell/SSRF_Vulnerable_Lab
+https://github.com/m6a-UdS/dvca
 توییت
-(
 https://twitter.com/ooddin/status/1453744143839244294?s=20)اگه از Visual Studioاستفاده می کنید این ترفتند های ساده دیباگ رو براتون ساده‌تر می کنه :
- https://devblogs.microsoft.com/visualstudio/7-more-lesser-known-debugging-tactics-for-visual-studio/
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:40 PM]
-Linux PrivEsc Enumeration Tools
+https://devblogs.microsoft.com/visualstudio/7-more-lesser-known-debugging-tactics-for-visual-studio/
 ( ابزارهایی برای بالا بردن سطح دسترسی در لینوکس )
 ️LinPeas (
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
@@ -17582,19 +14424,15 @@ https://github.com/linted/linuxprivchecker)
 #github
 #privesc
 @H4ckTvist 🦹
-File Storage, [6/4/22 1:40 PM]
 "OSINT Tools: A compilation of tools to obtain data and convert it into cyber intelligence"
 "ابزار OSINT: مجموعه ای از ابزارها برای به دست آوردن داده ها و تبدیل آنها به اطلاعات سایبری"
 🛠 Google Dorks
-https://www.exploit-db.com/google-hacking-database
 https://www.sans.org/security-resources/GoogleCheatSheet.pdf
 🛠 Bing Dorks
 🛠 Shodan
-https://www.shodan.io/
 🛠 Maltego
 https://www.maltego.com/
 🛠 TheHarvester
-https://github.com/laramies/theHarvester
 🛠 Recon-ng
 https://github.com/lanmaster53/recon-ng
 🛠 Censys
@@ -17626,31 +14464,20 @@ https://www.isecauditors.com/herramientas-tinfoleak
 https://www.wappalyzer.com/
 🛠 OSINT Framework
 https://osintframework.com/
-●▬۩❁ @geeekgirls ❁۩▬●
 #OSINT
-File Storage, [6/4/22 1:40 PM]
 🟥Awesome Vulnerable🟥
 A curated list of vulnerable apps and systems which can be used as penetration testing practice lab. This list aims to help starters as well as pros to test out and enhance their penetration skills.
 مجموعه‌ از اپلیکیشن‌های دارای باگ ، برای تقویت مهارت تست نفوذ
- https://github.com/kaiiyer/awesome-vulnerable
-●▬۩❁ @geeekgirls ❁۩▬●
+https://github.com/kaiiyer/awesome-vulnerable
 #Pentesting #lab
-File Storage, [6/4/22 1:40 PM]
 Here is a small list of APIs that will be useful for automating various tasks in #OSINT :
- https://github.com/cipher387/API-s-for-OSINT
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:40 PM]
 Face Generator for creating #sockpuppets‍🦱
 چهره سازی کنید !!
 جنسیت، سن، موقعیت سر، احساسات، رنگ مو و پوست، آرایش و عینک را سفارشی کنید.
- http://generated.photos/face-generator/
-●▬۩❁ @geeekgirls ❁۩▬●
+http://generated.photos/face-generator/
 #AI #socmint #osint
-File Storage, [6/4/22 1:40 PM]
-[ Photo ]
- https://trojansource.codes/
-File Storage, [6/4/22 1:40 PM]
- https://youtu.be/iosNVA6swao
+https://trojansource.codes/
+https://youtu.be/iosNVA6swao
 File Storage, [6/4/22 1:41 PM]
 Want to know what #OSINT APIs you should check out?
 Pentests & Bug bounties:
@@ -17660,67 +14487,41 @@ https://spiderfoot.net/top-5-osint-sources-for-threat-intelligence/
 People Investigations:
 https://spiderfoot.net/top-5-osint-sources-for-people-investigations/
 Attack Surface Management
-●▬۩❁ @geeekgirls ❁۩▬●
-#OSINT
-File Storage, [6/4/22 1:41 PM]
-(
 https://telegra.ph/file/9a8dbe4b64f35523731b2.png) Useful brute force wordlists
 A small selection of useful generators and wordlists from GitHub:
- https://github.com/danielmiessler/SecLists
- http (
+https://github.com/danielmiessler/SecLists
 https://github.com/danielmiessler/SecLists)s://github.com/berzerk0/Probable-Wordlists
- http (
 https://github.com/berzerk0/Probable-Wordlists)s://github.com/govolution/betterdefaultpasslist
- http (
 https://github.com/govolution/betterdefaultpasslist)s://github.com/insidetrust/statistically-likely-usernames
- http (
 https://github.com/insidetrust/statistically-likely-usernames)s://github.com/LandGrey/pydictor
- http (
 https://github.com/LandGrey/pydictor)s://github.com/sc0tfree/mentalist
- http (
 https://github.com/sc0tfree/mentalist)s://github.com/skahwah/wordsmith
- http (
 https://github.com/skahwah/wordsmith)s://github.com/1N3/IntruderPayloads
- http (
 https://github.com/1N3/IntruderPayloads)s://github.com/fuzzdb-project/fuzzdb
- http (
 https://github.com/fuzzdb-project/fuzzdb)s://github.com/Bo0oM/fuzz.txt
- http (
 https://github.com/Bo0oM/fuzz.txt)s://github.com/laconicwolf/Password-Scripts
- http (
 https://github.com/laconicwolf/Password-Scripts)s://github.com/FlameOfIgnis/Pwdb-Public
 ●▬۩❁ @ (
 https://github.com/FlameOfIgnis/Pwdb-Public)geeekgirls ❁۩▬●
 #web #wordlist
-File Storage, [6/4/22 1:41 PM]
 هر موقع ی برنامه داشتید که نیاز به لایسنس داشت جای سرچ کردن کلمه لایسنس و الکی گشتن تو گوگل و چنل های مختلف تلگرام و در نهایت احتمال پیدا شدن 50 درصدی
 کافیه اسم برنامتون رو همراه با
 "94FBR"
 سرچ کنید مثلا فتوشاپ میشه
 "photoshop 94fbr"
-File Storage, [6/4/22 1:41 PM]
 توی ویندوز 10 از win+v استفاده کنید تا یه لیست از کپی هاتون رو ببینید
-File Storage, [6/4/22 1:41 PM]
 اره این dc mellinium copyright نموده همه ریزالت ها رو حذف میکنه تازگیا
 94fbr
 معنیش اولین بار برای سریال آفیس بود یه google dork شد برای پیدا کردن سریال برنامه ها
-File Storage, [6/4/22 1:41 PM]
 برنامه کرکی میخوای بدو برو سایت
- https://www.crackingcity. com/
-File Storage, [6/4/22 1:41 PM]
+https://www.crackingcity. com/
 dgg.gg
-File Storage, [6/4/22 1:41 PM]
- https://hat.sh
 یه سایت خوب، سبک، رایگان و امن برای رمز گزاری فایلا
 اپن سورس
- https://github.com/sh-dv/hat.sh
-File Storage, [6/4/22 1:41 PM]
- https://github.com/PS-Professional/ClamAV-on-Docker/tree/master/test-clam
+https://github.com/PS-Professional/ClamAV-on-Docker/tree/master/test-clam
 هر کدوم رو که خواستی بردار...
-File Storage, [6/4/22 1:41 PM]
-#معرفی_سایت
 لیستی از بهترین خدمات دهندگان پارامترهای ip و مرورگر
- https://pixelscan.net
+https://pixelscan.net
 https://uniquemachine.org
 https://fingerprintjs.com
 https://scamalytics.com/ip
@@ -17735,13 +14536,9 @@ https://resolve.rs/ip/geolocation.html
 https://z0ccc.github.io/LocateJS
 https://www.ip-tracker.org/
 dsn leak
- https://ipleak.net
 https://www.dnsleaktest.com/
-File Storage, [6/4/22 1:41 PM]
-[ Photo ]
 Natron
 جایگزین رایگان برای Adobe After Effects
-Natron
 یک ویرایشگر ویدیوی متن باز رایگان است که از نظر عملکرد شبیه به Adobe After Effects، Foundry's Nuke یا Blackmagic Fusion است. از گنو / لینوکس، macOS و مایکروسافت ویندوز پشتیبانی می کند
 کامپوزیت چند کاناله
 ادغام اسکریپت های پایتون
@@ -17749,196 +14546,140 @@ Natron
 رندر از خط فرمان
 پشتیبانی از بسیاری از پلاگین های رایگان، منبع باز و تجاری OpenFX
 و خیلی بیشتر...
- https://github.com/NatronGitHub/Natron
-وب سایت:
+https://github.com/NatronGitHub/Natron
 https://natrongithub.github.io/
-#اوپن_سورس
-#گیتهاب
-File Storage, [6/4/22 1:41 PM]
- https://t.me/mamlekate/
-File Storage, [6/4/22 1:41 PM]
- https://t.me/hafezeye_tarikhi
-File Storage, [6/4/22 1:41 PM]
-[ Video ]
+https://t.me/mamlekate/
 یادی کنم از این سانس از سریال mr robot
-File Storage, [6/4/22 1:41 PM]
 Pentesting Websites
- https://github.com/Neohapsis/bbqsql
- https://github.com/libeclipse/blind-sql-bitshifting
- https://github.com/sqlmapproject/sqlmap
- https://github.com/HandsomeCam/Absinthe
+https://github.com/Neohapsis/bbqsql
+https://github.com/libeclipse/blind-sql-bitshifting
+https://github.com/HandsomeCam/Absinthe
 Pentest Frameworks
- https://github.com/trustedsec/ptf
- https://github.com/georgiaw/Smartphone-Pentest-Framework
- https://github.com/dloss/python-pentest-tools
- https://github.com/enaqx/awesome-pentest
- https://github.com/PenturaLabs/Linux_Exploit_Suggester
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:41 PM]
+https://github.com/trustedsec/ptf
+https://github.com/georgiaw/Smartphone-Pentest-Framework
+https://github.com/dloss/python-pentest-tools
+https://github.com/enaqx/awesome-pentest
+https://github.com/PenturaLabs/Linux_Exploit_Suggester
 The Caretaker - It's just a burning memory (2016)
-File Storage, [6/4/22 1:41 PM]
-▎优质频道特别推荐
-推送内容：
-•全平台APP/游戏等限免(全天)
-•各种实用网站推送(午/晚)
-•羊毛线报推送(早/晚)
-•常年抽奖
-资源资讯羊毛聚合频道
- https://t.me/BaccanoSoul
-❶羊毛薅到底底底底底底：
- https://t.me/LycorisStore
-❷资源存储频道：
- https://t.me/JustReformation
-❸激情群聊 ：
- https://t.me/HazardOn
-❹随性投稿bot: (格式在置顶)
-@LycorisVia_bot
-❺免翻墙QQ羊毛群
-【彼岸❶组羊毛优惠捡漏群】：
- https://qm.qq.com/cgi-bin/qm/qr?k=ljdb0cKqi45eIyreTIEohDMCrCWz1DHc&authKey=0WylNwRZ1E3BT+unFI9KbwA5ymLx+BPu/fupIrKCri8vX0OjMpwirRtaJioUgcKr&noverify=0
-▎双十一拆购物抵现红包🧧
-京东「反复打开三次」
- https://u.jd.com/3wFPvba
-天猫
- https://m.tb.cn/h.fgViPkX
-File Storage, [6/4/22 1:41 PM]
 Cybersecurity Awareness training
 Free from AWS
- https://learnsecurity.amazon.com/
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:41 PM]
-[ Photo ]
+https://learnsecurity.amazon.com/
 Black Hat Asia 2021
- https://youtube.com/playlist?list=PLH15HpR5qRsU7QyLAmtTPLvETPwMChsFY
-●▬۩❁ @geeekgirls ❁۩▬●
+https://youtube.com/playlist?list=PLH15HpR5qRsU7QyLAmtTPLvETPwMChsFY
 File Storage, [6/4/22 1:36 PM]
 🧉 Complete Bug Bounty tool List 🧉
 🧉 dnscan
- https://github.com/rbsec/dnscan
+https://github.com/rbsec/dnscan
 🧉 Knockpy
- https://github.com/guelfoweb/knock
+https://github.com/guelfoweb/knock
 🧉 Sublist3r
- https://github.com/aboul3la/Sublist3r
+https://github.com/aboul3la/Sublist3r
 🧉 massdns
- https://github.com/blechschmidt/massdns
+https://github.com/blechschmidt/massdns
 🧉 nmap
- https://nmap.org
+https://nmap.org
 🧉 masscan
- https://github.com/robertdavidgraham/masscan
 🧉 EyeWitness
- https://github.com/ChrisTruncer/EyeWitness
+https://github.com/ChrisTruncer/EyeWitness
 🧉 DirBuster
- https://sourceforge.net/projects/dirbuster/
+https://sourceforge.net/projects/dirbuster/
 🧉 dirsearch
- https://github.com/maurosoria/dirsearch
 🧉 Gitrob
- https://github.com/michenriksen/gitrob
+https://github.com/michenriksen/gitrob
 🧉 git-secrets
- https://github.com/awslabs/git-secrets
+https://github.com/awslabs/git-secrets
 🧉 sandcastle
- https://github.com/yasinS/sandcastle
+https://github.com/yasinS/sandcastle
 🧉 bucket_finder
- https://digi.ninja/projects/bucket_finder.php
+https://digi.ninja/projects/bucket_finder.php
 🧉 GoogD0rker
- https://github.com/ZephrFish/GoogD0rker/
+https://github.com/ZephrFish/GoogD0rker/
 🧉 Wayback Machine
- https://web.archive.org
+https://web.archive.org
 🧉 waybackurls
- https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050
+https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050
 🧉 Sn1per
- https://github.com/1N3/Sn1per/
+https://github.com/1N3/Sn1per/
 🧉 XRay
- https://github.com/evilsocket/xray
+https://github.com/evilsocket/xray
 🧉 wfuzz
- https://github.com/xmendez/wfuzz/
+https://github.com/xmendez/wfuzz/
 🧉 patator
- https://github.com/lanjelot/patator
+https://github.com/lanjelot/patator
 🧉 datasploit
- https://github.com/DataSploit/datasploit
+https://github.com/DataSploit/datasploit
 🧉 hydra
- https://github.com/vanhauser-thc/thc-hydra
+https://github.com/vanhauser-thc/thc-hydra
 🧉 changeme
- https://github.com/ztgrace/changeme
+https://github.com/ztgrace/changeme
 🧉 MobSF
- https://github.com/MobSF/Mobile-Security-Framework-MobSF/
+https://github.com/MobSF/Mobile-Security-Framework-MobSF/
 🧉 Apktool
- https://github.com/iBotPeaches/Apktool
+https://github.com/iBotPeaches/Apktool
 🧉 dex2jar
- https://sourceforge.net/projects/dex2jar/
+https://sourceforge.net/projects/dex2jar/
 🧉 sqlmap
- http://sqlmap.org/
+http://sqlmap.org/
 🧉 oxml_xxe
- https://github.com/BuffaloWill/oxml_xxe/
+https://github.com/BuffaloWill/oxml_xxe/
 🧉 XXE Injector
- https://github.com/enjoiz/XXEinjector
+https://github.com/enjoiz/XXEinjector
 🧉 The JSON Web Token Toolkit
- https://github.com/ticarpi/jwt_tool
 🧉 ground-control
- https://github.com/jobertabma/ground-control
+https://github.com/jobertabma/ground-control
 🧉 ssrfDetector
- https://github.com/JacobReynolds/ssrfDetector
+https://github.com/JacobReynolds/ssrfDetector
 🧉 LFISuit
- https://github.com/D35m0nd142/LFISuite
+https://github.com/D35m0nd142/LFISuite
 🧉 GitTools
- https://github.com/internetwache/GitTools
+https://github.com/internetwache/GitTools
 🧉 dvcs-ripper
- https://github.com/kost/dvcs-ripper
+https://github.com/kost/dvcs-ripper
 🧉 tko-subs
- https://github.com/anshumanbh/tko-subs
+https://github.com/anshumanbh/tko-subs
 🧉HostileSubBruteforcer
- https://github.com/nahamsec/HostileSubBruteforcer
+https://github.com/nahamsec/HostileSubBruteforcer
 🧉 Race the Web
- https://github.com/insp3ctre/race-the-web
+https://github.com/insp3ctre/race-the-web
 🧉 ysoserial
- https://github.com/GoSecure/ysoserial
+https://github.com/GoSecure/ysoserial
 🧉 PHPGGC
- https://github.com/ambionics/phpggc
+https://github.com/ambionics/phpggc
 🧉 CORStest
- https://github.com/RUB-NDS/CORStest
+https://github.com/RUB-NDS/CORStest
 🧉 retire-js
- https://github.com/RetireJS/retire.js
+https://github.com/RetireJS/retire.js
 🧉 getsploit
- https://github.com/vulnersCom/getsploit
+https://github.com/vulnersCom/getsploit
 🧉 Findsploit
- https://github.com/1N3/Findsploit
+https://github.com/1N3/Findsploit
 🧉 bfac
- https://github.com/mazen160/bfac
+https://github.com/mazen160/bfac
 🧉 WPScan
- https://wpscan.org/
+https://wpscan.org/
 🧉 CMSMap
- https://github.com/Dionach/CMSmap
+https://github.com/Dionach/CMSmap
 🧉 Amass
- https://github.com/OWASP/Amass
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:36 PM]
+https://github.com/OWASP/Amass
 🕸 Pentesting Websites 🕸
 SqlInjection:
- https://github.com/Neohapsis/bbqsql
- https://github.com/libeclipse/blind-sql-bitshifting
- https://github.com/sqlmapproject/sqlmap
- https://github.com/HandsomeCam/Absinthe
 Pentest Framework
- https://github.com/trustedsec/ptf
- https://github.com/georgiaw/Smartphone-Pentest-Framework
- https://github.com/dloss/python-pentest-tools
- https://github.com/enaqx/awesome-pentest
- https://github.com/PenturaLabs/Linux_Exploit_Suggester
 Webapp
- http://www.websecurify.com/
- https://www.netsparker.com/
- http://www.acunetix.com/vulnerability-scanner/
- https://www.rapid7.com/products/nexpose/
- http://www.tenable.com/products/nessus-vulnerability-scanner
- https://secapps.com/
- https://github.com/Arachni/arachni
- https://github.com/leebaird/discover/blob/master/discover.sh
+http://www.websecurify.com/
+https://www.netsparker.com/
+http://www.acunetix.com/vulnerability-scanner/
+https://www.rapid7.com/products/nexpose/
+http://www.tenable.com/products/nessus-vulnerability-scanner
+https://secapps.com/
+https://github.com/Arachni/arachni
+https://github.com/leebaird/discover/blob/master/discover.sh
 Web exploitation
- https://github.com/1N3/Sn1per
+https://github.com/1N3/Sn1per
 WPScan (
 https://wpscan.org/ )
 Black box WordPress vulnerability scanner (
 https://t.me/ViperZCrew/14001 )
- https://github.com/RUB-NDS/WS-Attacker
+https://github.com/RUB-NDS/WS-Attacker
 SQLmap - Automatic SQL injection and database takeover tool ( sqlmap.org )
 weevely3 - Weaponized web shell (
 https://github.com/epinna/weevely3 )
@@ -17952,8 +14693,6 @@ WhatWeb - Website Fingerprinter (
 https://github.com/urbanadventurer/WhatWeb )
 BlindElephant - Web Application Fingerprinter (
 https://github.com/lokifer/BlindElephant )
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:36 PM]
 Reverse engineering
 Roadmap
 Learn c/ c++/ python (this will come handy)
@@ -17978,8 +14717,8 @@ https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2
 https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001_x86-64_OS_Internals+2021_v1/about)
 Z0FCourse_ReverseEngineering (
 https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
- https://crackmes.one/
- https://asmtutor.com/
+https://crackmes.one/
+https://asmtutor.com/
 GHB2 - Beginners Guide To Reverse Engineering (
 https://guidedhacking.com/threads/ghb2-beginners-guide-to-reverse-engineering.13446/)
 malwareunicorn.org Workshop (
@@ -18004,42 +14743,31 @@ Learn how to ask proper questions. We don't want to hear your hi hello, just ask
 https://www.nohello.com/
 How (not) to ask a technical question(
 https://www.youtube.com/watch?v=53zkBvL4ZB4)
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:36 PM]
 مشخصات دقیق ip
- https://www.ip-tracker.org/
 وبسایت تست آی پی زیاد معرفی شده این وبسایت جدید ی سری مشخصات خوب میده برای ساخت اکانت و آدرس دادن طبق همون آی پی
-File Storage, [6/4/22 1:36 PM]
 آسانترین روش برای پیکربندی #حریم_خصوصی و امنیت در وبگردی با مرورگر فایرفاکس
 این سایت روش کار باهاش خیلی ساده س هر دغدغه ایی که داری در وبگردی از حذف تبلیغات و حذف کوکی و.. لیست میکنی آخر سر بصورت فایل زیپ یا پروفایل جدید به مرورگر فایرفاکس اضافه میکنید
 خیلی خوب و کاربردی عه
- https://ffprofile.com/
-File Storage, [6/4/22 1:36 PM]
- https://cdn.discordapp.com/attachments/897601430083481631/897939210672152646/video0-48-2-2.mp4
-File Storage, [6/4/22 1:36 PM]
+https://ffprofile.com/
+https://cdn.discordapp.com/attachments/897601430083481631/897939210672152646/video0-48-2-2.mp4
 DefaultCreds. We use default passwords.
 موضوع امروز : گذر واژه های پیش فرض ، ما از گذر واژه های پیش فرض استفاده میکنیم .
 امروز من در دنیای گذرواژه ها ی پیش فرض یک ابزار جالب برای شما پیدا کردم ، در این منبع بیش از 4000 گذرواژخ استاندارد برای انواع تچهیزات و دستگاه ها وجود داره :
-🧷
 https://github.com/ihebski/DefaultCreds-cheat-sheet
 ابزارهای دیگر :
 Additional tools regarding default passwords:
- https://passwordsdatabase.com - the service contains over 391 vendors and 1600 passwords for various devices.
+https://passwordsdatabase.com - the service contains over 391 vendors and 1600 passwords for various devices.
 • shodan
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:36 PM]
 ببخشید که ممکنه نامرتبط به گروه باشه ولی من دامنه‌های زیر رو دارم و اگه کسی خواست چیزی مرتبط با موضوعشون بیاره بالا، به رایگان در اختیارش قرار می‌دم:
 freeculture.ir
 liberte.ir
 libresoftware.ir
 softwarelibre.ir
-File Storage, [6/4/22 1:36 PM]
 bad genius
-File Storage, [6/4/22 1:36 PM]
 آموزش تونل کردن کل سیستم لینوکسی از سرور های پراکسی با کلاینت کلش
 برای لینوکس کلاینت کلش باید نصب کنیم.
 لینک ویدیو نصب کلاینت و ایمپورت پراکسی ها
- https://t.me/vpn_proxy66/3565
+https://t.me/vpn_proxy66/3565
 بعد که استارت بزنیم به شکل پراکسی بهمون سرویس میده. اگه پراکسی مود میخواستین تا اینجا کارتون تمومه و لذت ببرین ولی من خودم میخواستم که کل سیستمم تونل بشه برای این کار اینطوری میریم جلو.
 اول از همه این دوتا پکیج رو نصب میکنین. ( ممکنه توی سیستم های غیر دبیانی پکیج های دیگه ای بخواد.‌)
 دستور نصبش توی سیستم های دبیان اینطوریه:
@@ -18050,7 +14778,7 @@ current status: Inactive
 بعد برنامه رو دوباره باز میکنین میرین تب تنظیمات و بغل اسم سرویس مود یه آیکون کره هست که باید الان سبز شده باشه. این یعنی با موفقیت نصب شد. اگه دوباره منیج رو بزنین الان میگه current status: Active که یعنی اوکیه.
 تا الان کاری که انجام دادیم این بود که امکان تونل کردن کل سیستم رو به کلش بدیم. حالا اگه ما فایل کانفیگی اد کنیم که تنظیمات tun توش باشه کل سیستم تونل میشه. و تمومه مشکلی نیست.
 ولی اگه تنظیمات tun اضافه نشده باشه باید ادش کنیم. مثلا آدرس کانفیگ هایی که تو این پیام هستن هیچ کدوم این تنظیمات رو ندارن:
- https://t.me/vpn_proxy66/3506
+https://t.me/vpn_proxy66/3506
 ولی به صورت کانفیگ دیفالت اضافه میکنیم که شما یه سری تنظیمات میتونی ذخیره کنی که رو همه پروفایل ها اعمال بشه. مثلا پروفایل هایی که من دارم هیچکدوم tun ندارن و من باید دستی به همشون اد کنم و اگه اتو آپدیت هم بزنم به وضعیت قبلشون درمیان برای همین مشکلات دیفالت میدیم.
 برای اینکه تنظیمات بدیم که رو همه اعمال بشه و بعد از آپدیت کانفیگ مشکلی پیش نیاد میریم تب جنرال و mixin رو فعال میکنیم. و بعد میریم تب تنظیمات و از بخش پروفایل میکسین گزینه ادیت YAML رو میزنیم.
 و اینجا این رو وارد میکنیم:
@@ -18064,88 +14792,64 @@ dns-hijack: # DNS劫持设置为系统DNS
 حالا اگر کانفیگ های من تنظیمات tun نداشته باشن یا اتو آپدیت بشن مشکلی پیش نمیاد و همیشه tun رو دارین.
 میتونین از دستور ifconfig کارت شبکه های مجازی و فیزیکی رو ببینین. براتون باید یه کارت جدید اضاقه شده باشه. برای من اسمش utun بود مطمین نیستم برای همه همین باشه.
 برای اطلاع از این tun ها به این لینک برین:
- https://docs.cfw.lbyczf.com/contents/tun.html#linux
+https://docs.cfw.lbyczf.com/contents/tun.html#linux
 Author: @mymiad
 و....
-File Storage, [6/4/22 1:36 PM]
 و در ادامه..
 کلاینت کلش، به شکل معمولی قطع کردن نداره، دکمه قطع کردن نداره یعنی.
 کاری که باید کرد اینه که شما یه سری سرور اد کردین که میتونین انتخاب و ادشون کنین، در کنار اینها به صورت دیفالت یه گزینه هست به اسم direct که منظور همون اینترنت خودتونه. به صورت مستقیم از اینترنت خودتون رد میشه نه از سرور پراکسی.
 و البته یه چیز دیگه، توی تب تنظیمات بخش connections ، میگه که در چ حالتی من کانکشن هارو قطع کنم. به صورت دیفالت none هست. این نان، کاری که میکنه اینه که حتی اگه شما سرور پراکسی رو عوض کنین، کانکشن های قدیم بهش میمونه. مثلا شما یه تلگرام باز کردین و با سرور پراکسی یک وصل شدین. اگه سرور پراکسی رو عوض کنین به دو، فقط کانکشن های جدیدی که در دیوایستون ایجاد میشه از پراکسی دوم میگزره، و کانکشن های قدیم که به پراکسی یک میرفت هنوز زندس. و به قولی شما برای تلگرامتون هنوز دارین از پراکسی یک استفاده میکنین.
 اگه میخواین که وقتی پراکسی رو عوض کردین، کل کانکشن ها دراپ بشه و همه چی رو از پراکسی دوم بگزرونین، باید همین قسمت تنظیمات بخش کانکشن ،‌ break when proxy change رو روی all بزارین.
 تمام
-File Storage, [6/4/22 1:36 PM]
 free guy
-File Storage, [6/4/22 1:36 PM]
 best sites for download game and apps modded and paids for free
 A2ZAPK
 link:
 https://a2zapk.com/
 apkdone
-link:
 https://apkdone.com/homepage/
 apkpure
-link:
 https://m.apkpure.com/
 rexdl
-link:
 https://rexdl.com/android/minecraft-pocket-edition-apk-mod-downloadilil.html/
 revdl
-link:
 https://www.revdl.com/category/apps/
 moddroid
-link:
 https://moddroid.co/temp-home
 apkmody.io
-link:
 https://apkmody.io/new-home
 apk4all
-link:
 https://apk4all.com/home/
 kingmodapk
-link:
 https://kingmodapk.com/en/
 5droid
-link:
 https://5droid.com/
 apk4free
-link:
 https://apk4free.org/
 1mobile apk
-link:
 https://1mobile-market.en.softonic.com/android
 aptoide
-link:
 https://en.aptoide.com/
 mobilism
-link:
 https://forum.mobilism.me/
 mob.org
-link:
 https://mob.org/en/android/games/tags/adventure
 androidapksfree
-link:
 https://androidapksfree.com
 apkvision
-link:
 https://apkvision.com
 gamedva
-link:
 https://gamedva.com
 techbigs
-link:
 https://techbigs.com
 apkaward
-link:
 https://apkaward.com
 uptodown
- https://uptodown.com
+https://uptodown.com
 apkmirror
 link:apkmirror.com
 dlandroid
-link:
 https://dlandroid.com
-File Storage, [6/4/22 1:36 PM]
 ۱۰ راه برای کاهش ردپای دیجیتال
 هویت دیجیتالی
 ۱- حذف یا غیرفعال کردن حساب‌های فروشگاه‌های آنلاین و شبکه‌های اجتماعی
@@ -18174,232 +14878,114 @@ https://backgroundchecks.org/justdeleteme/)می‌توانید دریابید ک
 اگر نمی‌خواهید اطلاعات شخصی‌تان در اینترنت رکورد شود، در بسیاری از وب‌سایت‌ها و سرویس‌هایی که مجبور به وارد کردن اطلاعات شخصی هستید، می‌توانید از اطلاعات نادرست استفاده کنید. برای مثال تاریخ تولد واقعی‌ خودتان را وارد نکنید.
 ۱۰ – از شرکت در نظرسنجی‌های آنلاین دوری کنید یا اطلاعات نادرست وارد کنید
 در بسیاری از شبکه‌های اجتماعی موردهای زیادی از نظرسنجی‌های آنلاین برای تشخیص شخصیت، نزدیک بودن به کدام دوست، شخصیت فیلم یا کارتون و غیره دیده می‌شود. سعی کنید از دادن اطلاعات درست و واقعی به این وب‌سایت‌ها خودداری کنید. اگر علاقه به شرکت در این نظرسنجی‌‌ها هستید از اطلاعات اشتباه و غلط استفاده کنید.
-File Storage, [6/4/22 1:36 PM]
-چرا باید از آدرس ایمیل یکبار مصرف استفاده کرد؟
-این روزها بسیاری از وب سایت ها و برنامه ها نیاز دارند که شما یک ایمیل آپرس وارد کنید آنها می توانند با فروش اطلاعات مربوط به شما درآمد کسب کنند.
-آدرس ایمیل شما برای بازاریابان اینترنتی که می خواهند ایمیل اسپم برای شما ارسال کنند بسیار ارزشمند است خدا می داند چه چیزی است. همچنین برای هکرها ارزشمند است. آدرس ایمیل شما قطعه کلیدی داده ای است که آنها می توانند هنگام هک کردن حساب های شما استفاده کنند. افراد زیادی از آدرس ایمیل یکسان برای همه موارد استفاده می کنند.
-توجه کنید دوستان فقط برای ساخت اکانتهایی که فکر میکنید زیاد مهم نیستن از این ایمیلها استفاده کنید
-سایتهای ارایه دهند ایمیل موقت
-fake mail
-tempr.email/en
- https://tempr.email/en
-https://10minutemail.com
-https://burnermail.io
-https://www.guerrillamail.com
-https://www.emailondeck.com
-https://www.temp-mails.com
-http://deadfake.com
-https://www.sharklasers.com
-https://mytemp.email
-http://www.mintemail.com
-http://www.eyepaste.com/mailsucker.net
-https://www.emailondeck.com
-https://getnada.com
-http://www.fakeinbox.com
-https://temp-mail.org
-https://www.tempmailaddress.com
-https://tempail.com
-https://tempm.com
-https://mailsac.com
-https://smailpro.com
-https://temporarymail.com
-https://mail.tm/en/
-باتهای تلگرامی ایمیل موقت
-@temp_mail_bot
-@fakemailbot
-@etlgr_bot
-@DropmailBot
-@smtpbot
-@tmpmailbot
-@TempMail_org_bot
-#معرفی_سایت
-#حریم_خصوصی
-File Storage, [6/4/22 1:36 PM]
 shzuka
-File Storage, [6/4/22 1:36 PM]
- https://discord.gg/kDsZfGc
-File Storage, [6/4/22 1:36 PM]
- https://start.garudalinux.org/
+https://discord.gg/kDsZfGc
+https://start.garudalinux.org/
 File Storage, [6/4/22 1:37 PM]
- https://forum.garudalinux.org/
-File Storage, [6/4/22 1:37 PM]
- https://wiki.garudalinux.org/en/home
-File Storage, [6/4/22 1:37 PM]
- https://wiki.archlinux.org/
-File Storage, [6/4/22 1:37 PM]
- https://wiki.archlinux.org/title/Waydroid#Using_Linux-Zen
-File Storage, [6/4/22 1:37 PM]
- https://zerotomastery.io/resources/
-File Storage, [6/4/22 1:37 PM]
- https://glot.io/
-File Storage, [6/4/22 1:37 PM]
- https://replit.com/~
-File Storage, [6/4/22 1:37 PM]
- https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
-File Storage, [6/4/22 1:37 PM]
- https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/
-File Storage, [6/4/22 1:37 PM]
- https://zerotomastery.io/cheatsheets/python-cheat-sheet/
-File Storage, [6/4/22 1:37 PM]
- https://github.com/aneagoie/ztm-python-cheat-sheet
-File Storage, [6/4/22 1:37 PM]
- https://github.com/saurabh618/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie
-File Storage, [6/4/22 1:37 PM]
- https://zerotomastery.io/blog/?tag=PM#monthly
-File Storage, [6/4/22 1:37 PM]
- https://realpython.com/installing-python/
-File Storage, [6/4/22 1:37 PM]
- https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/?referralCode=FFF295AECF3594CE440E
-File Storage, [6/4/22 1:37 PM]
- https://code.visualstudio.com/download
-File Storage, [6/4/22 1:37 PM]
+https://forum.garudalinux.org/
+https://wiki.garudalinux.org/en/home
+https://wiki.archlinux.org/
+https://wiki.archlinux.org/title/Waydroid#Using_Linux-Zen
+https://zerotomastery.io/resources/
+https://glot.io/
+https://replit.com/~
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/
+https://zerotomastery.io/cheatsheets/python-cheat-sheet/
+https://github.com/aneagoie/ztm-python-cheat-sheet
+https://github.com/saurabh618/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie
+https://zerotomastery.io/blog/?tag=PM#monthly
+https://realpython.com/installing-python/
+https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/?referralCode=FFF295AECF3594CE440E
+https://code.visualstudio.com/download
 Free gay
-File Storage, [6/4/22 1:37 PM]
 Open Source Intelligence (OSINT) Tools & Resources
- https://h4shur.xyz/tools/osint/
-●▬۩❁ @geeekgirls ❁۩▬●
-#OSINT
-File Storage, [6/4/22 1:37 PM]
+https://h4shur.xyz/tools/osint/
 Darkweb Osint Tools List
 Dark Web Search Engine Tools
 Tools to get onion links
 Tools to scan onion links
 Tools to crawl data from the Dark Web
-Miscellaneous
- https://github.com/apurvsinghgautam/dark-web-osint-tools
-●▬۩❁ @geeekgirls ❁۩▬●
+https://github.com/apurvsinghgautam/dark-web-osint-tools
 #osint #darknet
-File Storage, [6/4/22 1:37 PM]
 کانال های یوتیوب خوب
- https://vrgl.ir/Yzjj7
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:37 PM]
+https://vrgl.ir/Yzjj7
 عمیق ترین راهنمای حفظ حریم خصوصی: راهنمای Hitchhiker برای ناشناس ماندن آنلاین
 آپدیت جدید
-وب سایت:
 https://anonymousplanet.org/guide.html
 GitHub:
 https://github.com/AnonymousPlanet/thgtoa
 فوق العاده س این منبع و بخشهای طولانی مفصلی داره
 پیشنهاد میشه حتما مطالعه کنید
 عالیه
-File Storage, [6/4/22 1:38 PM]
-[ Video ]
 Welcome to Nogoolag Dead
-File Storage, [6/4/22 1:38 PM]
 چرا wireguard امن نیست ؟
 دوستان این دوتا مطلب مشکلات پروتکل wireguard توضیح میده
 و همچنان open vpn رو گزینه مطمئن تر و امنتری میدونه
 یکی از مطلب ها رو نرم افزار tailscale نوشته ، این نرم افزار برای امنیت بین کامپیوترها و فایروال امنیتی داره از وایرگارد استفاده میکنه
- https://tailscale.com/blog/why-not-why-not-wireguard/
- https://blog.ipfire.org/post/why-not-wireguard
-File Storage, [6/4/22 1:38 PM]
+https://tailscale.com/blog/why-not-why-not-wireguard/
+https://blog.ipfire.org/post/why-not-wireguard
 شت این صدای کیری رو میشناسم من تو ریمیکس یه آهنگ گذاشتنش
-File Storage, [6/4/22 1:38 PM]
 لیست وب‌سایت‌های ارائه دهنده VPN رایگان
 Free PPTP L2TP OpenVPN Service
- https://www.vpnbook.com/freevpn
- http://www.freevpnonline.com
- https://freevpn.me/accounts/
- http://www.freevpnaccess.com
- https://www.bestvpnserver.com/list-of-free-pptp-vpn-server/
- http://www.superfreevpn.com
- https://www.virtuallocation.com/vpn/free-pptp-vpn.html
- https://www.tcpvpn.com
- https://www.vpngate.net/en/
- https://m.freevpn4you.net/
- http://vpnonline.org
- https://m.freeopenvpn.org/en/
+https://www.vpnbook.com/freevpn
+http://www.freevpnonline.com
+https://freevpn.me/accounts/
+http://www.freevpnaccess.com
+https://www.bestvpnserver.com/list-of-free-pptp-vpn-server/
+http://www.superfreevpn.com
+https://www.virtuallocation.com/vpn/free-pptp-vpn.html
+https://www.tcpvpn.com
+https://www.vpngate.net/en/
+https://m.freevpn4you.net/
+http://vpnonline.org
+https://m.freeopenvpn.org/en/
 اگر وصل نشدن، بجای آدرس سرور (دامنه)، از آی‌پیِ عددیِ آن استفاده کنید
 @AzadNet
-File Storage, [6/4/22 1:38 PM]
 PrivacyBlur
 Android / iOs
 چهره ها ، اسناد ، شماره ها ، نام ها و موارد دیگر را در عکس های خود مخفی کنید.
-PrivacyBlur
 یک برنامه Android است که فقط با چند ضربه انگشتی ناحیه ای از تصاویر را پیکسل یا محو می کند.
 در صورت تمایل ، چهره ها می توانند به طور خودکار شناسایی و پنهان شوند. همه چیز در تلفن شما اتفاق می افتد و به هیچ سروری ارسال نمی شود. بدون خرید درون برنامه ای بدون تبلیغات. فاقد علامت آب
- https://github.com/MATHEMA-GmbH/privacyblur
+https://github.com/MATHEMA-GmbH/privacyblur
 F-droid:
 https://f-droid.org/packages/de.mathema.privacyblur/
 اپ استور ios
- https://apps.apple.com/us/app/privacyblur/id1536274106
-#اوپن_سورس
+https://apps.apple.com/us/app/privacyblur/id1536274106
 File Storage, [6/4/22 1:35 PM]
 AdNauseam
 افزونه مسدودساز پیشرفته تبلیغات
- https://adnauseam.io/
+https://adnauseam.io/
 نه تنها تبلیغات را مسدود می کند ، بلکه داده های مرور را مبهم می کند تا در برابر ردیابی صنعت تبلیغات آنلاین مقاومت کند.
 در واقع یه فورک پیشرفته از uBlock هستش
 لینک افزونه فایرفاکس
- https://addons.mozilla.org/en-US/firefox/addon/adnauseam/
+https://addons.mozilla.org/en-US/firefox/addon/adnauseam/
 برای نصب در مرورگر کروم باید دستی اقدام کنید برای اطلاعات بیشتر ب این لینک برید
- https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chromium-based-browsers
-File Storage, [6/4/22 1:35 PM]
-Rethink
-DNS + Firewall
-اندروید
-Android
- https://rethinkdns.com/app
-Rethink DNS + Firewall ساده ترین راه برای نظارت بر فعالیت برنامه ، دور زدن سانسور اینترنت ، مسدود کردن تبلیغات و ردیاب ها در دستگاه Android شما است.
-منبع باز
- https://github.com/celzero/rethink-app
-فایروال
-از اتصال برنامه ها به اینترنت جلوگیری کنید
-مسدود کردن محتوا
-تبلیغات ، ردیاب ها ، بدافزار و موارد دیگر را مسدود کنید
-به عنوان مثال ، نمی توان به طور کامل برنامه های پیام رسان را فایروال کرد
-مشاهده لیست مسدود ساز
- https://rethinkdns.com/app#blocklists
-لینک دانلود
- https://github.com/celzero/rethink-app/releases/download/v0.5.3g/rethinkdns18.apk
-ضد سانسور
-نظارت بر ترافیک
-#حریم_خصوصی
-#اوپن_سورس
-#گیتهاب
-File Storage, [6/4/22 1:36 PM]
- https://youtu.be/OGbExki9jMQ
-File Storage, [6/4/22 1:36 PM]
+https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chromium-based-browsers
+https://youtu.be/OGbExki9jMQ
 برای pc میتونید از سایر مسدودکننده های تبلیغات و همچنین این دو افزونه که وبسایت vanced YouTube معرفی کرده استفاده کنید
 enhancer-for-youtube/
 مدیریت تبلیغات یوتیوب
-فایرفاکس
- https://addons.mozilla.org/addon/enhancer-for-youtube/
-کروم
- https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
+https://addons.mozilla.org/addon/enhancer-for-youtube/
+https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
 مسدود ساز تبلیغات یوتیوب
 اوپن سورس
-کروم
- https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=
-فایرفاکس
- https://addons.mozilla.org/fa/android/addon/sponsorblock/?src=external-website
-File Storage, [6/4/22 1:36 PM]
+https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=
+https://addons.mozilla.org/fa/android/addon/sponsorblock/?src=external-website
 🗓 Note. Network Security Labs.
 متخصصین تست نفوذ با حمله به شبکه ها حفره های امنیتی را درست مانند مهاجمان تشخیص می دهند.
 در این پست لینکهایی به آزمایشگاه های مفیدی که موضوع امنیت شبکه را پوشش می دهند ، خواهید یافت:
 TCP/IP Attack Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP)• Heartbleed Attack Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed)• Local DNS Attack Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Local)• Remote DNS Attack Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Remote)• Packet Sniffing and Spoofing Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing)• Linux Firewall Exploration Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Linux)• Firewall-VPN Lab: Bypassing Firewalls using VPN;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_VPN)• Virtual Private Network (VPN) Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/VPN)• Minix IPSec Lab;
-(
 http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/IPSec)• Minix Firewall Lab.
-(
 https://web.ecs.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Minix/)●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:36 PM]
 Free Hosting Providers
 Freehostia.com
 Jimdo.com
@@ -18424,27 +15010,23 @@ t35.com
 freeweb7.com
 superfreehost.info
 ripway.com
-●▬۩❁ @geeekgirls ❁۩▬●
 #free #host
-File Storage, [6/4/22 1:36 PM]
 • #OSINT tools. A huge list of resources and tools for finding information from open sources:
 • ابزارهای #OSINT.
- https://intelx.io/tools
+https://intelx.io/tools
 https://technisette.com/p/tools
 https://www.osintessentials.com
 https://comskills.co.uk/digital-toolkit/osint-toolkit
 https://github.com/cipher387/osint_stuff_tool_collection
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:36 PM]
 Android Pentesting ResourcesFire
 YT :
- https://youtube.com/c/AndroidAppSec/videos
+https://youtube.com/c/AndroidAppSec/videos
 https://youtube.com/playlist?list=PLGJe0xGh7cH2lszCZ7qwsqouEK23XCMGp by @AseemShrey
 Books:
- https://amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X
+https://amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X
 https://amazon.in/Learning-Pentesting-Android-Devices-Aditya-ebook/dp/B00JAAW0ZY by @adi1391
 Practicing :
- http://ctf.hpandro.raviramesh.info
+http://ctf.hpandro.raviramesh.info
 https://github.com/dineshshetty/Android-InsecureBankv2
 https://github.com/payatu/diva-android by @payatulabs
 Checklists :
@@ -18453,24 +15035,17 @@ https://book.hacktricks.xyz/mobile-apps-pentesting/android-checklist
 https://mobexler.com/checklist.htm
 https://xmind.net/m/GkgaYH/ by @harshbothra_
 Mixed Resource :
- https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting
+https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting
 Courses :
 https://elearnsecurity.com/product/emapt-certification/
-●▬۩❁ @geeekgirls ❁۩▬●
 #android
-File Storage, [6/4/22 1:36 PM]
-[ Video ]
 شما چطور؟ میتونید روی‌ یک کار تمرکز کنید؟
 تمرکز افکار با دکتر سمیعی
-●▬۩❁ @geeekgirls ❁۩▬●
 File Storage, [6/4/22 1:34 PM]
- https://www.app-sales.net/
-File Storage, [6/4/22 1:34 PM]
- http://t.me/dm_appgiveaway
+https://www.app-sales.net/
+http://t.me/dm_appgiveaway
 نمونه کانال میخام مث این بشه
-File Storage, [6/4/22 1:34 PM]
- https://yofreesamples.com/feed/
-File Storage, [6/4/22 1:34 PM]
+https://yofreesamples.com/feed/
 Linux is not secure
 Information and reports on Linux malware that blind Linux fans deny their existence (
 https://github.com/timb-machine/linux-malware)
@@ -18479,79 +15054,50 @@ https://forums.whonix.org/t/fixing-the-desktop-linux-security-model/9172), Post 
 https://forums.whonix.org/t/fixing-the-desktop-linux-security-model/9172/2)
 The Linux Security Circus: On GUI isolation (
 https://theinvisiblethings.blogspot.com/2011/04/linux-security-circus-on-gui-isolation.html), blog post by Joanna Rutkowska
-(
 https://en.wikipedia.org/wiki/Joanna_Rutkowska)
 Jan Hrach's wiki article on Linux Insecurity
-(
 https://jenda.hrach.eu/w/linux-insecurity)
 Brad Spengler (PaX Team/grsecurity) interview
-(
 https://slo-tech.com/clanki/10001en/)
 Brad Spengler's interview notes (
 https://grsecurity.net/~spender/interview_notes.txt)
 "When Posturing Meets Reality" (
 https://forums.grsecurity.net/viewtopic.php?f=7&t=4309), forum post by Brad Spengler about the infamous WaPo article on Linux security
-(
 http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/)
 Syzbot and the Tale of Thousand Kernel Bugs (posted to /r/GrapheneOS) (
 https://old.reddit.com/r/GrapheneOS/comments/bj1gpz/syzbot_and_the_tale_of_thousand_kernel_bugs/) | Pdf (
 https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Syzbot-and-the-Tale-of-Thousand-Kernel-Bugs-Dmitry-Vyukov-Google.pdf) Linux security summit video
-(
 https://youtu.be/qrBVXxZDVQY)
 Battle of the SKM and IUM: How Windows 10 Rewrites OS Architecture (blackhat USA 2015 talk) (
 https://www.youtube.com/watch?v=LqaWIn4y26E)
 Is the Linux Desktop Less Secure than Windows 10? (FOSDEM 2017 talk) (
 https://youtu.be/BVOCYFTC_rQ)
- https://madaidans-insecurities.github.io/linux.html
-File Storage, [6/4/22 1:34 PM]
+https://madaidans-insecurities.github.io/linux.html
 Interactive C++ with Cling
- https://blog.llvm.org/posts/2020-11-30-interactive-cpp-with-cling/
+https://blog.llvm.org/posts/2020-11-30-interactive-cpp-with-cling/
 Cling interprets C++
- https://cdn.rawgit.com/root-project/cling/master/www/index.html
+https://cdn.rawgit.com/root-project/cling/master/www/index.html
 The cling C++ interpreter
- https://github.com/root-project/cling
+https://github.com/root-project/cling
 C/C++ interactive interpreter
- https://stackoverflow.com/questions/29789308/c-c-interactive-interpreter
+https://stackoverflow.com/questions/29789308/c-c-interactive-interpreter
 اسکریپتینگ در ++C
 iostream.ir
-(
 https://iostream.ir/entry/29-اسکریپتینگ-در-c/)—————————————————
 معرفی کامپایلر و انواع آن
 iostream.ir (
 https://iostream.ir/articles/compilers/معرفی-کامپایلر-و-انواع-آن-r5/)
-File Storage, [6/4/22 1:34 PM]
-Interactive C++ with Cling
- https://blog.llvm.org/posts/2020-11-30-interactive-cpp-with-cling/
-Cling interprets C++
- https://cdn.rawgit.com/root-project/cling/master/www/index.html
-The cling C++ interpreter
- https://github.com/root-project/cling
-C/C++ interactive interpreter
- https://stackoverflow.com/questions/29789308/c-c-interactive-interpreter
-اسکریپتینگ در ++C
-iostream.ir
-(
-https://iostream.ir/entry/29-اسکریپتینگ-در-c/)—————————————————
-معرفی کامپایلر و انواع آن
-iostream.ir (
-https://iostream.ir/articles/compilers/معرفی-کامپایلر-و-انواع-آن-r5/)
-File Storage, [6/4/22 1:34 PM]
- https://jupyter.org/install.html
-File Storage, [6/4/22 1:34 PM]
+https://jupyter.org/install.html
 اره باو
 بزار کلا کارهاتو، هرچند ساده
 و سعی کن برا خودت نوت برداری
 اپ های نوت برداری زیادی هست
 مثل notion
-File Storage, [6/4/22 1:34 PM]
 هرچند منJoplin رو ترجیح میدم
-File Storage, [6/4/22 1:34 PM]
- https://joplinapp.org/
-File Storage, [6/4/22 1:34 PM]
+https://joplinapp.org/
 🄿🄻🄴🄰🅂🄴 🄹🄾🄸🄽 🅂🄷🄰🅁🄴 🅂🅄🄿🄿🄾🅁🅃 🅄🅂
 | ::::: premium tg network™ ::::: |
 MOVIE NETWORK
-
 DC MOVIES @hubofdc
 BOLLYWOOD @hubofbollywood
 HOLLYWOOD @hubofhollywood
@@ -18564,9 +15110,7 @@ NETFLIX @hubofnetflix
 MOVIES HUB @hubofmovies
 MALAYALAM @malluhome
 DUBBED @hubofdubbed
-
 © @premiumtgnetwork ™ 2019
-File Storage, [6/4/22 1:34 PM]
 INFORMATIONS | അറിയിപ്പുകള്‍
 ═════════✦✦✦═════════
 ╔═════════════╕
@@ -18578,367 +15122,216 @@ https://telegra.ph/THE-FRAUDS-06-20
 ╚═════════╝
 https://telegra.ph/GIRLS-06-20
 ✦✦✦
-File Storage, [6/4/22 1:34 PM]
 Watch porn Online
- https://t.me/joinchat/AAAAAFNfGs7fDxX5yW9QVg
-File Storage, [6/4/22 1:34 PM]
+https://t.me/joinchat/AAAAAFNfGs7fDxX5yW9QVg
 Больше порнушки
 More porn channel
-
 PORN CINEMA FULL (
 https://t.me/joinchat/AAAAAE6iGpWLQ7zUqIYwhA)
-
 ️BRAZZERS CINEMA (
 https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w)
-
 HOME PORN (
 https://t.me/joinchat/AAAAAE8sVRZ7a-N7qL8ZxA)
-
 FULL ZONA (
 https://t.me/joinchat/AAAAAESDgyiLAI1FIEmZfA)
-
 DIGITALPLAYGROUND (
 https://t.me/joinchat/AAAAAFL7D_RKUQiVIdWdJg)
-
 P VIDEOS (
 https://t.me/joinchat/AAAAAEac9i6a38OQ_ZrgqQ)
-
 BRATTY SIS (
 https://t.me/joinchat/AAAAAEb0MeZ4H8CXSG6ZOA)
-
 EROTIC PORN (
 https://t.me/joinchat/AAAAAFGz9osdss1Rp8-SJA)
-
 ULTRA️HD️PORN (
 https://t.me/joinchat/AAAAAEqvmOrNMYhRiJKOYg)
-
 PORN PICS (
 https://t.me/joinchat/AAAAAFbTSHeJbvbLYuvEPA)
-
 ️TEAM SKEET (
 https://t.me/joinchat/AAAAAFcBgInz6yxjmulH1Q)
-
 LEGAL PORNO (
 https://t.me/joinchat/AAAAAEpSNzUdH5eH1hIobg)
-
 MOFOS (
 https://t.me/joinchat/AAAAAFAfvsFNUXY8YQURtg)
-
 INTERRACIAL (
 https://t.me/joinchat/AAAAAEhN0njz6ZG_cuylQQ)
-
 PURE TABOO (
 https://t.me/joinchat/AAAAAFLSImMb4cKv9Mx-Lg)
-
 TUSHY‍♂ (
 https://t.me/joinchat/AAAAAFWQcljEqdD_eNpo3A)
-
 NAUGHTY AMERICA (
 https://t.me/joinchat/AAAAAEQw36S1SfOOSbgy3Q)
-
 PORN GIFS (
 https://t.me/joinchat/AAAAAEx-n4OtISEDj4Lr2Q)
-
 ASIAN PORN (
 https://t.me/joinchat/AAAAAFJK4FMvvsoRebuD4w)
-
- https://t.me/premiumtgnetwork ️
-
+https://t.me/premiumtgnetwork ️
 @premiumtgnetwork
-File Storage, [6/4/22 1:34 PM]
 Brazzers Videos
- https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w
-File Storage, [6/4/22 1:34 PM]
+https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w
 Ultra HD porn shifted to
- https://t.me/joinchat/AAAAAExG3udpFoH-YHxC9Q
-File Storage, [6/4/22 1:34 PM]
+https://t.me/joinchat/AAAAAExG3udpFoH-YHxC9Q
 BrattySis shifted to
- https://t.me/joinchat/AAAAAFM72DgGdrB6hYpt5Q
-File Storage, [6/4/22 1:34 PM]
- https://t.me/joinchat/AAAAAFepDMcbh0bHNYPTzg : Brazzers videos as streams
-File Storage, [6/4/22 1:34 PM]
+https://t.me/joinchat/AAAAAFM72DgGdrB6hYpt5Q
+https://t.me/joinchat/AAAAAFepDMcbh0bHNYPTzg : Brazzers videos as streams
 NAUGHTYAMERICA
- https://t.me/joinchat/AAAAAEQw36S1SfOOSbgy3Q
-File Storage, [6/4/22 1:34 PM]
+https://t.me/joinchat/AAAAAEQw36S1SfOOSbgy3Q
 REALITYKINGS
- https://t.me/joinchat/AAAAAFPkqU6yYSIocl4-xQ
-File Storage, [6/4/22 1:34 PM]
+https://t.me/joinchat/AAAAAFPkqU6yYSIocl4-xQ
 BANGBROS
- https://t.me/joinchat/AAAAAEzPtHDI_uVB05-7Ag
-File Storage, [6/4/22 1:34 PM]
+https://t.me/joinchat/AAAAAEzPtHDI_uVB05-7Ag
 TUSHY
- https://t.me/joinchat/AAAAAFWQcljEqdD_eNpo3A
-File Storage, [6/4/22 1:35 PM]
+https://t.me/joinchat/AAAAAFWQcljEqdD_eNpo3A
 MOFOS
- https://t.me/joinchat/AAAAAFAfvsFNUXY8YQURtg
-File Storage, [6/4/22 1:35 PM]
+https://t.me/joinchat/AAAAAFAfvsFNUXY8YQURtg
 PURE TABOO
- https://t.me/joinchat/AAAAAFb0DPvdtFNPoufG0Q
-File Storage, [6/4/22 1:35 PM]
- https://t.me/joinchat/AAAAAE6HvKrKNi4crhPiGA
-File Storage, [6/4/22 1:35 PM]
+https://t.me/joinchat/AAAAAFb0DPvdtFNPoufG0Q
+https://t.me/joinchat/AAAAAE6HvKrKNi4crhPiGA
 چیز های اوتاکویی
-File Storage, [6/4/22 1:35 PM]
 Anime World Network! - Channel promotion Network
 NSFW Channels
 Ecchi Land
-(
 https://t.me/joinchat/AAAAAFUjq77H4V-N0-ehRg) My Yaoi Academy
-(
 https://t.me/MyYaoiAcademy) Church of Hentai
-(
 https://t.me/joinchat/AAAAAFj1jJTLK9B47dLgTg) NekoLover
-(
 https://t.me/NekoLover18) 病み可愛いPics
-(
 https://t.me/yamikawaiipics) Furry Porn
-(
 https://t.me/furryYiff4all) ドキドキPics
-(
 https://t.me/dokidokipics) Hentai Night
-(
 https://t.me/NightHentai) Hentai Flear
-(
 https://t.me/joinchat/AAAAAFG6bYsLk-EsfPnXKQ) YuriMania
-(
 https://t.me/YuriMania) Oppai Master
-(
 https://t.me/joinchat/AAAAAFNz189LbD14jwZIBA) Oppai Heaven
-(
 https://t.me/opaiheaven) Yuri Heaven
-(
 https://t.me/yuridesuka) Darling in the FranXX
-(
 https://t.me/joinchat/AAAAAFJUxUBq68gpmGxcwA) Kemono-chanⒽ
-(
 https://t.me/kemonoheaven) Lust 39/01
-(
 https://t.me/joinchat/AAAAAEfMT0EtVmCHIJAexQ) World of Ecchi
-(
 https://t.me/World_Of_Ecchi) Lewdmageddon
-(
 https://t.me/Lewd_Falls) Hentai & Blood
-(
 https://t.me/BloodHentai) Hentai for Weebs
-(
 https://t.me/joinchat/AAAAAEizTKqDZgnq42C7vg) パンチラ(pants shot)
-(
 https://t.me/joinchat/AAAAAEUhrGTc42EhrVgWHg) The Ultimate Channel
-(
 https://t.me/TheUltimateChannel) Life Phobia
-(
 https://t.me/joinchat/AAAAAEsts7rCDiPkXC1FXw) Furrisimos World
-(
 https://t.me/FurrisimosWorld) Azaura 2D
-(
 https://t.me/joinchat/AAAAAEWrsWbhMQppqTMNUw) Booty Beauty
-(
 https://t.me/buttheaven) Kemonomimi Nation
-(
 https://t.me/kemonation18) Loli Nation
-(
 https://t.me/loliesnation) Hentai Nation
-(
 https://t.me/hentaination) Furry Nation
-(
 https://t.me/furnation) Shota Nation
-(
 https://t.me/shotasnation) Furry Yaoi Nation
-(
 https://t.me/furyaoination) Dolfis Blood
-(
 https://t.me/doIfis_blood) Flat Justice!
-(
 https://t.me/FlatJustice) Lewd Desires
-(
 https://t.me/LewdDesires) Loliteismo Network
-(
 https://t.me/joinchat/AAAAAFI2gnzfJrVQ23MH7g) The Armpit Licker
-(
 https://t.me/joinchat/AAAAAEYPVy1Hfrdgp6p4MQ) Monster Girls for Degenerate Weebs
-(
 https://t.me/joinchat/AAAAAExX3kHYvDQLvE0eFg) Shorthair
-(
 https://t.me/joinchat/AAAAAFF1XEMcyL0u9OMVzw) Shimapan & Pantsu
-(
 https://t.me/joinchat/AAAAAE4geWrzYsuWfke69g) DemonGirls
-(
 https://t.me/joinchat/AAAAAEeFnucVg98FTmNPJA) Swimsuit
-(
 https://t.me/joinchat/AAAAAE400nNx8dc-5Z4jIw) Tentacle Dreams
-(
 https://t.me/joinchat/AAAAAEMAIy78OAGHrB6v2A) Meganeparadaisu メガネパラダイス
-(
 https://t.me/joinchat/AAAAAEkwavIQtrzvlvF_Sw) Trap Fever
-(
 https://t.me/TrapFever) Monstergirls archive
-(
 https://t.me/joinchat/AAAAAE73YyYnL-4XHH1ZNg) BDSM archive
-(
 https://t.me/joinchat/AAAAAFcaFJfl_MypKg1Urw) Cute traps archive
-(
 https://t.me/joinchat/AAAAAFH1m31TBcwQSUJ8DQ) ACVH - Mundo Perverso
-(
 https://t.me/AhhHentai) Loliteismo World Channel
-(
 https://t.me/joinchat/AAAAAE4ftbl1Naq9-WJeng) ~Ecchi-Hentai~
-(
 https://t.me/EcchiHentaiIta) Hentai Wonderland
-(
 https://t.me/WonderLandHentai) Yes Mommy Please
-(
 https://t.me/joinchat/AAAAAEZdc1Vkjp1AzPV2gA) Pokésluts
-(
 https://t.me/joinchat/AAAAAFLAJJlBNGOTqvnPcA) Pantyhose & Thickness
-(
 https://t.me/joinchat/AAAAAEWIWtCiuskMoDQ2jQ) Futas and Traps
-(
 https://t.me/joinchat/AAAAAFE-QHikZVoqFh2VQw) MaidZone
-(
 https://t.me/joinchat/AAAAAFMvdyx6RizQKoRusQ) Lick My Feet Onichan
-(
 https://t.me/joinchat/AAAAAFRZSb5180xPPAkHIg) Kemonomimi NSFW
-(
 https://t.me/joinchat/AAAAAE6oymfRv5qnnS4eSw) OppaiWorld
-(
 https://t.me/joinchat/AAAAAFjT1hklpMxR2ACu0g) BunnyGirls
-(
 https://t.me/joinchat/AAAAAFVjEHcnLzU9FyhAQg) FellaNation
-(
 https://t.me/joinchat/AAAAAEXd7bBgajT4YtzdnQ) AhegaoZone
-(
 https://t.me/joinchat/AAAAAFaKAT1QFLAxggqLew) Empire of the Golden Rain And More
-(
 https://t.me/joinchat/AAAAAEUBTsbEa4G-EbXQuA) FutaMommy's yiff stash
-(
 https://t.me/FutaMomYiff) Ecchi Lingerie
-(
 https://t.me/joinchat/AAAAAFcRcQSFiMMxgzRr9g) Futanari archive
-(
 https://t.me/joinchat/AAAAAEjrEVBrCsM8JlfJJA) Bukkake archive
-(
 https://t.me/joinchat/AAAAAE8_guFzDZx11g1qrw) SFW Channels
 AestheticZone
-(
 https://t.me/aestheeticzone) AnimeFlear
-(
 https://t.me/joinchat/AAAAAExFv_I0hCsCvLyvbw) Anime Industry
-(
 https://t.me/AnimeSeriesInc) AnimeOnLine
-(
 https://t.me/animeDescargas) Anime Images
-(
 https://t.me/anime_images_1) ふわふわPics
-(
 https://t.me/fuwafuwapics) Anime Images
-(
 https://t.me/animeimagess) Themes for All
-(
 https://t.me/ThemesForAll) House of Anime
-(
 https://t.me/HouseOfAnime) World of Kawaii
-(
 https://t.me/World_Of_Kawaii) Neko~Chan
-(
 https://t.me/NekoChanOne) AnimePics Night
-(
 https://t.me/AnimePicsNight) Creepy Pasta
-(
 https://t.me/CreepyITA) Konosuba
-(
 https://t.me/KonoSubaTyt) Cute Island
-(
 http://t.me/cuteisland) アニメアカデミー | Anime Academy
-(
 http://t.me/anime_academy2) WeebQ
-(
 https://t.me/weebQ) Original Anime Pictures
-(
 https://t.me/OriginalAnimePictures) Anime Facts
-(
 https://t.me/World_Of_Fact) Themes Love Anime
-(
 https://t.me/themesanime) Kawaii Nation
-(
 https://t.me/kawaination) (
 https://t.me/CreepySeason)Akatsuki ITA
-(
 https://t.me/AkatsukiIT) E∂яιѕ Aмν (
 https://t.me/EdrisAMV)
 Seasons Pic
-(
 https://t.me/SeasonsPic) Dolfi's Art
-(
 https://t.me/joinchat/AAAAAEudbCL2JGLuZhphAA) Otaku Arena
-(
 https://t.me/OtakuArena) Add your channel (
 http://t.me/AWN_requestbot)
-File Storage, [6/4/22 1:35 PM]
 Vidmate
-File Storage, [6/4/22 1:35 PM]
-@RedBlueHit
 File Storage, [6/4/22 1:33 PM]
 thispersondoesnotexist.com
 FaceApp
-File Storage, [6/4/22 1:33 PM]
- https://github.com/mentebinaria/retoolkit
-File Storage, [6/4/22 1:33 PM]
+https://github.com/mentebinaria/retoolkit
 10 Useful websites for cyber security 🧵
 1. An experienced cybersecurity expert, consultant and writer. Worth reading his blogs, curated newsletters, essays, podcasts and high-quality writing.
 → Link:
 https://danielmiessler.com
 2. A longtime industry expert who held senior roles with Sophos and McAfee before deciding to begin “working for myself” in 2013
-→ Link:
 https://grahamcluley.com
 3.T he Hacker News features the latest cybersecurity news
 →
 https://thehackernews.com/
 4. Security Awareness, Blogs and Webcasts for all your security needs.
-→ Link:
 https://lnkd.in/d656tX59
 5. Infosecurity Magazine has been delivering cutting-edge cybersecurity content to readers for the past decade
-→ Link:
 https://lnkd.in/dMWjGcrH
 6. CSO provides news, analysis and research on a broad range of security and risk management topics.
-→ Link:
 https://lnkd.in/dwBtKi9e
 7. Troy Hunt is Microsoft Regional Director and Most Valued Professional (MVP) specialising in online security and cloud development.
-→ Link:
 https://www.troyhunt.com/
 8. ThreatPost is an independent news site that covers security from various aspects with articles and podcasts.
 Link:
 https://threatpost.com/
 9. GBHackers on security is a Cyber Security platform that covers daily Cyber Security News, Hacking News, Technology updates and Kali Linux tutorials
-Link:
 https://gbhackers.com/
 10. A collection of awesome write-ups from the best hackers in the worlds from topics ranging from bug bounties, CTFs, Hack the box walkthroughs, hardware challenges etc.
-→ Link:
 https://lnkd.in/dieDnGKY
 Some Bonus websites :
 11. Aggregates news from a number of sources. A quick way to view a single page of headlines if you are pushed for time.
-→ Link:
 https://allinfosecnews.com
 12. An experienced AppSec and security researcher sharing lessons learned and the place you go for maybe one of the best newsletters in all of infosec
-→ Link:
 https://tldrsec.com/
-●▬۩❁ @geeekgirls ❁۩▬●
 Credits - Rohit Gautam LinkedIn.
-File Storage, [6/4/22 1:33 PM]
 ساخت open vpn و wireguard شخصی با انواع سرورهای لینوکسی
- https://github.com/Nyr/wireguard-install
- https://github.com/Nyr/openvpn-install
 Algo vpn
 مجموعه‌ایی از اسکریپتها برای ساخت vpn شخصی
- https://github.com/trailofbits/algo
 این سرویس VPS ماهی یک دلاره پرداخت بوسیله رمز ارزها هم داره
- https://virmach.com/
-File Storage, [6/4/22 1:33 PM]
 گپ قدیمی
- https://t.me/reapgp
+https://t.me/reapgp
 File Storage, [6/4/22 1:28 PM]
 Search for information about the target, knowing the Email address
 با اطلاع از آدرس ایمیل ، اطلاعات مربوط به هدف را جستجو کنید.
-
 ما همچنین مجموعه ای از منابع #OSINT را داخل کانال قرار دادیم ، اگر #OSINT رو جستجو کنین مجموعه ای از منبع و مقالات این اوسینت رو پیدا میکنین
 امروز من مجموعه ای از خدمات و ابزارهای مفید را برای شما گردآوری کرده ام ، به لطف آنها می توانید با دانستن آدرس ایمیل اطلاعات مفیدی در مورد هدف پیدا کنید:
 haveibeenpwned.com - checking mail in leaked databases
@@ -18990,45 +15383,28 @@ https://m.ok.ru/dk?st.cmd=accountRecoverFeedbackForm) - shows part of the phone 
 • @SEARCHUA_bot - issues a dossier for a citizen of Ukraine with a passport, residence address, full name, cars, relatives, email, phone numbers and much more;
 • @SovaAppBot - will find which sites the mail is linked to, the results may differ from similar tools;
 • @shi_ver_bot - leaked passwords;
-File Storage, [6/4/22 1:28 PM]
 حذف گوگل از زندگی شما
 من چیزی برای پنهان کردن ندارم ، اما چیزی ندارم که به شما نشان دهم.
 لیستی عظیم از جایگزین های محصولات Google. نکات حریم خصوصی ، ترفندها و پیوندها.
- https://github.com/tycrek/degoogle
- https://degoogle.jmoore.dev/
-File Storage, [6/4/22 1:28 PM]
-[ Video ]
+https://degoogle.jmoore.dev/
 سم محشری بود
 حتما ببینید
-File Storage, [6/4/22 1:28 PM]
 وب سایت هایی با محتوای مشابه
 موقعیتی را تصور کنید که از سایتی خوشتان آمد ، اما نیاز به یافتن جایگزینی برای آن وجود داشت. یا پیدا کردن موارد مشابه جالب است.
 این را می توان از طریق یک پرس و جو استاندارد موتورهای جستجو انجام داد. اما در آنجا باید از حجم عظیم نتایج جستجو به دنبال خدمات مناسب باشید.
 علاوه بر این ، صفحات فرعی ، منابع شخص ثالث و نوشته های تبلیغاتی وجود خواهد داشت. برای ساده سازی کار ، می توانید از عملگر جستجوی مربوطه
 related:
 کافی است تایپ کنید
-related:
 آدرس سایت مورد نظر را بدون فاصله به درخواست اضافه کنید.
 حتی نرم افزارهای مشابه هم با این ترفند میتونید اضافه کنید
-File Storage, [6/4/22 1:28 PM]
 aegisub
-File Storage, [6/4/22 1:28 PM]
-[ Photo ]
-File Storage, [6/4/22 1:28 PM]
 کتابای البر کامو خوبه
-File Storage, [6/4/22 1:28 PM]
 سرطان بیگانه
-File Storage, [6/4/22 1:28 PM]
 کافکا هم خوبه من دو سری داستانای کوتاه المانیشو خوندم
-File Storage, [6/4/22 1:28 PM]
 یه سری هست مثل جنگ و صلح
-File Storage, [6/4/22 1:28 PM]
 جنایات مکافات
-File Storage, [6/4/22 1:28 PM]
 احمق داستایوفسکی
-File Storage, [6/4/22 1:28 PM]
 یا قمارباز
-File Storage, [6/4/22 1:28 PM]
 گشتن مرغ مینا _ فینچ
 خوشه های خشم_اشتاین بک
 خشم و هیاهو_ فاکنر
@@ -19053,46 +15429,37 @@ File Storage, [6/4/22 1:28 PM]
 بیگانه و سرطانو انسان طاغی و سقوط کامو
 File Storage, [6/4/22 1:29 PM]
 پردازش عکس آنلاین
- https://clipdrop.co/
+https://clipdrop.co/
 به شما در کپی یک شی از زندگی واقعی کمک می کند. از شیء عکس بگیرید و برنامه پس زمینه را برش می دهد و تصویر را در هر ویرایشگر عکس وارد می کند.
- https://theinpaint.com/
 سرویس حذف واترمارک از عکس ها. روی اجسام ساده بهتر کار می کند ، اما می تواند با اجسام پیچیده رقابت کند.
- https://deep-image.ai/
+https://deep-image.ai/
 سرویس آنلاین رایگان برای بهبود کیفیت تصویر و حذف نویز با استفاده از هوش مصنوعی
- https://www.nvidia.com/research/inpainting/index.html
+https://www.nvidia.com/research/inpainting/index.html
 یک شبکه عصبی از Nvidia که می تواند اشیاء غیر ضروری را از یک عکس به صورت محرمانه حذف کند. بدون نیاز به مهارت فتوشاپ
- https://www.remove.bg/
 یکی از ساده ترین و موثرترین خدمات حذف پس زمینه عکس آنلاین.
-#معرفی_سایت
-File Storage, [6/4/22 1:29 PM]
 Repositories For OSCP Prepration
-
- https://github.com/0x4D31/awesome-oscp
- https://github.com/RustyShackleford221/OSCP-Prep
- https://github.com/cpardue/OSCP-PWK-Notes-Public
- https://github.com/gh0x0st/OSCP-A-Step-Forward
- https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
- https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
- https://github.com/omurugur/OSCP
- https://gist.github.com/natesubra/5117959c660296e12d3ac5df491da395
- https://github.com/0x4D31/awesome-oscp
- https://github.com/whoisflynn/OSCP-Exam-Report-Template
- https://github.com/strongcourage/oscp
- https://github.com/CyDefUnicorn/OSCP-Archives
- https://github.com/DriftSec/AutoRecon-OSCP
- https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3
- https://github.com/six2dez/OSCP-Human-Guide
- https://github.com/tagnullde/OSCP
- https://github.com/superhero1/OSCP-Prep
- https://github.com/The-Lynx-Team/OSCP
- https://github.com/chvancooten/OSCP-MarkdownReportingTemplates
- https://github.com/ssstonebraker/oscp-scripts
- https://github.com/CaptBoykin/oscp
- https://github.com/burntmybagel/OSCP-Prep
- https://github.com/alexiasa/oscp-omnibus
-
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:29 PM]
+https://github.com/0x4D31/awesome-oscp
+https://github.com/RustyShackleford221/OSCP-Prep
+https://github.com/cpardue/OSCP-PWK-Notes-Public
+https://github.com/gh0x0st/OSCP-A-Step-Forward
+https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
+https://github.com/omurugur/OSCP
+https://gist.github.com/natesubra/5117959c660296e12d3ac5df491da395
+https://github.com/whoisflynn/OSCP-Exam-Report-Template
+https://github.com/strongcourage/oscp
+https://github.com/CyDefUnicorn/OSCP-Archives
+https://github.com/DriftSec/AutoRecon-OSCP
+https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3
+https://github.com/six2dez/OSCP-Human-Guide
+https://github.com/tagnullde/OSCP
+https://github.com/superhero1/OSCP-Prep
+https://github.com/The-Lynx-Team/OSCP
+https://github.com/chvancooten/OSCP-MarkdownReportingTemplates
+https://github.com/ssstonebraker/oscp-scripts
+https://github.com/CaptBoykin/oscp
+https://github.com/burntmybagel/OSCP-Prep
+https://github.com/alexiasa/oscp-omnibus
 سه تا کانال معرفی میکنم‌خدمت شما که در مورد سواستفاده از مردم توسط افراد سودجو هشدار میدن و یا پکیج های آموزشی مختلف در اونها قرار میگیره
 کانال وب آموز
 @webamoozir
@@ -19100,99 +15467,55 @@ File Storage, [6/4/22 1:29 PM]
 @G_N_E_S_R_0
 کانال فراچارت
 @farachart
-File Storage, [6/4/22 1:29 PM]
 IT Security Lecture
- https://github.com/bkimminich/it-security-lecture/
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:29 PM]
-3d Aim Trainer
-بالا بردن مهارت در بازیهای شوتر
-سرعت ایم گرفت نشانه گیری و شلیک
-در بازیهایی مثه csgo , وارزون ، پابجی و کالاف موبایل و...
- https://www.3daimtrainer.com/
-میتونید بصورت آنلاین مهارتهایی مثه اسنایپ زدن ، هیپ فایر، موومنت اسلحه رو بالا ببرید
- https://www.3daimtrainer.com/quick-play/
-یا اینکه نرم افزار رو در ios , اندروید و ویندوز دانلود کنید
- https://www.3daimtrainer.com/download/
-#معرفی_سایت
-#گیم_کلاب
-File Storage, [6/4/22 1:29 PM]
+https://github.com/bkimminich/it-security-lecture/
 Netlas.io
 نوعی اطلس فنی کل اینترنت است که می توانید با استفاده از پروتکل هایی مانند HTTP ، FTP ، SMTP ، POP3 ، IMAP ، SMB / CIFS ، SSH ، Telnet ، هر آدرس IPv4 و همه وب سایت ها و برنامه های وب شناخته شده را اسکن کنید. ، SQL و دیگران.
- http://Netlas.io
-#معرفی_سایت
-#osint
-File Storage, [6/4/22 1:29 PM]
+http://Netlas.io
 NetchX 1.8.8
- https://github.com/netchx/netch
-File Storage, [6/4/22 1:29 PM]
+https://github.com/netchx/netch
 نام کتاب :کتاب شبکه های کامپیوتری با رویکرد بالا به پایین
-File Storage, [6/4/22 1:29 PM]
 سایفون در حالت عادی کانکت نمیشه یا به سختی وصل میشه با یه ترفند ساده میتونید سایفون ویندوز رو فعال کنید
 در تنظیمات سایفون ویندوز قسمتی هست به اسم
 Upstream Proxy
 اینجا شما به پروکسی فعال و باز نیاز دارید
 حالا این پروکسی از کجا بیاریم به این لینک برید
- http://www.
+http://www.
 httptunnel.ge/ProxyListForFree.aspx
 همه ی پروکسی ها رو کپی کنید
-File Storage, [6/4/22 1:29 PM]
- https://www.redox-os.org
-File Storage, [6/4/22 1:29 PM]
-[ GIF ]
 Dragit (
 https://github.com/sireliah/dragit)
 به شما کمک می کند تا فایل ها را بین رایانه های یک شبکه به اشتراک بگذارید.
 اکنون که می توانید فایل ها را از یک کامپیوتر به کامپیوتر دیگر ارسال کنید مفید است
 نیازی به پیکربندی ندارد
- https://github.com/sireliah/dragit
+https://github.com/sireliah/dragit
 دانلود برای لینوکس ویندوز
- https://github.com/sireliah/dragit/releases/tag/v0.6.1
-#اوپن_سورس
-#گیتهاب
-File Storage, [6/4/22 1:29 PM]
+https://github.com/sireliah/dragit/releases/tag/v0.6.1
 برای اینکه مطمئن باشید لینکی رو بهتون داده نیم بهاس لینک ُ اینجا تست کنید
- https://linkirani.ir/
+https://linkirani.ir/
 اینجا نشون میده لینک نیم بهاس یا نه
-File Storage, [6/4/22 1:29 PM]
 freeeducationweb.comfreecourseudemy.comcoursesdaily.comgetfreecourses.mewww.onlinefreecourse.netpaidcoursesforfree.com99udemy.com
 لیست وب سایت های دانلود دوره های udemy
-#معرفی_سایت
-File Storage, [6/4/22 1:29 PM]
 Some TOP CTF Sites
- https://junior.stillhackinganyway.nl
-https://academy.hackaflag.com.br
+https://junior.stillhackinganyway.nl
 http://ctf.infosecinstitute.com
 https://captf.com/practice-ctf
 https://www.hacksplaining.com
 http://www.hackthissite.org
 https://www.hacking-lab.com
 https://defcon2018.ctfd.io
-https://ctf.hacker101.com
-https://attackdefense.com
-https://exploit.education
-https://immersivelabs.com
 http://ctf.komodosec.com
 http://freehackquest.com
-https://cmdchallenge.com
-https://www.root-me.org
-https://www.vulnhub.com
 https://ctf.hackucf.org
-https://cryptopals.com
-https://tryhackme.com
 https://hackthebox.eu
-https://w3challs.com
 http://ctflearn.com
 https://365.csaw.io
 http://reversing.kr
-https://picoctf.com
 https://ctf365.com
 http://hax.tor.hu
 http://pwnable.tw
 https://hack.me/
-●▬۩❁ @geeekgirls ❁۩▬●
 #ctf
-File Storage, [6/4/22 1:29 PM]
 Bug bounty guide
 Identification and reporting of bugs and vulns in a responsible way.
 All depends on interest and hardwork, not on degree, age, branch, college, etc.
@@ -19207,7 +15530,6 @@ Choose your path (imp)
 Web pentesting
 Mobile pentesting
 Desktop apps
-Resources
 Books
 For web
 Web app hackers handbook
@@ -19237,7 +15559,6 @@ Reddit (Netsec)
 DEFCON conference videos
 Forums
 Practice (imp)
-Tools
 Burpsuite
 nmap
 dirbuster
@@ -19252,8 +15573,6 @@ CTF365
 Hack the box
 Start!
 Select a platform
-Hackerone
-Bugcrowd
 Open bug bounty
 Zerocopter
 Antihack
@@ -19276,11 +15595,7 @@ Won't find at the beginning, don't lose hope
 Stay focused
 Depend on yourself
 Stay updated with infosec world
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:29 PM]
- https://www.youtube.com/watch?v=k3BioHp8t4g
-File Storage, [6/4/22 1:29 PM]
-[ Photo ]
+https://www.youtube.com/watch?v=k3BioHp8t4g
 Android Tool
 Program to manage control Android devices with Fastboot and ADB
 Main Features:
@@ -19292,7 +15607,6 @@ Install or boot custom recovery or wipe partitions
 Save apps list
 Always relevant links to firmware and everything you need
 And more
- https://github.com/fast-geek/Android-Tool
 Download -
 https://github.com/fast-geek/Android-Tool/releases
 Telegram channel - @android_tooI
@@ -19301,212 +15615,98 @@ Telegram chat - @android_tooI_chat
 https://4pda.to/forum/index.php?showtopic=1000362
 @NoGoolag @Libreware
 #adb #fastboot
-File Storage, [6/4/22 1:29 PM]
 V for Vendetta
 File Storage, [6/4/22 1:30 PM]
 از QxR بگیر
-File Storage, [6/4/22 1:30 PM]
 1337x.to
-File Storage, [6/4/22 1:30 PM]
- https://gdtot.me/
-File Storage, [6/4/22 1:30 PM]
+https://gdtot.me/
 x265.club
-File Storage, [6/4/22 1:30 PM]
 سریال روانشناختی اگر میخوای هانیبال رو توصیه میکنم
-File Storage, [6/4/22 1:30 PM]
 سریال Stranger Things رو صبح دانلود کردم ، کسی دیده ؟ نظری ؟
-File Storage, [6/4/22 1:30 PM]
 مراحل کامل برای تبدیل به یک هکر کامل
-مرحله اول آشنایی با مفاهیم اولیه.
-1.CEH
-2.Network Plus
-3.OSI Layers
-مرحله دوم آشنایی با خط فرمان های سیستم عامل ها
-4.Linux Commands
-5.Windows Commands
-6.LPIC 1 & 2
-مرحله سوم آشنایی با فریمورک های نفوذ و پنتست
-7.Metasploit Basic
-8.Metasploit Advanced
-مرحله چهارم آشنایی با آسیب پذیری های تحت وب
-9.Basic of Web Penetration Testing
-10.Advanced of Web Penetration Testing
-11.Penetration Testing with Kali
-12.SQL Programming & PHP/ASP Syntax
-13.Entitty framework & .Net Core
-مرحله پنجم طریقه جمع آوری اطلاعات از سطح اینترنت
-14.InfoGathering & OSINT
-15.Google Hacking & Web Mapping
-16.Social Engeenering & Man Spoofing
-مرحله ششم کرک اکانت و جمع آوری اکانت
-17.Account Leech & Cracking
-مرحله هفتم آشنایی با رمزنگاری ها و تست ضعف رمزنگاری
-18.Cryptography Pentesting
-مرحله هشتم تکنیک های نفوذ به شبکه های زیرساختی و بیسیم
-19.Network & Wireless Hacking
-مرحله نهم تکنیک های نفوذ و دور زدن مکانیزم های برنامه های کاربردی
-20.Android & iOS Penetration Testing
-مرحله دهم تست نفوذ با زبان پایتون
-21.Python for Penetration Testing
-مرحله یازدهم آشنایی یا زبان پاورشل و پتانسیل آن
-22.Powershell for Penetration Testing
-مرحله دوازدهم تکنیک های مبهم سازی ر برنامه نویسی
-23.Obfuscation Programming
-مرحله سیزدهم تکنیک های ارتقاء سطح دسترسی
-24.Privilage Ecalation
-مرحله چهاردهم تکنیک های نگهداری دسترسی و بکدور
-25.Persistence Methods
-مرحله پانزدهم تکنیک های ضد ردیابی دسترسی
-26.Anti Forensic Methods
-مرحله شانزدهم برنامه نویسی زبان C و سوکت نویسی
-27.C & Network Programming
-مرحله هفدهم برنامه نویسی زبان روبی و جاوا اسکریپت
-28.Ruby & JavaScript Programming
-مرحله هجدهم برنامه نویسی VBScript & ActionScript
-29.ActionScript & VBScript Programming
-مرحله نوزدهم برنامه نویسی زبان ماشین
-30.Assembly Programming
-مرحله بیستم آشنایی با ساختار فایل فرمت ها و ماژول های کرنل
-31.Operating System File Format
-32.WinAPI & LinAPI Syntax
-مرحله بیست و یکم برنامه نویسی COM & DCOM
-33.COM and DCOM Programming
-مرحله بیست و دوم مهندسی معکوس هر برنامه ای و تکنیکی
-34.Advanced Reverse Engineering
-مرحله بیست و سوم مرحله اکسپلویت نویسی و دور زدن مکانیزم های دفاعی
-35.Advanced Exploit Development
-مرحله بیست و چهارم ساختن بکدورهای روت کیت و بوت کیت
-36.Bootkit & Rootkit Analysis
-مرحله بیست و پنجم اکسپلویت نویسی سیستم عامل های گوشی ها
-37.Android & iOS Exploit Development
-مرحله بیست و ششم تکنیک های حملات به ماهواره ها و شنود آنها
-38.Satellite Attacking
-File Storage, [6/4/22 1:30 PM]
 A Cloud Security Roadmap Template.
- https://roadmap.cloudsecdocs.com/
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:30 PM]
+https://roadmap.cloudsecdocs.com/
 Best OSINT extention | بهترین افزونه های اوسینتی
- https://youtu.be/d2fiSVDBMuA
-●▬۩❁ @geeekgirls ❁۩▬●
-#osint
-File Storage, [6/4/22 1:30 PM]
-(
+https://youtu.be/d2fiSVDBMuA
 https://telegra.ph/file/19561346abfc17dfce19b.jpg)Python Learning Courses provided by Microsoft
 Beginner
 What is Python?
-(
 https://docs.microsoft.com/en-us/learn/modules/python-introduction/)2. Introduction to Python
-(
 https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)3. Take your first steps with Python
-(
 https://docs.microsoft.com/en-us/learn/paths/python-first-steps/)4. Set up your Python beginner development environment with Visual Studio Code
-(
 https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/)5. Branch code execution with the if...elif...else statement in Python
-(
 https://docs.microsoft.com/en-us/learn/modules/python-if-elif-else/)6. Manipulate and format string data for display in Python
-(
 https://docs.microsoft.com/en-us/learn/modules/python-format-strings/)7. Perform mathematical operations on numeric data in Python
-(
 https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/)8. Iterate through code blocks by using the while statement
-(
 https://docs.microsoft.com/en-us/learn/modules/python-while/)9. Import standard library modules to add features to Python programs
-(
 https://docs.microsoft.com/en-us/learn/modules/python-standard-library/)10. Create reusable functionality with functions in Python
-(
 https://docs.microsoft.com/en-us/learn/modules/python-functions/)11. Manage a sequence of data by using Python lists
-(
 https://docs.microsoft.com/en-us/learn/modules/python-lists/)12. Write basic Python in Notebooks
-(
 https://docs.microsoft.com/en-us/learn/modules/basic-python-nasa/)13. Count the number of Moon rocks by type using Python
-(
 https://docs.microsoft.com/en-us/learn/modules/count-moon-rocks-python-nasa/)14. Code control statements in Python
-(
 https://docs.microsoft.com/en-us/learn/modules/intermediate-python-nasa/)15. Introduction to Python for space exploration
-(
 https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/)16. Install coding tools for Python development
-(
 https://docs.microsoft.com/en-us/learn/modules/install-code-tools-python-nasa/)17. Discover the role of Python in space exploration
-(
 https://docs.microsoft.com/en-us/learn/paths/introduction-python-space-exploration-nasa/)18. Crack the code and reveal a secret with Python and Visual Studio Code
-(
 https://docs.microsoft.com/en-us/learn/modules/secret-message/)19. Introduction to object-oriented programming with Python
-(
 https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)20. Use Python basics to solve mysteries and find answers
-(
 https://docs.microsoft.com/en-us/learn/paths/python-partnership/)21. Predict meteor showers by using Python and Visual Studio Code
-(
 https://docs.microsoft.com/en-us/learn/modules/predict-meteor-showers-using-python/)22. Plan a Moon mission by using Python pandas
-(
 https://docs.microsoft.com/en-us/learn/modules/plan-moon-mission-using-python-pandas/) Intermediate
 Create machine learning models
-(
 https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/)2. Explore and analyze data with Python
-(
 https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-python/)3. Build an AI web app by using Python and Flask
-(
 https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/)4. Get started with Django
-(
 https://docs.microsoft.com/en-us/learn/modules/django-get-started/)5. Architect full-stack applications and automate deployments with GitHub
-(
 https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/)●▬۩❁ @geeekgirls ❁۩▬●
-#python
-File Storage, [6/4/22 1:30 PM]
 A roadmap for a web application security researcher, broken down by skill level.
 نقشه راه برای محقق امنیت برنامه های کاربردی وب ، بر اساس سطح مهارت.
- https://securityflow.io/roadmap/
-●▬۩❁ @geeekgirls ❁۩▬●
+https://securityflow.io/roadmap/
 #roadmap
-File Storage, [6/4/22 1:30 PM]
 OSCP Experience
 This are the blogs I have found that have given me a good direction to start as I prepared for the course
- https://www.hacksplaining.com/
- http://www.abatchy.com/search/label/OSCP Prep
- http://www.techexams.net/forums/security-certifications/113355-list-recent-oscp-threads.html
- http://www.jasonbernier.com/oscp-review/
- https://localhost.exposed/path-to-oscp/
- https://pinboard.in/u:unfo/t:oscp
+https://www.hacksplaining.com/
+http://www.abatchy.com/search/label/OSCP Prep
+http://www.techexams.net/forums/security-certifications/113355-list-recent-oscp-threads.html
+http://www.jasonbernier.com/oscp-review/
+https://localhost.exposed/path-to-oscp/
+https://pinboard.in/u:unfo/t:oscp
 The Basics - Start Here
 these are the resources I used to get more comfortable with linux, scripting, TCP/IP, etc. I recommend starting with these especially if you dont have much/any experience
- https://pentesterlab.com/bootcamp
- http://www.penguintutor.com/linux/basic-network-reference
- https://www.cybrary.it/course/advanced-penetration-testing/
- https://tulpasecurity.files.wordpress.com/2016/09/tulpa-pwk-prep-guide1.pdf
+https://pentesterlab.com/bootcamp
+http://www.penguintutor.com/linux/basic-network-reference
+https://www.cybrary.it/course/advanced-penetration-testing/
+https://tulpasecurity.files.wordpress.com/2016/09/tulpa-pwk-prep-guide1.pdf
 Metasploit
 although it has been said that Metasploit use is limited during the exam, Offensive Security recommends getting more familiar with Metasploit. I have been going through the metasploit unleashed course its really good info, i would be suprised if I dont have to come back to this repeatedly
- https://www.offensive-security.com/metasploit-unleashed/
- https://community.rapid7.com/community/metasploit/blog/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3
+https://community.rapid7.com/community/metasploit/blog/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3
 Linux Exploitation
- https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
+https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 Privilege Escalation - Linux
- https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 TCPDump
- https://danielmiessler.com/study/tcpdump/
+https://danielmiessler.com/study/tcpdump/
 Buffer Overflows
- https://www.sans.org/reading-room/whitepapers/threats/buffer-overflows-dummies-481
- https://www.exploit-db.com/docs/28475.pdf
+https://www.sans.org/reading-room/whitepapers/threats/buffer-overflows-dummies-481
+https://www.exploit-db.com/docs/28475.pdf
 Enumeration
- https://hackercool.com/2016/07/smb-enumeration-with-kali-linux-enum4linuxacccheck-smbmap/
- https://null-byte.wonderhowto.com/how-to/hack-like-pro-reconnaissance-with-recon-ng-part-1-getting-started-0169854/
- http://0daysecurity.com/penetration-testing/enumeration.html
+https://hackercool.com/2016/07/smb-enumeration-with-kali-linux-enum4linuxacccheck-smbmap/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-reconnaissance-with-recon-ng-part-1-getting-started-0169854/
+http://0daysecurity.com/penetration-testing/enumeration.html
 Cheat Sheets for All the Things!!!!!!!
- https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
- https://highon.coffee/blog/nmap-cheat-sheet/
- http://www.cheat-sheets.org/saved-copy/Notepad++_Cheat_Sheet.pdf
- http://www.isical.ac.in/~pdslab/2016/lectures/bash_cheat_sheet.pdf
- http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
- https://www.sans.org/security-resources/GoogleCheatSheet.pdf
- https://www.tunnelsup.com/python-cheat-sheet/
- https://www.tunnelsup.com/metasploit-cheat-sheet/
+https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
+https://highon.coffee/blog/nmap-cheat-sheet/
+http://www.cheat-sheets.org/saved-copy/Notepad++_Cheat_Sheet.pdf
+http://www.isical.ac.in/~pdslab/2016/lectures/bash_cheat_sheet.pdf
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+https://www.tunnelsup.com/python-cheat-sheet/
+https://www.tunnelsup.com/metasploit-cheat-sheet/
 Reverse and Bind Shell tutorials
- http://resources.infosecinstitute.com/icmp-reverse-shell/#gref
+http://resources.infosecinstitute.com/icmp-reverse-shell/#gref
 Text Editor Cheat Sheets
- https://vim.rtorr.com/ - Vim
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:30 PM]
+https://vim.rtorr.com/ - Vim
 وبسایتهای دانلود عکس با کیفیت خیلی بالا رایگان
-#معرفی_سایت
- https://www.vecteezy.com/free-photos
+https://www.vecteezy.com/free-photos
 https://www.pexels.com
 https://pixabay.com
 https://stocksnap.io
@@ -19550,234 +15750,107 @@ http://www.freestockimages.ru
 http://zoommyapp.com
 https://visualhunt.com
 http://librestock.com
-https://visualhunt.com
 http://librestock.com/
-File Storage, [6/4/22 1:30 PM]
-دفترچه یادداشت آنلاین
-#معرفی_سایت
- https://www.google.com/keep
-https://primapad.com
-https://www.onenote.com/hrd
-https://www.zippyjot.com
-https://www.rapidtables.com/tools/notepad.html
-https://clickup.com
-https://www.memonotepad.com
-https://anotepad.com/
-File Storage, [6/4/22 1:30 PM]
 جستجو با عکس
-#معرفی_سایت
- http://www.tineye.com
+http://www.tineye.com
 https://images.google.com
 https://www.bing.com/images/trending?FORM=ILPTRD
 https://yandex.com/images
 http://www.imgops.com/
 File Storage, [6/4/22 1:31 PM]
- https://intotech.ir/17224
-File Storage, [6/4/22 1:31 PM]
+https://intotech.ir/17224
 ️Title: The Internet's Own Boy: The Story of Aaron Swartz (
 https://www.imdb.com/title/tt3268458) [2014]
-File Storage, [6/4/22 1:31 PM]
 مال منو ببین ناموسن
 weirdvillage.neocities.org
 روی عکس دختر جنیه هم بزن هروقت گشتنت تمام شد کل عکسارو ک دیدی میبرتت ب ی دایرکتوری پرایوت فایلارو ببین
-File Storage, [6/4/22 1:31 PM]
 منبع معرفی ابزارها و نرم افزارهای اوپن سورس و اخبار این دوتا سایت
- https://www.ghacks.net/
- https://hckrnews.com/
-File Storage, [6/4/22 1:31 PM]
+https://www.ghacks.net/
+https://hckrnews.com/
 دوستان علاقه مند به لینوکسم این سایت رو چک کنین
- http://linuxvaman.ir/
-●▬۩❁ @geeekgirls ❁۩▬●
+http://linuxvaman.ir/
 #لینوکس
-File Storage, [6/4/22 1:31 PM]
 roadmap for being a self-taught hacker
- https://github.com/s0md3v/be-a-hacker
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:31 PM]
-لیستی از منابع مفید
-#معرفی_سایت
-امنیت و حریم خصوصی
- https://restoreprivacy.com/privacy-tools/
- https://www.privacytools.io/
-آنتی ویروس ها:
- http://fuckingscan.me
-http://nodistribute.com
-http://www.file2scan.net
-http://anubis.iseclab.org
-https://anonscanner.com
-http://virusscan.jotti.org/it
-https://www.virustotal.com/nl/
-خدمات کار با IP:
- http://ip-api.com
-http://ipaddress.com
-http://www.whatismyip.com
-http://www.ip2location.com/demo
-http://freegeoip.net/static/index.html
-http://www.ip-adress.com/ipaddresstolocation/
-بررسی ناشناس بودن:
- https://ipleak.net
-https://www.dnsleaktest.com
-https://diafygi.github.io/webrtc-ips/‌‌
-حذف پس زمینه از عکس
- https://www.stickermule.com/trace
- https://www.remove.bg/
-File Storage, [6/4/22 1:31 PM]
+https://github.com/s0md3v/be-a-hacker
 Dorks collections list
 لیستی از دورک ها
- https://github.com/Dutchosintguy/OSINT-Discord-resources
-●▬۩❁ @geeekgirls ❁۩▬●
+https://github.com/Dutchosintguy/OSINT-Discord-resources
 #OSINT #dorks
-File Storage, [6/4/22 1:31 PM]
 نیم بها دانلود کن
 روش اول
 فیلم یا هر چیزی که میخاید دانلود کنید رو به بات
-@FileToLinkTGbot
-@uploadgrammebot
 بفرستین و لینک دانلود رو کپی کنید و به بات
 @NimRocketbot
 @NIM2Rocketbot
 بفرستین و نیم بها دانلود کنید
 روش دوم
 مثله روش اول هرچی که میخاید دانلود کنید رو به بات
-@FileToLinkTGbot
 بفرستید لینک دانلود در سایت
- https://www.digitalbam.ir/
+https://www.digitalbam.ir/
 وارد کنید و نیم بها دانلود کنید
 این روش تست شده اما اگر شک داشتین در روش اول لینکی که بات نیم بها بهتون میده رو در سایت
 https://linkirani.ir/ وارد کنید که ببینید نیم بها هست یا نه!
 @vpn_proxy66
-File Storage, [6/4/22 1:31 PM]
- https://m.youtube.com/watch?v=pzdXE-QmBKs
-File Storage, [6/4/22 1:31 PM]
- https://m.youtube.com/watch?v=-Pz70EobIc8
-File Storage, [6/4/22 1:31 PM]
- https://www.technologyreview.com/2020/08/30/1007786/elon-musks-neuralink-demo-update-neuroscience-theater/
-File Storage, [6/4/22 1:31 PM]
- http://www.youtube.com/watch?v=5hTz2281uQI
-File Storage, [6/4/22 1:31 PM]
+https://m.youtube.com/watch?v=pzdXE-QmBKs
+https://m.youtube.com/watch?v=-Pz70EobIc8
+https://www.technologyreview.com/2020/08/30/1007786/elon-musks-neuralink-demo-update-neuroscience-theater/
+http://www.youtube.com/watch?v=5hTz2281uQI
 سلام دوستان ‍
 امروز من مجموعه ای از منابع مفید را برای شما
 جمع آوری کرده ام که می توانید از هزاران دورک مفید در موتور های جستجوی مختلف استفاده کنید
 DuckDuckGo:
- https://github.com/d34dfr4m3/goDuck
+https://github.com/d34dfr4m3/goDuck
 Github:
- http://recruitin.net
+http://recruitin.net
 https://github.com/techgaun/github-dorks
 https://github.com/H4CK3RT3CH/github-dorks
 https://github.com/jcesarstef/ghhdb-Github-Hacking-Database
 #Shodan:
- https://github.com/lothos612/shodan
+https://github.com/lothos612/shodan
 https://github.com/IFLinfosec/shodan-dorks
 https://github.com/humblelad/Shodan-Dorks
 https://github.com/jakejarvis/awesome-shodan-queries
 https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks
 Virus Total:
- https://github.com/Neo23x0/vti-dorks
+https://github.com/Neo23x0/vti-dorks
 Reddit:
- https://new.reddit.com/wiki/search
+https://new.reddit.com/wiki/search
 Google:
- https://intelx.io/dorks
+https://intelx.io/dorks
 https://github.com/iGotRootSRC/Dorkers
 https://github.com/arimogi/Google-Dorks
 https://github.com/abhijithb200/investigator
-https://github.com/BullsEye0/google_dork_list
 https://github.com/thomasdesr/Google-dorks
 https://github.com/aleedhillon/7000-Google-Dork-List
 https://github.com/unexpectedBy/SQLi-Dork-Repository
 https://sguru.org/ghdb-download-list-4500-google-dorks-free/
 با استفاده از هشتگ #osint میتونید منابع بیشتری در این کانال ببینید
-●▬۩❁ @geeekgirls ❁۩▬●
-#OSINT #dorks
-File Storage, [6/4/22 1:31 PM]
-Reverse engineering
-Roadmap
-Learn c/ c++/ python (this will come handy)
-Learn assembly
-Start decompiling programs in disassemblers
-start solving crackmes (you will learn most of the reverse engineering here, start with easy crackmes, don't be afraid to look at tutorials and write-ups or even ask proper detailed questions to us)
-Start competing in CTF's and other competitions and find teammates who will contribute to your skill development.
-Resources
-Go through each link and make notes if possible when you do a course, read books, solve reversing challenges and samples.
-(Please read this and learn to google)
-How to use google effectively(
-https://www.google.com/search?q=how+to+use+google+search+engine+effectively+reddit)
-(Has everything you need) reverse-engineering-resources-beginners-to-intermediate-guide-links(
-https://bbinfosec.medium.com/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed)
-begin.re(
-https://www.begin.re/)
-where-to-find-free-training-in-reverse-engineering(
-https://reverseengineering.stackexchange.com/questions/265/where-to-find-free-training-in-reverse-engineering/267#267)
-(Must for beginners)
-https://p.ost2.fyi/courses - start with Arch1001(
-https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about) --> Arch2001 (
-https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001_x86-64_OS_Internals+2021_v1/about)
-Z0FCourse_ReverseEngineering (
-https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
- https://crackmes.one/
- https://asmtutor.com/
-GHB2 - Beginners Guide To Reverse Engineering (
-https://guidedhacking.com/threads/ghb2-beginners-guide-to-reverse-engineering.13446/)
-malwareunicorn.org Workshop (
-https://malwareunicorn.org/workshops/re101.html#0)
-awesome reverse engineering (
-https://github.com/wtsxDev/reverse-engineering)
-pwn.college (
-https://pwn.college/)
-Things a beginner should google to get in depth knowledge of reverse engineering:
-How to start out in reverse engineering?
-How to start out in reverse engineering Reddit
-beginners reverse engineering Reddit
-reverse engineering tutorials
-Assembly tutorials
-c tutorials
-ida pro tutorials
-ghidra tutorial
-radare tutorial
-Reverse engineering environment setup
-search all the above on YouTube for video guides/tutorials/advice
-●▬۩❁ @geeekgirls ❁۩▬●
 #re #reverse_engineering
-File Storage, [6/4/22 1:31 PM]
 فیلمای امید دانارو ببین
-File Storage, [6/4/22 1:31 PM]
 ️Title: The Story of God with Morgan Freeman (
 https://www.imdb.com/title/tt5242220) [2016–2019]
-File Storage, [6/4/22 1:31 PM]
 Sarrast.com
-File Storage, [6/4/22 1:31 PM]
- https://t.me/Packag_live/9
-File Storage, [6/4/22 1:31 PM]
+https://t.me/Packag_live/9
 لیست مخازن و مقالات Github با فهرست دورک ها برای موتورهای جستجوی مختلف
 خیلی این مخرن عالیه از دستش ندین
- https://github.com/cipher387/Dorks-collections-list
-#گیتهاب
+https://github.com/cipher387/Dorks-collections-list
 File Storage, [6/4/22 1:32 PM]
 Safing
 کنترل رایانه خود را پس بگیرید
 Portmaster یک برنامه رایگان و منبع باز است که وظیفه برقراری مجدد همه اتصالات شبکه رایانه را به عهده می گیرد.
- https://safing.io/portmaster/
-File Storage, [6/4/22 1:32 PM]
 Pythonanywhere.com
-File Storage, [6/4/22 1:32 PM]
 شبیه ساز آنلاین تمام بازیهای سگا
- https://megadrive-emulator.com/
+https://megadrive-emulator.com/
 شبیه ساز آنلاین بازیهای نینتندو
- https://supernintendoemulator.com/amp/
+https://supernintendoemulator.com/amp/
 سوپر ماریو قارچ‌خور آنلاین
- https://supermarioemulator.com/amp/
-#گیم_کلاب
-#معرفی_سایت
-File Storage, [6/4/22 1:32 PM]
+https://supermarioemulator.com/amp/
 [V2rayA]
 𝖠 𝖫𝗂𝗇𝗎𝗑 𝗐𝖾𝖻 𝖦𝖴𝖨 𝖼𝗅𝗂𝖾𝗇𝗍 𝗈𝖿 𝖯𝗋𝗈𝗃𝖾𝖼𝗍 𝖵 𝗐𝗁𝗂𝖼𝗁 𝗌𝗎𝗉𝗉𝗈𝗋𝗍𝗌 𝖵2𝖱𝖺𝗒, 𝖷𝗋𝖺𝗒, 𝖲𝖲, 𝖲𝖲𝖱, 𝖳𝗋𝗈𝗃𝖺𝗇 𝖺𝗇𝖽 𝖯𝗂𝗇𝗀𝗍𝗎𝗇𝗇𝖾𝗅
 OS: Linux
-Github
 github.com/v2rayA/v2rayA
-File Storage, [6/4/22 1:32 PM]
- https://t.me/HosseinsArticles
-File Storage, [6/4/22 1:32 PM]
- https://youtube.com/playlist?list=PLPveEPMOZL8U1fCKx4zhTqFXE8bcDlM3N
-File Storage, [6/4/22 1:32 PM]
+https://t.me/HosseinsArticles
+https://youtube.com/playlist?list=PLPveEPMOZL8U1fCKx4zhTqFXE8bcDlM3N
 مقالات امام حسین(ع), [4/29/22 5:10 PM]
 انکودر‌ها، فن‌سابر‌ها و ماکسرهای پیشنهادی در زمینه‌ی انیمه
 انکودرها:
@@ -19788,23 +15861,17 @@ Yousei-raws, Kagura, VCB-Studio, Nii-sama, Quetzal, Akatomba-Raws, SOFCJ-Raws, Z
 نسبتاً خوب:
 Raizel, Elysium, kuchikirukia, UQW, UWU
 فن‌سابرها:
-عالی:
 GJM, Kaleido-subs, 0x539, Foxtrot, MTBB, DameDesuYo/BlurayDesuYo, GSK_kun, Pizza, Orphan, Kantai, Cait-Sidhe, NovaWorks, 9volt, Cyan, Kaizoku, YameteTomete
-خوب:
 Asenshi, kBaraka, Chihiro, Glue, Underwater, Vivid, WhyNot, Tsundere, niizk, SallySubs, Iznjie Biznjie, Mezashite, Saizen, Commie, FFF, Okay-Subs
-نسبتاً خوب:
 Exiled-Destiny, Coalgirls, Doki
 ماکسر‌ها:
-عالی:
 Arid, Baws, Yuki, ShadyCrab, Datte13, CyC, BKC, EXP, Kulot, MK, Mysteria, Drag, Netaro, UDF, YURI, Pog42, Lulu, hchcsen, ARC, ASC, Holomux, IK, HaiveMind
-خوب:
 LazyMux, CBT, NH, Senjou, WSE, Kametsu, CTR, AC
 ریپرها:
 LostYears, SubsPlease, NanDesuKa, Erai-Raws, DragsterPS, -KS-, aKraa, GHS, Mr Lahey
 ریماکسرها:
 TTGA, -ZR-, hydes, ΑΩ, AnimeIsMyWaifu, anti-raws, LTPD
 ️‍ توجه کنید که در خوب یا عالی بودنِ به‌فرض یک انکودر، کیفیتِ کلی اون انکودر برآورد شده؛ و گه‌گاهی پیش میاد که برای یه انیمه انکودی از بخش خوب مثل Kagura بهتر از انکودهایِ بخش عالی باشه. گاهی اوقات هم دلیل اینکه یه گروه در بخش عالی آورده نشده، سینوسی‌بودنِ کیفیت کارشه. مثلاً Commie فن‌سابیه که سال‌هاست فعاله و انیمه‌های متعددی رو فن‌ساب کرده؛ ولی این گروه گاهی اوقات کارش عالیه، گاهی اوقات متوسط. و به همین دلیل در بخشِ خوب آورده شده.
-File Storage, [6/4/22 1:32 PM]
 هر زمان که به اینترنت بروید ، رایانه یا دستگاه شما به سایتهایی که بازدید می کنید اطلاعات کاملاً مشخصی درباره سیستم عامل ، تنظیمات و حتی سخت افزار شما ارائه می دهد. استفاده از این اطلاعات برای شناسایی و ردیابی آنلاین شما به عنوان اثر انگشت دستگاه یا مرورگر شناخته می شود.
 اثر انگشت دستگاه شامل دو چیز مهم است که هم در موبایل‌های هوشمند و تبلت‌ها موجود است: سیستم عامل (گوگل، اندروید، اپل) و مرورگر (کروم، فایرفاکس و اپرا).
 اطلاعات اولیه که مرورگرها هنگام استفاده شدن بدست می‌آورند، زبان و IP است. این اطلاعات برای شناسایی یک دستگاه منحصر بفرد کافی‌است. اثر انگشت دستگاه، ویژگی‌های دستگاه را طی چند روز تعیین می‌کند تا اطلاعات کاربر را تا جایی که می‌توان تشخیص دهد.
@@ -19827,7 +15894,7 @@ http
 اثرانگشت مرورگر ابزار دیگری برای شناسایی و ردیابی افراد هنگام مرور وب است. بسیاری از نهادهای مختلف - اعم از شرکتی و دولتی - فعالیت های اینترنت را تحت نظر دارند و همه آنها دلایل متفاوتی برای انجام این کار دارند. تبلیغ کنندگان و بازاریابان این تکنیک را برای دستیابی به اطلاعات بیشتر در مورد کاربران مفید می دانند که به نوبه خود منجر به درآمد بیشتر تبلیغات می شود.
 برخی وب سایت ها از انگشت نگاری مرورگر برای تشخیص کلاهبرداری احتمالی مانند بانک ها یا وب سایت های دوست یابی استفاده می کنند ، بنابراین همیشه نامفهوم نیست.
 وب سایت های تست اثر انگشت مرورگر
- http://www.deviceinfo.me
+http://www.deviceinfo.me
 https://panopticlick.eff.org
 https://amiunique.org/
 چگونه می توان اثر انگشت مرورگر خود را کاهش داد؟
@@ -19853,24 +15920,19 @@ media.peerconnection.enabled (change to false)
 geo.enabled (change to false)
 privacy.firstparty.isolate (change to true)
 افزونه های ضد اثر انگشت مرورگر فایرفاکس
- https://addons.mozilla.org/en-US/android/addon/canvasblocker
+https://addons.mozilla.org/en-US/android/addon/canvasblocker
 https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace
-https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext
 https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
- https://addons.mozilla.org/firefox/addon/languageswitch/
+https://addons.mozilla.org/firefox/addon/languageswitch/
 سفارشی سازی فایر فاکس
- https://github.com/ghacksuserjs/ghacks-user.js
-#حریم_خصوصی
+https://github.com/ghacksuserjs/ghacks-user.js
 #اثرانگشت
-File Storage, [6/4/22 1:32 PM]
 ایجاد انیمیشن های جذاب و تعاملی برای هر برنامه یا وب سایت.
 دسکتاپ
- https://www.haikuanimator.com/
-#اوپن_سورس
- https://github.com/HaikuTeam/animator/
+https://www.haikuanimator.com/
+https://github.com/HaikuTeam/animator/
 برای اندروید و ios
- https://airbnb.design/lottie/
-File Storage, [6/4/22 1:32 PM]
+https://airbnb.design/lottie/
 یه سری دوستان پرسیده بودن کجا VPS ارزون خارجی کجا میتونیم تهیه کنیم
 این سرویس ها vps ارزون قیمت دارن ماهیانه ۱ دلار سالیانه ۱۵ دلار
 ممکنه بازم باشه پیدا کردم همین پست رو آپدیت میکنم
@@ -19879,54 +15941,38 @@ File Storage, [6/4/22 1:32 PM]
 حتما سرور لینوکس باشه سیستم عامل CentOS8
 Virmach.comVPS.agRoboVps.biz
 از اینجا میتونید پروتکلهای وایرگارد ، شادوساکس ، اوپن وی پی ان بسازید
- http://myvpn.run
 برای پروکسی تلگرام
- https://github.com/HirbodBehnam/MTProtoProxyInstaller
+https://github.com/HirbodBehnam/MTProtoProxyInstaller
 خیلی ساده س فقط دستور رو کپی و توی ترمینال پیست میکنید
 اینجوری دیگه سرور دست خودتونه خیلی امن و پرسرعت وبگردی کنید
-File Storage, [6/4/22 1:32 PM]
- https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/
-File Storage, [6/4/22 1:32 PM]
+https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/
 Fuxnxxx.com
 اینم خیلی خوبه اگه پرمیوم با کیفیت میخوای
-File Storage, [6/4/22 1:32 PM]
- https://t.me/torrent_Learning
-File Storage, [6/4/22 1:32 PM]
- https://github.com/stax76/mpv.net
-File Storage, [6/4/22 1:32 PM]
+https://t.me/torrent_Learning
+https://github.com/stax76/mpv.net
 Prey (2017)
-File Storage, [6/4/22 1:32 PM]
 قمبل شهوانی
 داش با سایت crazyshit آشنایی داری؟
-File Storage, [6/4/22 1:32 PM]
 Not that funny but a goat remixer:
 https://t.me/elmojiw
-File Storage, [6/4/22 1:32 PM]
- https://github.com/0x6d69636b/windows_hardening
-File Storage, [6/4/22 1:32 PM]
- https://github.com/undergroundwires/CEH-in-bullet-points.
-File Storage, [6/4/22 1:32 PM]
+https://github.com/0x6d69636b/windows_hardening
+https://github.com/undergroundwires/CEH-in-bullet-points.
 OSINT 101 for beginners
 Rooms:
- https://tryhackme.com/room/webosint
+https://tryhackme.com/room/webosint
 https://tryhackme.com/room/searchlightosint
 https://tryhackme.com/room/geolocatingimages
 https://tryhackme.com/room/googledorking
 https://tryhackme.com/room/ohsint
-Tools:
- https://archive.org
+https://archive.org
 https://lookup.icann.org
 https://viewdns.info/
 Reference:
- https://nixintel.info/osint/12-osint-resources-for-e-mail-addresses
+https://nixintel.info/osint/12-osint-resources-for-e-mail-addresses
 https://nixintel.info/osint/website-osint-whats-the-link-between-antifa-com-and-russia
-https://inteltechniques.com/podcast.html
 https://osintcurio.us
 https://www.theosintion.com/courses/osint-investigations-business
 https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/
-●▬۩❁ @geeekgirls ❁۩▬●
-#osint
-File Storage, [6/4/22 1:33 PM]
 جعل اثر انگشت دیجیتال مرورگر
 اثر انگشت مرورگر یک تکنیک است که توسط وب سایت ها برای ردیابی بازدیدکنندگان و الگوهای رفتاری آنها استفاده می شود. یک شناسه منحصر به فرد به شما اختصاص داده شده است که حاوی اطلاعات زیادی در مورد تنظیمات و قابلیت های مرورگر است.
 افزونه Canvas Fingerprint Defender (
@@ -19937,39 +15983,26 @@ https://addons.mozilla.org/en-US/firefox/addon/canvas-fingerprint-defender/) ، 
 https://microsoftedge.microsoft.com/addons/detail/giglaifdfkimffokoomllcpmdjeomckf) و Opera (
 https://addons.opera.com/en/extensions/details/canvas-fingerprint-defender/) در دسترس است.
 اگر می خواهید این افزونه را آزمایش کنید ، از وب سایتی که اثر انگشت شما را نشان می دهد دیدن کنید.
- https://webbrowsertools.com/canvas-fingerprint/
+https://webbrowsertools.com/canvas-fingerprint/
 هر بار که صفحه را بارگذاری می کنید ، تغییراتی در داده ها مشاهده خواهید کرد.
- https://mybrowseraddon.com/canvas-defender.html
-#اثرانگشت
-#حریم_خصوصی
+https://mybrowseraddon.com/canvas-defender.html
 File Storage, [6/4/22 1:24 PM]
- https://youtu.be/Jgwzer-ivBk
-File Storage, [6/4/22 1:24 PM]
- https://youtu.be/EDbSi5cN63U
-File Storage, [6/4/22 1:24 PM]
+https://youtu.be/Jgwzer-ivBk
+https://youtu.be/EDbSi5cN63U
 office uk us
-File Storage, [6/4/22 1:24 PM]
 سریال جری ساینفیلد
-File Storage, [6/4/22 1:24 PM]
 کرینج یعنی رفتار حال به هم زن و چندش
 وقتی به رفتار یک انسان نگاه میکنی و از اینکه تو هم انسان هستی شرمنده میشی
-File Storage, [6/4/22 1:24 PM]
 Solo Leveling, Battle through the heavens
-File Storage, [6/4/22 1:24 PM]
 Monster and the Beaker are also good completed mangas
-File Storage, [6/4/22 1:24 PM]
 Read FMAB?
-File Storage, [6/4/22 1:24 PM]
 Full metal jacket
 File Storage, [6/4/22 1:25 PM]
 مستند social dilemma محصول نتفلیکس با وجود انتقادهایی که بهش وارده ولی در مجموع خیلی خیلی خوبه در مورد مضرات شبکه های اجتماعی
-File Storage, [6/4/22 1:25 PM]
 Game of thrones
 یا
 GOT
-File Storage, [6/4/22 1:25 PM]
 xmpp vs matrix vs irc
-File Storage, [6/4/22 1:25 PM]
 من که تو سیستمم فقط گیم اوپن سورس میزنم، مصرف منابع و دردسر کمتری داره، گرافیک اکثرشون خیلی خوب نیست ولی به سیستم فشار نمیاد، واقعا هم فانن.
 مثلل
 megaglest
@@ -19983,18 +16016,11 @@ ltris
 flare
 veloren
 minetest
-File Storage, [6/4/22 1:25 PM]
-xonotic
-sauerbraten
 warsow
-File Storage, [6/4/22 1:25 PM]
 اگه 2 بعدی هم میخوای teewolrds رو یادم رفت بگم.
-File Storage, [6/4/22 1:25 PM]
 اگه دبیان بیس داری assaultcube هست.
 این 3 تا اونقد رئال نیستن ولی از کانتر فان ترن، خودم هر چند وقت یه بار که وقت میکنم سعی میکنم با دوستان برم زونوتیک.
-File Storage, [6/4/22 1:25 PM]
 حتی minetest هم بهتره ، نمونه سبک و وسیع همون گیم و بشدت هم امکاناتش بیشتره پولیم نیست
-File Storage, [6/4/22 1:25 PM]
 واچ لیست:
 کارتون/انیمیشن:
 نتفلیکس qforce (ابرقهرمان های گی ببینم چه کوفتیه)
@@ -20007,7 +16033,6 @@ platform
 sorry to bother you
 گرگ وال استریت
 the heat
------------
 انیمه:
 Battle angel dokuro chan
 Muscle man
@@ -20021,7 +16046,6 @@ Itazura na kiss
 Yosuga no Sora
 Special a
 Sentounin Hakkenshimasu
-----------
 مانگا:
 --------
 کیمیک:
@@ -20031,139 +16055,98 @@ Sentounin Hakkenshimasu
 گیم:
 saints row
 ---------
-File Storage, [6/4/22 1:25 PM]
- https://www.imdb.com/title/tt1492966/
-File Storage, [6/4/22 1:25 PM]
-[ Video ]
-File Storage, [6/4/22 1:25 PM]
- https://www.bleachbit.org
+https://www.imdb.com/title/tt1492966/
 https://www.bcuninstaller.com/
-File Storage, [6/4/22 1:25 PM]
- https://github.com/nickspaargaren/no-google
-File Storage, [6/4/22 1:25 PM]
+https://github.com/nickspaargaren/no-google
 @torrent_learning
 ᴍʀ.ᴅᴏɴ'ᴛ ᴄᴀʀᴇ:
 @torrents_ir
-File Storage, [6/4/22 1:25 PM]
 [ File : reporter-main.zip ]
-File Storage, [6/4/22 1:25 PM]
 @usersbox_bot
 اینم یه دیتابیسی هایی داره واسه سایتای خودشون
-File Storage, [6/4/22 1:25 PM]
 @ReadImageBot
 اینم متن عکس و میده بدون محدودیت ع فارسی هم داره
-File Storage, [6/4/22 1:25 PM]
 Onepedro.com
-File Storage, [6/4/22 1:25 PM]
 ساخت اپلیکیشن اندرویدی بدون دانش برنامه نویسی
 فقط کافیه یک اکانت گیتهاب ، توییتر و یا جیمیل اضافه کنید و پروژه مددنظرتون به کمک
 https://www.kodular.io/ بسازید
-File Storage, [6/4/22 1:25 PM]
 دریافت اکانت موقت (7روز ) wireguard
- https://digitalssh.net/create/wireguard
+https://digitalssh.net/create/wireguard
 File Storage, [6/4/22 1:26 PM]
 کتابهای برنامه نویسی رایگان به زبان فارسی
- https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md
-File Storage, [6/4/22 1:26 PM]
+https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md
 Syncthing.net
-File Storage, [6/4/22 1:26 PM]
 X265.club
-File Storage, [6/4/22 1:26 PM]
 @HMlust
-File Storage, [6/4/22 1:26 PM]
 پاناما دیتابیس یک
-File Storage, [6/4/22 1:26 PM]
-[ Video ]
-File Storage, [6/4/22 1:26 PM]
- https://reports.exodus-privacy.eu.org/en/
-File Storage, [6/4/22 1:26 PM]
+https://reports.exodus-privacy.eu.org/en/
 boogiepop ost falling
-File Storage, [6/4/22 1:26 PM]
 حالا اگه اون فرد یا تیم یا افراد یکم دیگه حرفه ایی گری ب خرج بدن بوسیله این ابزار خیلی چیزا میتونن پیدا کنن
- https://github.com/thewhiteh4t/seeker
+https://github.com/thewhiteh4t/seeker
 https://github.com/jofpin/trape
 https://iplogger.ru/location-tracker/
-#osint
-File Storage, [6/4/22 1:26 PM]
 توی اینستاگرام ، واتساپ از دست اتفاقات زیاد میفته
 چرا ؟ چون فیلتر نیست ،طرف میدونه احتمال اینکه قربانی وی پی ان فعال نکرده خیلی زیاده پس یه لینک رو توی ی عکس یا هر چیزی مخفی میکنه
 پس اولین کار اینه روی هر لینکی نزنید
 لینک بکش پایین ،بکش بالا اینا رو قبلش توی این وبسایتها تست کنید اصن ببینید ماهیت لینک چی هست
- https://urlscan.io
+https://urlscan.io
 https://sitecheck.sucuri.net
-https://www.virustotal.com/gui/home/url
 https://themarkup.org/blacklight
 افزونه survol
- https://github.com/mdolr/survol
+https://github.com/mdolr/survol
 Firefox
-(
 https://addons.mozilla.org/en-US/firefox/addon/survol)Chrome
-(
 https://chrome.google.com/webstore/detail/survol/fdnnmbmkgfdjclkgimonnimokhnndalk)
 anti-grabify firefox
-(
 https://addons.mozilla.org/en-US/firefox/addon/anti-grabify/)anti-grabify chrome (
 https://chrome.google.com/webstore/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn)
 از مرورگرهایی استفاده کنیم که مجهز به افزونه های مسدودساز ردیاب ، تبلیغات باشن الان دیگه مرورگرهای اندرویدی مثه فایرفاکس ، kiwi browser, yandex قابلیت اضافه کردن افزونه رو دارن اگه بتونید مسدودساز ادگارد رو همیشه فعال داشته باشید که خیلی خوبه
-File Storage, [6/4/22 1:26 PM]
- https://www.mediamonkey.com/
-File Storage, [6/4/22 1:26 PM]
+https://www.mediamonkey.com/
 Fossdroid.com
-File Storage, [6/4/22 1:26 PM]
 5 Awesome Websites you won't believe exist. ️
 A Thread
 ⃣ CodeElf
 If you encounter difficulty in naming the variables then this is perfect for you. With CodeElf you can search over GitHub, Bitbucket, GitLab to find real-world usage variable names.
- https://unbug.github.io/codelf/
+https://unbug.github.io/codelf/
 ⃣ Hidden Tools
 Discover a wide collection of tools made by the community - for you. You'll be amazed to see the collection of several dope tools.
- https://hiddentools.dev
+https://hiddentools.dev
 ⃣ BundlePhobia
 Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
- https://bundlephobia.com
 ⃣ WhiteBoard
 Get hands-on right away with the Web whiteboard for instant collaboration, where you can brainstorm, share ideas and manage projects without signing up.
- https://webwhiteboard.com
+https://webwhiteboard.com
 ⃣ Bubble
 Bubble introduces a new way to build software. It's a no-code tool that lets you build SaaS platforms, marketplaces, and CRMs without code.
- https://bubble.io
-●▬۩❁ @geeekgirls ❁۩▬●
+https://bubble.io
 #developer #dev #programmer
-File Storage, [6/4/22 1:26 PM]
 وی‌پی‌ان من چقدر خصوصی است ؟ (
 https://themarkup.org/ask-the-markup/2021/08/12/how-private-is-my-vpn)
-File Storage, [6/4/22 1:26 PM]
 LocalCDN (
 https://www.localcdn.org/)
 افزونه
 برنامه افزودنی مرورگر وب است که از شبکه های تحویل محتوا (cdn چیست ؟ (
 https://mizbanfa.net/blog/other/what/cdn/)) برای بهبود #حریم_خصوصی آنلاین شما تقلید می کند. ترافیک را رهگیری می کند
 لینک دانلود در کروم
-(
 https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd/)
 لینک دانلود در فایرفاکس (
 https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/)
-File Storage, [6/4/22 1:26 PM]
 چرا این اتفاقها میفته ؟ چرا بعضی از پروژه‌ها نصفه کاره رها میشن
 نمونه مشابه ش winxray بود که خیلی پرسرعت عالی بود ولی به انواع اقسام ویروسها آلوده شد و عملا دیگه قابل استفاده نبود
 بد نیست بدونید بسیاری از این برنامه نویسها در صورت شناسایی از طرف حزب کمونیست چین اول تهدید و بعد دستگیر و زندانی میشن
 حتی برنامه نویس های هوادار حزب به صورت نفوذی وارد پروژه ها میشن
 شاید دلیل برخورد سرد چینی ها در گیت هاب و گروههای تلگرامی ترس از همین نفوذی ها باشه
 اگه مایل به اطلاعات بیشتر در اینباره هستید اینجا مطالبی جمع آوری شده
- https://github.com/cirosantilli/china-dictatorship#shadowsocks
+https://github.com/cirosantilli/china-dictatorship#shadowsocks
 File Storage, [6/4/22 1:27 PM]
- https://zvukogram.com/
-File Storage, [6/4/22 1:27 PM]
- https://nzbscout.com
+https://zvukogram.com/
+https://nzbscout.com
 https://easy-leech.to
-File Storage, [6/4/22 1:27 PM]
 @Accbox_pro
-File Storage, [6/4/22 1:27 PM]
 CNBXQ-FDC86-R2QW7-CKCBP-7CD93
 Microsoft Windows 10 Home 64-bit
 LAPTOP-SBML21B3
- https://www.wintools.info
-File Storage, [6/4/22 1:27 PM]
+https://www.wintools.info
 yt-dlp
 ویندوز لینوکس
 یک فورک پیشرفته از youtube-dl است ، با ویژگی ها و رفع مشکلات دیگر
@@ -20175,84 +16158,52 @@ download️ بارگیری چند تکه: بارگیری چند تکه ویدئ�
 extract️ استخراج کننده های جدید: AnimeLab ، Philo MSO ، Spectrum MSO ، SlingTV MSO ، Cablevision MSO ، Rcs ، Gedi و موارد دیگر ...
 استخراج زیرنویس از مانیفست ها: زیرنویس ها را می توان از مانیفست های رسانه ای جاری استخراج کرد.
 و خیلی بیشتر ...
- https://github.com/yt-dlp/yt-dlp
-لینک دانلود
- https://github.com/yt-dlp/yt-dlp/releases/tag/2021.08.10
-#اوپن_سورس
+https://github.com/yt-dlp/yt-dlp/releases/tag/2021.08.10
 گیتهاب
-File Storage, [6/4/22 1:27 PM]
- http://www.oldversion.com/
-File Storage, [6/4/22 1:27 PM]
- https://github.com/amnezia-vpn/desktop-client/
-File Storage, [6/4/22 1:27 PM]
+http://www.oldversion.com/
 Reverse Engineering resources
- https://github.com/wtsxDev/reverse-engineering
-File Storage, [6/4/22 1:27 PM]
- https://github.com/wuseman/EMAGNET
+https://github.com/wtsxDev/reverse-engineering
+https://github.com/wuseman/EMAGNET
 with the grate power comes great responsibility !
 دوباره داشتم تو گیت هاب میچرخیدم که این ریپوزیتوریو دیدم که جمله بالا تیترش بود و اون عکس جمجمه هم بهمون میگه که بایه ابزار خفن هک طرفیم !
 ابزار Emagnet اونطوری که خودش نوشته ابزاری برای پیدا کردن ایمیل آدرس و پسوردا از داخل دیتابیسای لیک شدس -خیلی سریعه -یه زمانی گوگل! ازش استفاده می کرده -کار کردن باهاش به قدری سادس که مادربزرگ جنتی هم می تونه باهاش کار کنه .
 به نظرم خیلی جالب اومد ولی نه اونقدری که بتونم تستش کنم پس به یه داوطلب احتیاج دارم که زحمت بکشه تستش کنه و نتیجه رو به اشتراک بزاره که هم به نفع خودشه و هم ما .
 @linux98dotir
-File Storage, [6/4/22 1:27 PM]
 #آپارات در حال رصد کانال
 https://t.me/reportchildabuse و حذف ویدیو های گزارش شده است که جای تشکر داره.
-File Storage, [6/4/22 1:27 PM]
- https://nashrenovin.ir/product/how-to-be-everything-by-emilie-wapnick/
-File Storage, [6/4/22 1:27 PM]
+https://nashrenovin.ir/product/how-to-be-everything-by-emilie-wapnick/
 HackTricks —
 https://book.hacktricks.xyz/
-File Storage, [6/4/22 1:27 PM]
 موتور جستجوی تلگرام
 بسیار مفید هستن این موتورهای جستجو به منابع خوبی داخل تلگرام دسترسی پیدا میکنید
- https://search.buzz.im
 https://telemetr.me
 http://telegcrack.com
 https://lyzem.com
 https://tgstat.ru
 https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0
-#معرفی_سایت
-File Storage, [6/4/22 1:27 PM]
 سانسور اینترنتی تهدیدی برای اینترنت دنیا و شبکه‌ی سانسور کننده
 ....نتایج ما نشان می دهد که زیرساخت های سانسور تهدید بیشتری برای اینترنت گسترده تر از آنچه قبلاً درک شده بود ، ایجاد می کند...
- https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
+https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
 این مقاله بسیار مهمی‌عه و جوایز زیادی کسب کرده به این موضوع میپردازه که سانسور چه خطراتی داره
-File Storage, [6/4/22 1:27 PM]
 لیستی از خدمات و گزینه های جایگزین که به حریم خصوصی شما احترام می گذارد
- https://github.com/pluja/awesome-privacy
-File Storage, [6/4/22 1:27 PM]
-[ Video ]
-File Storage, [6/4/22 1:27 PM]
-[ Photo ]
+https://github.com/pluja/awesome-privacy
 بهانه‌های مختلفی که برنامه‌نویس‌های تنبل برای کار خودشون میارن رو میتونید مشاهده میکنید
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:28 PM]
- https://madaidans-insecurities.github.io/linux.html
- https://madaidans-insecurities.github.io/guides/linux-hardening.html
- https://madaidans-insecurities.github.io/security-privacy-advice.html
-File Storage, [6/4/22 1:28 PM]
- https://madaidans-insecurities.github.io/firefox-chromium.html
- https://grapheneos.org/usage#web-browsing
- https://www.infoworld.com/article/2609538/who--still--pays-mozilla-s-bills--google--mainly.html
-File Storage, [6/4/22 1:28 PM]
- https://youtu.be/BVOCYFTC_rQ
- https://jenda.hrach.eu/w/linux-insecurity
-File Storage, [6/4/22 1:28 PM]
- https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/
- https://www.securityweek.com/report-claims-cia-controlled-second-swiss-encryption-firm
-File Storage, [6/4/22 1:28 PM]
+https://madaidans-insecurities.github.io/security-privacy-advice.html
+https://madaidans-insecurities.github.io/firefox-chromium.html
+https://grapheneos.org/usage#web-browsing
+https://www.infoworld.com/article/2609538/who--still--pays-mozilla-s-bills--google--mainly.html
+https://youtu.be/BVOCYFTC_rQ
+https://jenda.hrach.eu/w/linux-insecurity
+https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/
+https://www.securityweek.com/report-claims-cia-controlled-second-swiss-encryption-firm
 noatsecure (@noatsecure:kde.org):
 Ungoogled chromium is an insecure mess. Their build flags show that clang isn’t enabled, which supports control flow integrity (CFI), something gcc does not.
- https://github.com/Eloston/ungoogled-chromium/blob/master/flags.gn
+https://github.com/Eloston/ungoogled-chromium/blob/master/flags.gn
 Additionally, they don’t even have the “is_official_build” flag, which disables a massive attack surface by disabling developer features. You can see the comment by Bill Budge, a chromium developer here:
- https://groups.google.com/a/chromium.org/g/chromium-dev/c/4F5hM8XMOhQ/m/6V49akq_AQAJ
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/4F5hM8XMOhQ/m/6V49akq_AQAJ
 I'd argue that 'is_official_build = false' means the build is intended to be developer-friendly and not shipped to end users, and 'is_official_build = true' means that any developer-friendly features that weaken security are disabled.
-File Storage, [6/4/22 1:28 PM]
- https://qua3k.github.io/ungoogled/
-File Storage, [6/4/22 1:28 PM]
+https://qua3k.github.io/ungoogled/
 Searching2018
-File Storage, [6/4/22 1:28 PM]
-#حریم_خصوصی
 "اگر برای کالایی پول نمیدهید، این یعنی شما خودِ کالایید"
 برای ما خبر خوبی‌ست که تمام اپلیکیشن‌های "ضروری" روی موبایل‌هایمان مجانی‌‌اند.
 اما روی دیگرِ احساسِ خوشبختی از داشتن چیزی مجانی، چندان نمی‌ارزد.
@@ -20260,10 +16211,8 @@ File Storage, [6/4/22 1:28 PM]
 شما رو دعوت میکنم به دیدن فیلم (مستند)
 Social Dilemma
 حتما این فیلمو ببینید بی ربط ب موضوع کانال نیس این لینکی که میزارم تست کردم هم پخش آنلاین داشت هم میتونین دانلود کنین
- https://digimoviez1.xyz/the-social-dilemma-2020/
-File Storage, [6/4/22 1:28 PM]
- https://github.com/bloc97/Anime4K
-File Storage, [6/4/22 1:24 PM]
+https://digimoviez1.xyz/the-social-dilemma-2020/
+https://github.com/bloc97/Anime4K
 کد هنتای
 culture:
 Loli
@@ -20275,7 +16224,6 @@ Random
 257892 226942 236297 216039 221711 245304 166174 175220 244327 191049 220882 244859 227446 259328 259532 259634 259610 259348 258669 256097 118282 260028 260058 259557 259497 122220 260111 260088 259880 258977 260097 259765 259359 260138 259617 107965 197255 260276 260209 260210 260203 191360 191390 248933 257567 227913 211648 210240 260626 259622 257991 213966 260623 149112 257168 198203 114783 220958 244387 243734 223315 118069 136188 260686 241777 260912 142154 119798 261174 258301 256808 169134 220354 260271 261725 261378 252174 261928 114427 187003 147577 249458 157767 224316 175294 258450 233864 236128 261162 174036 187205 210873 193318 110232 199310 193816 220376 193814 193815 219068 220386 177642 188269 181837 220377 119293 257528 258926 262384 105951 259904 208174 249229 245644 262538 234818 216845 149212 134442 135927 262447 261811 261650 261225 261226 260761 250327 192327 167801 150309 123554
 onee san
 189833 12386 232747 186250 200330 63009 202662 66435 145071 6290 185596 121963 67356 157649 230109 243886 172138 126145 253850 144121 166315 197350 2611 19157 247791 239595 50074 1235 135474 258965 262816 195747 242247 252913 149760 139983 114692 151132 152089 144481 201031 169585 198203 240330 236896 88670 254499 169585 196783 194443 59284 249265 62287 166985
-File Storage, [6/4/22 1:24 PM]
 #مهم
 واچ لیست فیلم:
 Black mirror
@@ -20291,8 +16239,7 @@ Dev
 📽7. Mr. Robot
 📽8. 23
 📽9. In Ascolto
-.
- https://www.csoonline.com/article/3385036/9-top-hacker-movies-and-tv-shows-of-all-time.html#tk.rss_all
+https://www.csoonline.com/article/3385036/9-top-hacker-movies-and-tv-shows-of-all-time.html#tk.rss_all
 Movies/Shows That Will Inspire You to Code.
 Silicon Valley
 Mr. Robot
@@ -20306,10 +16253,8 @@ The Imitation Game
 Halt and catch fire
 The It crowd
 Share with your programmer friends.
-●▬۩❁ @geeekgirls ❁۩▬●
 Money heist
 Dark
-stranger things
 The Leftovers
 Elite
 Lost
@@ -20332,9 +16277,8 @@ Prison Break
 Better Call Saul
 Person of Interest
 Hannibal
-Mr. Robot
 Vikings
- به جز سریال friends، breaking bad، Money heist, game of thrones, peaky blinders,
+به جز سریال friends، breaking bad، Money heist, game of thrones, peaky blinders,
 سرنوشت ندیمه، اینا رو هم ببینید. #پیشنهاد_سریال
 mr robot
 Mad men
@@ -20346,13 +16290,11 @@ Rick and morty
 Soprano
 Big little lies
 upload
-Black mirror
 westworld
 twin peaks
 Mandolrian
 Beter call saul
 dark
-Sherlock
 firefly
 Watchmen
 Wire
@@ -20362,7 +16304,6 @@ gangs of london
 True detective
 Mind hunter
 undoing
-Lucifer
 Stranger things
 Sharp object
 Bodyguard
@@ -20380,7 +16321,6 @@ Gotham
 Fleabag
 ozark
 Big bang theory
-Daredevil
 Punisher
 apocalypse second world at war
 Planet earth
@@ -20391,69 +16331,33 @@ cosmos
 ️پارسا
 @CinemaTwitterFarsi
 Mr robot
-Black mirror
-The boys
 Westwood
-True detective
-Stranger things
-Fargo
-Dexter
 House of cards
 اینا رو حتمن ببین اگه ندیدی
 برکینگ بد رو اگه دیدی و خوشت اومد Better call Saul رو هم ببین
 برو 13دلیل برای اینکه رو ببین
 12 سریال با پایان‌بندی بی‌نقص که به بهترین نحو با هواداران خود خداحافظی کردند
-Breaking Bad
 Mr Robot
-Chernobyl
 The Office
-Hannibal
 The Americans
-Dark
 Friends
 Sopranos
 The Wire
-The Leftovers
-Daredevil
 پست‌های معرفی فیلم / سریال سیو نگه دارید بعدا به دردتون میخوره.
 @MovieCottage
 معرفی سریال‌هایی که هر سریال بازی باید ببیند:
-Breaking Bad
-Mr. Robot
-Chernobyl
 True Detective
-Game of Thrones
-The Wire
 Peaky Blinders
-Sherlock
-Better Call Saul
-Fargo
 Westworld
 Six Feet Under
-Lost
-Dexter
 Stanger Things
 Dekalog
-Hannibal
 Mad Men
-Dark
 The Sopranos
 The Walking Dead
-Prison Break
-پست‌های معرفی فیلم / سریال سیو نگه دارید بعدا به دردتون میخوره.
-@MovieCottage
-Hannibal
-True Detective
-The Leftovers
-Dexter
-Mr. Robot
-Breaking Bad
-Better Call Saul
 Rick and Morty
 Attack on Titan
-Game of Thrones
 The Boys
-Sherlock
 چند سریال عالی که خودم دیدم و دارم می‌بینم پیشنهاد می‌کنم حتما ببینید
 #معرفی_سریال
 AliReza
@@ -20482,156 +16386,52 @@ Longmire | 8.83
 @MovieCottage | #News
 پائورو
 File Storage, [6/4/22 1:19 PM]
-GrapheneOS Camera
-Based on Android's CameraX library
- https://github.com/GrapheneOS/Camera
-#camera #photo
-File Storage, [6/4/22 1:19 PM]
 بد آموزی:
 حوصله ام سر رفت و چون خاطرات داشتیم گفتم اینو یاد بدم، چیز شاخی نیست، از f-droid برنامه termux رو دانلود و نصب کنید و سپس
 :(){ :|:& };:
 رو داخل ترموکس پیست کنید یا ترمینال لینوکستون ببینید چه اتفاقی می افته یا کامنت اسپویلر (
 https://t.me/Valuable_garbage/1923?comment=31) رو ببینید
-File Storage, [6/4/22 1:19 PM]
-از QxR بگیر
-File Storage, [6/4/22 1:19 PM]
-1337x.to
-File Storage, [6/4/22 1:19 PM]
- https://www.returnyoutubedislike.com/
-File Storage, [6/4/22 1:19 PM]
- https://gdtot.me/
-File Storage, [6/4/22 1:19 PM]
+https://www.returnyoutubedislike.com/
 بهترین ریپازیتوری های گیت هاب (بر مبنای ستاره ای که کاربرا دادن):
- https://github.com/search?q=stars%253A>1&type=Repositories
+https://github.com/search?q=stars%253A>1&type=Repositories
 ریپازیتوری های ترندیگن:
- https://github.com/trending
-File Storage, [6/4/22 1:19 PM]
-Solo Leveling, Battle through the heavens
-File Storage, [6/4/22 1:19 PM]
-Monster and the Beaker are also good completed mangas
-File Storage, [6/4/22 1:19 PM]
-Read FMAB?
-File Storage, [6/4/22 1:19 PM]
-Full metal jacket
-File Storage, [6/4/22 1:19 PM]
-مستند social dilemma محصول نتفلیکس با وجود انتقادهایی که بهش وارده ولی در مجموع خیلی خیلی خوبه در مورد مضرات شبکه های اجتماعی
+https://github.com/trending
 File Storage, [6/4/22 1:20 PM]
-Game of thrones
-یا
-GOT
-File Storage, [6/4/22 1:20 PM]
-xmpp vs matrix vs irc
-File Storage, [6/4/22 1:20 PM]
-من که تو سیستمم فقط گیم اوپن سورس میزنم، مصرف منابع و دردسر کمتری داره، گرافیک اکثرشون خیلی خوب نیست ولی به سیستم فشار نمیاد، واقعا هم فانن.
-مثلل
-megaglest
-wesnoth
-xonotic
-sauerbraten
-0a.d.
-widelands
-lbreakout2
-ltris
-flare
-veloren
-minetest
-File Storage, [6/4/22 1:20 PM]
-xonotic
-sauerbraten
-warsow
-File Storage, [6/4/22 1:20 PM]
-اگه 2 بعدی هم میخوای teewolrds رو یادم رفت بگم.
-File Storage, [6/4/22 1:20 PM]
-اگه دبیان بیس داری assaultcube هست.
-این 3 تا اونقد رئال نیستن ولی از کانتر فان ترن، خودم هر چند وقت یه بار که وقت میکنم سعی میکنم با دوستان برم زونوتیک.
-File Storage, [6/4/22 1:20 PM]
-حتی minetest هم بهتره ، نمونه سبک و وسیع همون گیم و بشدت هم امکاناتش بیشتره پولیم نیست
-File Storage, [6/4/22 1:20 PM]
-واچ لیست:
-کارتون/انیمیشن:
-نتفلیکس qforce (ابرقهرمان های گی ببینم چه کوفتیه)
 فلپ جک
-lego movie
------------
-فیلم:
 belladonna-of-sadness
-Hannibal (2013)
 چرنوبیل
-Santa clarita diet
-platform
-sorry to bother you
 Rambo rocky escape plan
-گرگ وال استریت
-the heat
------------
-انیمه:
-Battle angel dokuro chan
 Yakusoku no Neverland
-Muscle man
-Parasyte the maxim
-Shigatsu wa kimi no uso
-Your lie in april
-Hana ga saiitayo
-Corpse party
 devil man
-لاولی کمپلمس
-Itazura na kiss
-Yosuga no Sora
-Special a
-Sentounin Hakkenshimasu
 tasogare otome
-----------
-مانگا:
---------
-کیمیک:
-----------_
-کتاب:
----/-------
-گیم:
-saints row
 Aura_Kingdom
 aion
 blade and souls
 Mtalgear phantom pain
 Tower for fantasy
----------
-File Storage, [6/4/22 1:20 PM]
- https://www.imdb.com/title/tt1492966/
-File Storage, [6/4/22 1:20 PM]
 همون کتاب‌های راس هریس که گفتم
-File Storage, [6/4/22 1:20 PM]
- http://dcoder.tech
-File Storage, [6/4/22 1:20 PM]
+http://dcoder.tech
 کانفیگ کلش از سرویس we vpn
- https://raw.githubusercontent.com/clashconfig/online/main/wevpn.yml
+https://raw.githubusercontent.com/clashconfig/online/main/wevpn.yml
 کانفیگ کلش از سرویس های مختلف
- https://git.io/mfavpn
+https://git.io/mfavpn
 کلش بای‌پس وبسایتهای داخل ایران
- https://git.io/mfavpnir
+https://git.io/mfavpnir
 آموزش
-File Storage, [6/4/22 1:20 PM]
 لینک کوتاه شده بدون فیلتر شادوساکس و کلش
 کلش
- https://git.io/wbufoc
+https://git.io/wbufoc
 کلش همراه با بایپس وبسایتهای ایرانی*
- https://git.io/wbufocir
+https://git.io/wbufocir
 شادوساکس
- https://git.io/wbufob
-File Storage, [6/4/22 1:20 PM]
+https://git.io/wbufob
 کانفیگ کلش (vmess , trojan)
- https://update.glados-config.org/clash/120366/9d35cce/71309/glados.yaml
- https://update.glados-config.org/clash/120367/7535ccf/71319/glados.yaml
- https://update.glados-config.org/clash/120368/b935cd0/71322/glados.yaml
- https://update.glados-config.org/clash/120369/8135cd1/71326/glados.yaml
- https://update.glados-config.org/clash/120370/5c35cd2/71328/glados.yaml
-File Storage, [6/4/22 1:20 PM]
-1812 سرور شادوساکس بصورت کانفیگ کلش
- https://proxypoolss.fly.dev/clash/config
-File Storage, [6/4/22 1:20 PM]
- https://t.me/rawandhevc
-File Storage, [6/4/22 1:20 PM]
-x265.club
-File Storage, [6/4/22 1:20 PM]
+https://update.glados-config.org/clash/120366/9d35cce/71309/glados.yaml
+https://update.glados-config.org/clash/120367/7535ccf/71319/glados.yaml
+https://update.glados-config.org/clash/120368/b935cd0/71322/glados.yaml
+https://update.glados-config.org/clash/120369/8135cd1/71326/glados.yaml
+https://update.glados-config.org/clash/120370/5c35cd2/71328/glados.yaml
+https://t.me/rawandhevc
 Google Group Invite Link | Telegram Group
 SL Seedbox (
 https://groups.google.com/forum/embed/?place=forum/seedboxsl) | @seedboxsl
@@ -20659,365 +16459,80 @@ APDSeedboX (
 https://groups.google.com/d/forum/alpacino-teamdrives) | @APDSeedbox
 Private TD Mirror Group (
 https://groups.google.com/forum/?nomobile=true#!forum/luciferdemonlord00) | Torrent Group Link
-(
 https://t.me/joinchat/LT_wQUWEdqkOLTfLicynGg)Torrent Public Drive (
 https://groups.google.com/forum/#!forum/publicdrive) | @PublicDrive
 NJ Torrents (
 https://groups.google.com/njteamdrive) | @njtorrent *
-File Storage, [6/4/22 1:20 PM]
 لینک تو @alefleech پین شده
-File Storage, [6/4/22 1:20 PM]
- https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index/-/wikis/Getting-Started-with-Google-Drive-Index
+https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index/-/wikis/Getting-Started-with-Google-Drive-Index
 File Storage, [6/4/22 1:21 PM]
-سریال روانشناختی اگر میخوای هانیبال رو توصیه میکنم
-File Storage, [6/4/22 1:21 PM]
-سریال Stranger Things رو صبح دانلود کردم ، کسی دیده ؟ نظری ؟
-File Storage, [6/4/22 1:21 PM]
-مراحل کامل برای تبدیل به یک هکر کامل
-مرحله اول آشنایی با مفاهیم اولیه.
-1.CEH
-2.Network Plus
-3.OSI Layers
-مرحله دوم آشنایی با خط فرمان های سیستم عامل ها
-4.Linux Commands
-5.Windows Commands
-6.LPIC 1 & 2
-مرحله سوم آشنایی با فریمورک های نفوذ و پنتست
-7.Metasploit Basic
-8.Metasploit Advanced
-مرحله چهارم آشنایی با آسیب پذیری های تحت وب
-9.Basic of Web Penetration Testing
-10.Advanced of Web Penetration Testing
-11.Penetration Testing with Kali
-12.SQL Programming & PHP/ASP Syntax
-13.Entitty framework & .Net Core
-مرحله پنجم طریقه جمع آوری اطلاعات از سطح اینترنت
-14.InfoGathering & OSINT
-15.Google Hacking & Web Mapping
-16.Social Engeenering & Man Spoofing
-مرحله ششم کرک اکانت و جمع آوری اکانت
-17.Account Leech & Cracking
-مرحله هفتم آشنایی با رمزنگاری ها و تست ضعف رمزنگاری
-18.Cryptography Pentesting
-مرحله هشتم تکنیک های نفوذ به شبکه های زیرساختی و بیسیم
-19.Network & Wireless Hacking
-مرحله نهم تکنیک های نفوذ و دور زدن مکانیزم های برنامه های کاربردی
-20.Android & iOS Penetration Testing
-مرحله دهم تست نفوذ با زبان پایتون
-21.Python for Penetration Testing
-مرحله یازدهم آشنایی یا زبان پاورشل و پتانسیل آن
-22.Powershell for Penetration Testing
-مرحله دوازدهم تکنیک های مبهم سازی ر برنامه نویسی
-23.Obfuscation Programming
-مرحله سیزدهم تکنیک های ارتقاء سطح دسترسی
-24.Privilage Ecalation
-مرحله چهاردهم تکنیک های نگهداری دسترسی و بکدور
-25.Persistence Methods
-مرحله پانزدهم تکنیک های ضد ردیابی دسترسی
-26.Anti Forensic Methods
-مرحله شانزدهم برنامه نویسی زبان C و سوکت نویسی
-27.C & Network Programming
-مرحله هفدهم برنامه نویسی زبان روبی و جاوا اسکریپت
-28.Ruby & JavaScript Programming
-مرحله هجدهم برنامه نویسی VBScript & ActionScript
-29.ActionScript & VBScript Programming
-مرحله نوزدهم برنامه نویسی زبان ماشین
-30.Assembly Programming
-مرحله بیستم آشنایی با ساختار فایل فرمت ها و ماژول های کرنل
-31.Operating System File Format
-32.WinAPI & LinAPI Syntax
-مرحله بیست و یکم برنامه نویسی COM & DCOM
-33.COM and DCOM Programming
-مرحله بیست و دوم مهندسی معکوس هر برنامه ای و تکنیکی
-34.Advanced Reverse Engineering
-مرحله بیست و سوم مرحله اکسپلویت نویسی و دور زدن مکانیزم های دفاعی
-35.Advanced Exploit Development
-مرحله بیست و چهارم ساختن بکدورهای روت کیت و بوت کیت
-36.Bootkit & Rootkit Analysis
-مرحله بیست و پنجم اکسپلویت نویسی سیستم عامل های گوشی ها
-37.Android & iOS Exploit Development
-مرحله بیست و ششم تکنیک های حملات به ماهواره ها و شنود آنها
-38.Satellite Attacking
-File Storage, [6/4/22 1:21 PM]
- https://www.app-sales.net/
-File Storage, [6/4/22 1:21 PM]
- http://t.me/dm_appgiveaway
-نمونه کانال میخام مث این بشه
-File Storage, [6/4/22 1:21 PM]
- https://yofreesamples.com/feed/
-File Storage, [6/4/22 1:21 PM]
-Linux is not secure
-Information and reports on Linux malware that blind Linux fans deny their existence (
-https://github.com/timb-machine/linux-malware)
-Whonix: Fixing the Linux desktop security model Post 1 (
-https://forums.whonix.org/t/fixing-the-desktop-linux-security-model/9172), Post 2 (
-https://forums.whonix.org/t/fixing-the-desktop-linux-security-model/9172/2)
-The Linux Security Circus: On GUI isolation (
-https://theinvisiblethings.blogspot.com/2011/04/linux-security-circus-on-gui-isolation.html), blog post by Joanna Rutkowska
-(
-https://en.wikipedia.org/wiki/Joanna_Rutkowska)
-Jan Hrach's wiki article on Linux Insecurity
-(
-https://jenda.hrach.eu/w/linux-insecurity)
-Brad Spengler (PaX Team/grsecurity) interview
-(
-https://slo-tech.com/clanki/10001en/)
-Brad Spengler's interview notes (
-https://grsecurity.net/~spender/interview_notes.txt)
-"When Posturing Meets Reality" (
-https://forums.grsecurity.net/viewtopic.php?f=7&t=4309), forum post by Brad Spengler about the infamous WaPo article on Linux security
-(
-http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/)
-Syzbot and the Tale of Thousand Kernel Bugs (posted to /r/GrapheneOS) (
-https://old.reddit.com/r/GrapheneOS/comments/bj1gpz/syzbot_and_the_tale_of_thousand_kernel_bugs/) | Pdf (
-https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Syzbot-and-the-Tale-of-Thousand-Kernel-Bugs-Dmitry-Vyukov-Google.pdf) Linux security summit video
-(
-https://youtu.be/qrBVXxZDVQY)
-Battle of the SKM and IUM: How Windows 10 Rewrites OS Architecture (blackhat USA 2015 talk) (
-https://www.youtube.com/watch?v=LqaWIn4y26E)
-Is the Linux Desktop Less Secure than Windows 10? (FOSDEM 2017 talk) (
-https://youtu.be/BVOCYFTC_rQ)
- https://madaidans-insecurities.github.io/linux.html
-File Storage, [6/4/22 1:21 PM]
-توییت
-(
 https://twitter.com/ttabttab/status/1449127916999102469?s=20)یه سرور پیدا کردم فیلمای زیادی توش هست
- http://103.222.20.150/ftpdata/Movies/
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:21 PM]
-Darkweb Osint Tools List
-Dark Web Search Engine Tools
-Tools to get onion links
-Tools to scan onion links
-Tools to crawl data from the Dark Web
-Miscellaneous
- https://github.com/apurvsinghgautam/dark-web-osint-tools
-●▬۩❁ @geeekgirls ❁۩▬●
-#osint #darknet
-File Storage, [6/4/22 1:21 PM]
-کانال های یوتیوب خوب
- https://vrgl.ir/Yzjj7
-●▬۩❁ @geeekgirls ❁۩▬●
-File Storage, [6/4/22 1:21 PM]
- https://t.me/Libreware/913
- https://github.com/KRTirtho/spotube
+http://103.222.20.150/ftpdata/Movies/
+https://t.me/Libreware/913
+https://github.com/KRTirtho/spotube
 https://github.com/NeoApplications/Neo-Store
 https://github.com/alphacep/vosk-api
 https://github.com/WangDaYeeeeee/GeometricWeather
 https://github.com/wenet-e2e/wenet
 https://github.com/project-alice-assistant/ProjectAlice
-File Storage, [6/4/22 1:21 PM]
- https://github.com/lacymorrow/crossover
+https://github.com/lacymorrow/crossover
 نسخه لایت
- https://github.com/GirkovArpa/crossover-lite
- https://github.com/GuidoBartoli/sherloq
-File Storage, [6/4/22 1:21 PM]
+https://github.com/GirkovArpa/crossover-lite
+https://github.com/GuidoBartoli/sherloq
 ShareX
 ویندوز
-#اوپن_سورس
 وبسایت رسمی
- https://getsharex.com/
+https://getsharex.com/
 گرفتن کلیپ از صفحه دسکتاپ
 اسکرین شات ، ساخت گیف، ساخت بارکد بروی تصاویر
 ادغام تصاویر و تبدیل اون لینک برای اشتراک گذاری
 قابلیت های زیادی این نرم افزار داره که میتونید توی این کلیپ همه رو بینید
- https://youtu.be/NVOZ9_qmz3Y
+https://youtu.be/NVOZ9_qmz3Y
 سورس
- https://github.com/ShareX/
-File Storage, [6/4/22 1:21 PM]
+https://github.com/ShareX/
 BleachBit (
 https://www.bleachbit.org/)
 جایگزین ccleaner ، متن باز
 برای ویندوز و لینوکس
 ابزاری ایده آل جهت پاکسازی فایل های زاید و آزاد سازی فضای هارد دیسک می باشد. این ابزار با پاکسازی فایل های حاصل از وبگردی شما به نحوی ابزاری امنیتی به شمار می آید و باعث محافظت از حریم خصوصی شما می شود. توسط این ابزار شما قادر به پاکسازی کش ، کوکی ها، تاریخچه اینترنت، فایل های موقت در فولدر تمپ ، فایل سطل بازیافت و ... می باشد. این نرم افزار با بیش از 90 ابزار محبوب و پرکاربرد نظیر فایرفاکس، اینترنت اکسپلورر، ادوبی فلش، گوگل کروم، اپرا، سافاری، و ... سازگاری کامل دارد.
-#اوپن_سورس
-BleachBit (
-https://www.bleachbit.org/)
 علاوه بر پاکسازی هارد دیسک شما دارای ویژگی های پیشرفته ای نظیر : خرد کردن فایل برای جلوگیری از بازیابی، پاک کردن فضای دیسک آزاد از طریق پاکسازی فایل های مخفی ایجاد شده توسط نرم افزارهای مختلف ، و بهینه سازی فایرفاکس و مرورگرها می باشد
 منوی فارسی
- https://www.bleachbit.org/
+https://www.bleachbit.org/
 لینک دانلود برای ویندوز
 نسخه پایدار
- https://www.bleachbit.org/download/file/t?file=BleachBit-4.4.0-setup.exe
+https://www.bleachbit.org/download/file/t?file=BleachBit-4.4.0-setup.exe
 نسخه پرتابل
- https://www.bleachbit.org/download/file/t?file=BleachBit-4.4.0-portable.zip
+https://www.bleachbit.org/download/file/t?file=BleachBit-4.4.0-portable.zip
 Bcuninstaller
 یکی از بهترین برنامه های حذف ریشه ایی نرم افزارهای ویندوز
-#اوپن_سورس
- https://www.bcuninstaller.com/
-File Storage, [6/4/22 1:21 PM]
 بلاک دسته جمعی در توییتر
 با این افزونه میتونید هر اکانتی که احساس میکنید سایبری ، ناامن و... هستن خودشو فالووراشو یه جا باهم بلاک کنی
 chrome
-(
 https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf)
 firefox
-(
 https://addons.mozilla.org/en-GB/firefox/addon/red-block/)
- https://github.com/gaeulbyul/RedBlock
-#گیتهاب
-File Storage, [6/4/22 1:21 PM]
-@torrent_learning
-ᴍʀ.ᴅᴏɴ'ᴛ ᴄᴀʀᴇ:
-@torrents_ir
-File Storage, [6/4/22 1:21 PM]
-[ File : reporter-main.zip ]
-File Storage, [6/4/22 1:21 PM]
- https://flixpatrol.com
+https://github.com/gaeulbyul/RedBlock
+https://flixpatrol.com
 https://www.justwatch.com/
-File Storage, [6/4/22 1:21 PM]
- https://www.youtube.com/channel/UCZWadyLVO4ZnMgLrRVtS6VA
-File Storage, [6/4/22 1:21 PM]
- https://youtu.be/d4ZhML4YGUw
+https://www.youtube.com/channel/UCZWadyLVO4ZnMgLrRVtS6VA
+https://youtu.be/d4ZhML4YGUw
 File Storage, [6/4/22 1:22 PM]
- https://youtu.be/HmZm8vNHBSU
-File Storage, [6/4/22 1:22 PM]
- https://ffprofile.com/
-File Storage, [6/4/22 1:22 PM]
+https://youtu.be/HmZm8vNHBSU
 نحوه رمزگذاری خودکار عکس ها و فیلم ها هنگام ضبط
 هیچ کس در برابر از دست دادن ، سرقت و یا در موارد شدید تصرف دستگاه بیمه نیست ، اگر نگران این هستید که ممکن است دستگاه یا کارت SD شما به سرقت بره و یا گم بشه و فایل ها ، عکس و فیلمهای محرمانه به دست افراد دیگه ایی بیفته ، از برنامه منبع باز Cryptocam (
 https://cryptocam.gitlab.io/) استفاده کنید.
- https://f-droid.org/packages/com.tnibler.cryptocam/
+https://f-droid.org/packages/com.tnibler.cryptocam/
 Cryptocam
 به شما امکان می دهد فیلم ها و عکس ها را ضبط کرده و فیلم را هنگام ضبط رمزگذاری کنید. این برنامه بر اساس یک الگوریتم رمزگذاری قوی AES-128 و OpenPGP با استفاده از یک کلید امن مشتق شده از رمز عبور کار می کند.
-لینک دانلود
- https://f-droid.org/repo/com.tnibler.cryptocam_15.apk
-#حریم_خصوصی
-#گیتهاب
-#اوپن_سورس
-File Storage, [6/4/22 1:22 PM]
+https://f-droid.org/repo/com.tnibler.cryptocam_15.apk
 analvids.com/
-File Storage, [6/4/22 1:22 PM]
-@usersbox_bot
-اینم یه دیتابیسی هایی داره واسه سایتای خودشون
-File Storage, [6/4/22 1:22 PM]
-@ReadImageBot
-اینم متن عکس و میده بدون محدودیت ع فارسی هم داره
-File Storage, [6/4/22 1:22 PM]
 غورباقه
-File Storage, [6/4/22 1:22 PM]
-Onepedro.com
-File Storage, [6/4/22 1:22 PM]
- https://t.me/c/1569240210/9228
-File Storage, [6/4/22 1:22 PM]
-آسانترین روش برای پیکربندی #حریم_خصوصی و امنیت در وبگردی با مرورگر فایرفاکس
-این سایت روش کار باهاش خیلی ساده س هر دغدغه ایی که داری در وبگردی از حذف تبلیغات و حذف کوکی و.. لیست میکنی آخر سر بصورت فایل زیپ یا پروفایل جدید به مرورگر فایرفاکس اضافه میکنید
-خیلی خوب و کاربردی عه
- https://ffprofile.com/
-File Storage, [6/4/22 1:22 PM]
- https://cdn.discordapp.com/attachments/897601430083481631/897939210672152646/video0-48-2-2.mp4
-File Storage, [6/4/22 1:22 PM]
- https://github.com/ihebski/DefaultCreds-cheat-sheet
-File Storage, [6/4/22 1:22 PM]
+https://t.me/c/1569240210/9228
 Google Search Engine
-Source:
 https://github.com/benbusby/whoogle-search
 Instances:
 https://github.com/benbusby/whoogle-search#public-instances
-File Storage, [6/4/22 1:22 PM]
-🄿🄻🄴🄰🅂🄴 🄹🄾🄸🄽 🅂🄷🄰🅁🄴 🅂🅄🄿🄿🄾🅁🅃 🅄🅂
-| ::::: premium tg network™ ::::: |
-MOVIE NETWORK
-
-DC MOVIES @hubofdc
-BOLLYWOOD @hubofbollywood
-HOLLYWOOD @hubofhollywood
-TAMIL @huboftamil
-MALLU @hubofmallu
-MARVEL @hubofmarvel
-TAMILROCKERS @huboftamilrockers
-TELUGU @huboftelugu
-NETFLIX @hubofnetflix
-MOVIES HUB @hubofmovies
-MALAYALAM @malluhome
-DUBBED @hubofdubbed
-
-© @premiumtgnetwork ™ 2019
-File Storage, [6/4/22 1:22 PM]
-INFORMATIONS | അറിയിപ്പുകള്‍
-═════════✦✦✦═════════
-╔═════════════╕
-║☬ CARDING FACTS ║
-╚═════════════╝
-https://telegra.ph/THE-FRAUDS-06-20
-╔═════════╕
-║☬ GIRLS ║
-╚═════════╝
-https://telegra.ph/GIRLS-06-20
-✦✦✦
-File Storage, [6/4/22 1:22 PM]
-Watch porn Online
- https://t.me/joinchat/AAAAAFNfGs7fDxX5yW9QVg
-File Storage, [6/4/22 1:22 PM]
-Больше порнушки
-More porn channel
-
-PORN CINEMA FULL (
-https://t.me/joinchat/AAAAAE6iGpWLQ7zUqIYwhA)
-
-️BRAZZERS CINEMA (
-https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w)
-
-HOME PORN (
-https://t.me/joinchat/AAAAAE8sVRZ7a-N7qL8ZxA)
-
-FULL ZONA (
-https://t.me/joinchat/AAAAAESDgyiLAI1FIEmZfA)
-
-DIGITALPLAYGROUND (
-https://t.me/joinchat/AAAAAFL7D_RKUQiVIdWdJg)
-
-P VIDEOS (
-https://t.me/joinchat/AAAAAEac9i6a38OQ_ZrgqQ)
-
-BRATTY SIS (
-https://t.me/joinchat/AAAAAEb0MeZ4H8CXSG6ZOA)
-
-EROTIC PORN (
-https://t.me/joinchat/AAAAAFGz9osdss1Rp8-SJA)
-
-ULTRA️HD️PORN (
-https://t.me/joinchat/AAAAAEqvmOrNMYhRiJKOYg)
-
-PORN PICS (
-https://t.me/joinchat/AAAAAFbTSHeJbvbLYuvEPA)
-
-️TEAM SKEET (
-https://t.me/joinchat/AAAAAFcBgInz6yxjmulH1Q)
-
-LEGAL PORNO (
-https://t.me/joinchat/AAAAAEpSNzUdH5eH1hIobg)
-
-MOFOS (
-https://t.me/joinchat/AAAAAFAfvsFNUXY8YQURtg)
-
-INTERRACIAL (
-https://t.me/joinchat/AAAAAEhN0njz6ZG_cuylQQ)
-
-PURE TABOO (
-https://t.me/joinchat/AAAAAFLSImMb4cKv9Mx-Lg)
-
-TUSHY‍♂ (
-https://t.me/joinchat/AAAAAFWQcljEqdD_eNpo3A)
-
-NAUGHTY AMERICA (
-https://t.me/joinchat/AAAAAEQw36S1SfOOSbgy3Q)
-
-PORN GIFS (
-https://t.me/joinchat/AAAAAEx-n4OtISEDj4Lr2Q)
-
-ASIAN PORN (
-https://t.me/joinchat/AAAAAFJK4FMvvsoRebuD4w)
-
- https://t.me/premiumtgnetwork ️
-
-@premiumtgnetwork
-File Storage, [6/4/22 1:22 PM]
-Brazzers Videos
- https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w
-File Storage, [6/4/22 1:22 PM]
- https://youtu.be/veTl59Klc5Q
-File Storage, [6/4/22 1:22 PM]
+https://youtu.be/veTl59Klc5Q
 یادش بخیر، نوستالژیک ایز ریل
 File Storage, [6/4/22 1:23 PM]
 -مردم سرمایه ما هستند، عین پول میمونن، مردم اساس چیزین که اینجا از نو می‌سازیم، اگر ادما درستشو رو سر وقت درست بکشی، همه چیز جفت و جور میشه، همه راضی میشن، بعضیا بیشتر راضی میشن، ولی با کشتن یک نفر، صد نفر دیگه رو نجات میدی، و این کاریه که اینجا میکنیم، برای همین قانون وجود داره و زنده ایم، نکنه یادت رفته با کی حرف میزنی و یادت رفته کی اینجا رئیس
@@ -21025,20 +16540,15 @@ File Storage, [6/4/22 1:23 PM]
 هم درست گفتی هم غلط، ولی کشتن ادمای بی گناه دلیلش این نیست، هنوزم انتخاب هایی داریم، همیشه هم انتخاب هایی داریم
 +چرا ضعیفی؟
 سوالت اشتباهه باید بگی از چه نظر ضعیفی، راستش من قویم و ضعیف، همه ادما مخلوطی از اینان، میتونی با استفاده از ضعفت خودتو قوی کنی و واضحه که من خیلی قوی هستم، من اینجا رو گرفتم، یه جایی که همه توش ازاد بودند، یه جامعه پر از ادمای عوضی، یه ارتش از حیوون های وحشی و من دورشون جمع کردم، کسی که قبلا رئیسشون بود، اصلا ریاست بلد نبود، گذاشته بود ادما ضعیف بمونن، ولی من نه، من قویشون میکنم که دنیا قوی بشه
-File Storage, [6/4/22 1:23 PM]
 دیالوگی از فصل هشتم قسمت پنجم
 The walking dead
-File Storage, [6/4/22 1:23 PM]
 Dead Reaper『リーパーボーイ』⁪⁬⁮
-File Storage, [6/4/22 1:23 PM]
 vps crackin passlist
 https://cdn.discordapp.com/attachments/703169399489691722/788641305701253140/p.txt
 NL BURTE
 https://cdn.discordapp.com/attachments/703169399489691722/713628449134084166/Nl_BURTE.rar
-File Storage, [6/4/22 1:23 PM]
- https://searx.tux.land/
+https://searx.tux.land/
 Video
-File Storage, [6/4/22 1:23 PM]
 "i loved once someone and she died and i never liked anyone anymore"
 The Real Reaper
 "i tryed to suicide bcz im alone but thinking that how lonelier i will become decide to stay"
@@ -21046,12 +16556,9 @@ The Real Reaper
 "i am dead inside bcz my life story is nightmare and the reason that my name is reaper is someone close one says "you ripped my heart" and that words was loop in my head and thinking for a way to make her forgive me and there was no way i lose that person and i became lonely again even and even sakura tryed to help me but my feelings are stronger than me then what happens after? since i had noting to lose i tryed to eat poison and i survived and my story is same just i guess i should not make it 3 times"
 -The author of this text
 sorry for my bad english
-File Storage, [6/4/22 1:23 PM]
- https://www.youtube.com/watch?v=ZAhSkHhQmpA
+https://www.youtube.com/watch?v=ZAhSkHhQmpA
 https://www.youtube.com/watch?v=oMClGFYJV54
-File Storage, [6/4/22 1:23 PM]
 [ File : 53039165_2310520702342139_6029858114755362816_n.jpg ]
-File Storage, [6/4/22 1:23 PM]
 Real Name: Akio Otosaka
 Internet Nick names I Made: akira,Reaper,Maxwell,Kira,Mr.Bond,Vlad,hacker,Reaper Boy
 Age: 16-24 (now)
@@ -21062,7 +16569,6 @@ Hates: Bored of bullshit talks,bad guys,soup,for sometimes everyone,my life,my p
 Hates: Bored of bullshit talks,bad guys,soup,for sometimes everyone,my life,my past,omy old self,gore,being alone and Etc!ver had friend (well They say im weird/creepy/boring guy) and no gf (well a bored and alone person as i told u) well life is short anyway i think of Suicide everyday and every moment... but i am still alive??
 Finale: well thats all what i can say about. Now everyone know everything about me (lol just about my feeling and my activitys) so nothing is secret only my face. (i think im the only person in here says every thing)
 The End
-File Storage, [6/4/22 1:23 PM]
 I'm falling out.. Theres no place left to go, but to release, and let go.
 I'm feel like I'm done, with all and everything.
 I'm finally giving up on life, theres nothing left for me to do.
@@ -21089,14 +16595,12 @@ Cuz I'm still alive..
 but yet,
 All I feel.. is DEAD inside
 uhhhhh......
-File Storage, [6/4/22 1:24 PM]
 in some important moment you have one second and one life ofc
 so do the correct move
-File Storage, [6/4/22 1:24 PM]
 شنیدن چس ناله دیگران جزو لذت بخش ترین چیز ممکنه
 File Storage, [6/4/22 1:17 PM]
 کانال فیلم و سریال
- https://t.me/AllFuns
+https://t.me/AllFuns
 https://t.me/cafee_cinama
 https://t.me/fivemovie
 https://t.me/IRANFM7
@@ -21120,7 +16624,6 @@ https://t.me/freeiranianfilm
 https://t.me/joinchat/FiW4QkxP4CL6J9EaF0gEPg
 https://t.me/FilmBaziran
 https://t.me/filimo95
-https://t.me/cinama9
 https://t.me/topserial6
 https://t.me/Best2film
 https://t.me/best2serial
@@ -21132,28 +16635,25 @@ https://t.me/ParadoX_Film
 https://t.me/star_moviies
 https://t.me/moftifilm
 @honar7modiran
- https://t.me/Filimo85
+https://t.me/Filimo85
 https://t.me/sarsharfilm
 https://t.me/c/1169451388/510
 https://t.me/FilmVije
 https://t.me/irani_imdb1
 https://t.me/KOLBEHFILM1
-https://t.me/paradoox77
 @filimo87_bot
- https://t.me/Loxmovie
+https://t.me/Loxmovie
 https://t.me/filimo102
 https://t.me/selected_thebest_2
-https://t.me/filmnumber1
 https://t.me/mancan1mankan1film1movie
 https://t.me/IR_Cinema
 https://t.me/stopfilm
 https://t.me/mankan9899
-https://t.me/joinchat/FiW4QkxP4CL6J9EaF0gEPg
 پشتیبانی: @R5Movie
- https://t.me/videofilmk
+https://t.me/videofilmk
 https://t.me/iranFilmz1
 سایتهای دانلود فیلم و سریال
- https://dlroozane.net
+https://dlroozane.net
 https://filmbazan.pro
 http://mihanmoviez.info
 http://www.par30dl.com
@@ -21169,7 +16669,7 @@ www.myhastidl6.top
 www.uptvs.comwww.doostihaa.comwww.lianmovie.comwww.film2serial.irwww.hiva.me
 www.Film9.xyz
 Www.FoxMovie.COWww.blaxup.in
- https://yts.ag
+https://yts.ag
 https://mydownloadtube.to
 https://bobmovies.us
 https://cosmotube.co
@@ -21243,19 +16743,6 @@ https://www.film2media.pw
 http://myhastidl6.top
 https://my-filmm.info
 **
- https://yts.ag
-https://mydownloadtube.to
-https://movienolimit.to
-https://moviewatcher.is
-https://1337x.to/cat/Movies/1
-https://www.archive.org/details/movies
-https://watchmoviesfree.us
-https://www.divxcrawler.tv/latest.htm
-https://123gostream.tv
-https://www.download-anymovie.com
-https://fullywatchonline.com
-https://cmovieshd.com
-File Storage, [6/4/22 1:17 PM]
 کانال های دانلود رایگان فیلم
 @serial4u
 @CinemaPrime
@@ -21265,49 +16752,43 @@ File Storage, [6/4/22 1:17 PM]
 @IR_Cinema
 @paradoox77
 @filimo101
-@filimo87_bot
 @filimo_link_bot
- https://t.me/joinchat/AAAAAEjQTg-v5LR2FHMTnw
+https://t.me/joinchat/AAAAAEjQTg-v5LR2FHMTnw
 کانال کنکوری
 @filmkonkori
 @Mohammad_Free
-File Storage, [6/4/22 1:17 PM]
 بک اپ کانال تخصصی امنیت شبکه
- https://t.me/joinchat/BEZQULEkCsg2ZTVk
-File Storage, [6/4/22 1:17 PM]
+https://t.me/joinchat/BEZQULEkCsg2ZTVk
 زبان انگلیسی جابری کلاسینو
- https://t.me/joinchat/AAAAAEfqYRZB-0iVGOIEWw
+https://t.me/joinchat/AAAAAEfqYRZB-0iVGOIEWw
 لیست چنل هایی که تا اینجا ازشون بکاپ گرفتیم به شرح زیر میباشد چقد مودبانه
 1_کانال Crack Killer خدابیامرز که قبلا توش پک های عالی میذاشت و کامل و بعدشم نمیدونم چیطو شد که همه شو پاکید ولی ما ازش بکاپ داشتیم
- https://t.me/joinchat/6IdL-XutO5gwZmU0
+https://t.me/joinchat/6IdL-XutO5gwZmU0
 2_به درخواست گل شما از کانال RealPentesting که کانال خوب و جامعی بود و پکاش کامل ولی اونم یدفعه زد به سرش و گفت میخوام پک قبلیامو بپاکم مانم گفتیم به یه ورمون و ازش بکاپ داشتیم
- https://t.me/joinchat/zSKpinVuR0JmYTc8
+https://t.me/joinchat/zSKpinVuR0JmYTc8
 3_دوباره به درخواست گل شما گفتیم کانال RadioPack عالیه سو فلان و بهمان اونم گفتیم به چشم و ازش بکاپ گرفتیم
- https://t.me/joinchat/lKCzmRRvHKYyZDc0
+https://t.me/joinchat/lKCzmRRvHKYyZDc0
 4 _جدیدا دوباره به درخواست گل شما از کانال PackageCom هم یه بکاپ نازنین از بیخ تا بنش گرفتیم
- https://t.me/joinchat/iHKoEI69WgcxMjA8
+https://t.me/joinchat/iHKoEI69WgcxMjA8
 5_ ( یه چنتا کانال دیگه هم گفتید بکاپ بگیریم که در حال بکاپ گیریم - کارگران مشغول کارند لطفا منتظر بمانید )
 یه چیزیم که لازم به ذکره تمام این کانال های بکاپ اگ کانال اصلی آبدیت بشه و پک جدید بذاره کانال بکاپ هم آپدیت میشه
 بوس به لباتون
 مواظب خودتون باشید فعلا
- https://t.me/joinchat/1pW70uiaQhI1MmI0
+https://t.me/joinchat/1pW70uiaQhI1MmI0
 بک
- https://t.me/BackupPkgCYP
+https://t.me/BackupPkgCYP
 https://t.me/VipChannelPersonal
-File Storage, [6/4/22 1:17 PM]
 خو بزار نشونتون بدم
- https://t.me/joinchat/vynaEZq8WUo4NmRk
+https://t.me/joinchat/vynaEZq8WUo4NmRk
 هیچ کسی فعلا عضو نشه تاکید میکنم هیچ کسی عضو شدنتون برابره با اخراج شدنتون از چنل
- http://www.syedgakbar.com/projects/dst
+http://www.syedgakbar.com/projects/dst
 https://translatesubtitles.co/
- https://t.me/Udemy4
+https://t.me/Udemy4
 و این چنل از جمله اون چنلاس ک بهتون یکسری دوره ک رایگان شده رو اطلاع میده ! همه اون دوره هایی ک رایگان شدن رو نه فقط یکسریشونو
 قویاً به دلیل مسائل مختلف پیشنهاد می کنیم جهت اطلاع از آدرس های دسترسی به کانال و آگاهی از خبرهای مهم مدیریتی کانال پرفسور کرکر در کانال محافظ عضو شوید:
- https://t.me/joinchat/TUJPqy6j2huHBMcu
-Telegram
+https://t.me/joinchat/TUJPqy6j2huHBMcu
 پشتیبان کانال پروفسور کرکر
 ProfessorCracker
-File Storage, [6/4/22 1:17 PM]
 @xtreme_sec
 Project Charlotte (Died):
 این کانال ها کانفیگ های وی پی ان هارو میدن که باهاشون با پروتکل هاشون وصل بشید...
@@ -21316,16 +16797,12 @@ Project Charlotte (Died):
 @freenet_host
 @proSSH
 @Vpn_Client_pro
-@king_network7
 @bn_proxy
 @NetClub_iR
 @Premium_98
 @bn_chanll
-@vpn_proxy66
 @VpnProtected
-@Accbox_pro
 @VPNFolder
-@AzadNet
 @NetBox2
 @clientpro_vpn
 @myplusvpn
@@ -21338,52 +16815,48 @@ Project Charlotte (Died):
 (مدیرای یوسی اوبیه بی جنبن که دوزار سواد ندارن و بوف بشن خفه میکنن، خلاصه، گروه این مادرجنده ها جوین نشین، نمیگم همه بدن ولی اونایی که دیدم که هستن، تنها دلیلی که پیشنهاد میکنم اینه که یه کانفیگ دوبی دارن، خوبه، همین)
 کانال چینی برای سرور های مفتی شادوساکس از سرعتش راضیم:
 @SSRSUB
- https://github.com/ruanfei/ShadowsocksRRShare
+https://github.com/ruanfei/ShadowsocksRRShare
 Subscriptions
 ss
- https://bn-chanll.cf/sub/ss
+https://bn-chanll.cf/sub/ss
 ssr
- https://raw.githubusercontent.com/freefq/free/master/ssr
+https://raw.githubusercontent.com/freefq/free/master/ssr
 https://stc-spadesdns.com/link/sj6PxZua8dcuafV1?sub=1&extend=1
 vmess
 clash
- https://bn-chanll.cf/sub/clash.yml
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+https://bn-chanll.cf/sub/clash.yml
 http://prossh.tk/prossh/clashprofile(@proSSH).yml
 https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
 https://github.com/farhad-fahim/init/releases/download/ShadowSocks/AzadNet.yml
 Trojan
 multi
 ss v2ray
- https://raw.githubusercontent.com/freefq/free/master/v2
+https://raw.githubusercontent.com/freefq/free/master/v2
 ss ssr v2ray trojan
- https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
+https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
 https://raw.githubusercontent.com/dodois/dosvpn-config/main/outputs/config
-__
 I don't know
- https://bn-chanll.cf/sub/ssw
+https://bn-chanll.cf/sub/ssw
 ——————————
- https://t.me/VpnProtected
+https://t.me/VpnProtected
 🧿 Hello Guys!
 Welcome To UdemyKing!
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 🟠 Visit UdemyKing Website
 www.UdemyKing.com
 🟤 Free Mega+Gdrive+Video Courses
- https://telegram.me/joinchat/SSWKbEf8mVNBvgam
+https://telegram.me/joinchat/SSWKbEf8mVNBvgam
 (( Mandatory To Join ))
 🟢 Frequently Asked Questions
- https://telegram.me/UFC_FAQs/42
+https://telegram.me/UFC_FAQs/42
 ️ Join Our Group for Asking Doubts/Queries and for Requesting courses
- https://telegram.me/joinchat/ANULWg2yHrphMDll
+https://telegram.me/joinchat/ANULWg2yHrphMDll
 ֎───•◈◉◈•───•◈◉◈•───֎
 Must Like & Follow our Pages On
 FACEBOOK➛ fb.me/UdemyKing
 LINKEDIN➛ bit.ly/UFC-Linkedin
 INSTAGRAM➛ bit.ly/UFC-Insta
 YOUTUBE➛ bit.ly/UFC-YouTube
-֎───•◈◉◈•───•◈◉◈•───֎
-File Storage, [6/4/22 1:17 PM]
 @RedBlueTM Group 🛡 is Private Now but we share nice course and files to public for help others as much as we can :)
 Channel Link:
 https://t.me/joinchat/UWLXoVVeSfCXMDpB
@@ -21392,17 +16865,13 @@ Share Material To Us
 Website: www.hide01.ir
 Root: @Hide01
 [Tap Link && Enjoy Free Learning]
- https://t.me/joinchat/WvQZlNhxGF1mNjRk
+https://t.me/joinchat/WvQZlNhxGF1mNjRk
 join in RedBlueHit with top link
-Project Charlotte (Died):
- https://t.me/joinchat/ig-2ROv4cntlNzRh
- https://t.me/ahwaz_hackerz
-Project Charlotte (Died):
- https://t.me/joinchat/6IdL-XutO5gwZmU0
- https://t.me/joinchat/0KqEjTrPAAZhZDU0
+https://t.me/joinchat/ig-2ROv4cntlNzRh
+https://t.me/ahwaz_hackerz
+https://t.me/joinchat/0KqEjTrPAAZhZDU0
 این یکی‌ از کانالای موردعلاقه خودمه حتما جویین شین و ازش حمایت کنین
- https://t.me/mostanadkadeh
-Project Charlotte (Died):
+https://t.me/mostanadkadeh
 Telegram Channel Udemy
 @udemy_link_bot
 @freersscourse
@@ -21415,40 +16884,38 @@ Telegram Channel Udemy
 @Udemy4
 @CourseTime
 @elearninglinks
- https://t.me/G_N_E_S_R_0
+https://t.me/G_N_E_S_R_0
 https://t.me/AERT_1
 دیتابیس بانک ، راهور، نظام مهندسی
- https://t.me/joinchat/5CsQ-qOAzmswN2Q5
+https://t.me/joinchat/5CsQ-qOAzmswN2Q5
 این لیست تکمیل و تکمیل تر میشه
 علمی فرهنگی
 @neurobiology_of_art
 @ArtOfScienceGroup
 @hidden_Web
 @daabeh
- https://t.me/ofoghroydad
- https://t.me/iranarchismnews
- https://t.me/ofoghroydad
- https://t.me/orttor
- https://t.me/FarazTed
- https://t.me/PHILOSOPHI_ZER
- https://t.me/neurobiology_of_art
- https://t.me/evophilosophy
- https://t.me/politicallyincorrectjokes
- https://t.me/CineDreaming
- https://t.me/daneshagahi
- https://t.me/dadoem
- https://t.me/PCMR_Reddit
- https://t.me/hacker_news_feed
- https://t.me/leninstreet
- https://t.me/elearninglinks
- https://t.me/science
- https://t.me/SurrealMind
- https://t.me/gofuckyourselfwithachainsawdildo
- https://t.me/Patreonstudio
- https://t.me/scienceforlife1
- https://t.me/joinchat/y3sWSq-tsXdhMzU0
- https://t.me/ArtOfScienceGroup
-File Storage, [6/4/22 1:17 PM]
+https://t.me/ofoghroydad
+https://t.me/iranarchismnews
+https://t.me/orttor
+https://t.me/FarazTed
+https://t.me/PHILOSOPHI_ZER
+https://t.me/neurobiology_of_art
+https://t.me/evophilosophy
+https://t.me/politicallyincorrectjokes
+https://t.me/CineDreaming
+https://t.me/daneshagahi
+https://t.me/dadoem
+https://t.me/PCMR_Reddit
+https://t.me/hacker_news_feed
+https://t.me/leninstreet
+https://t.me/elearninglinks
+https://t.me/science
+https://t.me/SurrealMind
+https://t.me/gofuckyourselfwithachainsawdildo
+https://t.me/Patreonstudio
+https://t.me/scienceforlife1
+https://t.me/joinchat/y3sWSq-tsXdhMzU0
+https://t.me/ArtOfScienceGroup
 Telegram Bot INSTAGRAM
 @Poisk_Bot
 @Do404_bot
@@ -21498,7 +16965,6 @@ Telegram Bot INSTAGRAM
 @instatoolboxbot
 @DrIDMBot
 @Gozilla_bot
-File Storage, [6/4/22 1:17 PM]
 YouTube Download Bot
 @MMDLeecherbot
 @iOSPRoUTubeBot
@@ -21509,7 +16975,6 @@ YouTube Download Bot
 @Qontubebot
 @HeimanXUploader_bot
 @YouTubeV2Bot
-@YtbDownBot
 @linkgrambot
 @webutubebot
 @tubepaxbot
@@ -21537,7 +17002,6 @@ YouTube Download Bot
 @MeTubeBot
 @Use_ytbot
 @Shincha_youtube_video_bot
-@allsaverbot
 @uVidBot
 @remoteyoutubedl_bot
 @YoutubeConvertBot
@@ -21558,7 +17022,6 @@ YouTube Download Bot
 @yi3bot
 @kr_ytdlbot
 @utviddlbot
-@Gozilla_bot
 @UtubeGobot
 @YTButlerBot
 @NewHKRoBot
@@ -21577,7 +17040,6 @@ YouTube Download Bot
 @AnyDLBot
 @vid
 @tube2gif_bot
-File Storage, [6/4/22 1:17 PM]
 Telegram Channel News
 @SNTankograd
 @bidariymelat
@@ -21633,7 +17095,6 @@ Telegram Channel News
 @hranews
 @pake_shadie
 @VahidOnline
-@webamoozir
 @FreedoMessenger
 @Persian_Nazi
 @poshtpardeha
@@ -21651,8 +17112,6 @@ Telegram Channel News
 @iamusd
 @iran_times
 @akhbr_mvsgh
-@Diplomatic313
-@sahamnewsorg
 @chaatanoga
 @GOZARADYAN
 @TANZADYAN2
@@ -21670,8 +17129,7 @@ Telegram Channel News
 @radisorg
 @tavaana_tavaanatech
 @tavaanatech
- https://t.me/joinchat/TJs2Dkvwhd7txAhSPXge7w
-File Storage, [6/4/22 1:17 PM]
+https://t.me/joinchat/TJs2Dkvwhd7txAhSPXge7w
 Telegram Channel Book
 @libgen_scihub_bot
 @libsan_bot
@@ -21689,7 +17147,6 @@ Telegram Channel Book
 @Philosophy3
 @Philosophers2
 @evophilosophy
-@bookhapdf
 @OfficialBook
 @roman_bookk
 @Y_1360
@@ -21718,10 +17175,8 @@ Telegram Channel Book
 @litera999
 @FarazTed
 @FarazCanal
-@daabeh
 @BooksProject
 @booksIranian1
-@freeforbiddenbook
 @freeiranbook
 @ketabnew
 @kettab1
@@ -21734,25 +17189,22 @@ Telegram Channel Book
 @ketab_iism
 @PDF_list
 @funprojects
-File Storage, [6/4/22 1:17 PM]
 خب خب, ریپر (ع) اینجاست و یک درس زندگی دیه, از اونجایی که دوست بی جنبه تازه واردم ventoy رو دید گفتم معرفیش کنم
 خب این ventoy
- https://www.ventoy.net/en/index.html
+https://www.ventoy.net/en/index.html
 چی هست؟
 خیلی خلاصه بگم, باهاش usb رو فرمت میکنید و تا دلتون بخواد میتونید توش iso های سیستم عامل هاتون رو کپی پیست کنید و برخلاف ابزار هایی مثل rufus
- https://rufus.ie/
+https://rufus.ie/
 که پاره میشدین برا اینکه یک iso رو بوتیبل کنید و هی فرمت کنید, کلی iso بریزید توش و تست هاتون رو انجام بدید و سیستم عامل بریزید, اگر هم متوجه نشدید چی میگم یعنی پول برای نصب سیستم عامل میدید که براتون متاسفم, لفت بدید
 File Storage, [6/4/22 1:18 PM]
- https://www.youtube.com/watch?v=CuonyS3xdwg
-File Storage, [6/4/22 1:18 PM]
+https://www.youtube.com/watch?v=CuonyS3xdwg
 اگر اهل اوپن دایرکتوری هستین, بهتون
 ردیتش
- https://www.reddit.com/r/opendirectories/
+https://www.reddit.com/r/opendirectories/
 (فرانت اند تمیز و اوپن سورس و شیک)
- https://libredd.it/r/opendirectories/
+https://libredd.it/r/opendirectories/
 رو پیشنهاد میکنم, کلی اوپن دایرکتوری پست میشه و البته آموزش های مختلف مربوط بهش مثلا پیدا کردن چیزاتون از اوپن دایرکتوریا
 جذاب نیست؟ به این چیزا نیاز پیدا نمیکنید
-File Storage, [6/4/22 1:18 PM]
 خب خب یکم حاشیه:
 ۱- کلمه "اندروید ملی" اشتباهه, مثل اینترنت ملی, گفتم بدونید
 ۲- یک نرم افزار اوپن سورس/منبع باز (تعریف اوپن سورس (
@@ -21761,112 +17213,92 @@ https://sokanacademy.com/blog/اپن-سورس-چیست)) قابل دستکاری
 نمونه مشهودش harmony os برا چین عه, هرچند داستان اینا فرق دار
 حالا این ها اومدند چیکار کردند ؟؟
 اومدن رام لینیج رو تغییر خیلی جزئی دادند و قسمت هایی از کد که Lineage داشت رو با اسم سیستم عامل خودشون جایگزین کردند و از اسم نرم افزار آزاد سو استفاده میکنن و
- https://www.petitions.net/278143
+https://www.petitions.net/278143
 اینا همونان و پیشنهاد میشه بخونید و سریع منتشر بشه این داستان
-File Storage, [6/4/22 1:18 PM]
 یک چیز چرت و ذخیره خودم (بهش توجه نکنید):
 频道 @WangCai_1 + 群组 @WangCai_2
-File Storage, [6/4/22 1:18 PM]
- https://t.me/rfsnotes
+https://t.me/rfsnotes
 (a little outdated but great guide)
 حاشیه:
 یکم تلنگر, خیلی ویدیو جالبیه درباره آزادی و حریم خصوصی اینترنت که روز به روز داره محو میشه, جالبه توضیحش
- https://www.youtube.com/watch?v=XtG9qROjacw
-File Storage, [6/4/22 1:18 PM]
- https://git.teknik.io/Illegal-Services/Illegal_Services/releases
-File Storage, [6/4/22 1:18 PM]
+https://www.youtube.com/watch?v=XtG9qROjacw
+https://git.teknik.io/Illegal-Services/Illegal_Services/releases
 torrent search bot
 @ru_tracker_bot
 @MovieTorrents_bot
 @TorrentSearchAssistantBot
 @FDTorrentSearchBot
 @torbitbot
- https://t.me/Points_IRGP
+https://t.me/Points_IRGP
 https://t.me/joinchat/zb9pbaLU4nw4ZmFk
-File Storage, [6/4/22 1:18 PM]
 128GB TORRENT Twitch
 برای دانلود از uTorrent استفاده کنید.
 magnet:?xt=urn:btih:N5BLZ6XECNEHHARHJOVQAS4W7TWRXCSI&dn=twitch-leaks-part-one&tr=udp://open.stealth.si:80/announce
 New
 https://subroz.me/1:/twitch-leaks-part-one/
-@MOH21EN_2
-File Storage, [6/4/22 1:18 PM]
 به شورت کات ها دقت کنید (tg://settings)
 با زدن روی این یا (پست بالا، ای دی میرید تو ستینگ خودتون)
 نکته آموزشی: دیگه ریفرال نره تو ماتحتتون دوستان
 در ضمن کانال @DeepLink یه سری شورت کات هارو گذاشته
-File Storage, [6/4/22 1:18 PM]
 دونستن درباره irc به نظرم خیلی مهمه چون قدیمیه و از یاد ها رفته ولی هنوزم الماسه و الماس توش پیدا میشه
 (هرچند خیلی کامل نیست و میتونستم بهتر بنویسم, ولی کو حسش؟)
 برای منابع و آموزش بیشتر به این جا
 https://piracy.vercel.app/irc سر بزنید چیزای خوبی معرفی کرده و بگم این کانال لیچر از
- https://t.me/HosseinsArticles/2
+https://t.me/HosseinsArticles/2
 اسکی رفته
 ———————————————
 و حاشیه ای اینکه تبریک میگم بهتون, شما achievement اسکی و عن tg://settings رو در اوردن رو کسب کردین و بیاین کامنت بهتون جایزه کامنت اول بدم :/
-File Storage, [6/4/22 1:18 PM]
 یک ترنسلیت اوپن سورس گیر اوردم, از اوریجینال گوگلش بهتره, البته نسخه کرومیومیش نصبش به راحتی استور نیست ولی سخت هم نیست و گیت هابش ببینید چی میگه
- https://github.com/FilipePS/Traduzir-paginas-web
 سوالی بود کامنت کنید
 چجوری یه ربات تلگرامی با خلاقیت خودمون و حداقل امکانات بدون کدنویسی بسازیم
- https://www.youtube.com/watch?v=G-DHIIrxY7k
+https://www.youtube.com/watch?v=G-DHIIrxY7k
 نمونه :
 @tvStreamiran_bot
 اینو تقریبا تو نیم ساعت ساختم نمونه های دیگه و کارای بهتری هم میشه کرد که خودتون بسازین و لینک بزارین این پایین
 به زبون ساده ایندمون رو ببینید (هرچند یک قطره ای هستش از اقیانوس, مساله اشنایی ساده با تاریخ و ماجراشونه)
- https://www.youtube.com/watch?v=_yea0LeCUvU
-File Storage, [6/4/22 1:18 PM]
- https://github.com/ValdikSS/GoodbyeDPI#similar-projects
-File Storage, [6/4/22 1:18 PM]
+https://www.youtube.com/watch?v=_yea0LeCUvU
+https://github.com/ValdikSS/GoodbyeDPI#similar-projects
 خلاصه اینو فرستادم که بدونید fsr چیه, چیز دیگه ای که باید بدونید اینه که معمولا تکنولوژی های nvidia سورس بسته و مال amd اوپن سورسه, حالا این fsr تا جایی که میدونم برا سازنده ها هستش که گیمشون رو پچ کنن و اینو اضافه کنن, حالا به لطف یک پروژه میتونید رسما رو هر گیمی بزنید و fps چند برابری یا رزولوشن بالا بگیرید
- https://github.com/Blinue/Magpie
+https://github.com/Blinue/Magpie
 صفحه اصلیش که چینیه و از
- https://t.me/Valuable_garbage/1835
+https://t.me/Valuable_garbage/1835
 میتونید استفاده کنید, خلاصه
- https://github.com/Blinue/Magpie/releases
+https://github.com/Blinue/Magpie/releases
 میتونید دانلود کنید و نسخه preview هم هستش که پیشنهاد نمیشه, در کل, گیم رو windowed یا fullscreen (windowed) بزارید (اگر fullscreen باشه کار نمیکنه)
-File Storage, [6/4/22 1:18 PM]
 scaling mode
 رو بزارید رو fsr و capture mode رو نمیدونم فرقشونو, خلاصه وقتی وارد گیم شدین بزنید alt و f11 و شاهدش میشین
 (و البته حوصله ندارم options رو توضیح بدم ولی پیشنهاد میشه چک کنید) و در کل رو هر گیمی لذتتون رو ببرید و نیازی به کارت گرافیک جدید ندارید (پیشنهاد میکنم کامل تحقیق کنید fsr چطور کار میکنه که بهینه ترین استفاده رو ببرید)
-حاشیه:
 خودمم دقیق نمیدونم چطور کار میکنه و چیزی که درک کردم رو گفتم و حسش نی, فقط کار میکنه و خوب کار میکنه, میدونم تو تلگرام فارسی کسی نگفته و حداقل نفر اولی میشم که معرفی میکنه
-File Storage, [6/4/22 1:18 PM]
 یوزر اسکریپت یا userscript چیه؟
 یک اکستنشنی تو مرورگر هستش و چیزیه که به وسیله اون میشه اسکریپت های جاوا یا همان جاوااسکریپت ها رو بر روی صفحه مورد نظر اجرا کرد و میتونید اسکریپت بسازین تا کارای مورد نظر خودتون رو باهاش انجام دهید و البته می توانید از اسکریپت هایی که دیگران نوشته اند نیز استفاده کنید, اسکریپتها می توانند: فقط روی یک سایت به خصوص, همه سایت ها یا تعداد خواصی از آنها به استثنا چند سایت دیگر. ( مثلن همه سایتها به جز جی میل )اجرا شوند. به شما اجازه می دهد تا تجربه مرور و وبگردی خود را کنترل کنید. پس از نصب، آنها به طور خودکار سایت هایی را که بازدید می کنید با افزودن ویژگی ها، آسان تر کردن استفاده از آنها یا حذف قسمت های مزاحم بهتر می کنند.
 —
 چند اکستنشن اجرا کننده یوزر اسکریپت
- https://addons.mozilla.org/firefox/addon/greasemonkey
+https://addons.mozilla.org/firefox/addon/greasemonkey
 https://github.com/greasemonkey/greasemonkey/
 (برای مرورگر های فایرفاکس بیس)
- https://violentmonkey.github.io
+https://violentmonkey.github.io
 https://github.com/violentmonkey/violentmonkey
 (برای مرورگر های کرومیوم و فایرفاکس بیس)
-—
 منبعی امن برا پیدا اسکریپت دیگران
- https://greasyfork.org/en (برا اکثر سایتا)
- https://sleazyfork.org/en (برا سایتای بزرگسالان مثلا فلان هاب)
- https://openuserjs.org/
+https://greasyfork.org/en (برا اکثر سایتا)
+https://sleazyfork.org/en (برا سایتای بزرگسالان مثلا فلان هاب)
+https://openuserjs.org/
 (این یکیو تست نکردم و امنیتشو تضمین نمیکنم فقط میدونم وجود داره)
-—
 خب خب بیاین یه مثالی بزنم, مثلا بخوام وقتی برم سایت imdb و فیلمی سرچ کردم, بغلش مثلا امتیازش تو سایتای دیگه و اضافه کردن لینک تورنت و دانلود فیلمش تو همون صفحه imdb باشه
- https://github.com/Purfview/IMDb-Scout-Mod
+https://github.com/Purfview/IMDb-Scout-Mod
 https://greasyfork.org/en/scripts/407284-imdb-scout-mod
 این اسکریپت رو به اکستنشنتون اضافه میکنید و
- https://i.imgur.com/BpuPBsR.png
+https://i.imgur.com/BpuPBsR.png
 همچین چیزی میبینید, میتونید تنظیمات اسکریپت برید و کلی لیست سایت رو تیک بزنید (از پادرا ممنونم معرفی کرد )
-—
 مثال دوم هم
- https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass
+https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass
 مثلا کارش اینه که ویدیو هایی که محدودیت سنی دارن یوتیوب رو بدون لاگین ببینید
- https://user-images.githubusercontent.com/59258980/133007022-c12253c0-036c-49fe-8fce-42b62da14e8a.png
+https://user-images.githubusercontent.com/59258980/133007022-c12253c0-036c-49fe-8fce-42b62da14e8a.png
 عکس پیشنمایشش
-—
 خب این یک مثال ساده و جذاب بود و کارایی میتونید, مثلا بری فلان هاب و لینک دانلود و استریم با کیفیت پریمیوم بدون دادن پریمیوم یا مثلا quera برید و لاگین نکنید و یا مثلا کپچا رو دور بزنید یا یوتیوب مثلا ui اش رو متفاوت کنید و....
 کافیه سرچ کنید اسکریپت رو به اکستنشتون اضافه بشه و لذتو ببرید
 (حاشیه:
 این پست سرشار از کپی پیست از اینور و اونوره و روشون ادیت شده (نامردی نشه نصفشو نوشتم) چون حس توضیح نبود ولی خب به نظرم مهمه ملت بدونن وجود داره, چندتا غلط نگارشی و املا رو سخت نگیرید که این تیپ همیشگیمه و حس نی, هدف از این پست هم مشخصه, اینکه مجبور نباشم به یک یکتون توضیح بدم یوزر اسکریپت چیه و فور کنم اینو, سوالی درباره اش بود کامنت کنید)
-File Storage, [6/4/22 1:18 PM]
 استفاده کردن فرانت اند اوپن سورس برا پلتفرم های پلید (منظورم ناقض حریم خصوصی)/ نوعی دور زدن فیلترینگ برا دسترسی به پلتفرم های مختلف:
 خب خب, بیایم درباره فرانت اند اوپن سورس قابل هاست پلتفرم مختلف صحبت کنیم
 میدونید گوگل و فیسبوک و امثالهم به هر شکل ممکنی جاسوسی میکنن و حریم خصوصی کاربرا رو نقض میکنن (ولی از روبیکا بهترن ازم بپرسی, چیزم تو برادران) و اینکه اکثر پلتفرما ایران فیلترن
@@ -21876,110 +17308,68 @@ Front-ends for evil sites/platforms: (منبع (
 https://github.com/mendel5/alternative-front-ends))
 Youtube:
 1- invidious: (Recommended)
-Source:
- https://github.com/iv-org/invidious
+https://github.com/iv-org/invidious
 Official Instances List:
- https://api.invidious.io
+https://api.invidious.io
 Also:
 An alternative frontend for invidious built with vue.js:
- https://github.com/bocchilorenzo/invuedious
+https://github.com/bocchilorenzo/invuedious
 Instance:
- https://bocchilorenzo.github.io/invuedious
+https://bocchilorenzo.github.io/invuedious
 2- CloudTube:
-Source:
- https://sr.ht/~cadence/tube/
-Official Instances List:
+https://sr.ht/~cadence/tube/
 —none/can't find—
 Known Instances:
- https://tube.cadence.moe
 https://tube.alefvanoon.xyz/
 3- Piped:
-Source:
- https://github.com/TeamPiped/Piped
-Official Instances List:
- https://github.com/TeamPiped/Piped/wiki/Instances
-Known Instances:
- https://piped.alefvanoon.xyz/
+https://github.com/TeamPiped/Piped
+https://github.com/TeamPiped/Piped/wiki/Instances
+https://piped.alefvanoon.xyz/
 4- Viewtube-vue (Not Recommended)
-Source:
- https://github.com/ViewTube/viewtube-vue
-Official Instances List:
-—none/can't find—
-Known Instances:
- https://viewtube.io
+https://github.com/ViewTube/viewtube-vue
+https://viewtube.io
 https://dev.viewtube.io/
 ======================
 Twitter:
 1- Nitter:
-Source:
- https://github.com/zedeus/nitter
-Official Instances List:
- https://github.com/zedeus/nitter/wiki/Instances
-Known Instances:
- https://nitter.alefvanoon.xyz
+https://github.com/zedeus/nitter/wiki/Instances
+https://nitter.alefvanoon.xyz
 https://nitter.ir/
 (برا شما هم سوال شده چطور .ir عه و فیلتر نشده؟)
-======================
 Instagram:
 1- bibliogram: (Not recommened)
-Source:
- https://sr.ht/~cadence/bibliogram/
-Official Instances List:
- https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
-Known Instances:
- https://biblio.alefvanoon.xyz/
-======================
-Reddit:
+https://sr.ht/~cadence/bibliogram/
+https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
+https://biblio.alefvanoon.xyz/
 1- Libreddit:
-Source:
- https://github.com/spikecodes/libreddit
-Official Instances List:
- https://github.com/spikecodes/libreddit#instances
-Known Instances:
- https://libreddit.alefvanoon.xyz/
+https://github.com/spikecodes/libreddit
+https://github.com/spikecodes/libreddit#instances
+https://libreddit.alefvanoon.xyz/
 2- Teddit:
-Source:
- https://codeberg.org/teddit/teddit
-Official Instances List:
- https://codeberg.org/teddit/teddit#instances
-Known Instances:
- https://teddit.alefvanoon.xyz/
-======================
+https://codeberg.org/teddit/teddit
+https://codeberg.org/teddit/teddit#instances
+https://teddit.alefvanoon.xyz/
 Google Translate:
 1- Gtranslate:
 Sources:
- https://sr.ht/~yerinalexey/gtranslate/
-Official Instances List:
-—none/can't find—
-Known Instances:
- https://gtranslate.metalune.xyz/
+https://sr.ht/~yerinalexey/gtranslate/
+https://gtranslate.metalune.xyz/
 2- Simplytranslate:
-Sources:
- https://git.sr.ht/~metalune/simplytranslate_web
-Official Instances List:
-—none/can't find—
-Known Instances:
- https://translate.metalune.xyz
+https://git.sr.ht/~metalune/simplytranslate_web
+https://translate.metalune.xyz
 https://st.alefvanoon.xyz/
 3- Lingva translate
-Sources:
- https://github.com/TheDavidDelta/lingva-translate
-Official Instances List:
- https://github.com/TheDavidDelta/lingva-translate#instances
-Known Instances:
- https://translate.alefvanoon.xyz/
-======================
+https://github.com/TheDavidDelta/lingva-translate
+https://github.com/TheDavidDelta/lingva-translate#instances
+https://translate.alefvanoon.xyz/
 Google Search Engine:
 1- Searx: (BEST, Recommended)
 tutorial: (قبلا با چه بدبختی ای نوشتم اینو)
- https://t.me/Valuable_garbage/851
-Sources:
- https://github.com/searx/searx
-Official Instances List:
- https://searx.space/
-Known Instances:
+https://t.me/Valuable_garbage/851
+https://github.com/searx/searx
+https://searx.space/
 (برا تازه وارد ها پیشنهاد نمیشه هر کدوم عشقتون کشید بزنید, اموزشو ببینید لطفا)
- https://sx.alefvanoon.xyz
+https://sx.alefvanoon.xyz
 https://searx.tk
 https://search.privacytools.io
 https://search.fuckoffgoogle.net
@@ -21989,24 +17379,15 @@ https://privatesearch.app
 https://searx.ninja
 https://searx.be/
 Known way to find more Instances:
- https://www.startpage.com/sp/search?q="powered by Searx"
+https://www.startpage.com/sp/search?q="powered by Searx"
 2- Whoogle:
-Source:
- https://github.com/benbusby/whoogle-search
-Official Instances List:
- https://github.com/benbusby/whoogle-search#public-instances
-Known Instances:
- https://s.alefvanoon.xyz
+https://s.alefvanoon.xyz
 https://whoogle.sdf.org/
-File Storage, [6/4/22 1:18 PM]
 اکثرا نیازی به جاوا اسکریپت ندارن که کار کنن
-—————————————
 منبع محترم:
- https://codeberg.org/Shinkirou/frontends
+https://codeberg.org/Shinkirou/frontends
 https://github.com/mendel5/alternative-front-ends
-https://t.me/Libreware/913
 (لیبور اسکی رفته ولی نبود پیدا نمیکردم)
-—————————————
 ریتارد ترنسلیتر:
 instance =
 یک سروری که سورس کد هاست میشه
@@ -22025,82 +17406,57 @@ Not Recommended:
 retard =
 (معنیش (
 https://wikiless.alefvanoon.xyz/wiki/عقب_مانده_(توهین‌آمیز)?lang=fa) و کلا به خودت فشار نیار جر میخوری)
-—————————————
 (خوبه, یک پست اماده دیگه برا فور :)
-File Storage, [6/4/22 1:18 PM]
 کانال لینک دونی دیگمون که بعضا ممکنه مفید باشن:
- https://t.me/pack1235
+https://t.me/pack1235
 ————————————
 کانال از همکارمون برا اوپن سورس فن ها:
- https://t.me/floss_dictators
-———————————————
+https://t.me/floss_dictators
 (گفتم هم یادآوری بشه, هم پین بکنمش, خلاصه خیلی گنج خوابیده تو این کانال قاطی پاتی چیزای دیه)
-File Storage, [6/4/22 1:18 PM]
 یه حاشیه بامزه و مهم درباره searx:
 ظاهرا سازنده اصلی searx با یک contributor قدیمی searx به اختلاف دیدگاه خوردن سر مساله هایی و طرف فورک خودشو زد شد searxng
- https://searx.github.io/searx/
+https://searx.github.io/searx/
 و
- https://searxng.github.io/searxng/
+https://searxng.github.io/searxng/
 ———————————
 خب حالا فرقشون چیه؟
- https://github.com/searxng/searxng/issues/46
+https://github.com/searxng/searxng/issues/46
 دروغ نگم, خوب متوجه نشدم و نمیخوام سوتی بدم, خودتون بخونید و اگر متوجه شدین لطفا کامنت کنید, امیدوارم اتفاق مثبتی باشه خلاصه چون تنها چیزیه که اعتماد کاملی دارم
 —— جواب دادن کامنت D: ——
-File Storage, [6/4/22 1:19 PM]
-عمیق ترین راهنمای حفظ حریم خصوصی: راهنمای Hitchhiker برای ناشناس ماندن آنلاین
-آپدیت جدید
-وب سایت:
-https://anonymousplanet.org/guide.html
-GitHub:
-https://github.com/AnonymousPlanet/thgtoa
-فوق العاده س این منبع و بخشهای طولانی مفصلی داره
-پیشنهاد میشه حتما مطالعه کنید
-عالیه
-File Storage, [6/4/22 1:19 PM]
- https://github.com/techtanic/Discounted-Udemy-Course-Enroller
-File Storage, [6/4/22 1:19 PM]
+https://github.com/techtanic/Discounted-Udemy-Course-Enroller
 وقتشه rss که خیلی وقته میخواستم معرفی کنم
 خب خب, rss چیه؟
 توضیح کامل و تمیز انگلیسی:
- https://www.youtube.com/watch?v=VVU9GfW_Amg
-یا
- https://www.youtube.com/watch?v=6HNUqDL-pI8
+https://www.youtube.com/watch?v=VVU9GfW_Amg
+https://www.youtube.com/watch?v=6HNUqDL-pI8
 توضیح خسته کننده و ناقص (تنها چیزیه که پیدا میشه) فارسیش:
- https://www.youtube.com/watch?v=-2I9ggW_8hc
+https://www.youtube.com/watch?v=-2I9ggW_8hc
 (باگ: اومده rss رو داخل مرورگر میخونه و rss reader رو "فید خوان" صدا میکنه ‍)
 ————————
 خب ویدیو ها توضیح میدن و منظور و درک کلی ای که میخواین رو میرسونن اینکه "rss" چیه, لینکیه که به یک محیط واحد اضافه میکنید که rss reader شناخته میشن و لینک rss رو اضافه میکنید و هرچی خبر میاد از اون سایت تو یک محیط واحد میتونید مدیریت کنید و کلی سایت رو دنبال کنید و خبر های دسته اول زودتر از بقیه دستتون بیاد
 اول از همه شما نیاز به یک rss reader دارید که کلی rss reader هستند
- https://github.com/AboutRSS/ALL-about-RSS#-rss-readers
+https://github.com/AboutRSS/ALL-about-RSS#-rss-readers
 میتونید ببینید, مثلا پیشنهادی خودم برا سیستم (ویندوز, مک, لینوکس) thunderbird رو پیشنهاد میکنم, علاوه بر اینکه rss reader هستش, ایمیل, irc هم ساپورت میکنه و خیلی چیز خوبیه
 (میتونید کار هاش رو یوتیوب یاد بگیرید, هدفم معرفیه نه آموزش)
-————————
- https://github.com/plenaryapp/awesome-rss-feeds
+https://github.com/plenaryapp/awesome-rss-feeds
 برای شروع لیستی از کلی rssfeed هستش که میتونید دنبال کنید
 حالا لزوما سایتای خبری و وبلاگ ها نیستن که rss پشتیبانی میکنن, حتی یوتیوب میتونید از اخرین ویدیو ها مطلع بشید و یا ردیت اخرین پست هارو مطلع بشید و خلاصه کلی سرویس و اینکه اگر خودشون رسما ساپورت کنن شخص سومی حتما این سرویس رو ارایه میکنن, خودم شخصا منتظر خبر های جالب تو hacker news ام لینک
- https://hnrss.org/newest
+https://hnrss.org/newest
 رو دنبال میکنم که کلی چیز جذاب پست میشه و چه سرگرمی ای مفیدتر از این؟ بعدشم اکانت یوتیوب ندارم سابسکرایب کنم که اخرین ویدیو هارو ببینم, کانال هارو به صورت rss در میارم که از اخرین ویدیو هاشون مطلع بشم, مثلا چیزی داخل سایت های
- https://r.nf/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff
+https://r.nf/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff
 (برنامه, گیم, کورس) رایگان میشه (مخصوصا ردیت) به rss reader ام اضافه میکنم که اگر برام مهم باشن در اسرع وقت مفتی بگیرمش, اخبار هم همینطور (هرچند اخبار سیاسی رو دیگه دنبال نمیکنم از بس استرس وارد میکنه), جذاب تر از همه برای مثال دیجیاتو یا زومیت
- https://www.zoomit.ir/feed
+https://www.zoomit.ir/feed
 https://digiato.com/feed/
 سایتشون (و میتونید یوتیوبشون هم میتونید rss کنید و اضافه کنید) رو دنبال میکنم و خلاصه خبر هارو تو محیط واحد بدون اتلاف وقتم دنبال میکنم و عادت کنید جذابه و سبک زندگیه و بهینه تر از دنبال کردن کلی کانال بولشیت تلگرامی عه و دقیقا چیزیو میبینید که میخواین ببینید
 ———————
 اگر وقت برا اتلاف بود کامنت های جالب هکر نیوز درباره rss رو بخونید (یه خورده, چون کلی کامنته) چون بحثاشونم جذابه
- https://news.ycombinator.com/item?id=15675582
-https://news.ycombinator.com/item?id=21913598
-https://news.ycombinator.com/item?id=26014344
-———————
 پیدا و حذف کردن خبر تکراری
- https://addons.thunderbird.net/en-US/thunderbird/addon/remove-duplicate-messages-alte/
+https://addons.thunderbird.net/en-US/thunderbird/addon/remove-duplicate-messages-alte/
 لود نکردن عکس (کانفیگ کردنه)
- https://support.mozilla.org/en-US/questions/1226175
+https://support.mozilla.org/en-US/questions/1226175
 کار کردنش تو بک گراند :/
-روش اول
- https://addons.thunderbird.net/en-US/thunderbird/addon/minimize-on-close/
-روش دوم
+https://addons.thunderbird.net/en-US/thunderbird/addon/minimize-on-close/
 Open Tools(or AppMenu/Options)/Options/Advanced/General/Config. editor, paste mailnews.sendInBackground in the Search box, and double-click the preference to change it to true.
-File Storage, [6/4/22 1:19 PM]
 تازه کشف کردم که اگر * اول سرچتون داخل تلگرام بزارید کانال های بیشتری نتیجتون میاد
 مثلا به جا سرچ
 "vpn club"
@@ -22108,15 +17464,13 @@ File Storage, [6/4/22 1:19 PM]
 "*vpn club"
 و میبینید کانال های بیشتری با اسم vpn club ظاهر میشه
 (میدونم گوگل هم میشه دورک زد ولی گاهی ایندکس نمیشن, پس بدرد میخوره)
-File Storage, [6/4/22 1:19 PM]
 126ویوو, 3 پیشنهاد, جالبه
 ——————
-حاشیه:
 خب خب همینطور که کلی دفعه گفتم, ویندوز ۱۱ نصب نکنید بخاطر اینکه هنوز چیز درست حسابی ای نیست و beta software عه بیشتر و هنوزم مشکل با amd و 20%25 کند تر شدن کارت گرافیک بخاطر یک قابلیت امنیتی پابرجاست و اینکه پیش نیاز ویندوز ۱۱ زیادی بالاعه و زورکی میخواد edge بزنید, حالا من ویندوز ۱۱ ریختم که
 wsa (windows subsystem for android)
 رو امتحان کنم چون wsl و wslg خیلی خوب بود
 خلاصه بتاعه و فقط ریجن امریکا میتونید استفاده کنید و فقط ۵۰ برنامه (که اکثرا گیمای 2d اند) از امازون استور میتونید نصب کنید (درسته گوگل پلی ای نیست), خلاصه خیلی دلم میخواست امتحان کنم و ویندوز ۱۱ کاستوم از
- https://www.youtube.com/c/GHOSTSPECTRE/videos
+https://www.youtube.com/c/GHOSTSPECTRE/videos
 گرفتم چون تلمتری و bloat و چیزای زیادی رو حذف میکنه (ویندوز ۱۱ که نسخه ltsc نداره و کلا ltsc رو نمیپسندم, بعضیا میگن نسخه گوست شخص سومه و اونا هم میتونن جاسوس افزار بزارن (من که سابقه بدی ندیدم و شناخته شدس یارو) و..., خلاصه ویندوزه و امنیت کلا جوکه پس برام انچنان مهم نیست)
 خلاصه ویندوز ۱۱ رو ریختیم و Ghost Toolbox هم اپشن های ویندوز ۱۱ رو گشتم دیدم wsa بود و اوتوماتیک خودش همه چیزو نصب کرد و علاوه بر اینا گوگل پلی هم داشت, خلاصه کارایی که خودم باید پاره میشدم کانفیگ کردن با این همچی ردیف بود و خلاصه تست کردیم و اکثر برنامه هایی که استفاده میکنم کار میکنن (چون GMS یا ریتاردگونه بگم سرویس گوگل نصب بود که اونم باید خودتون یه اسکریپت میزنید که gms نصب بشه)
 خیلی خوبه ولی مشکلات این بود که:
@@ -22131,20 +17485,18 @@ wsa (windows subsystem for android)
 جز اینا همه چیزش ردیف بود و خواستم تجربه ام رو به اشتراک بزارم و خلاصه بتاعه و دردسره
 —————————
 این بررسی فنی ترش:
- https://www.pcgamingwiki.com/wiki/Windows_Subsystem_for_Android
+https://www.pcgamingwiki.com/wiki/Windows_Subsystem_for_Android
 لیست سازگاری wsa (بدون gms چون رسمی بدون gms عه):
- https://github.com/riverar/wsa-app-compatibility
-—————————
+https://github.com/riverar/wsa-app-compatibility
 نتیجه گیری/Tl;DR:
 در کل wsa قطعا از چیزی مثل bluestacks بهتره از هر نظری و برنامه ها راحت باز میشن و فرقی بین برنامه سیستمی و اندروید حس نمیشه ولی اگر هدف گیمه wsa هنوز اماده نیست چون Vulkan و OpenGL ES 3.1 نیستن و این پروسه ای که رفتم کار هر کسی نیست و برا نصب ۱۱ صبر کنید که فاجعس از نظرم و چیزیو از دست نمیدید :/
-File Storage, [6/4/22 1:19 PM]
 اینو بعید بدونم کسی ندونه پس نخونید و برا خیلی تازه واردا گذاشتم
 اگر میخواین بدونید گوگل ازتون چی میدونه, کافیه ازش بپرسید, چطور؟
- https://takeout.google.com/
+https://takeout.google.com/
 میرید اینجا و تمام اطلاعاتی که گوگل ازتون داره رو دانلود میکنید و میتونید انتخاب کنید چی و چطور چیزایی ازتون میدونه و فکر کنم بقیه هم همچین سرویسی دارن وقتی ازشون استفاده میکنید ولی اکثرا یه گزینه لا یک گزینه دیگه میزارن پیدا نکنید چون اروپا مجبورشون کرد برا کاربراشون
 File Storage, [6/4/22 1:15 PM]
 Proxy
- https://t.me/GlypeX
+https://t.me/GlypeX
 @Proxydaemiibot
 @Pixelated_Proxy_Bot
 @mtpro_xyz_bot
@@ -22155,7 +17507,6 @@ Proxy
 @ss_Shadowsocks_bot
 @open_vpn_download_bot
 @xwarp_bot
-@beepassvpn_bot
 @Surfshark_bot
 @nordvpn_bot
 @OpenProxyRobot
@@ -22171,7 +17522,6 @@ Proxy
 @joinfastssh
 @spys_one
 @FAST_SS
-@SSRSUB
 @ShadowsocksRssr
 @freetgpp
 @ssList
@@ -22240,13 +17590,10 @@ httpproxygo
 @drproxy
 @highspeedd
 @ProxyMTProto_tel
-@bn_proxy
 @Mehrdad_proxy
 @ProxyTalk
-@proxy_kafe
 @hideproxi
 @Freeproxy97
-@MTProxies
 @Chrome_Proxy
 @Olimp_Proxi
 @LoremProxies
@@ -22275,13 +17622,12 @@ Telegram Channel IPTV
 @android_tv_box_iptv
 @tvlab
 @iptv_sport
- http://t.me/Darknet_planet
+http://t.me/Darknet_planet
 https://t.me/NeoPesarism
 @ovpnfixbot
- https://t.me/FamiliaMirrors
+https://t.me/FamiliaMirrors
 https://t.me/joinchat/f1PRtxlk0TIwYmNl
 هرچی ریپر داره و نداره برا شما، ریپر هم دیگه بازنشسته میشه
-File Storage, [6/4/22 1:15 PM]
 Link To File Bots
 @UploadsRobot
 @UploadDuniaBot
@@ -22296,15 +17642,12 @@ Link To File Bots
 @urldl_robot
 @urlup2tgbot
 @DragonUploaderV1_bot
-@LinkgramBot
-@uploadbot
 @urluploadxbot
 @SIM_URLUploaderbot
 @Zed_Bax_LTF_BOT
 @URL_upload_2_by_AI_bot
 @UptoTGbot
 @Uloadit_bot
-@uploadgrammebot
 @Tg2extbot
 @UploadsBot
 @tlgurbot
@@ -22324,7 +17667,6 @@ Link To File Bots
 @AnyVideoDownloadBot
 @AnydlBot
 @UrlUpRobot
-@urldl_robot
 @MegadlBot
 @MFB_DlBot
 @SlUploadBot
@@ -22332,14 +17674,10 @@ Link To File Bots
 @gofilebot
 @anonfileuploaderbot
 @UploadMeGBot
-@UploadsRobot
 @onedrivexbot
 @MegaUploadXbot
-File Storage, [6/4/22 1:15 PM]
 FILE TO LINK Bots
-@MMDLeecherbot
 @File2LinkSkybot
-@NimDownloaderBot
 @IRfiletolinkbot
 @IRmaxdrivebot
 @FiletoLinkTelegramBot
@@ -22351,24 +17689,19 @@ FILE TO LINK Bots
 @Files2LinkProBot
 @StreamEmpireBot
 @FastLinkGenBot
-@FileToLinkTGbot
 @getpubliclinkpro_bot
 @KL_GetPublicUrlBot
 @nimbahaplusbot
-@NimBahaLinkRobot
 @NimDownloader_Bot
 @FiletodlBot
-@uploadgrammebot
 @tg2directlink_bot
 @AH_File2Link_Bot
 @FTL_LFS_bot
 @DirectLinkGeneratorbot
-@tg_file_link_bot
 @Zed_Bax_FTL_BOT
 @Titan_Link_bot
 @File2LinkproBot
 @TelFiles_Bot
-@Tg2extbot
 @HKPublicLinkBot
 @FileStreamingBot
 @LinkGenerator_dl_bot
@@ -22380,17 +17713,14 @@ FILE TO LINK Bots
 @File2link_bot
 @TgTolinkBoT
 @TGPublicLinkBot
-@FastLinkGenBot
 @transload
 @TransloadFlixBot
-@HeimanXUploader_bot
 @D2link_bot
 @TorPlayBot
 @iosyar_bot
 @ejaTvBot
 @Link4FilesBot
 @Skywalkerlinkgenbot
-@DownloadYarbot
 @ArmosLeech_Bot
 @rapidpars_bot
 @LinkGostarBot
@@ -22419,13 +17749,11 @@ FILE TO LINK Bots
 @warlockpublicurl_bot
 @NewFileToLinkBot
 @InstantLinkGenBot
-File Storage, [6/4/22 1:15 PM]
- https://ipx.ac/run
+https://ipx.ac/run
 برا تست ایپی کامل نوشته
- https://ipleak.org/
+https://ipleak.org/
 از قسمت VPN / Proxy / TOR
 میتونید نوع اتصالتون رو بفهمید که سایتا چی تشخیص میدن
-File Storage, [6/4/22 1:15 PM]
 @LOSNETFREECANAL
 @reklamavp19
 @appxa
@@ -22453,7 +17781,6 @@ File Storage, [6/4/22 1:15 PM]
 @FJMODS
 @alexstranniklite
 @alexstranniktechno
-@MODZILLA
 @goldroid
 @Prosmart
 @app_clube
@@ -22468,14 +17795,12 @@ File Storage, [6/4/22 1:15 PM]
 @freezerandroid
 @AlotAPK
 @Apps_Full
-@ApkGeek
 @SharaAPK
 @UnlimAPK
 @ELiteAPK
 @GO_TV_Channel
 @tvlab1
 @LightOneTeam
-@Premium_droid
 @vzlomgame18
 @vzlomannye_20
 @vz2018
@@ -22489,8 +17814,6 @@ File Storage, [6/4/22 1:15 PM]
 @faloojein
 @foss_Android
 @Files7baRu
-@aroratricksmod
-@mlapkshare
 @rbmod
 @Alexey070315
 @AndroidModsApp
@@ -22500,14 +17823,11 @@ File Storage, [6/4/22 1:15 PM]
 @VPNapk_pro
 @VPNapk
 @darkhastbazii
-File Storage, [6/4/22 1:15 PM]
 دایرکت
- https://dl1.edenupload.workers.dev/0:/
+https://dl1.edenupload.workers.dev/0:/
 @createAtthemeBot
-دایرکت
- http://indexof.ir
+http://indexof.ir
 https://www.dubox.com/
-File Storage, [6/4/22 1:15 PM]
 Telegram Movie News
 @psarips
 @Pahe_again
@@ -22515,7 +17835,6 @@ Telegram Movie News
 @MovieFeed
 @TvNotification
 @OfficialCinemaTwitter
-@CinemaTwitterFarsi
 @MovieTwitte
 @Cinema_twitt
 @CnamaTweet
@@ -22539,13 +17858,11 @@ Telegram Movie News
 @CinamaBestt
 @CinamaCity
 @Cinemadaily
-@MovieCottage
 @HollywoodDaily
 @hollywood_talk
 @cinema_tab
 @Cinema_Galaxy
 @CinemaMosaic
-@CinemaPrime
 @Movie_Empire
 @EmpireBestTv
 @DickyWood
@@ -22558,8 +17875,6 @@ Telegram Movie News
 @moviewebs99
 @MyCinemaFact
 @AioMovies_Ch
-@tinymoviez
-@moviewebs99
 @FanMate
 @nettflixx
 @NetflixSerials
@@ -22576,7 +17891,6 @@ Telegram Movie News
 @NaghdeFilmoSerial
 @Blue56Sky
 @FilmSerialFarsi
-@honar7modiran
 @FilmobalReporter
 @An_Abandoned_Forest
 @filmbazeirani
@@ -22606,9 +17920,7 @@ Telegram Movie News
 @Bia2Almas
 @Movieo_Plus
 @Gemoviess
-File Storage, [6/4/22 1:15 PM]
 Telegram Movie Channel download
-@TeleLeecherbot
 @alphadlbot
 @Tools98bot
 @tgfilmbot
@@ -22640,7 +17952,6 @@ Telegram Movie Channel download
 @MovieBarnBot
 @HBMMediaSearch_Robot
 @Movierobot
-@TGMoviesBot
 @DbMovieBot
 @robomovie_bot
 @Mobomoviesbot
@@ -22652,14 +17963,12 @@ Telegram Movie Channel download
 @darkhastefilme
 @DlmacvinTV
 @dlmacvin_dlmacvin
-@transload
 @Top_MoviZ
 @filimo54
 @IR_Series_IR
 @movi_ir1
 @tehfilm021
 @List_Mamnooe
-@CinemaPrime
 @cinemabebin
 @Fiillm_Baaz
 @film_bazzan
@@ -22710,13 +18019,11 @@ Telegram Movie Channel download
 @ganjdlplus
 @top_imdb
 @IRANFL7
-@dmovies
 @filmxxx2
 @fL_MH
 @golchintoon
 @AnimotionArt
 @CartoonDL
-@animworlddl
 @daanfilm
 @TV_FilM_iranii
 @Dailyserials
@@ -22732,7 +18039,6 @@ Telegram Movie Channel download
 @popcorn_gap
 @FAseries
 @FAserial
-@OceanMovie
 @YasFilms
 @StarkMoviez_Co
 @Film_bazzanplus
@@ -22745,13 +18051,12 @@ Telegram Movie Channel download
 @TgFilmZone
 @HollywoodDLHD
 @indiamo
-@cinemabebin
 @Filmkootahh
 @MoviePlus_MP
 @DcMarvel_BinahayatMag
 @TheOfficeExtended
 @AlmasMovieCom
- https://t.me/joinchat/Rs9SKQNedgt0OCAl
+https://t.me/joinchat/Rs9SKQNedgt0OCAl
 https://t.me/joinchat/AAAAAE7lBEDE81gGJMnbXw
 https://t.me/joinchat/RiGahmE_fTw2MzVk
 @New_Movieo
@@ -22764,12 +18069,9 @@ https://t.me/joinchat/RiGahmE_fTw2MzVk
 @video_d_m
 @movie_Office
 @filmseryalroz
-@sermovie_channel
 @Cnamaaa
-@Top_MoviZ
 @MMDleecher
 @CineDreaming
-@CinemaDreamingArchive
 @Worexez_Movies
 @shabnam_movies
 @SerieZZ
@@ -22786,16 +18088,14 @@ https://t.me/joinchat/RiGahmE_fTw2MzVk
 @cmcallmovies
 @go2moviess
 @MoviesTorrentsReleases
-@AWHTarchive
 @ArsHiveSeryaLHa
 @R_T_V
 @Cinema141
 @AntFlix
 @MovieCottageDl
 @virtuaworldd
- https://t.me/joinchat/Q_imrs94qsyG9_yI
+https://t.me/joinchat/Q_imrs94qsyG9_yI
 https://t.me/joinchat/ah73c6HtZB1hNmJk
-File Storage, [6/4/22 1:15 PM]
 Telegram Channel Music
 @subrica
 @VoiSaM
@@ -22833,7 +18133,6 @@ Telegram Channel Music
 @SongFuckers
 @Songsire
 @duduchava
-@Songsire
 @Acid_Lion
 @Megatoolsbot
 @melodio
@@ -22881,13 +18180,11 @@ Telegram Channel Music
 @senator_musics
 @Lan_Muzic
 @SOULNICE
-@mUsIcNaBiTel
 @BaSs_MuSiC_95
 @faz_gangii
 @musix_lion
 @Gangsteri_Gang
 @Turkiyeahangi
-@TRAPGANG123
 @DJ_ALVIN_MUSIC
 @cliplove
 @Ahangenabm
@@ -22901,14 +18198,12 @@ Telegram Channel Music
 @AHNGSHOTI
 @TRiBalREMiXS
 @Music_ahang_sistem
-@Dep_MuSiCx
 @Subbass
 @TurkiDeep
 @turkishmusicdl
 @KmYabMusic
 @spotifymusicdownloader
 @party
-@RadioMuzix
 @DJREMIXS
 @Legnd
 @melogapp
@@ -22923,23 +18218,19 @@ Telegram Channel Music
 @Story_Ahang2
 @FALIONMUSIC
 @radiomusicplus
-@imuzix_puzix
 @radiofymusic
 @Top_Musician2020
-@MrrMusicc
 @Lovmusicam1
 @Taranehaye_Irani
 @BASSXXX
 @MusixViideo
 @Pen_Musix
-@Subbass
 @ItsDiscography
 @discographymetalhead
 @DiscographyOfficial
 @songsuite
 @Ganja2music
 @MetalWorld
-File Storage, [6/4/22 1:15 PM]
 Instrumental Music Channel
 @songsaranet
 @SoundSilence
@@ -22961,7 +18252,6 @@ Instrumental Music Channel
 @Non_vocalll
 @non_vocal1
 @instrumental
-File Storage, [6/4/22 1:15 PM]
 Telegram Channel Music 2
 @anbarmusi
 @QStuf
@@ -22995,12 +18285,10 @@ Telegram Channel Music 2
 @magnolia_music
 @parishab21
 @Soulterra
-@songsuite
 @RhytmsForEveryMood
- https://t.me/joinchat/RuAxp_FdTU1wP5V5
+https://t.me/joinchat/RuAxp_FdTU1wP5V5
 @SongsYouMustHearBeforeYouDie1001
 @BavariaBadMusic
-File Storage, [6/4/22 1:15 PM]
 Channel Wallpaper
 @fwalls
 @wallpaper_4k3d
@@ -23021,7 +18309,6 @@ Channel Wallpaper
 @Wallpaper_Land_4K_FHD_Images
 @SurrealMind
 @orttor
-@crazyart
 @KENZO
 @sourcekaifa
 @conceptualimage
@@ -23032,7 +18319,6 @@ Channel Wallpaper
 @aesthetic_room
 @jpeg_pictures1
 @iiii51
-@profilesiah
 @soxri_amour
 @wallpapersm0
 @bestwallpapes
@@ -23049,7 +18335,6 @@ Channel Wallpaper
 @eskeasy
 @ahegaocosplaytg
 @oboi_iphones
-File Storage, [6/4/22 1:15 PM]
 Telegram P*** Channel
 @officialonlyfans
 @platinumleak
@@ -23058,7 +18343,6 @@ Telegram P*** Channel
 @LionGuardLeaksS
 @Li0nGuardLeaksS
 @OnlyfansState
-@OnlyfansFree4u
 @DailyOnlyFansLeaks
 @OnlyFansdotcom
 @niafoxo
@@ -23177,7 +18461,6 @@ https://t.me/joinchat/AAAAAFAsObSlGqtO3g8z7Q
 https://t.me/joinchat/AAAAAFdMVxHaJY8bwa5n4g
 https://t.me/joinchat/MH_M2huMBhhWSXb_KXlqog
 https://t.me/joinchat/AAAAAEVKD3f2YiETNqrwAA
-File Storage, [6/4/22 1:15 PM]
 xHamster (
 https://t.me/joinchat/AAAAAEzX1JCM6A1PCyZyHQ)
 ??????, ??? (
@@ -23212,42 +18495,6 @@ Pron 5 ????? (
 https://t.me/joinchat/AAAAAEcSAYhqFzxVBlmQVA)
 ???? Porn Full (
 https://t.me/joinchat/AAAAAEiDVV1Yd7mFD-8qRA)
-File Storage, [6/4/22 1:15 PM]
-xHamster (
-https://t.me/joinchat/AAAAAEzX1JCM6A1PCyZyHQ)
-??????, ??? (
-https://t.me/joinchat/AAAAAD4zBv0J4Qspw3IehA)
-???????? (
-https://t.me/joinchat/AAAAAFMwKhgvUA69-q7GNg)
-KISKA (
-https://t.me/joinchat/AAAAAEfsIjcwo6_505sBFw)
-BB (Big Booty) (
-https://t.me/joinchat/AAAAAEX4hvthIcXYatwsIw)
-??????? (
-https://t.me/joinchat/AAAAAE-fIvCzGBRihBjRdQ)
-Dude (
-https://t.me/joinchat/AAAAAFihxUshUc_1HGEQ7w)
-Sexy Girl (
-https://t.me/joinchat/AAAAAEmx-oFTasRnCZ-lkA)
-?????? ????? (
-https://t.me/joinchat/AAAAAELNLKpfFWmqARl0mQ)
-???? ?? ???? 18+ (
-https://t.me/joinchat/AAAAAE62N8MAnjJZ2r2XBw)
-PornhubTG (
-https://t.me/joinchat/AAAAAFYCPTkoM7xjSVDAnQ)
-Porn Kino (
-https://t.me/joinchat/AAAAAEFqfxElhtGL7mrw7Q)
-????? Full (
-https://t.me/joinchat/AAAAAFCs4HnHoN9iuA4WlQ)
-????? 18+ (
-https://t.me/joinchat/AAAAAEqaxTc4aAUlIit5hA)
-V U L G A R (
-https://t.me/joinchat/AAAAAEmTgHriMZhH_RlZzw)
-Pron 5 ????? (
-https://t.me/joinchat/AAAAAEcSAYhqFzxVBlmQVA)
-???? Porn Full (
-https://t.me/joinchat/AAAAAEiDVV1Yd7mFD-8qRA)
-File Storage, [6/4/22 1:15 PM]
 Telegram Channel Meme
 @meme_ol_eski
 @Salvador_meme
@@ -23285,9 +18532,7 @@ Telegram Channel Meme
 @CyanideandHappinessComic
 @politicallyincorrectjokes
 @cityofmeme
-@insideMonster
 @Marvel_The_Fun
-@SIXGAG
 @meme_mhr
 @kharmadaRmeme
 @HipHopFn
@@ -23299,16 +18544,14 @@ Telegram Channel Meme
 @mariz_land
 @samkade_rapi
 @meme_street
-@CykaBlyat_Army
 @JustPersianStuff
 File Storage, [6/4/22 1:16 PM]
 کیفیت زندگی در ایران خیلی جذابه
- https://www.numbeo.com/quality-of-life/country_result.jsp?country=Iran
+https://www.numbeo.com/quality-of-life/country_result.jsp?country=Iran
 https://t.me/Valuable_garbage
 https://t.me/kmiuc/503
 خوف
-@mamlekate
- http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist
+http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist
 https://t.me/pussy_hut
 https://hamed.blog/todo
 https://ravanhami.com/رواندرمانی-پویشی-فشرده-و-کوتاه-مدت
@@ -23318,36 +18561,23 @@ https://github.com/jakevdp/PythonDataScienceHandbook
 @NovelEast
 @chonglangsb
 @DYSJ7
-@chonglangsb
 @shinanijigen
 @qiongqu
 @chonglangtv2
- https://t.me/daixiuav
+https://t.me/daixiuav
 @aghazadeh24
 @quds_hajghasem
-@bidariymelat
 @BisimchiMedia
 @sabreen_news
 @secretonline
 @sarbazane_g
-@booksIranian1
-@freeforbiddenbook
-@freeiranbook
-@ketabnew
-@kettab1
-@sharingbook
-@Frreebook
-@romanmamnoe13
-@onlinelib
 @onlinelib2
 @onlinelib3
 @tg_InternetSecurity
 @onlinelib4
-@ketabsarayemazdak
- https://youtube.com/c/DharMannOfficial
+https://youtube.com/c/DharMannOfficial
 ⁪⁬⁮⁮⁮⁮ ⁪
-https://t.me/pussy_hut
- http://babyixntjlabwkpi.onion/viewtopic.php?f=222&t=5604
+http://babyixntjlabwkpi.onion/viewtopic.php?f=222&t=5604
 http://lolimknaduomuzdr.onion
 http://girlsprin3pqjyqk.onion
 http://boystownbezgvykp.onion/index.php?sid=f25019480e1ebc07d46fdba08aae7964
@@ -23365,18 +18595,14 @@ http://7k3rd4z6jmdq6agab4apnvuloy5bqy3pv7yyu4alyo6vuwpvezeho3yd.onion/index.php
 http://5hxxw4p4adget6dkbjflg2cfmktf5ojoq2sw5xyr6v4ekz6b4x56drad.onion
 http://gk3fgh3hqpiprgl5wgazny5qsxjjzndenzpgdsd6f7z4adrxaosf4dqd.onion/forum/login.php
 http://243vnzoix3ct6vowjgakv3pdqrzkfnkoz5plwgta3ar2onqobzhz5jid.onion/
-@BisimchiMedia
 @EtemadOnline
-@ManotoTV
-@IranintlTV
 کلا همینا رو دارم ولی همون یدونه بهترین شونه به نظرم
 بررسی کنم
 #منابع
 این #مطلب همیشه #ویرایش میشه
 منابع بنده کانالهای تکنولوژی : دیجیاتو ، زومجی ، ترنجی ، جی اس ام ، زومیت ، MOBNET TM ، موبو نیوز ، شهر سخت افزار ، گیگ تگ ، @coolProgrammers ، @webamoozir ، @Pgming ، @leakfarsi ، @xiaomiiranir ، @MSIFARSI ، @vpn_proxy66 ، @www_snn_ir ، @gadgetnews ، @eghtesadonline ، @anjoman_adminha ، @tg_ir ، @bilimatlab ، @Mi_digital ، @gizmochinaofficial ، @mobile_news2 و کانال @Techwithsina هستند...
- https://t.me/gizmochinaofficial
+https://t.me/gizmochinaofficial
 https://t.me/iAPtel
-https://t.me/toranji
 https://t.me/CafeTech2021
 https://t.me/mobile_news2
 https://t.me/UCIRANIR
@@ -23384,13 +18610,10 @@ https://t.me/shahrsakhtafzar
 https://t.me/gadgetnews
 https://t.me/vigiatonet
 https://t.me/thezoomit
-https://t.me/Digiato
 https://t.me/myzoomg
 https://t.me/m_android
-https://t.me/wbnet
 https://t.me/mobnet
 https://t.me/GSMwebsite
-https://t.me/proSSH
 https://t.me/majazist
 https://t.me/peivast
 https://t.me/android_best
@@ -23414,73 +18637,55 @@ https://t.me/rayanshopping
 کانال های توییتری هم : توییتر فارسی ، آخرین توییت ، توییتی و Twitter SUT
 خبر ها رو هم از کانال های تسنیم ، فارس ، شبکه خبر ، آخرین خبر و خبر از ما میفرستم بیشتر...
 بعضی از کانال های سرگرمی و عمومی مثل OK ، Weed Lash و... اگر مطالب مربوط به تکنولوژی و ترند شده بگذارند اینجا میفرستم حتما
- https://youtube.com/c/jimmyzirakJP1984
+https://youtube.com/c/jimmyzirakJP1984
 @NoGoolag
 @libreware
 پیشنهاد میکنم اینو بخونید
- https://telegra.ph/رشته-توییتی-از-pedhastam-07-26-3
-File Storage, [6/4/22 1:16 PM]
+https://telegra.ph/رشته-توییتی-از-pedhastam-07-26-3
 سایت های ارائه دهنده وایرگارد و اپن وی پی ان
- https://sshmax.net
 http://digitalssh.com
 https://jagoanssh.com
-https://greenssh.com
 https://www.vpnstunnel.com
-https://akunssh.net
-https://www.boostvpn.net
-https://globalssh.net
-https://sshocean.com
-https://www.jagoanssh.com
-File Storage, [6/4/22 1:16 PM]
 در ادامه بگم
 "Create. Discover. Seek. Learn. Teach."
 به کدومش عمل کردن؟ کسی که اهل یادگیری باشه نگی هم پیدا میکنه, درست تر بگم مجازات گشادیه و ذهنیتتون که چیزی پیدا نمیکنید
 خب, بیاین شمارو با چند ذهنیت اشنا کنم:
- https://www.youtube.com/watch?v=PSuldSPgXSk
+https://www.youtube.com/watch?v=PSuldSPgXSk
 خیلی ویدیو عه جالبیه لنتی
-File Storage, [6/4/22 1:16 PM]
 معرفی بهترین وبسایت های کاربردی:
 وبسایت chosic.com: اگر تو این وبسایت اسم آهنگ یا خواننده ی مورد نظرتون رو بنویسید تمام آهنگ‌ها و خواننده های مشابه رو بهتون میگه!!
 وبسایت letsenhance.io:اگه عکس بی کیفتی دارید این سایت با استفاده از هوش مصنوعی کیفیت عکستون رو به طور قابل ملاحظه ای افزایش میده.
 وبسایت movie-map.com:اگر اسم فیلم ‌مورد علاقتون رو توی این سایت بنویسید فیلم ها و سریال های همسبکشو براتون میاره!
 وبسایت virustotal.com:اگر از یه جایی یه فایل مشکوک دانلود کردید و میخوایید مطمئن شید که ویروسی نداشته باشه کافیه اون فایل یا لینکش رو به این سایت بدید تا با انواع انتی ویروس ها اونو بررسی کنه
-File Storage, [6/4/22 1:16 PM]
 دوستان خواهشا یکم درباره اوپن سورس بودن نرم افزارها سرچ‌ کنید
 مهم نیست مال هرکجا باشه مهم متن باز بودنه اون نرم افزاره
 درسته بارها گفتیم اپلیکیشنهای چینی مورد اعتماد نیستن ولی اونا متن بسته هستند ما نمیدونیم با نصبش چه اتفاقی میفته اما جریان اوپن سورس بودن نرم افزار حتی چینی یا روسی بودن فرق داره
-کلیپ مستند انقلاب اوپن سورس (
-https://www.aparat.com/v/BKgiT/مستند_انقلاب_اوپن_سورس(متن_باز)_-_کامل_با_زیرنویس_فارسی)
-این کلیپ به زبان ساده توضیح داده (حدود ۳ دقیقه س )
 کلیپ اهمیت استفاده از نرم افزار اوپن سورس
-(
 https://www.aparat.com/v/UHf5Q/اهمیت_استفاده_از_نرم_افزار_های_آزاد_(Open_Source))متن باز (اوپن سورس) ویکیپدیا
-File Storage, [6/4/22 1:16 PM]
 Mega Downloader
 @mega_download_bot
 Mega Uploader
-@MegaUploadXbot
 @MeganzBot
-File Storage, [6/4/22 1:16 PM]
- https://t.me/packpublic
+https://t.me/packpublic
 @wwwjc313irir
- https://t.me/Unlimited_Power
+https://t.me/Unlimited_Power
 https://t.me/joinchat/H7_q5VXjjBotfVChhekL6A
 https://t.me/khalghkonandekhobi
 @newpacks
- https://t.me/joinchat/EekWHVAWtaWAntEoT8GVDQ
+https://t.me/joinchat/EekWHVAWtaWAntEoT8GVDQ
 https://t.me/The_Package
 https://t.me/Technoland_org
 @technoland_org
- https://t.me/joinchat/AAAAAEqi8SjIIYvPhCa6hA
+https://t.me/joinchat/AAAAAEqi8SjIIYvPhCa6hA
 https://t.me/FullPackage
 https://t.me/joinchat/GVjxEExmZZ-ofHSFIHnVhQ
 https://t.me/hackers123
 https://t.me/dozdinakonim
 @VIP_Security
- https://t.me/ss_jahangiriyan
+https://t.me/ss_jahangiriyan
 https://t.me/zangedanesh
 @LearnFast
- https://t.me/packagebank
+https://t.me/packagebank
 https://t.me/World_Pack
 https://t.me/parvaresheafkar
 https://t.me/PptBank
@@ -23498,7 +18703,7 @@ https://t.me/NewRabinHood
 https://t.me/offteam
 https://t.me/Areavps
 @joel_victoriya_osteen
- https://t.me/JoelOsteen_ir
+https://t.me/JoelOsteen_ir
 https://t.me/SoldierCS
 https://t.me/Public_P4ck4ge
 https://t.me/wwwjc313irir
@@ -23602,7 +18807,7 @@ https://t.me/myfreepacks
 https://t.me/prive8pack
 https://t.me/S3CURITY_GRAY
 @packpublic
- https://t.me/tabligat_perfect
+https://t.me/tabligat_perfect
 https://t.me/abasmanesh_com
 https://t.me/Infinite_pack
 https://t.me/kali_Linuxxx
@@ -23621,134 +18826,11 @@ https://t.me/soheilshivafar
 https://t.me/AbasmaneshGroup
 https://t.me/JolEston
 @InfinitePack
- https://t.me/Saleh_Software
-File Storage, [6/4/22 1:16 PM]
- https://t.me/gholejadoo
-Project Charlotte (Died):
-اخبار
-@SNTankograd
-@bidariymelat
-@Ayandeh_2020
-@jokernejad
-@pourostadv
-@aafakhravar
-@alarabiya_far
-@araznews
-@bbcpersian
-@dorrtv
-@mamlekate
-@iranyaran
-@irbriefing
-@roozanefarsi
-@radiozamaneh
-@euronewspe
-@dw_farsi
-@Farsi_Iranwire
-@USAdarFarsi
-@radiofarda
-@farsivoa
-@IranintlTV
-@ManotoTV
-@Indypersian
-@factnameh
-@digitalshahrvand
-@javanmardi77
-@shirinebadiofficial
-@HemnSeyedi
-@masih_alinejad
-@HosseinBastaniChannel
-@saba_azarpeik
-@yashar_soltani
-@akbarein
-@mojvahedi
-@AmirTaheri4
-@NarimanGharib
-@khabargram2018
-@hafezeye_tarikhi
-@NashrAasoo
-@ADjabehsiah
-@iranpediawiki
-@IsraelinFarsi
-@KayhanLondonChannel
-@TwitterMamnoe
-@TwitterinFarsi
-@TwitterMeligarayan
-@gamaanresearch
-@raavionline
-@Eterazebazar
-@unikador
-@hranews
-@pake_shadie
-@VahidOnline
-@webamoozir
-@FreedoMessenger
-@Persian_Nazi
-@poshtpardeha
-@ohnews
-@MutedNews
-@enghelabehtafakor
-@IRRealHistory
-@kasravi_ahmad
-@Diplomatic313
-@po_litics
-@AYATOLLAH_BBC
-@tokenbazcom
-@sahamnewsorg
-@boltann
-@iamusd
-@iran_times
-@akhbr_mvsgh
-@Diplomatic313
-@sahamnewsorg
-@chaatanoga
-@GOZARADYAN
-@TANZADYAN2
-@aks_Army_new
-@ZagsTab
-@sepehrazadi
-@siasattalkh
-@AnimalsQuotes
-@iranarchismnews
-@etelaf10
-@gooyadotcom
-@gunaztv2004
-@idfonlinefarsi
-@kalemehtv
-@radisorg
-@tavaana_tavaanatech
-@tavaanatech
+https://t.me/Saleh_Software
+https://t.me/gholejadoo
 @roozArooz_media
 @khabar_newa
- https://t.me/joinchat/TJs2Dkvwhd7txAhSPXge7w
-این لیست تکمیل و تکمیل تر میشه
-@neurobiology_of_art
-@ArtOfScienceGroup
-@hidden_Web
-@daabeh
- https://t.me/ofoghroydad
-https://t.me/iranarchismnews
- https://t.me/ofoghroydad
- https://t.me/orttor
- https://t.me/FarazTed
- https://t.me/PHILOSOPHI_ZER
- https://t.me/neurobiology_of_art
- https://t.me/evophilosophy
- https://t.me/politicallyincorrectjokes
- https://t.me/CineDreaming
- https://t.me/daneshagahi
- https://t.me/dadoem
- https://t.me/PCMR_Reddit
- https://t.me/hacker_news_feed
- https://t.me/leninstreet
- https://t.me/elearninglinks
- https://t.me/science
- https://t.me/SurrealMind
- https://t.me/gofuckyourselfwithachainsawdildo
- https://t.me/Patreonstudio
- https://t.me/scienceforlife1
- https://t.me/joinchat/y3sWSq-tsXdhMzU0
- https://t.me/ArtOfScienceGroup
- https://t.me/bishtarazyk
+https://t.me/bishtarazyk
 https://t.me/royalmind
 https://t.me/all_pack
 https://t.me/pack_doni
@@ -23759,7 +18841,7 @@ https://t.me/pack_7
 https://t.me/abasmanesh_c0m
 https://t.me/InfinitePack
 https://t.me/mrsokhanvaran
- https://t.me/MOH3EN2
+https://t.me/MOH3EN2
 https://t.me/Vip2mohsen
 https://t.me/raygan_gram
 https://t.me/vip_etehad_sibery
@@ -23787,17 +18869,17 @@ https://t.me/mega_book
 https://t.me/CrackingMasters
 https://t.me/joinchat/AAAAAEKqhrB_UDwj-qM56g
 @MOH3EN2
- https://t.me/Hackest0606
+https://t.me/Hackest0606
 https://t.me/tahran_hack
 https://t.me/Tradingnew
 @drh4ck3r
- https://t.me/gold_pack100
+https://t.me/gold_pack100
 https://t.me/Gold_pack
 https://t.me/gold_pack13
 https://t.me/abasmanesh_old
 https://t.me/tahran_hack3
 @Bl4ckCoder
- https://t.me/tahran_hack2
+https://t.me/tahran_hack2
 https://t.me/webmasteranbartar
 https://t.me/gold_pack12
 https://t.me/DevelopersLearn
@@ -23807,7 +18889,7 @@ https://t.me/MOH21EN
 https://t.me/Flakkapremium2
 @PackPublic
 @VipCourse
- https://t.me/Abasmanesh_com4
+https://t.me/Abasmanesh_com4
 https://t.me/Abasmanesh_com6
 https://t.me/Abasmanesh_com3
 https://t.me/Abasmanesh_com5
@@ -23817,8 +18899,7 @@ https://t.me/Abasmanesh_com_1
 https://t.me/ahwaz_1223
 https://t.me/eeeeegtt
 https://t.me/Abasmaneshhi
-File Storage, [6/4/22 1:16 PM]
- https://t.me/god_pack
+https://t.me/god_pack
 https://t.me/joinchat/AAAAAFNcFY3gvEaaJ4MW4A
 https://t.me/download66
 https://t.me/Source98
@@ -23827,9 +18908,8 @@ https://t.me/plus_pack
 https://t.me/Ghaleb_Free_WP
 https://t.me/IranHackerz.
 @hoseiinhack
- https://t.me/TePub
-File Storage, [6/4/22 1:16 PM]
- https://t.me/PAP_VIP
+https://t.me/TePub
+https://t.me/PAP_VIP
 https://t.me/Account_CENT3R
 https://t.me/chanelpach
 https://t.me/ChannelPack
@@ -23841,14 +18921,11 @@ https://t.me/donyayepack3
 https://t.me/joinchat/BcbA6UOQbazA7b3WvyRHCQ
 https://t.me/joinchat/CHKuiUmB-rP54kUqZf0gaA
 https://t.me/agent_ali_fake
-https://t.me/joinchat/CHKuiUmB-rP54kUqZf0gaA
 https://t.me/enokhbegan
 https://t.me/darbareye_alinoein
- https://t.me/Shop_WP
-File Storage, [6/4/22 1:16 PM]
+https://t.me/Shop_WP
 @diamondsteeam
-File Storage, [6/4/22 1:16 PM]
- https://t.me/zendegibarrtar
+https://t.me/zendegibarrtar
 https://t.me/millionaire_mentor
 https://t.me/ideabaran
 https://t.me/karinoideh
@@ -23857,7 +18934,6 @@ https://t.me/ideawatch
 https://t.me/StartupNet
 https://t.me/joinchat/BLYWIT-6UqtvZxbzc0e7_g
 https://t.me/abolfazlehesaraki
-File Storage, [6/4/22 1:16 PM]
 با سلام و آرزوی لحظاتی خوب و عالی برای شما .
 با توجه به درخواست های متعدد اعضا در مورد فایل ها یا دوره های موفقیت و مرتبط با مباحث روانشناسی ؛و هچنین سوء استفاده اشخاصی که خود صاحب این آثار نبوده و اقدام به فروش این پکیج ها در کانال خود ,به دیگران میکنند , و اینکه فرصتی برای ارائه این پکیج ها و فایل ها به صورت دسته بندی شده در اختیار ندارم , تصمیم به جمع اوری و ارائه لیستی از کانال هایی نمودم که این آثار را ارائه میکنند.تا به منابع دسترسی داشته باشید.و اگر خواستید هزینه ای پرداخت کنید , به خود صاحبان آثار پرداخت کنید.نه افرادی که اقدام به سوء استفاده های مالی میکنند.
 آیدی کانال های ارائه پکیج و دوره های موفقیت و متفرقه
@@ -23880,14 +18956,12 @@ File Storage, [6/4/22 1:16 PM]
 @myfreepacks
 @GoldLearning
 @pack_majani
-@myfreepacks
 @gold_pack13
 @Infinite_pack
 @DVD_Konkori
 @kttttttttttttt
 @Vip2mohsen
 @soutidastan
-@packpublic
 @free_pack1
 @boook_pdf
 @Priv8_P4ck
@@ -23896,12 +18970,10 @@ File Storage, [6/4/22 1:16 PM]
 @irpackage
 @Pack_Jet
 @freefilmy
-@newpacks
 @PackJet
 @bsbsbs2
 @pack_7
 @egold
-
 آیدی کانال های متفرقه مفید
 @SUBLIMINAL_BIOKINESIS
 @mahmoudpourchannel
@@ -23922,129 +18994,30 @@ File Storage, [6/4/22 1:16 PM]
 @VIPmano
 @PptBank
 @RichHex
-
 لینک گروه های مفید
 سوپر گروه کتابخانه ممنوعه صوتی
- https://t.me/joinchat/C_v2V0Ajm6utaLCY7R09ww
-
+https://t.me/joinchat/C_v2V0Ajm6utaLCY7R09ww
 سوپر گروه کتابخانه ممنوعه
- https://t.me/joinchat/CTUvPU_-z8Srkp2u0ML5-Q
-
+https://t.me/joinchat/CTUvPU_-z8Srkp2u0ML5-Q
 سوپر گروه کتابخانه مانیفست
- https://t.me/joinchat/CYvT3kM9vMj8YQinSbgdRQ
-
+https://t.me/joinchat/CYvT3kM9vMj8YQinSbgdRQ
 سوپر گروه درخواست کتاب نایاب
- https://t.me/joinchat/Epsiij_SqKFPBuDD29r9hA
-
+https://t.me/joinchat/Epsiij_SqKFPBuDD29r9hA
 سوپر گروه درخواست کتاب کتابگرام
- https://telegram.me/joinchat/DPYNaj7lWTJ7JWf7UqHR6Q
-
+https://telegram.me/joinchat/DPYNaj7lWTJ7JWf7UqHR6Q
 لینک جوین کانال منابع کنکور 5
- https://t.me/joinchat/AAAAAEztuJokDghSse4uBA
-
 ادامه فعالیت کانال , به علت رسیدگی به کارهای شخصی , فعلا امکان پذیر نیست.
 لطفا برای جلوگیری از سوء استفاده افراد؛ لیست بالا رو در گروه ها یا کانال هایی که دارید , فوروارد و یا کپی کنید. با تشکر
-File Storage, [6/4/22 1:16 PM]
-با سلام و آرزوی لحظاتی خوب و عالی برای شما .
-با توجه به درخواست های متعدد اعضا در مورد فایل ها یا دوره های موفقیت و مرتبط با مباحث روانشناسی ؛و هچنین سوء استفاده اشخاصی که خود صاحب این آثار نبوده و اقدام به فروش این پکیج ها در کانال خود ,به دیگران میکنند , و اینکه فرصتی برای ارائه این پکیج ها و فایل ها به صورت دسته بندی شده در اختیار ندارم , تصمیم به جمع اوری و ارائه لیستی از کانال هایی نمودم که این آثار را ارائه میکنند.تا به منابع دسترسی داشته باشید.و اگر خواستید هزینه ای پرداخت کنید , به خود صاحبان آثار پرداخت کنید.نه افرادی که اقدام به سوء استفاده های مالی میکنند.
-آیدی کانال های ارائه پکیج و دوره های موفقیت و متفرقه
-@publicpackforward
-@UELlOW_DlAMOND
-@Pake_rayegan4388
-@abasmanesh2030
-@baghkhas_hacker
-@PublicedPackage
-@vip_abasmanesh
-@goldenpackagee
-@Flakkapremium
-@DvD_Konkori98
-@Abasmanesh_t
-@Package_home
-@tahran_hack
-@tahran_hack2
-@tahran_hack3
-@amazingpack
-@myfreepacks
-@GoldLearning
-@pack_majani
-@myfreepacks
-@gold_pack13
-@Infinite_pack
-@DVD_Konkori
-@kttttttttttttt
-@Vip2mohsen
-@soutidastan
-@packpublic
-@free_pack1
-@boook_pdf
-@Priv8_P4ck
-@kingofpack
-@MOH3EN5
-@irpackage
-@Pack_Jet
-@freefilmy
-@newpacks
-@PackJet
-@bsbsbs2
-@pack_7
-@egold
-
-آیدی کانال های متفرقه مفید
-@SUBLIMINAL_BIOKINESIS
-@mahmoudpourchannel
-@abasmanesh_c0m
-@file_of_sycolo_g
-@AmoozeshBank
-@best_idea_foru1
-@moneymoney
-@Azmandian_Dr
-@AsatideJahani
-@Daren_Hardy
-@vpsychology
-@arshiyan_far
-@angizeshe_ir
-@shaadkamii
-@Idepoolsaz
-@Nikvujicic
-@VIPmano
-@PptBank
-@RichHex
-
-لینک گروه های مفید
-سوپر گروه کتابخانه ممنوعه صوتی
- https://t.me/joinchat/C_v2V0Ajm6utaLCY7R09ww
-
-سوپر گروه کتابخانه ممنوعه
- https://t.me/joinchat/CTUvPU_-z8Srkp2u0ML5-Q
-
-سوپر گروه کتابخانه مانیفست
- https://t.me/joinchat/CYvT3kM9vMj8YQinSbgdRQ
-
-سوپر گروه درخواست کتاب نایاب
- https://t.me/joinchat/Epsiij_SqKFPBuDD29r9hA
-
-سوپر گروه درخواست کتاب کتابگرام
- https://telegram.me/joinchat/DPYNaj7lWTJ7JWf7UqHR6Q
-
-لینک جوین کانال منابع کنکور 5
- https://t.me/joinchat/AAAAAEztuJokDghSse4uBA
-
-ادامه فعالیت کانال , به علت رسیدگی به کارهای شخصی , فعلا امکان پذیر نیست.
-لطفا برای جلوگیری از سوء استفاده افراد؛ لیست بالا رو در گروه ها یا کانال هایی که دارید , فوروارد و یا کپی کنید. با تشکر
-File Storage, [6/4/22 1:16 PM]
- https://t.me/Free_packag
+https://t.me/Free_packag
 https://t.me/fazlearn
 https://t.me/programingteam
 https://drive.google.com/drive/folders/1ADiGDH8rB2BjXk12DUqNje35RhiffS2U
 https://t.me/homeandroid_ir
 https://t.me/PACKAG3S
 https://t.me/alijenab79
-https://t.me/plus_pack
-https://t.me/Ghaleb_Free_WP
 https://t.me/joinchat/ILd5xxTnmIJSr34XYlFu6Q
 https://t.me/joinchat/AAAAAFXbF1tjinjF5NfZcw
 https://t.me/saeedpourandi
-https://t.me/plus_pack
 https://t.me/asatidmovafagh
 https://t.me/joinchat/DVWiUFAGr53CMUAFS-Sk0A
 https://t.me/KOHACK1
@@ -24053,17 +19026,14 @@ https://t.me/shaadkamii
 https://t.me/turkiyeseviyorum
 https://t.me/MyAbasmanesh
 https://t.me/abasmaneshbot
- https://t.me/Computer_IT_Engineering
 https://t.me/packagepab
- https://t.me/joinchat/FavzXUoRQekP1T3bZDe7lQ
- https://t.me/packyab
- https://t.me/rwordpress
+https://t.me/joinchat/FavzXUoRQekP1T3bZDe7lQ
+https://t.me/packyab
+https://t.me/rwordpress
 https://t.me/joinchat/MFrbFRQGgY-IEz5AzGtDlg
- https://t.me/joinchat/BV1o2Um-eeDVJnfw-YqBJg
+https://t.me/joinchat/BV1o2Um-eeDVJnfw-YqBJg
 https://t.me/joinchat/JmQrpBObFAF6b5s6OsAB2g
-https://t.me/joinchat/EekWHVAWtaWAntEoT8GVDQ
 https://t.me/joinchat/HBQ8z0SL4wol_6VhMmisgQ
-https://t.me/joinchat/BcbA6UOQbazA7b3WvyRHCQ
 https://t.me/joinchat/JmQrpFjFl_JmGYDFCPJyCg
 https://t.me/joinchat/CrBIZVGlJmB5mPC9mwsJSw
 https://t.me/abasmaneshghadam
@@ -24078,9 +19048,7 @@ https://t.me/abasmaneshghadam
 گالری تجسم
 @vion_gallery
 کتابخانه جول اوستین
-@joel_victoriya_osteen
 کانل فایل تصویری عباسمنش
-@abasmanesh_c0m
 استرهیکس
 @Estherhicks_ir
 زندگی نامه افراد موفق
@@ -24088,19 +19056,13 @@ https://t.me/abasmaneshghadam
 آنتونی رابینز
 @AnthonyRobinz
 کتاب خانه pdf
-@boook_pdf
 (اساتیدجهانی)
-@AsatideJahani
 وین دایر
 @wayne_dyer
 نیک ویچیچ
-@Nikvujicic
 دارن هاردی
-@Daren_Hardy
 انگیزشی موفقیتی
-@angizeshe_ir
 دکترآزمندیان
-@Azmandian_Dr
 فروشگاه تلگرامی موفقیت
 @jadoyebavar_ir
 باب پراکتور
@@ -24112,9 +19074,7 @@ https://t.me/abasmaneshghadam
 جیم ران
 @sefrta_servat
 استاد عباس منش
-@Abasmanesh_t
 کتابخانه صوتی موفقیت
-@kttttttttttttt
 کتابهای پیشنهادی کوین ترودو
 @Kevin_book
 هوش مالی(رابرت کیوساکی)
@@ -24123,67 +19083,60 @@ https://t.me/abasmaneshghadam
 @BrianTracy_ir
 کوین ترودو
 @jadoye_bavar
- https://t.me/irannlpacademy
+https://t.me/irannlpacademy
 https://t.me/freepackiran
- https://t.me/joinchat/C3b8AUj2-ABIKmnZhFlWYg
+https://t.me/joinchat/C3b8AUj2-ABIKmnZhFlWYg
 لینک گروه بنویس تا اتفاق بیفتد
-
- https://t.me/joinchat/IYpb8ElYcSWHv_9rR0HTUQ
+https://t.me/joinchat/IYpb8ElYcSWHv_9rR0HTUQ
 لینک گروه رسمی عباس منش
- https://t.me/joinchat/IPx-m1dXuaiSWPwrHAqPbw
+https://t.me/joinchat/IPx-m1dXuaiSWPwrHAqPbw
 لینگ گروه علم و عمل قانون جذب
-
 قانون جذب
- https://t.me/joinchat/IYpb8EeWwkytkH56ThwpuA
+https://t.me/joinchat/IYpb8EeWwkytkH56ThwpuA
 لینک گروه شکرگزاری
- https://t.me/joinchat/IYpb8FimZ5TI2vM-eWUYgA
+https://t.me/joinchat/IYpb8FimZ5TI2vM-eWUYgA
 شکر نعمت ،نعمتت افزون کند
 کفر نعمت ،نعمت از کفت برون کند
 قانون جذب همسر دلخواه
 جذب همسر دلخواه
-قانون جذب
 @hamsardelga
- https://t.me/hamsardelga
- https://t.me/ShadmanHack
-@shaadkamii
+https://t.me/hamsardelga
+https://t.me/ShadmanHack
 @Abasmanesh2020
- https://t.me/moftipack1
+https://t.me/moftipack1
 دوره های زبان رضا آرش نیا
 1100 واژه
- https://t.me/joinchat/AAAAAE1vGUba-Km8GkqenQ
+https://t.me/joinchat/AAAAAE1vGUba-Km8GkqenQ
 600واژه
- https://t.me/joinchat/AAAAAEcT5nDBB4BKEqgEnw
+https://t.me/joinchat/AAAAAEcT5nDBB4BKEqgEnw
 مکالمه
- https://t.me/joinchat/AAAAAFO42RAJl0mkI1t04g
+https://t.me/joinchat/AAAAAFO42RAJl0mkI1t04g
 504 واژه
- https://t.me/joinchat/AAAAAFZqO3iugc8SbSCxpQ
- https://t.me/kasbokar5
+https://t.me/joinchat/AAAAAFZqO3iugc8SbSCxpQ
+https://t.me/kasbokar5
 https://t.me/webmasterstool
-File Storage, [6/4/22 1:16 PM]
 @bishtarazyek_free
- https://t.me/hosh_malii
+https://t.me/hosh_malii
 https://t.me/packdoni
-https://t.me/Pake_rayegan
 https://t.me/packforfree
 @vip_etehad_sibery
 @mdkskdkjd
 @MSA_ChaNNeL
- https://t.me/kosokonira
+https://t.me/kosokonira
 https://t.me/IRFOREX
 @www_ParvaresheAfkar_com
 @unlimitedpower_ir
- https://t.me/joinchat/AAAAAFPLyaSJbG3DsZJzrg
+https://t.me/joinchat/AAAAAFPLyaSJbG3DsZJzrg
 https://t.me/vip_sokhte_jet
 @PublicGeram
- https://t.me/abasmanesh_daron
+https://t.me/abasmanesh_daron
 https://t.me/VIP_S_HOP
 https://t.me/packforyouGp
- https://t.me/joinchat/AAAAAETp0fwMLeyuKYhOKw
+https://t.me/joinchat/AAAAAETp0fwMLeyuKYhOKw
 ارتباط با مدیر
 @urbanism97
 @VipChannelPersonal
-File Storage, [6/4/22 1:16 PM]
- https://t.me/Arshiyanfar2
+https://t.me/Arshiyanfar2
 https://t.me/packforyou3
 https://t.me/joinchat/LarPEQ27GaDaa4CoEFfRlA
 https://t.me/FARACHAR
@@ -24195,40 +19148,32 @@ https://t.me/pakeyj_rayegan
 https://t.me/Shadman_Hack
 https://t.me/Dorehamistartup
 کسب درآمد حلال اینترنتی وحید قاسمی
- https://t.me/joinchat/AAAAAFg0GXc82ATDQc00iw
+https://t.me/joinchat/AAAAAFg0GXc82ATDQc00iw
 گپ دیجیتال مارکتینگ
 ادمین: @farzadqd
- https://t.me/joinchat/FkBsIhZMhbgbSSsEb58N6Q
- https://t.me/VipChannelPersonal
-File Storage, [6/4/22 1:16 PM]
+https://t.me/joinchat/FkBsIhZMhbgbSSsEb58N6Q
 @TheLawofcretion
 @pakgbinary
 @beheshtba
- https://t.me/makab_plus
-File Storage, [6/4/22 1:16 PM]
+https://t.me/makab_plus
 این سایت کد تخفیفای ۱۰۰ درصدی میزاره
- https://sharewareonsale.com
-File Storage, [6/4/22 1:17 PM]
- https://t.me/privateprogramming
+https://sharewareonsale.com
+https://t.me/privateprogramming
 @English_translator_user
- https://t.me/ziccoplus
+https://t.me/ziccoplus
 https://t.me/amozeshmoft
 https://t.me/joinchat/AAAAAFVh0qvuj7L3CZkSUQ
-File Storage, [6/4/22 1:17 PM]
 🐿🐿 حتما تو گروه عضو شید
- https://t.me/joinchat/FeQu-kSL4wqBKnvKZfiDuw
-File Storage, [6/4/22 1:17 PM]
+https://t.me/joinchat/FeQu-kSL4wqBKnvKZfiDuw
 @eidi4635
 @Joel_Osteen
 @myjol
-@Estherhicks_ir
 @ShaDMaN_HaCKe
 @packagedarya
 @forex_vs_binary
 @jazbishooo
 @ArashConversation
- https://t.me/joinchat/AAAAAFWfjQkVecpFzu9VZA
-File Storage, [6/4/22 1:17 PM]
+https://t.me/joinchat/AAAAAFWfjQkVecpFzu9VZA
 @TelServat
 @azdvajmofagh
 @freelearningg
@@ -24236,11 +19181,8 @@ File Storage, [6/4/22 1:17 PM]
 @MyFreeCourses
 @tactics_vip
 @ZabanAshkan
-@azdvajmofagh
 @rezar91
 @ITRoadMap
-@English_translator_user
-@AmoozeshBank
 @sh1396books
 @faghatkhoda135056
 @i_font
@@ -24255,27 +19197,23 @@ File Storage, [6/4/22 1:17 PM]
 @shuterstockfree
 @linkdoni20302
 @Experts_on
- https://t.me/joinchat/Dlbn4EhWkz7hl6nWFiXNIw
+https://t.me/joinchat/Dlbn4EhWkz7hl6nWFiXNIw
 @udemyoffs
- https://t.me/joinchat/AAAAAE_Dn5JQkRwekrCMYw
+https://t.me/joinchat/AAAAAE_Dn5JQkRwekrCMYw
 https://t.me/joinchat/AAAAAE6SeQdGZT5r-UpXTg
 https://t.me/joinchat/MjADmheCdo7B45BSQEaJ0A
 https://t.me/joinchat/IEEzKBX2tHhU_X6uqxeSnw
-File Storage, [6/4/22 1:17 PM]
 @eydianfuck
 @Dark_netVIP
 @Dark_net1
 @prive4pack
- https://t.me/joinchat/AAAAAE35U1odhuKYJ6uVhg
+https://t.me/joinchat/AAAAAE35U1odhuKYJ6uVhg
 https://t.me/InfinitePrime
 https://t.me/Package_Khaneh
 کانال فونت
-@i_font
 @pen_tarahi
-@soutidastan
-@Archivebooks
 کل مطالب ماشین پولسازه ایجنت کاوه در اینجا قرار میگیرد قیمت 1370000 تومان برای شما رایگان
- https://t.me/eyjentasghar2
+https://t.me/eyjentasghar2
 https://t.me/eyjentasghar
 @abasmanesh_12ghadam
 دوازده قدم موفقیت️
@@ -24295,26 +19233,23 @@ https://t.me/eyjentasghar
 Includes Vector images,Everything You Need!
 LINK : bit.ly/ABCD134
 Password : Miriam
- https://drive.google.com/drive/folders/14lTj09SaCemmlqvVMpiz98t4xHjFL21f
+https://drive.google.com/drive/folders/14lTj09SaCemmlqvVMpiz98t4xHjFL21f
 300 Gig shuterstock image
 دانلود رایگان فایل های لایه باز Freepik
 Shuterstock
 @freepikchannel
 بحث و گفتگو پیرامون ارزهای دیجیتال
- https://t.me/joinchat/Bf56X1StGbEteVhssvRMaQ
+https://t.me/joinchat/Bf56X1StGbEteVhssvRMaQ
 Admin : @Eclubs_ir
 کل پکیج های بورس، ترید، فارکس، باینری
- https://t.me/joinchat/AAAAAFA3qt2nEAe5DCn22Q
+https://t.me/joinchat/AAAAAFA3qt2nEAe5DCn22Q
 VIp بورس
- https://t.me/joinchat/AAAAAE6PnHUZUf6_3FpQLA
+https://t.me/joinchat/AAAAAE6PnHUZUf6_3FpQLA
 وی آی پی(VIP) علی نویین که با قیمت دویست تومن میفروختنش
- https://t.me/joinchat/AAAAAEvkOEgdSzEx8I1hNA
+https://t.me/joinchat/AAAAAEvkOEgdSzEx8I1hNA
 @Movaffaghtarinhaa
-File Storage, [6/4/22 1:17 PM]
-کانال کنکوری
- https://t.me/joinchat/AAAAAEztuJqX70XbLQZ97Q
+https://t.me/joinchat/AAAAAEztuJqX70XbLQZ97Q
 @Filmkonkori
-@freefilmy
 @canalldarse
 @davazdahomtajrobikonkor
 #گروه های اختصاصی دهم یازدهم و دوازدهم
@@ -24340,7 +19275,6 @@ File Storage, [6/4/22 1:17 PM]
 گروه #چت_روم
 @Gpp_Chat
 #کانال های اختصاصی دهم یازدهم و دوازدهم
-✾✾✾✾✾✾✾✾✾✾✾✾✾✾✾✾
 کانال #زیست
 @Ziist_10_11_12
 کانال #شیمی
@@ -24375,37 +19309,15 @@ File Storage, [6/4/22 1:17 PM]
 @Yazdahomiy
 کانال #پایه_دوازدهـم
 @Davazdahomiy
-File Storage, [6/4/22 1:17 PM]
- https://mycoolmoviez.net
-https://torhd.com
-https://www.publicdomaintorrents.info
-https://123movieshubz.com
-https://www.027ppt.com
-https://www.godownloadmovies.com
-https://www.foumovies.com
-http://www.FoxMovie.Co
-https://psarips.eu
-https://tvpedia.co/index.php
-http://rmz.cr
-http://Filmbazan.pro
-http://mymovie3enter.info
-https://rosemoviez.com
-https://Hiva.site
-https://downloadrooz.pro
-https://www.film2media.pw
-http://myhastidl6.top
-https://my-filmm.info
 https://STARTDL.IRYOOZDL.COM
 https://finalmovie.zone
 30nama.ltd
 karanmovie.net
- https://t.me/amookhtenglish
+https://t.me/amookhtenglish
 @Pack_list
 @rahonline
 @kharpack
-@freefilmy
- https://t.me/packya
-https://t.me/joinchat/Bf56X1StGbEteVhssvRMaQ
+https://t.me/packya
 @persianpacks
 @freepack_hack
 @PackageCom
@@ -24419,63 +19331,45 @@ VIP2_MOH3EN2:
 https://t.me/joinchat/AAAAAEgymRrJVC8qX4iN7Q
 https://t.me/joinchat/AAAAAE50HvBqaubKPfLCpg
 @hesaraki_doreh
-@MRPACKAGE
 @DarkBishop
- https://t.me/drholakouee_official
+https://t.me/drholakouee_official
 @newflakka
- https://t.me/joinchat/AAAAAEsXAi1D9KV6PWWfSg
+https://t.me/joinchat/AAAAAEsXAi1D9KV6PWWfSg
 https://t.me/sayahosh_efshagari
 https://t.me/hesaraki_ideh
-https://t.me/sayahosh_efshagari
 https://t.me/linkgozarii
 https://t.me/ketabkhane_goya
 @subliminal_biokinesis
- https://t.me/msntahlilgaram
-https://t.me/joinchat/AAAAAEvkOEgdSzEx8I1hNA
-https://t.me/joinchat/AAAAAE6PnHUZUf6_3FpQLA
+https://t.me/msntahlilgaram
 @azxorrrrrr
-@pack22
 @boookmp3
-@MRPACKAGE
 سئو
- https://t.me/joinchat/MjADmheCdo7B45BSQEaJ0A
-@Movaffaghtarinhaa
-File Storage, [6/4/22 1:17 PM]
 کانال های پروکسی
- https://t.me/MTProto_Russia_Proxy
+https://t.me/MTProto_Russia_Proxy
 https://t.me/PowerfulProxy
 https://t.me/filtershekanha
-@PinkProxy
-@ProxyMTProto
 @proxy_active
-@mtprotoir
-@mt_proxyis
 @RotaiL_ProxY
-@TelMTProto
-@Forall_Proxy
- https://t.me/MTProxies
+https://t.me/MTProxies
 https://t.me/proxymex
 https://mtpro.xyz/mtproto
 https://t.me/ProxyMTProto
 https://t.me/TelMTProto
 https://t.me/MTPporoxy
-https://t.me/proxymex
 https://t.me/NewMTProxies
 https://t.me/MTProtoProxiess
 https://t.me/MTP_roto
 https://t.me/IRProxyTel
 https://t.me/MTProtoProxies
 https://t.me/DigitalResistanceProxyChannel
-https://t.me/ProxyMTProto
 https://t.me/proxyss
 https://t.me/tawanaproxy
 https://t.me/MTProxyT
-https://t.me/MTProxies
 https://t.me/MTProtoTG
 @FCK_RKN_bot
- https://t.me/MTProxyNET
+https://t.me/MTProxyNET
 @BestMTProxyBot
- https://t.me/Official_MTproxy
+https://t.me/Official_MTproxy
 https://t.me/bestfreeproxy
 https://t.me/tawanaporoxy
 https://t.me/MTProxytg
@@ -24488,126 +19382,60 @@ https://t.me/mtproto_proxy_ru
 https://t.me/prxninja
 https://t.me/tlgdoc
 @socks5_bot
- https://t.me/MTProto_DMovies
+https://t.me/MTProto_DMovies
 @tawanaproxy
-@mtprotoir
 @proxy_plus2
 @ForiProxy
 @TheWorldOfProxy
 @SignalProxy
-@MTProtoProxies
 File Storage, [6/4/22 1:11 PM]
 لینک url کلش
- https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
- https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
- https://github.com/farhad-fahim/init/releases/download/ShadowSocks/AzadNet.yml
- https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(34687).yml
+https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(34687).yml
 در صورت اد نشدن از یک فیلترشکن دیگه استفاده کنید
-@vpn_proxy66
-File Storage, [6/4/22 1:11 PM]
- https://youtu.be/6gqLWTSz6ck
-File Storage, [6/4/22 1:11 PM]
- https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
-File Storage, [6/4/22 1:11 PM]
- https://commons.m.wikimedia.org/wiki/Category:Linux_distributions
+https://youtu.be/6gqLWTSz6ck
+https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
+https://commons.m.wikimedia.org/wiki/Category:Linux_distributions
 onion play
 پخش آنلاین فیلم و سریال
 فول آرشیو
- https://onionplay.co/
-#معرفی_سایت
-File Storage, [6/4/22 1:11 PM]
+https://onionplay.co/
 🟨دانلود فیلم و سریال بدون سانسور با زبان اصلی و یا همراه با دوبله فارسی به صورت کاملا رایگان
 ️
 http://NFSMovie.cf =>بدون فیلتر شکن وارد شوید و برای اینکه لینک های دانلود برایتان نمایان بشه فراینده ثبت نام و ورود را انجام دهید
 نیم بها
-️
 https://golchindls.site =>بدون فیلترشکن وارد شوید
 تمام بها
-️
 https://my3eries.one =>بدون فیلتر شکن وارد شوید
-نیم بها
 ️ bluemo1.xyz =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://www.f2m.site =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://aramoviez.shop =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://alefmovies.xyz =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-تمام بها
-️
 https://film2sun.fun =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-تمام بها
-️
 https://filmgozar.fun =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://9movie.website =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://newalmasmovie3.xyz => بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://donyayeserial.site =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 http://myvdl.xyz =>بدون فیلترشکن وارد شوید
-تمام بها
-️
 https://5acemovies.xyz => بدون فیلترشکن وارد شوید
-نیم بها
-️
 https://filmban.top =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://mymoviefilm.rest =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 http://Myhastidl.cam =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://tehranfilm46.xyz =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-تمام بها
-️
 http://bia2hd.store =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://salamdl.rip =>بدون فیلتر شکن وارد شوید
-تمام بها
 🟧دانلود فیلم و سریال بدون سانسور با زیرنویس چسبیده فارسی و یا همراه با دوبله فارسی به صورت کاملا رایگان
-️
 https://digimovie.rip =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://mobomoviez1.site =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://moviecottage1.fun =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://melovies.info =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://montmovie.co =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://avamovie9.xyz => بدون فیلتر شکن وارد شوید
-تمام بها
 ️ @Mobomoviesbot =>ربات دانلود فیلم و سریال بدون سانسور و با زیرنویس چسبیده فارسی و به صورته کاملا رایگان
-نیم بها
 ️ @filmgirbot => ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور به صورت کاملا رایگان
-تمام بها
 ️ @findmoviebot =>ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور و به صورت کاملا رایگان
-تمام بها
 ️ @FileMovieBot =>ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور و به صورت کاملا رایگان
-تمام بها
 ️ @DbMovieBot =>ربات دانلود فیلم و سریال ایرانی و خارجی به صورت کاملا رایگان
-تمام بها
 🟩 Irmo.top =>سایت ویژه دانلود صوت دوبله بدون فیلترشکن وارد شوید
-تمام بها
 🟪 @TeleLeecherbot =>ربات نیم بها برای لینک
 🟪 @NimDownloader_Bot =>ربات نیم بها برای لینک
 🟪 @NimDownloaderBot =>ربات نیم بها برای لینک
@@ -24623,40 +19451,25 @@ https://sub.scene.tk =>آدرس بدون فیلتر سایت سابسین برا
 🟦 @SubCitybot =>ربات زیرنویس یاب
 🟦 @SubsearchsBot =>ربات زیرنویس یاب
 #update
-File Storage, [6/4/22 1:11 PM]
 [Forwarded from Rose]
-[ Photo ]
 لیست سایت فیلم و سریال خارجی (زبان اصلی - دوبله فارسی)
 ️Film2Media
-(
 https://www.f2m.site/)️SalamDL
-(
 https://salamdl.shop/)️Golchindl
-(
 https://golchindls.site/)️BlueMoviee
-(
 https://bluemoviee.website/)️9Movie
-(
 https://9movie.live/)️SerMovie (
 https://sermovie.live/)
 ️AraMoviez
-(
 https://aramoviez.xyz/)️AlefMovie
-(
 https://alefmovie9.xyz/)️Film2Sun
-(
 https://film2sun.fun/)️TehranFilm
-(
 https://tehranfilm33.xyz/)️FilmBan
-(
 https://filmban.site/)️S2-Movie
-(
 https://s2-movie.xyz/)️MyHastiDL
-(
 http://myhastidl.cam/)️Bia2HD (
 http://ba2hd.tk/)
 ️UMovie
-(
 http://1umovie.xyz/)️ZedMovie (
 https://zedmovie1.xyz/)
 ️AzinTV (
@@ -24666,7 +19479,6 @@ https://b2mz.site/)
 ️Tv2US (
 https://tv2us.space/)
 ️MyazinTV (
-https://myazintv.xyz/)
 ️MovieCottage (
 https://moviecottage.xyz/)
 برای ورود به سایت های زیر با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید :
@@ -24675,26 +19487,17 @@ https://almasmovie8.xyz/)
 ️ValiantMovie (
 http://valiantmovie.rf.gd/)
 ️DonyayeSerial
-(
 https://donyayeserial.com/)️VinadDL
-(
 http://vinadl.uno/)️MahiFun
-(
 http://www.mahifun.xyz/) لیست سایت های رایگان فیلم و سریال زیرنویس چسبیده فارسی، دوبله فارسی)
 ️AvaMovie
-(
 https://avamovie1.xyz/)️MoboMoviez
-(
 https://mobomoviez1.xyz/)️Melovies
-(
 https://melovies.info/)️My3eries
-(
 https://my3eries.net/)️MontMovie (
 https://montmovie.co/)
 ️MyGemtio
-(
 https://mygemtio.cf/)️IrMo
-(
 http://irmo.website/) لیست سایت فیلم و سریال ایرانی
 ️BenameIran (
 https://www.benameiran.com/)
@@ -24715,131 +19518,124 @@ https://www.berimfilm.com/)
 ربــات (
 https://t.me/TeleLeecherbot) گـــروه (
 https://t.me/VIPLeechGroup) کـانـال
-(
 https://t.me/VIPleech) این لیست به مرور زمان بروز میشود.
-File Storage, [6/4/22 1:11 PM]
- https://worldsubtitle.info
- https://subscene.com
- https://esubtitle.com
- http://www.submovies.ir
- http://iranzirnevis.com
- http://subtitlestar.com
- http://subf2m.co
-File Storage, [6/4/22 1:11 PM]
+https://worldsubtitle.info
+https://subscene.com
+https://esubtitle.com
+http://www.submovies.ir
+http://iranzirnevis.com
+http://subtitlestar.com
+http://subf2m.co
 لیست سایت های دانلود فیلم و سریال
 به امید نابودی فیلیمو و نماوا
 رایگان های بدون سانسور
 ️ فیلم گذر | فیلترشکن روشن
- https://myfilmgozar.site
+https://myfilmgozar.site
 ️والا مووی | فیلترشکن خاموش
- https://valamovie.uno/
+https://valamovie.uno/
 ️ شرق مدیا | فیلترشکن خاموش
- https://sharghmedia.ml
+https://sharghmedia.ml
 ️ فیلم تو مدیا | فیلترشکن روشن
- http://film2media.website
+http://film2media.website
 ️ مای هستی دی‌ال | فیلترشکن خاموش
- http://myhastidl7.fun
+http://myhastidl7.fun
 ️ ماهی‌ دی‌ال | فیلترشکن خاموش
- http://www.mahidl.pw
+http://www.mahidl.pw
 ️ آوا مووی‌ | فیلترشکن روشن
- http://avamovie.pro
+http://avamovie.pro
 ️ هایلی موویز | فیلترشکن خاموش
- http://hymvz.shop
+http://hymvz.shop
 ️ گلچین دانلود | فیلترشکن خاموش
- http://mygolchindl.icu
+http://mygolchindl.icu
 ️ صابرفان | فیلترشکن خاموش
- http://mysaberfun.site
+http://mysaberfun.site
 ️ پرشین دانلود | فیلترشکن روشن
- http://perdl.club
+http://perdl.club
 ️ سینما باکس | فیلترشکن خاموش
- http://cinamabox.com
+http://cinamabox.com
 ️ الماس مووی | فیلترشکن خاموش
- http://myalmasmovie.com
+http://myalmasmovie.com
 ️ بیا تو اچ‌دی | فیلترشکن خاموش
- http://bia2hd.ga
+http://bia2hd.ga
 ️ ساتینا | فیلترشکن خاموش
- https://mysatina.com
+https://mysatina.com
 ️ ماهان مووی
- https://mahanmovie.com
+https://mahanmovie.com
 ️ مای دیبا
- http://mydiba.me
+http://mydiba.me
 ️ جم مووی
- https://gemovie.ir
+https://gemovie.ir
 ️ آکادمی زوزه
- https://academyzooze.com
+https://academyzooze.com
 ️ دنیای سریال
- http://DonyayeSerial.com
+http://DonyayeSerial.com
 ️ سلام دانلود
- http://salamdl.club
+http://salamdl.club
 ️ ام سی تی وی
- http://mctvz.space
+http://mctvz.space
 ️ تک مووی
- http://www.takmovie.fun
+http://www.takmovie.fun
 اشتراکی های بدون سانسور
 ️ 30 نما‌ | فیلترشکن روشن
- http://30nama.com
+http://30nama.com
 ️ کینگ مووی‌ | فیلترشکن خاموش
- https://mykingmovi.xyz/
+https://mykingmovi.xyz/
 ️ نایت مووی‌ | فیلترشکن خاموش
- http://10nightmovie.top
+http://10nightmovie.top
 ️ وارز | فیلترشکن خاموش
- http://wir15.site
+http://wir15.site
 ️ فاکس مووی‌ | فیلترشکن خاموش
- http://www.wtfox.xyz
+http://www.wtfox.xyz
 ️ بیا 2 موویز | فیلترشکن روشن
- http://bia2movies.bid
+http://bia2movies.bid
 ️ دیبا موویز(غیر اصلی) | فیلترشکن روشن
- http://dibamv.pw
+http://dibamv.pw
 ️ آی مووی دانلود | فیلترشکن خاموش
- http://imovies-dl6.site
+http://imovies-dl6.site
 زیرنویس چسپیده بدون سانسور
 ️ دیجی موویز | فیلترشکن روشن
- http://Digimoviez.com
+http://Digimoviez.com
 ️ موبو فیلم | فیلترشکن روشن
- http://mobomovi.ir
+http://mobomovi.ir
 ️ زر فیلم | فیلترشکن روشن
- http://zarfilm.com
+http://zarfilm.com
 ️ ایزی تی وی | فیلترشکن روشن
- http://eztvs.xyz
+http://eztvs.xyz
 انیمه بدون سانسور
-️ فیلم گذر | فیلترشکن روشن
- https://myfilmgozar.site
 ️ انیمه لیست | فیلترشکن روشن
- http://anime-list10.tk
+http://anime-list10.tk
 ️ بیا 2 انیمه | فیلترشکن خاموش
- http://bia2anime20.cf
+http://bia2anime20.cf
 ️ انیمه دابینگ | فیلترشکن خاموش
- http://animedubbing.gq
+http://animedubbing.gq
 ️ اوتاکو | فیلترشکن خاموش
- https://otakutales.site
+https://otakutales.site
 ️ مای تو امی | فیلترشکن خاموش
- http://my2amidl.pw
+http://my2amidl.pw
 سایت فیلم و سریال کره ای
 ️ فری دراما | فیلترشکن خاموش
- https://freedrama.xyz
+https://freedrama.xyz
 ️ نکس وان آسیا | فیلترشکن خاموش
- http://nex1asia.ir
+http://nex1asia.ir
 ️ ستاره کره | فیلترشکن خاموش
- https://starko.ir
+https://starko.ir
 ️ کافه دراما | فیلترشکن خاموش
- http://mykodram.xyz
+http://mykodram.xyz
 ️ استار دراما | فیلترشکن خاموش
- https://ssdrama.ir
+https://ssdrama.ir
 سایت دانلود زیرنویس هماهنگ
 ️ ساب سین | فیلترشکن روشن
- http://subscene.com
+http://subscene.com
 ️ جهان زیرنویس | فیلترشکن خاموش
- http://worldsubtitle.info
+http://worldsubtitle.info
 ️ ایران زیرنویس | فیلترشکن خاموش
- http://iranzirnevis.com
 ️ ساب استار | فیلترشکن خاموش
- http://subtitlestar.com
 ️ ای سابتایتل | فیلترشکن خاموش
- http://esubtitle.com
+http://esubtitle.com
 ️ایکس ساب
- https://exsub.ir
+https://exsub.ir
 ️ ساب موویز
- http://submovies.ir
+http://submovies.ir
 با دوستاتون به اشتراک بذارید
 برای اطلاع از آدرس جدید سایت ها در کانال عضو شوید چون این پست آپدیت خواهد شد
 @Filmeh
@@ -24853,61 +19649,44 @@ File Storage, [6/4/22 1:12 PM]
 @Cocopry
 @blackPink_Stickerr4
 @TgSticker
-File Storage, [6/4/22 1:12 PM]
 انیمه لیست:
 @AnimeList
 @AnimeRG
 @AnimeLibraryIndex
 @Hd_Anime_Series
 @AWMal_List
-@animworlddl
-File Storage, [6/4/22 1:12 PM]
 پادکست های انیمه ای مورد علاقه ام:
 @radioanime_dubbers
 @YuriOnRADIO
-File Storage, [6/4/22 1:12 PM]
 انیمه آپلود شده:
 @soulreaperzone
 @AnimeLibrary_Movies
 @Anime_List
 @AnimeLibr
 @Animewatching
-@AWHTarchive
 @MementoLA
 @MementoOG
 @MementoAnime
 @KlNGANIME
-File Storage, [6/4/22 1:12 PM]
 انیمه ost:
-@A_N_I_M_E_OST
-@AWOPED
-File Storage, [6/4/22 1:12 PM]
 کارتون لیست:
 @CartoonLibrary
-File Storage, [6/4/22 1:12 PM]
 زیرنویس انیمه:
 @AnimeTosho
 @awsub
-File Storage, [6/4/22 1:12 PM]
 مانگا و ناول:
 @AW_NOVEL
 @AWnovel
 @AWManga
-File Storage, [6/4/22 1:12 PM]
 گپ و کانال های انیمه ای:
-@GpOtaku
 @SteinsGateFandom
 @awforum
 @animelist_ir
 @OtakuArmy
 @AWnews_Group
-File Storage, [6/4/22 1:12 PM]
 انیمه دوبله فارسی:
 @animedubers
-File Storage, [6/4/22 1:12 PM]
-اخبار انیمه:
 @AWnews
-File Storage, [6/4/22 1:12 PM]
 کانال های سرگرمی:
 @Hackers_twitter
 @Hacker_twitter
@@ -24919,24 +19698,18 @@ File Storage, [6/4/22 1:12 PM]
 @watchyoutubefa
 @ChannelColer
 @otakumemes
-File Storage, [6/4/22 1:12 PM]
 دانلود فیلم:
-@Film_BBin
-File Storage, [6/4/22 1:12 PM]
 اخبار سیاسی:
 @akhbaronlain
-@ManotoTV
 @mobarezan_vatannews
 @guard_Shahh
 @bisto4news
-File Storage, [6/4/22 1:12 PM]
 کانال منحرفانه:
 @pussy_kade
 @HiddenJaghi
 @worldfacts85
 @gif7sex
 @Reaperv
-File Storage, [6/4/22 1:12 PM]
 کتاب یا پکیج درسی:
 @jozveh_nab
 @MoshaverehOne
@@ -24949,7 +19722,6 @@ File Storage, [6/4/22 1:12 PM]
 @TajrobiPlus
 @KetabDarsi12
 @Jozvemotavassete
-@ketabestanbargh
 @ktb_nab
 @book_stop_free
 @film_pishraft
@@ -24980,7 +19752,6 @@ File Storage, [6/4/22 1:12 PM]
 @Bank_Riazi
 @Ketabkhane_Konkor
 @darskhan20
-@irsoalat
 @motavasete_20
 @Bank_Physics
 @Bank_Shimi
@@ -24989,24 +19760,19 @@ File Storage, [6/4/22 1:12 PM]
 @easy_konkor
 @pdf_book_konkur
 @khaili_sabz
-@ketabestanbargh
 @test_adabyat_1400
 @unibookss
 @zeroan2one
 @Bookchanel1
-File Storage, [6/4/22 1:12 PM]
 کتاب های دانستنی:
 @Mark_Easterbrook
 کتاب برنامه نویسی:
-@zeroan2one
 @Programming4all_0to100
-File Storage, [6/4/22 1:12 PM]
 گروه و کانال برنامه نویسی و کامپیوتری و اوپن سورس:
 @CompTIA_Aplus
 @caa360
 @updatesit
 @LianSec
-@ITRoadMap
 @VIP30T
 @AMIN_HACK_TM
 @learnpy
@@ -25014,7 +19780,6 @@ File Storage, [6/4/22 1:12 PM]
 @ShimaSadatMavali
 @EsecurityCo
 @AlieHacker
-@kali_linuxxx
 @sourcep
 @nwclub
 @UltraSecurity
@@ -25037,7 +19802,6 @@ File Storage, [6/4/22 1:12 PM]
 @elmefarda
 @AuroraOT
 @AuroraOSS
-@AuroraOT
 @AuroraSupport
 @iranFSevents
 @AuroraDroid
@@ -25053,20 +19817,15 @@ File Storage, [6/4/22 1:12 PM]
 @geeekgirls
 @OpenPcOfficial
 @kalami_qa
-@jadinet
-File Storage, [6/4/22 1:12 PM]
 کانال وردپرس:
 @poinair
-@Ghaleb_Free_WP
 @worldwp
 @WORDPRE33
 @wpsho
 @wpbank
 @wpheart
-File Storage, [6/4/22 1:12 PM]
 کانال های مربوط به ترموکس:
 @termux_chanell
-File Storage, [6/4/22 1:12 PM]
 مربوط به دارک وب:
 @Blank_Link
 @Darkinfo_channel2
@@ -25074,14 +19833,11 @@ File Storage, [6/4/22 1:12 PM]
 @Dark_Rainb0w
 @IranTor_onion
 @TheHiddenWikiTG
-@hidden_Web
 @g3neral
 @DrkWeb
 @drk_web
-File Storage, [6/4/22 1:12 PM]
 اموزش المانی:
 @Deutsch_kostenfrei
-File Storage, [6/4/22 1:12 PM]
 کانال هکری/درواقع ترفند ها/کرکی:
 @onlyfans2
 @learneh
@@ -25093,7 +19849,6 @@ File Storage, [6/4/22 1:12 PM]
 @Ninja_Crack
 @zedsoftofficial
 @nulltm
-@AMIN_HACK_TM
 @MyChannlsid
 @AMIRHACK100
 @TheHackings
@@ -25135,14 +19890,13 @@ File Storage, [6/4/22 1:12 PM]
 @BruteForce
 @STORMHub
 @DrHack100
- https://t.me/joinchat/AAAAAFipf1cUVSZOGmf7GA
+https://t.me/joinchat/AAAAAFipf1cUVSZOGmf7GA
 @zex_member
 @LinApps
 @Hacking_Video
 @team_technical
 @ZetaTech_iR2
 @blackhat_hacking
-@AlieHacker
 @united_hackerZ
 @moduleby404
 @annonymity
@@ -25152,13 +19906,11 @@ File Storage, [6/4/22 1:12 PM]
 @Shayan_Cyber
 @Hacking_Videos
 @WildHackTM
-@zedsoftofficial
 @ImperialHackers
 @MesterSecurity
 @Kouroshhack4
 @hacking_courses_leaked
 @AmiR_HacK
-@Hack028
 @IR_cyberi_hacke
 @Cashout_kingdom
 @bestlearningchnl
@@ -25168,86 +19920,55 @@ File Storage, [6/4/22 1:13 PM]
 @shatel
 @rightel_pr
 @shecan_ir
-File Storage, [6/4/22 1:13 PM]
 کانال های تلگرام های غیر رسمی و رسمی:
 @OpenSourceTelegram
 @NekoXAPKs
 @durov
 @telegram
-@NekogramX
 @BGramChannel
-File Storage, [6/4/22 1:13 PM]
-کانال های وی پی ان و اینترانت و ترفند:
 @ArgoVPN
 @wbnet
-@freenet_host
-@proSSH
-@Vpn_Client_pro
 @apkclub
-@king_network7
-@bn_proxy
-@NetClub_iR
-@AzadNet
-@Premium_98
-@bn_chanll
-@vpn_proxy66
-@VpnProtected
-@Accbox_pro
-@VPNFolder
 @Anonymority
-@NetBox2
 @filtershekanha
-@clientpro_vpn
-@myplusvpn
 کانال های چینی برای سرور های مفتی شادوساکس راضیم سرعتش:
 @ssrshares
-@SSRSUB
 تست نشده:
 @freeshadowsock
-File Storage, [6/4/22 1:13 PM]
 کانال برنامه اندروید مود شده:
 @Premiumcomponent
-@UCIRANIR
 @Mehdi_Hack
-@myandroidplus
 @p_lus
 @Glype (بهترینه بهترینا)
-@appilix
 @AMRTSOFFICIAL
-File Storage, [6/4/22 1:13 PM]
 کانال بین:
 @binner_ir
 Windows 8-10 clean, untouched ISO files,
 @TechbenchBot
 Free iptv
-@tvlab
 یوسی سریال
 @Ocean_Films
 @manga_garden_index
 @animugardenindex
 @hadilinkgenbot
 @Axenia_Bot
- https://t.me/r_DataHoarder/
+https://t.me/r_DataHoarder/
 @Anime4uGeng
 @Anime_4u_Geng
 i only joined these so far
 megadl.xyz
 معرفی ربات عالی برای دوستداران ِ IPTV
-@ejaTvBot
 فقط اسم کانال رو سرچ کنید تا لینک رو بصورت m3u8 بفرسه
 @iranhackerzz
- https://overclockers.ru/blog/Indigo81/show/31739/shadowsocks-cherez-cloudflare-cdn-povyshaem-bezopasnost-v-seti
+https://overclockers.ru/blog/Indigo81/show/31739/shadowsocks-cherez-cloudflare-cdn-povyshaem-bezopasnost-v-seti
 @new_everything_free
-File Storage, [6/4/22 1:13 PM]
 کانال های ربات لیچر فیلم:
 @VIPleech
 @FOX_leecher
-File Storage, [6/4/22 1:13 PM]
 گروه های معرفی لیچر تورنت تلگرامی:
 @TorrentLeechingGroup
 @TorrentBots
 منابع سریع کردن لینک دانلود (لینک مستقیم ات رو دانلود میکنه و برات لینک دانلود سریعتر میده):
-@transload
 گروه های معرفی ربات مفید تلگرامی:
 @tgbot_list
 @botlist
@@ -25261,23 +19982,18 @@ File Storage, [6/4/22 1:13 PM]
 راهنمای گوگل درایو:
 @gdriveguides
 منابع آموزش های مختلف:
- https://t.me/rfsnotes/3
+https://t.me/rfsnotes/3
 Eastern egg:
 راز بگا:
 ۱- بهترین متود خودکشی و متود های دیگه
- https://t.me/fa_death
+https://t.me/fa_death
 ۲- کتابی که بعد خوندش حتما دیوانه میشید و میرید جهنم
 (رستاخیز مردگان)
- https://t.me/NECRONOMICONBOOK
-File Storage, [6/4/22 1:13 PM]
+https://t.me/NECRONOMICONBOOK
 پروژه های اوپن سورس تلگرام:
 @TGOpensource
-File Storage, [6/4/22 1:13 PM]
 تلگرام ایندکس:
- https://t.me/spamverse/324
-File Storage, [6/4/22 1:13 PM]
-@bedonemaarz
-File Storage, [6/4/22 1:13 PM]
+https://t.me/spamverse/324
 بخش ربات ها:
 ربات های لیچر فیلم و سریال از سایتای پولی:
 (فیلمای کمیاب و دستکاری نشده و سالم پیدا میشن و برا همین دوستش دارم)
@@ -25291,7 +20007,6 @@ File Storage, [6/4/22 1:13 PM]
 @TorPlaybot fa
 آهنگ دیزرر و اسپوتیفای:
 @FusionDL_Bot
-@DeezerMusicBot
 @MusicsHunterbot
 ربات تبدیل فایل به لینک مستقیم بدون محدودیت حجمی:
 @TelFiles_Bot fa
@@ -25307,89 +20022,76 @@ File Storage, [6/4/22 1:13 PM]
 ربات های ساخت ایمیل موقت
 @FakemailBot
 @Etlgr_Bot
-@DropmailBot
 @ccgen_robot
 ربات معرفی انیمه:
 @animeirbot fa
 ربات کتاب
-@bookdownbot
 کورس رایگان شده اودمی:
 @GUdemyBot
-File Storage, [6/4/22 1:13 PM]
-@NoGoolag
 چک کنم
-File Storage, [6/4/22 1:13 PM]
 @WakeMind
 مطالبشو از اول بخون‍♀
-File Storage, [6/4/22 1:13 PM]
 TeaM/idm-trial-reset/releases/tag/v1.0.0 - Trial reset for Internet Download Manager
- https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38™-generation/ - Activate Windows 10 hassle free!* (* - and posdibly other versions) Delete it afterwards or you will be met with a nice message on boot
+https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38™-generation/ - Activate Windows 10 hassle free!* (* - and posdibly other versions) Delete it afterwards or you will be met with a nice message on boot
 Open Directory Search:
 doyouneedmorehdd.space (* - Dead)
 filechef.comfilemare.comfilepursuit.comewasion.github.io/opendirectory-finder
 Open Directories:
- http://the-eye.eu - Windows ISOs, eBooks etc.
- https://pan.luochenzhimu.com/disk/software/ - Software
+http://the-eye.eu - Windows ISOs, eBooks etc.
+https://pan.luochenzhimu.com/disk/software/ - Software
 Search Engines/Trackers/Scene stuff:
- https://searx.me/ - Video, Streaming site, Torrent finder
- https://ololo.to/ - Streaming site SE
- https://sanet.st - Movies, Software and so on...
- https://snahp.it - Mega.nz links for movies. $10 BTC donation to get in unless you upload content they deem worthy (then you're in for free)
- https://1337x.to
+https://searx.me/ - Video, Streaming site, Torrent finder
+https://ololo.to/ - Streaming site SE
+https://sanet.st - Movies, Software and so on...
+https://snahp.it - Mega.nz links for movies. $10 BTC donation to get in unless you upload content they deem worthy (then you're in for free)
+https://1337x.to
 https://rutracker.org - semi-private forum with music and so on...
- https://scnlog.me - movies, tv shows and so on...
- http://scene-rls.com/releases/index.php
+https://scnlog.me - movies, tv shows and so on...
+http://scene-rls.com/releases/index.php
 http://rlsbb.ru/ - Check comment section for ever more links
 predb.orgpredb.me
 Interview websites:
 interviewfor.red - Apply to the best private tracker, requires big brain and knowledge about overally everything related to music. Helpful guide:
 https://wiki.installgentoo.com/wiki/Redacted.ch Good luck!
 Streaming websites:
- https://stream.msfootybite.com - TV Sport livestreams
+https://stream.msfootybite.com - TV Sport livestreams
 ssl.ustreamix.com - ditto
 123tvnow.com - Watch HBO and so on...
 Free .edu e-mails:
- https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview
+https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview
 ROMs:
- https://www.epforums.org/showthread.php?56293-MULTI-ROM-SET-No-Intro-Collection-(Complete-ROM-Sets)
+https://www.epforums.org/showthread.php?56293-MULTI-ROM-SET-No-Intro-Collection-(Complete-ROM-Sets)
 DMCA Search List (Use this to find specific thing)
 lumendatababase.org
 NSFW ZONE
 Adult Stuff:
- https://f95zone.to - sex mods, games and everything else where you put your virtual dick into stuff
- https://drive.google.com/drive/folders/1jH3RKs_5cjn0iVBgHECYbmXzNBjGLud2?usp=sharing - Y'all Hentai Haven dump
- https://bondage-me.cc/ - Premium links for bondage videos. No I didn't visit it
-File Storage, [6/4/22 1:13 PM]
+https://f95zone.to - sex mods, games and everything else where you put your virtual dick into stuff
+https://drive.google.com/drive/folders/1jH3RKs_5cjn0iVBgHECYbmXzNBjGLud2?usp=sharing - Y'all Hentai Haven dump
+https://bondage-me.cc/ - Premium links for bondage videos. No I didn't visit it
 Just for Fun یکی از مشهورترین کتاب‌های حوزه جنبش متن باز است. «جادی میر میرانی» این کتاب را ترجمه کرده که به نظر می‌رسد موفق نشده مجوز نشر آن را از وزارت ارشاد دریافت کند. پس از خیر انتشار نسخه چاپی آن گذشته و آن را به صورت رایگان در اختیار علاقه‌مندان قرار داده است. وی درباره این کتاب گفته است:
 این کتاب، نوشته لینوس توروالدز خالق لینوکس و دیوید دیاموند است. یک خبرنگار مدت‌ها با لینوس وقت گذرونده و حرف‌هاش رو شنیده و نتیجه‌اش شده این کتاب که با نام انگلیسی Just For Fun توسط انتشارات TEXERE منتشر شده.
 میفهمیم اگه این تفکرات آزاد نبود امروز لینوکس هم رفته بود زیر مجموعه گوگل و مایکروسافت
- http://linuxstory.ir/
- https://linuxstory.ir/justforfun_persian.pdf
+http://linuxstory.ir/
+https://linuxstory.ir/justforfun_persian.pdf
 جادی یکی از کسانی که وجودش برای فضای مجازی ایران لازمه
- https://jadi.net/
-File Storage, [6/4/22 1:13 PM]
+https://jadi.net/
 About The End Times...
- https://t.me/the_endtimes
-File Storage, [6/4/22 1:13 PM]
-واچ لیست:
+https://t.me/the_endtimes
 مستند ظهور
-File Storage, [6/4/22 1:13 PM]
 منبع 1
- https://subf2m.ir/subtitles/زیرنویس-فارسی-the-arrivals
+https://subf2m.ir/subtitles/زیرنویس-فارسی-the-arrivals
 منبع 2
- http://s4.picofile.com/file/8163334234/Arrivals_Farsi_Subtitles.zip.html
+http://s4.picofile.com/file/8163334234/Arrivals_Farsi_Subtitles.zip.html
 http://thearrivals.files.bidari-andishe.ir/sub/Arrivals Farsi Subtitles.zip
 منبع 3
- https://t.me/bonyana/2897
+https://t.me/bonyana/2897
 منبع 4
- https://beitezohoor.ir/wp-content/uploads/2016/05/Arrivals-Farsi-Subtitles.zip
+https://beitezohoor.ir/wp-content/uploads/2016/05/Arrivals-Farsi-Subtitles.zip
 منبع 5
- http://thearrivals.files.bidari-andishe.ir/sub/Arrivals Farsi Subtitles.zip
 خوب نبود بازم سایت هس
 File Storage, [6/4/22 1:14 PM]
 问一下，这种代理安全吗？
 https://t.me/FreeProxyUnion
-File Storage, [6/4/22 1:14 PM]
 [广告] 德胜集团抖音点赞/微交易/彩票/海外市场/等产品包网/欢迎咨询 (
 https://t.me/wwwqqqaaazzz)
 TG代理（直连telegram） - 94.3 K (
@@ -25434,55 +20136,46 @@ https://t.me/zhujuan2018)
 https://t.me/jandan_pic)
 ‍ 提示：如何举报链接？ (
 https://t.me/SuperIndexNews/226)
-File Storage, [6/4/22 1:14 PM]
- https://ameliorated.info/
-File Storage, [6/4/22 1:14 PM]
+https://ameliorated.info/
 #پست_موقت
 خب خب، تا پست لنتیه بعدی رو بزارم یه چیز فان و تلنگری برا بعضی ادمای عقب مونده برای خنده، اونایی که هنوز ویندوز استفاده میکنن و به ویکی پدیا اعتماد دارن:
 ۱- نمی‌تونید به ویکی پدیا اعتماد کنید
- https://wikiless.org/wiki/Censorship_of_Wikipedia
+https://wikiless.org/wiki/Censorship_of_Wikipedia
 https://archive.is/XQsO7
 http://web.archive.org/web/20210514230704
-https://wikiless.org/wiki/Censorship_of_Wikipedia
 خیلی چیزا سانسور شده و حقیقت رو نمیگن همیشه، و اره لعنتیا، ویکی پدیا هم جهت داره
 ۲- سورس کد ویندوز اکس پی لیک شده (چند ویندوز قبل اونم هم همینطور):
 همینطور که میدونید از اون ویندوز داس تا همین الانشم ویندوز برپایه همون یه کرنله، تهش چند خط کد اضافه کرده باشن، الان در دسترس هکراس و اون باگا، باگای ویندوز تن هم هستش و خلاصه به فاک رفتین و مانیتور رو شیاف کنید، الان میتونید دانلودش هم بکنید
 بحث دربارش تو ردیت و فورچان
- https://boards.4channel.org/g/thread/77874231/just-reminding-everyone-that-this-exists#bottom
+https://boards.4channel.org/g/thread/77874231/just-reminding-everyone-that-this-exists#bottom
 https://www.reddit.com/r/technology/comments/izhrf3/looks_like_the_windows_xp_source_code_just_leaked/
 دانلود لینک مستقیم:
- https://anonfiles.com/R714gdY9o2
+https://anonfiles.com/R714gdY9o2
 https://mega.nz/file/PdhxBSZD#w-O3C-BAMwE4E02qPn_fSdTivILcE8hzk9PeyoXg7wU
 دانلود از تورنت:
 magnet:?xt=urn:btih:cec41d87d329822ea9b05c4f6c0dff7d29514d59&dn=Microsoft%2520leaked%2520source%2520code%2520archive%255F2020-09-20
 دانلود از یک منبع دیگه:
- http://218.94.103.156:8090/download/developer/xpsource/
+http://218.94.103.156:8090/download/developer/xpsource/
 ۳- تو حمله سولار ویندز، به سورس کد ویندوز دسترسی پیدا کردن:
 و شرط می‌بندم شامل ویندوز ۱۰ هم میشه و زیرزمینی خرید و فروش میشه سورس کد اش زارت...
 خبر انگلیسیش:
- https://archive.is/bKHtj
+https://archive.is/bKHtj
 نکته: خب اگر میگین چرا گیر دادم یه لیک شدن سورس کد ویندوز، چرا لینوکس اوپن سورس هس گیر نمیدی، ببینید سورس کد لینوکس قابل دیده برای همه و کمک میکنن و سریع باگاش برطرف میشه، ویندوز از عمد چندتا بک دور
 گذاشتن و چند باگ که عمدا و غیر عمدی حل نشده، هرچند که میشه با مهندسی معکوس هم باگاشو در بیارن اگر وقت بزارن اما به خوبیه سورس کد لیک شده نمیشه، پس لینوکسه اوپن سورس از ویندوز سورس بسته امن تره....
-File Storage, [6/4/22 1:14 PM]
 خب خب، دو نوع سایت وجود داره، سایت های استاتیک و سایت های دینامیکی
 حالا چین و فرقشون تو چیه؟
 توضیح فارسی فرق بین سایت استاتیکی و دینامیکی:
 منبع 1:
- https://www.parsdata.com/articles/difference-between-static-and-dynamic-sites
-File Storage, [6/4/22 1:14 PM]
+https://www.parsdata.com/articles/difference-between-static-and-dynamic-sites
 توضیح انگلیسی فرق بین سایت استاتیکی و دینامیکی:
- https://youtu.be/fR-BaLh2NsU
+https://youtu.be/fR-BaLh2NsU
 https://youtu.be/_wFJj94kSTU
 انگلیسی اش عالیه
-File Storage, [6/4/22 1:14 PM]
 نتیجه گیری و توضیحات:
 خب خب، همینطور که میدونید فرقشون رو، سایت استاتیک رو میشه همه جا ران کنید ولی هزینش زمانتون، و سایت دینامیکی هزینش پولتونه، هرچند استاتیکی که با برنامه های استاتیک جنریتر، راحت تر میشن و حتی نیمه دینامیکی، بهشون میرسیم
-File Storage, [6/4/22 1:14 PM]
 اموزش ساخت سایت های رایگان استاتیک:
-File Storage, [6/4/22 1:14 PM]
 ساخت سایت/ساخت پیج:
 گام اول تو ساخت پیج اینه که طراحی اش کنید که به دو دسته با کد زنی و بدون کد زنی تقسیم میشه:
-File Storage, [6/4/22 1:14 PM]
 1- طراحی سایت با کد زنی:
 تا جایی که میدونم برای طراحی سایت باید
 1- html
@@ -25491,35 +20184,31 @@ File Storage, [6/4/22 1:14 PM]
 3- JavaScript
 4- Django
 یاد بگیرید، معایب استاتیک رو اگر بدونید، شاید روش مناسبی برای طراحی سایت نیست، هرچند پول خوبی توشه و از مزیتاش هم اینکه که برا هاست بصرفه تره...
-File Storage, [6/4/22 1:14 PM]
 2- طراحی سایت بدون کد زنی:
 از اونجایی که مشتاق سایت زدن رایگان هستین، حدس زده میشه که اینکاره نیستین و هیچ ایده ای درباره کارتون ندارید و برای همین هم هستش که نمیدونید، اشکالی نداره، سعی میکنم آموزشی درست کنم که ادم های معمولیشم سایت درست کنن، ابزار هایی هستن که خیلی کار وب نویسی استاتیک رو راحت کردن، هرچند بازم سختی خودشو داره، بستگی به خودتون داره با کدوم روش راحت ترین....
 خب خب بریم سر اصل مطلب:
-File Storage, [6/4/22 1:14 PM]
 🛠 معرفی ابزار های مختلفه طراحی سایت استاتیک:
 نکته: با این ابزار ها خودم کار نکردم...
 1- با استفاده از jekyll-now در گیت هاب:
 آموزشش:
 پکیج آموزش (غیر قانونی):
- https://t.me/Computer_IT_Engineering/19963
+https://t.me/Computer_IT_Engineering/19963
 اموزش انگلیسیش:
- https://youtu.be/-QA6HqZalBQ
+https://youtu.be/-QA6HqZalBQ
 خودش:
- https://github.com/barryclark/jekyll-now
+https://github.com/barryclark/jekyll-now
 پ.ن: واقعا بهترین روشیه که دیدم، نیمه استاتیکه و بهتر از Jekyll اصلیه، عالیه روشش
 هرچند پیشنهاد میکنم خودتونم بیشتر تحقیق کنید دربارش
 فعلا بیخیاله این
 خیلی دلم میخواد بزارم اما چون خودم کار نکردم و سیستمی یا کسیو ندارم باهاش تست کنم، فعلا تعلیق میمونه بعدا تکمیل شد یه خبر کلی میدم، واسه اونایی که انگلیسی بلدن، پیشنهاد میکنم سرچ کنید
 "Static site generator"
-یا
 "make static sites easily"
 و نتایج جالبی میگیرید و خودتون میتونید عمیق بشین، مثلا:
 هرچی برنامه وبسایت جنریتر هس
- https://jamstack.org/generators/
+https://jamstack.org/generators/
 ده تا از بهترین برنامه های وبسایت جنریتر اوپن سورسه یوزر فرندلی
- https://itsfoss.com/open-source-static-site-generators/
+https://itsfoss.com/open-source-static-site-generators/
 خودتون بگردین چیزای جالبی پیدا میکنید، مثلا بعضیاشون میتونید پیجتون رو تو وردپرس (مثلا لوکال هاست) درست کنید و منتقل کنید بهشون
-File Storage, [6/4/22 1:14 PM]
 هاست رایگان سایت های استاتیک:
 خب پیجتون رو اماده میکنید، الان باید فضای ابری جایی بزارید، مثل کپی پیست فایل و ریختن تو یه پوشه که فضای ابری هرکی دامینتون (مثلا google.com) میزنه پیجتون لود بشه
 1- github
@@ -25536,62 +20225,49 @@ File Storage, [6/4/22 1:14 PM]
 ?-????
 میتونید خودتون سرچ کنید
 "free static site host"
-File Storage, [6/4/22 1:14 PM]
- https://youtu.be/2wh6oZ9phkg
+https://youtu.be/2wh6oZ9phkg
 به علت بعضی مشکلات پاک شد تا اصلاح بشه
-File Storage, [6/4/22 1:14 PM]
-#پست_موقت
 هروقت حسش بیاد که دوباره پست بزارم، اینو برمیدارم، تا اون موقع....
 نیم بها کننده لینک مستقیم:
-@nimbahaplusbot
 (نیم بها کننده لینک مستقیمتون، توجه کنید که فیلتر نشده باشه)
-@TorPlayBot
 (نیم بها کننده لینک و دانلود تورنت و یوتیوب)
-@TeleLeecherbot
 (خودش نیم بها کننده لینک داره و علاوه بر اون میتونید لینکو بدید اپلود بوی فک کنم نیم بها بگیرید، علاوه بر این سایت فیلم لیچ کنید)
-@KLeechBot
 (میتونید لینکو بدید اپلود بوی و فک کنم میهن اپلود و فک کنم نیم بها بگیرید، علاوه بر این سایت فیلم لیچ کنید)
- http://mg-döner.de:8080
+http://mg-döner.de:8080
 (علاوه بر نیم بها ترنسلودر و لیچر هم هستش)
 @ADMLinkbot
 (فایل تلگرامی رو نیم بها می‌کنه، فوق کصشر ولی کارشو می‌کنه)
- https://trainbit.com/
+https://trainbit.com/
 (کصشرترینشون و خاره محدودیت، لینک میدی نیم بها میگیری)
 @proSSHbot
 (تستش نکردم)
- https://www.digitalbam.ir/
 (تست نکردم)
 تبدیل فایل تلگرامی به لینک مستقیم:
- https://t.me/TGBot_List/117
+https://t.me/TGBot_List/117
 https://t.me/TGBot_List/23
-@LinkgramBot
 تشخیص اینکه نیم بها حساب میشه یا نه:
- https://linkirani.ir
+https://linkirani.ir
 (باید بزنه داخلی محسوب میشود)
-File Storage, [6/4/22 1:14 PM]
-#پست_موقت
 یه نکته حاشیه ای:
 شاید بگی بسته داخلی بدرد نمیخوره، اما اشتباه میکنید، بدرد میخوره و توانایی ضرر زدن هم بهشون داریم، پست های از این قبیل میبینیم:
- https://t.me/UCIRANIR/22421
+https://t.me/UCIRANIR/22421
 https://t.me/CISCO_PLUS/8784
 اینقدر بدبخت و گدا هستند که نت درست حسابی بهتون نمیدن، دادن نت داخلی اصلا براشون هزینه نداره و تقریبا براشون نزدیک به مجانی هستش و بسته داخلی هم میفروشن حرومیا، یه پست حذف شده هس که
- https://t.me/st01747/64
+https://t.me/st01747/64
 بهتون یاد دادم چطور نیم بها کنید، اگر نیم بها کنید و دانلود کنید داخلی حساب میشه، زیباست مگه نه؟ هرچند اگر میخواین تمام ترافیکتون داخلی حساب بشه باید یه هاستی که نیم بها هستش سرویسش گیر بیارین و نتتون رو نیم بها کنید، کانال های مختلفی هم تلگرام هستن که کانفیگ نیم بها مفتی میدن
 در پایان، هک کردن لزوما به معنی کسی که بانک میزنه یا نفوذ میکنه نیست، به کسی میگن که از چیزی که بلده به خلاقیت استفاده می‌کنه، بهتر توضیح میده:
- https://web.archive.org/web/20200709120911
+https://web.archive.org/web/20200709120911
 https://fa.m.wikipedia.org/wiki/رخنه‌گر
 اخرین ادیتش ریدن، "روش غیر معمول" :/
- https://fa.m.wikipedia.org/wiki/هکر
+https://fa.m.wikipedia.org/wiki/هکر
 خلاصه، همه میتونن یه جور هکر باشن برا خودشون، نیازی نیست بانک بزنی :)
-File Storage, [6/4/22 1:14 PM]
 #حاشیه_برا_خنده
 #پست_موقت_تا_پایان_رای_گیری
 یه تلنگر/یه نکته ساده:
 یه داستان خیلی ساده، @wbnet کانال های مثل این و کلا هر کانالی کارشون اینه، از منبع منابعشون رو میرن دنبال منابع مثلا فری مدیا هک یهه، منابع رو معرفی و اموزش میدن به ادمای ساده، یه اکانت کرک می‌کنن یا میخرن یا یکی اهدا می‌کنه یا کارتینگ میکنن، میدن بهتون، لقمه اماده میدن اما نمیگن چطور منابعشون رو پیدا می‌کنن و گاهی چندتا ادرس سایت تور میدن به اسم دارک وب و وایییی ترسیدم
 بعضیای دیگه، کانالای با موضوعات دیگه هم میرن
- https://github.com/topics/awesome
+https://github.com/topics/awesome
 https://awesomeopensource.com
-https://awesomelists.top
 https://awesome-indexed.mathew-davies.co.uk
 https://github.com/basharovV/StumbleUponAwesome
 رو یه نگاهی میکنن و اموزش میدن، awesome به ارشیوی درباره موضوعی جمع اوری میکنن که برنامه ها عالی باشن (awesome = عالی)
@@ -25601,40 +20277,32 @@ https://github.com/basharovV/StumbleUponAwesome
 چیزای مختلف دیگه هم از forum ها (انجمن ها) پیدا میشن بر اساس موضوعات مرتبطتون (مثلا یکیش onehack.us) که شاید ۳ نفر از نوزده نفرتون (جز من) بدونه چیه و اخرین کارشون هم اسکی از هم هستش
 اگر یکم کمتر گشاد باشید و تنگش کنید، الان دانشمند بودین واسه خودتون اما نیستین چون حقتونه :/
 در پایان "یه گشاد حق خوشبختی رو ندارد بلکه ثمره تنگی در کار، گشادی و خوشبختی است" یه عده کمی باز منظورمو میفهمه
-File Storage, [6/4/22 1:14 PM]
- https://github.com/Kkevsterrr/geneva
-File Storage, [6/4/22 1:14 PM]
+https://github.com/Kkevsterrr/geneva
 به نظرم لینک بزار @MirrorBots چون اینا دائما اپدیت میشن
-File Storage, [6/4/22 1:14 PM]
 منابع تورنت سال ۲۰۲۱
- https://13377x.site
+https://13377x.site
 https://torrentz2.eu
 http://rarbg.to/index70.php
 http://rutracker.org/forum/index.php
-https://yts.am
 https://nyaa.si
 https://kickasstorrents.to
 https://eztv.io
-https://www.limetorrents.info
 https://www.magnetdl.com
 https://zooqle.com
 https://ww1.torrent9.nz
 https://arenabg.com
 https://torlock.com
 https://www.torrentdownloads.me
-https://torrentgalaxy.org
 https://pcgamestorrents.com
 https://monova.org
 https://www.ettvdl.com
 https://www.torrentfunk.com
 https://idope.se
-https://idope.se
 https://www.seedpeer.me
 https://btdig.com
 https://yourbittorrent.com/
- http://knaben.net
- https://w40.torlook.info
-File Storage, [6/4/22 1:15 PM]
+http://knaben.net
+https://w40.torlook.info
 ► Scene / P2P Tracer Websites
 These are sites that track Scene releases. They serve strictly as notice boards and do not offer downloads to any of the content posted.
 predb.org - Scene tracer
@@ -25644,55 +20312,23 @@ pre.c-burns.co.uk/pre.php - Scene tracer
 xrel.to/releases.html - Scene tracer
 [P2P] pre.c-burns.co.uk/p2ptrace.php - Tracer for P2P releases
 [P2P] xrel.to/p2p/releases.html - Tracer for P2P releases
-File Storage, [6/4/22 1:15 PM]
- https://github.com/yash-dk/TorToolkit-Telegram
+https://github.com/yash-dk/TorToolkit-Telegram
 https://github.com/Finitebottutu/botkaca
 http://github.com/ayushteke/slam_aria_mirror_bot_HEROKU
-File Storage, [6/4/22 1:15 PM]
-اطلاع از آخرین آدرس سایت‌های تورنت:
-TORRENTMIRROR.NET
-راهنمای استفاده از تورنت:
 WATCH IN TWITTER (
 https://twitter.com/MrSubtitle/status/1338166314171559936?s=19)
-اپلیکیشن جستجوی تورنت در سایت‌های مختلف:
 ANDROID (
 https://play.google.com/store/apps/details?id=com.shivam.torrent_search)
-دانلود یا جستجو فیلم و سریال از تورنت:
-KICKASS.TORRENTBAY.TO (KAT.RIP)
 TORRENT-PARADISE.MLTPBPROXYPIRATE.COMTORRENTGALAXY.TOETTVCENTRAL.COMTORRENTZEU.ORGMAGNETDL.COMRUTRACKER.NETBITTORRENT.AMTORLOCK.COMZOOQLE.COM
-1337X.BUZZ
 RARBG.TOKATCR.TO
-PSA.ONE
 PAHE.PHRUTOR.ISEZTV.WFYTS.MX
-دانلود یا جستجو انیمه از تورنت:
 ANIMERELEASEGROUP.BLOGSPOT.COMANIMEPOINKSV2.BLOGSPOT.COMCOALGIRLS.WAKKU.TOSHANAPROJECT.COMLIMETORRENTS.INFODAMEDESUYO.COMANIMETOSHO.ORGSUBSPLEASE.ORGANIRENA.COM
-ASENSHI.MOE
 ANIDEX.INFONYAA.SI
-تماشای آنلاین فیلم و سریال از تورنت:
-WEBTOR.IO
-دانلود یا جستجو موسیقی از تورنت:
-SOUND-PARK.WORLD
-جستجوی تورنت و آپلود تورنت در گوگل درایو:
-ربات:
-@TORRENTXBOT
-گروه:
-@KLTORRENTS
-@ANIMIRROR
-ربات جستجوی تورنت:
-@TORRENTSEARCHASSISTANTBOT
-@TORRENTSEARCHROBOT
-@RU_TRACKER_BOT
-ربات دانلود تورنت:
-@TORRENTDXBOT
 @AVNLEECH
-گروه دانلود از تورنت:
 @DISCOVERY_MIRROR
-سایت تبدیل لینک تورنت و... به لینک مستقیم:
 PARSGET.COMSEEDR.CCBITSO.IRMUL.IR
-File Storage, [6/4/22 1:11 PM]
 @V2List
 @freeresource
-@freeshadowsock
 @freessssr
 @gyjclub
 @imaffbot
@@ -25710,18 +20346,14 @@ File Storage, [6/4/22 1:11 PM]
 @rsocks_news
 @shadowsocks_tool
 @socks5list
-@spys_one
-@ssList
 @ssrList
 @ssrlinktest
 @ssrproxy
 @ssrshare
 @ssrsub
-@ssrsub
 @ssrtoolbot
 @techafand
 @tlgrmalive
-@wbnet
 @zhenggui
 a.ishadow.tech
 akunssh.netaoxuaudaadaoeu.herokuapp.com
@@ -25749,11 +20381,9 @@ www.wingy.site/freess.html
 www.wuwweb.comwww.zionladder.proxsjs.yhyhd.org/free-ss
 xxoox.fun
 xxx.freev2ray.orgzhuangzhuang.cf/2018-12-16/free
-File Storage, [6/4/22 1:11 PM]
 @SSlist
-File Storage, [6/4/22 1:11 PM]
 各种节点抓取及各位节点的网站:
- https://proxypoolss.tk
+https://proxypoolss.tk
 https://www.youneed.win/free-ssr
 https://www.youneed.win/free-ss
 https://proxypool.ga
@@ -25766,8 +20396,6 @@ https://nffs.tk
 https://github.com/freefq
 https://m.ssrtool.us
 https://ss.dswang.ga
-https://sspool.herokuapp.com
-https://proxy.moneyfly.club
 http://www.6166888.xyz
 https://proxypoolsstest.herokuapp.com
 https://v2cross.com
@@ -25776,7 +20404,6 @@ https://www.freess.best
 https://www.vpngate.net/cn
 https://my.ishadowx.biz/
 open节点:
- https://freevpn.gg
 https://m.freeopenvpn.org/en
 https://www.vpnbook.com
 https://www.racevpn.com/
@@ -25784,10 +20411,9 @@ ssr节点:
 Lncn.org
 https://lightyearvpn.com/zh/free-vpn
 v2节点:
- https://view.freev2ray.org/download.china666.ml/v2
+https://view.freev2ray.org/download.china666.ml/v2
 https://cv2ray.xyz/
 #各种节点抓取 #节点网站 #网站
-File Storage, [6/4/22 1:11 PM]
 Google Dorks
 دورک نویسی برای سرچ دقیق رسیدن و رسیدن به فایل اطلاعاتی که در گوگل ب دنبال اون هستیم
 ext "نام کامل" ext:doc | ext:docx | ext:ppt | ext:pptx | ext:pdf | ext:txt | ext:odt | ext:log
@@ -25795,30 +20421,14 @@ ext "نام کامل" ext:doc | ext:docx | ext:ppt | ext:pptx | ext:pdf | ext:tx
 خدمات و ابزارهای اضافی:
 recruitin.net
 Google Dorks را برای جستجو در LinkedIn ، Dribbble ، GitHub ، Xing ، Stack Overflow ، Twitter جمع می کند.
- https://www.shodan.io/
 Shodan: ابزار
 https://github.com/jakejarvis/awesome-shodan-queries ||
 https://github.com/robocyber/Shodan-Dorks
 افزونه shodan
-فایرفاکس
- https://addons.mozilla.org/en-US/firefox/addon/shodan_io/
-کروم
- https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
-File Storage, [6/4/22 1:11 PM]
+https://addons.mozilla.org/en-US/firefox/addon/shodan_io/
+https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
 ▎点击关注资源资讯羊毛聚合频道
- https://t.me/BaccanoSoul
-❶羊毛薅到底底底底底底：
- https://t.me/LycorisStore
-❷资源存储频道：
- https://t.me/JustReformation
-❸激情群聊 ：
- https://t.me/HazardOn
-❹随性投稿bot: (格式在置顶)
 @LycorisStore
-❺免翻墙QQ羊毛群
-【彼岸❶组羊毛优惠捡漏群】：
- https://qm.qq.com/cgi-bin/qm/qr?k=ljdb0cKqi45eIyreTIEohDMCrCWz1DHc&authKey=0WylNwRZ1E3BT+unFI9KbwA5ymLx+BPu/fupIrKCri8vX0OjMpwirRtaJioUgcKr&noverify=0
-File Storage, [6/4/22 1:11 PM]
 [ File : A Guide to PGP Encryption (Farsi).pdf ]
 سی سال پیش، در اوایل ژوئن ۱۹۹۱، فیلیپ زیمرمن (
 https://en.wikipedia.org/wiki/Phil_Zimmermann) نرم‌افزاری رو عرضه کرد که چهرهٔ حریم خصوصی رو برای همیشه تغییر و دنیا رو در مسیری تازه قرار داد. در این مطلب خواهیم دید نتیجهٔ سال‌ها تلاش و فداکاری یک نفر چطور رمزنگاری رو از سلطهٔ دولت‌ها خارج و به دست مردم عادی رسوند.
@@ -25826,63 +20436,46 @@ https://en.wikipedia.org/wiki/Phil_Zimmermann) نرم‌افزاری رو عرض
 https://twitter.com/mcsaeid/status/1386925693125136386) در توئیتر منتشر شده و حالا به‌صورت پی‌دی‌اف قابل‌دسترسه.
 لینک‌های مرتبط
 دریافت فایل در کانال تلگرام
-(
 https://t.me/dieascm/78) دریافت فایل از سایت آرشیو
-(
 https://archive.org/details/pgp-farsi) آشنایی با سیستم رمزنگاری RSA
-(
 https://t.me/dieascm/75) Saeid’s Den (
 http://t.me/dieascm) | #Learning
 File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/795566694927695882/795592789923987466/Kike.jpg
+https://cdn.discordapp.com/attachments/795566694927695882/795592789923987466/Kike.jpg
 https://cdn.discordapp.com/attachments/795566694927695882/795594776283578368/Goy.jpg
 https://cdn.discordapp.com/attachments/795566694927695882/795594811787837451/Oy.jpg
 https://cdn.discordapp.com/attachments/795566694927695882/795594898337169448/Eurokike.png
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/595078893522649088/621383467342626828/heywhatsgoingonguys-1.mp3
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/595078893522649088/621383424392822794/video0-5.mov
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/615801170325405706/619736746393075712/image0.png
+https://cdn.discordapp.com/attachments/595078893522649088/621383467342626828/heywhatsgoingonguys-1.mp3
+https://cdn.discordapp.com/attachments/595078893522649088/621383424392822794/video0-5.mov
+https://cdn.discordapp.com/attachments/615801170325405706/619736746393075712/image0.png
 https://cdn.discordapp.com/attachments/615801170325405706/619736635256340490/IMG_20190831_183045.jpg
 https://cdn.discordapp.com/attachments/613136427097653279/616249311168036894/image0.jpg
 https://cdn.discordapp.com/attachments/615801170325405706/618648094862475274/image0.png
 https://cdn.discordapp.com/attachments/615801170325405706/616477767046791218/fb4c832.jpg
 https://cdn.discordapp.com/attachments/615801170325405706/616440292605689856/0_52d73cfe42b4e57978e66139273ca472a1eb2e9e3b772f273bcd51da03709f24_1.mp4
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/617960785624170496/619025531354218498/Girlfriend_24.jpg
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/emojis/594466487427923978.gif?v=1
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/emojis/585583496458797202.gif?v=1
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/emojis/405784197559615510.png?v=1
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/emojis/584193360651223041.png?v=1
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/595078893522649088/607419996481519617/1222.gif
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/emojis/559993326737031168.gif?v=1
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/emojis/544348935867858953.gif?v=1
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/emojis/584345418511548470.gif?v=1
+https://cdn.discordapp.com/attachments/617960785624170496/619025531354218498/Girlfriend_24.jpg
+https://cdn.discordapp.com/emojis/594466487427923978.gif?v=1
+https://cdn.discordapp.com/emojis/585583496458797202.gif?v=1
+https://cdn.discordapp.com/emojis/405784197559615510.png?v=1
+https://cdn.discordapp.com/emojis/584193360651223041.png?v=1
+https://cdn.discordapp.com/attachments/595078893522649088/607419996481519617/1222.gif
+https://cdn.discordapp.com/emojis/559993326737031168.gif?v=1
+https://cdn.discordapp.com/emojis/544348935867858953.gif?v=1
+https://cdn.discordapp.com/emojis/584345418511548470.gif?v=1
 https://cdn.discordapp.com/emojis/393792805526306816.gif?v=1
 https://cdn.discordapp.com/emojis/593691145272426497.gif?v=1
 https://cdn.discordapp.com/emojis/527281210305544199.gif?v=1
 https://cdn.discordapp.com/emojis/580919818824187914.gif?v=1
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/595078893522649088/604135613196926987/i_wAnT_tO_sEe_yOUr_bOObs_sEnd_mE_mWaH_mWaH_mWaH_480P.mp4
+https://cdn.discordapp.com/attachments/595078893522649088/604135613196926987/i_wAnT_tO_sEe_yOUr_bOObs_sEnd_mE_mWaH_mWaH_mWaH_480P.mp4
 File Storage, [6/4/22 1:08 PM]
- https://cdn.discordapp.com/emojis/592542643964346412.gif?v=1
+https://cdn.discordapp.com/emojis/592542643964346412.gif?v=1
 Dark Reaper — 07/22/2019
- https://cdn.discordapp.com/emojis/600340956004352001.gif?v=1
+https://cdn.discordapp.com/emojis/600340956004352001.gif?v=1
 https://cdn.discordapp.com/emojis/586773001928704010.gif?v=1
 https://media.discordapp.net/attachments/566888189630087169/598329029661032469/1562695176925.gif
 Dark Reaper — 07/26/2019
- https://cdn.discordapp.com/emojis/590074676366016514.gif?v=1
+https://cdn.discordapp.com/emojis/590074676366016514.gif?v=1
 https://cdn.discordapp.com/emojis/552174390423322629.gif?v=1
-File Storage, [6/4/22 1:08 PM]
 ░░░░░░░░░░░░░░░░░░░░░▄▀░░▌
 ░░░░░░░░░░░░░░░░░░░▄▀▐░░░▌
 ░░░░░░░░░░░░░░░░▄▀▀▒▐▒░░░▌
@@ -25913,17 +20506,12 @@ File Storage, [6/4/22 1:08 PM]
 ░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░█
 ░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
 ░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
-File Storage, [6/4/22 1:08 PM]
- https://media.discordapp.net/attachments/566888189630087169/598329029661032469/1562695176925.gif
-File Storage, [6/4/22 1:08 PM]
- https://cdn.discordapp.com/attachments/518798189982384169/598502459174027309/emote-3.gif
+https://cdn.discordapp.com/attachments/518798189982384169/598502459174027309/emote-3.gif
 Dark Reaper — 07/11/2019
- https://cdn.discordapp.com/attachments/566888189630087169/598789090309308416/q2p5dk5m2sl21.jpg
+https://cdn.discordapp.com/attachments/566888189630087169/598789090309308416/q2p5dk5m2sl21.jpg
 https://cdn.discordapp.com/attachments/518798189982384169/598598710259089417/sexual_harrassment.mp4
-File Storage, [6/4/22 1:08 PM]
 oh death
 "O, Death
-O, Death
 O, Death
 Won't you spare me over another year
 Well what is this that I can't see
@@ -25942,8 +20530,6 @@ I'm Death I come to take the soul
 Leave the body and leave it cold
 To draw up the flesh off of the frame
 Dirt and worm both have a claim
-O, Death
-O, Death
 Won't you spare me over another
 My mother came to my bed
 Placed a cold towel upon my head
@@ -25962,45 +20548,35 @@ The old, the young, the rich or poor
 All alike to me you know
 No wealth, no land, no silver no gold
 Nothing satisfies me but your soul
-O, Death
-O, Death
-Won't you spare me over til another year
 Won't you spare me over til another year
 Won't you spare me over til another year"
-File Storage, [6/4/22 1:08 PM]
 DM me
 If you have a wish or request or a friend got banned (im open to forgiveness) or.....
 Dm me and if it be possible i will solve it.
 My dm: @Don Reaper
 Dark Reaper — 07/03/2019
- https://cdn.discordapp.com/emojis/560954846753325067.gif?v=1
-Dark Reaper — 07/03/2019
- https://cdn.discordapp.com/emojis/539950096855597066.gif?v=1
+https://cdn.discordapp.com/emojis/560954846753325067.gif?v=1
+https://cdn.discordapp.com/emojis/539950096855597066.gif?v=1
 https://cdn.discordapp.com/emojis/566602461196845060.gif?v=1
 https://cdn.discordapp.com/emojis/524589562110935060.gif?v=1
 https://cdn.discordapp.com/attachments/452737528722620426/595743965458726912/IMG_20190701_043431.jpg
-Dark Reaper — 07/03/2019
- https://cdn.discordapp.com/emojis/585535481324896256.gif?v=1
+https://cdn.discordapp.com/emojis/585535481324896256.gif?v=1
 https://cdn.discordapp.com/emojis/579345619022381093.gif?v=1
-Dark Reaper — 07/03/2019
- https://cdn.discordapp.com/emojis/581534964705656833.gif?v=1
+https://cdn.discordapp.com/emojis/581534964705656833.gif?v=1
 https://cdn.discordapp.com/emojis/567612238379221012.gif?v=1
 https://cdn.discordapp.com/emojis/545320353124188177.gif?v=1
 https://cdn.discordapp.com/emojis/406209809684103169.gif?v=1
-Dark Reaper — 07/03/2019
- https://media1.tenor.com/images/42296d0b22e14b614311d5253a969dc3/tenor.gif?itemid=9838452
+https://media1.tenor.com/images/42296d0b22e14b614311d5253a969dc3/tenor.gif?itemid=9838452
 im best in the worst
-File Storage, [6/4/22 1:08 PM]
 14- i need to advertice in:
- https://discordservers.me
+https://discordservers.me
 https://discordbots.org
 https://discord.bots.gg
 https://discord.me/
-File Storage, [6/4/22 1:08 PM]
 The Emojis
- https://cdn.discordapp.com/emojis/525838884823760923.gif?v=1
+https://cdn.discordapp.com/emojis/525838884823760923.gif?v=1
 https://cdn.discordapp.com/emojis/450414142218698763.png?v=1
- https://cdn.discordapp.com/emojis/550046628464164865.png?v=1
+https://cdn.discordapp.com/emojis/550046628464164865.png?v=1
 https://cdn.discordapp.com/emojis/528660690550915093.png?v=1
 https://media.discordapp.net/attachments/353279979569545217/568143728808820751/49844.gif
 https://cdn.discordapp.com/emojis/578609508054466570.gif?v=1
@@ -26009,7 +20585,6 @@ https://media.discordapp.net/attachments/530349065138077716/583381365714714635/o
 https://cdn.discordapp.com/emojis/587417577572139043.gif?v=1
 https://cdn.discordapp.com/emojis/563472517067440128.gif?v=1
 https://cdn.discordapp.com/emojis/442094923257479170.gif?v=1
-https://cdn.discordapp.com/emojis/528660690550915093.png?v=1
 https://cdn.discordapp.com/emojis/586575088179216384.gif?v=1
 https://cdn.discordapp.com/emojis/585619884537413651.gif?v=1
 https://media.discordapp.net/attachments/278855402354114560/438056088013635605/original.gif
@@ -26022,7 +20597,6 @@ https://cdn.discordapp.com/emojis/588077026645114882.gif?v=1
 https://cdn.discordapp.com/emojis/505650799188377600.png?v=1
 https://cdn.discordapp.com/emojis/442094586505068544.gif?v=1
 https://cdn.discordapp.com/emojis/482722297434603541.png?v=1
-https://cdn.discordapp.com/emojis/528655048184692736.gif?v=1
 https://cdn.discordapp.com/emojis/528655048184692736.gif?v=1
 https://cdn.discordapp.com/emojis/590590435400089620.gif?v=1
 https://cdn.discordapp.com/emojis/526734193913495552.gif?v=1
@@ -26037,50 +20611,42 @@ https://cdn.discordapp.com/emojis/582519354390872074.gif?v=1
 https://cdn.discordapp.com/emojis/503486508615991317.gif?v=1
 https://cdn.discordapp.com/attachments/278855402354114560/439102350431485982/image.jpg
 https://media.discordapp.net/attachments/353279979569545217/568143677386522639/1222.gif
- https://media.discordapp.net/attachments/519432730493059072/581936299615715333/528412822577741825.gif
+https://media.discordapp.net/attachments/519432730493059072/581936299615715333/528412822577741825.gif
 https://media.discordapp.net/attachments/558900767499616267/572863788932399104/27.gif
- https://media.discordapp.net/attachments/557975353591726120/572816619064262672/cache.gif
-File Storage, [6/4/22 1:08 PM]
- https://cabconmodding.com/threads/bo2-gsc-stonedyodas-gsc-board-scripts-sources.188
+https://media.discordapp.net/attachments/557975353591726120/572816619064262672/cache.gif
+https://cabconmodding.com/threads/bo2-gsc-stonedyodas-gsc-board-scripts-sources.188
 https://www.itsmods.com/forum/Thread-Tutorial-Ultimate-Black-Ops-Modding.html
 https://gmzorz.com/bo2dvars.html
 https://cdn.discordapp.com/attachments/532202305655930880/744103456884916263/dedicated_zm.cfg
 http://www.mediafire.com/file/tw8u1nzlyhsn1ih/Cod4x_%252526_BO2_148.rar/file
 IDM
- https://cdn.discordapp.com/attachments/703326115564879973/706517200504094777/Patch.exe
+https://cdn.discordapp.com/attachments/703326115564879973/706517200504094777/Patch.exe
 https://cdn.discordapp.com/attachments/703326115564879973/706853812501086208/netcut.exe
 http://www.mediafire.com/file/rbrevwqy19nrsdh/gt-v-compress.exe/file8
 password : gearexgta5
- https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
 https://cdn.discordapp.com/attachments/703326115564879973/742465192751005746/cod.json
 فک کنم برای ارور ران تایم
- http://download1626.mediafire.com/3ek14kupz4jg/he4p7muxuumsl3z/vcruntime140.dll+%2526+msvcp140.dll-x64-x86-files.zip
-File Storage, [6/4/22 1:08 PM]
- https://cdn.discordapp.com/attachments/790634551000039504/857875484754313227/plugins.7z
-File Storage, [6/4/22 1:08 PM]
-vps crackin passlist
- https://cdn.discordapp.com/attachments/703169399489691722/788641305701253140/p.txt
-NL BURTE
- https://cdn.discordapp.com/attachments/703169399489691722/713628449134084166/Nl_BURTE.rar
-File Storage, [6/4/22 1:08 PM]
+http://download1626.mediafire.com/3ek14kupz4jg/he4p7muxuumsl3z/vcruntime140.dll+%2526+msvcp140.dll-x64-x86-files.zip
+https://cdn.discordapp.com/attachments/790634551000039504/857875484754313227/plugins.7z
 CallOfDuty4
- http://www.mediafire.com/file/r1qoevc8e83g89v/COD4+[MultiPlayer+Only]+PersianGulfClan.Com.rar
+http://www.mediafire.com/file/r1qoevc8e83g89v/COD4+[MultiPlayer+Only]+PersianGulfClan.Com.rar
 PATCH 1.1
- https://files.gamebanana.com/gamefiles/cod4mw-11-patchsetup.exe
+https://files.gamebanana.com/gamefiles/cod4mw-11-patchsetup.exe
 PATCH 1.2
- https://files.gamebanana.com/gamefiles/cod4mw-12-patchsetup_2.exe
+https://files.gamebanana.com/gamefiles/cod4mw-12-patchsetup_2.exe
 PATCH 1.3
- https://files.gamebanana.com/gamefiles/cod4mw-13-patchsetup.exe
+https://files.gamebanana.com/gamefiles/cod4mw-13-patchsetup.exe
 PATCH 1.4
- https://files.gamebanana.com/gamefiles/cod4mw-14-patchsetup.exe
+https://files.gamebanana.com/gamefiles/cod4mw-14-patchsetup.exe
 PATCH 1.5
- https://files.gamebanana.com/gamefiles/cod4mw-14-15mp-patchsetup.rar
+https://files.gamebanana.com/gamefiles/cod4mw-14-15mp-patchsetup.rar
 PATCH 1.6
- http://lesunco.com/dl/Patch 1.6.rar
+http://lesunco.com/dl/Patch 1.6.rar
 PACTH 1.7
- http://lesunco.com/dl/Patch 1.7.rar
+http://lesunco.com/dl/Patch 1.7.rar
 PATCH 1.8
- http://lesunco.com/dl/Patch 1.8.rar
+http://lesunco.com/dl/Patch 1.8.rar
 KEYGEN
 https://cdn.discordapp.com/attachments/541982790389071902/557979176750284800/rzr-cod4.exe
 PUNKBUSTER
@@ -26088,37 +20654,33 @@ https://cdn.discordapp.com/attachments/541982790389071902/557979568536027147/Pun
 HOST CRACK
 https://cdn.discordapp.com/attachments/541982790389071902/557979993947504655/Call_of_Duty_4_v1.0_PRIVATE_SERVER_PATCH.rar
 17.9 UPDATE!!!
- https://forum.4gf.cz/files/download/79-cod4x-client-update
+https://forum.4gf.cz/files/download/79-cod4x-client-update
 https://cdn.discordapp.com/attachments/566262150285230081/576023196504162314/CoD4_Keygen.exe
 fast file decompiler
- https://cdn.discordapp.com/attachments/566262150285230081/700271955202277376/FastFile_Tool.exe
+https://cdn.discordapp.com/attachments/566262150285230081/700271955202277376/FastFile_Tool.exe
 Dark Reaper — 12/21/2020
 modtools
- http://www.mediafire.com/file/qgeh993btvr4aj3/CoD4-Mod-Tools-master.zip/file
-File Storage, [6/4/22 1:08 PM]
+http://www.mediafire.com/file/qgeh993btvr4aj3/CoD4-Mod-Tools-master.zip/file
 Game Link(Torrent)
- https://pirateproxy.live/torrent/7310207/Call_of_Duty_5_World_at_War_v_1.7_full_game_-_AviaRa_-
+https://pirateproxy.live/torrent/7310207/Call_of_Duty_5_World_at_War_v_1.7_full_game_-_AviaRa_-
 Game Link:
- https://drive.google.com/file/d/1EhmjUoBVIdm9wofwW-QaiBVYQBXeBSGJ/view
+https://drive.google.com/file/d/1EhmjUoBVIdm9wofwW-QaiBVYQBXeBSGJ/view
 http://zommods.com/cheese-cube-unlimited
 http://zommods.com/buried-nuketown
 http://zommods.com/nuketown-remastered-1-1
 http://www.mediafire.com/file/bt22vixbau8qegq/nazi_zombie_naucht_perks.exe/file
 https://cdn.discordapp.com/attachments/566262389985771520/693411979850678312/CoDWaW-LanFix_1.7.rar
-File Storage, [6/4/22 1:08 PM]
 CallOfDutyBlackOps1
- http://www.plusmaster.pro/en/dl/bo1/
+http://www.plusmaster.pro/en/dl/bo1/
 example a good mod for bo1
- https://github.com/Jbleezy/BO1-Reimagined/releases
-File Storage, [6/4/22 1:08 PM]
- https://www.aparat.com/v/1NKL0/نحوه_انلاین_بازی_کردن_call_of_duty_mw3_با_2.8
+https://github.com/Jbleezy/BO1-Reimagined/releases
+https://www.aparat.com/v/1NKL0/نحوه_انلاین_بازی_کردن_call_of_duty_mw3_با_2.8
 http://www.mediafire.com/file/1ad22j4tyhhzc1o/MW3-Full_Update_1.4.382.rar
 https://cdn.discordapp.com/attachments/566272062101127236/571726334720606258/MW3_SP_LAN_by_mw2_blogsky_com_V1_3.rar
 https://cdn.discordapp.com/attachments/566272062101127236/571731527910555648/MW3_SP_LAN-by_mw2.blogsky.com-V1.2.rar
 https://www.yasdl.com/123014/دانلود-بازی-call-of-duty-modern-warfare-3.html
 https://www.mediafire.com/file/ug59rju8nxlfnn9/Teknogods_1.2_%2526_1.3.rar/file
-File Storage, [6/4/22 1:08 PM]
- https://www.mediafire.com/file/4n8kajueo4n7fqv/MW3.rar/file
+https://www.mediafire.com/file/4n8kajueo4n7fqv/MW3.rar/file
 Call of Duty: Modern Warfare 3
 You can get the game from Steam (
 http://bit.ly/2RPxa5S) or get a friend who has it to share it with you with the Steam Family Sharing (
@@ -26142,30 +20704,25 @@ Campaign, Spec Ops and Multiplayer!
 Notice
 Remember DO NOT SHARE this in TeknoGods / TeknoMW3 because it goes against his rules.
 Remember to check the #readme channel.
- https://cdn.discordapp.com/attachments/740943248066871329/741201629436706866/godriyo_scripts.rar
-File Storage, [6/4/22 1:08 PM]
+https://cdn.discordapp.com/attachments/740943248066871329/741201629436706866/godriyo_scripts.rar
 Chicken Invaders Multiplayer :
 http://www.mediafire.com/file/5i7mi0s6p7gza4i/Chicken_Invaders_3%25252C4%25252C5_By_IR-B3ST_Repack.exe/file
 https://cdn.discordapp.com/attachments/505379801088000013/676711652913315840/unknown.png
 http://www.mediafire.com/file/gql9l25smwihw32/BombSquad_Windows_1.4.147.exe/file
 http://www.mediafire.com/file/bu88bmxkd11pwpw/Minecraft_v1.14.4%25252Cv1.15.2_Cracked_IR-B3ST_Repack.exe/file
 minecraft 1.15.2 OPTIFINE!!!!!!!!!!!
- https://cdn.discordapp.com/attachments/655423909130141699/680471155550978081/preview_OptiFine_1.15.2_HD_U_G1_pre1.jar
-File Storage, [6/4/22 1:08 PM]
+https://cdn.discordapp.com/attachments/655423909130141699/680471155550978081/preview_OptiFine_1.15.2_HD_U_G1_pre1.jar
 Bo2 origins
- https://cdn.discordapp.com/attachments/730374376750448670/730374557029892166/950070059_preview_2EQWEWQEQW.PNG
+https://cdn.discordapp.com/attachments/730374376750448670/730374557029892166/950070059_preview_2EQWEWQEQW.PNG
 https://cdn.discordapp.com/attachments/730374376750448670/730374557629677678/950070059_preview_BASTON_DE_VIENTO.PNG
 https://cdn.discordapp.com/attachments/730374376750448670/730374558263148605/950070059_preview_BASTON_DE_HIELO.PNG
 https://cdn.discordapp.com/attachments/730374376750448670/730374558661738496/950070059_preview_BASTON_DE_FUEGO.PNG
-File Storage, [6/4/22 1:08 PM]
 نمونه ۱:
 kde plasma vanilla (
 https://www.omgubuntu.co.uk/wp-content/uploads/2020/10/plasma.jpg)
-File Storage, [6/4/22 1:08 PM]
 نمونه ۲:
 Kde plasma manjaro (
 https://manjaro.org/img/editions/arm-kde-full.png)
-File Storage, [6/4/22 1:08 PM]
 نمونه ۳:
 میگین خب یه بیس دارن عین ویندوز فقط لوگو و رنگ عوض میشه، مطمئنی؟
 توجهتون رو به این جلب میکنم
@@ -26176,11 +20733,9 @@ File Storage, [6/4/22 1:09 PM]
 در پایان kubuntu دستکاری شده توسط یوزر
 User modified Kubuntu (
 https://i.redd.it/e3beqpg9int11.jpg)
-File Storage, [6/4/22 1:09 PM]
 2- توزیعتون رو بخاطر دستکاپتون عوض نکنید، خیلی تازه واردا بخاطر دسکتاپ توزیعشون رو عوض میکنن، اما خودتون میتونید توزیع خودتون دسکتاپ دیگه نصب کنید، خودتون میتونید سرچ کنید چطور نصب کنید
 منبع:
- https://youtu.be/hyDwk65GhHg
-File Storage, [6/4/22 1:09 PM]
+https://youtu.be/hyDwk65GhHg
 معرفی دسکتاپ ها(ی معروف) که ارزشش رو دارن به نظرم معرفی کنم:
 (ارزش از این نظر: محبوبیت، کارامد و قابل استفاده و یوزر فرندلی)
 1- kde plasma
@@ -26189,27 +20744,20 @@ File Storage, [6/4/22 1:09 PM]
 4- deepin
 5- xfce
 جهت معرفی و اطلاعات بیشتر
- https://roocket.ir/articles/best-linux-desktop-environments
-و
- https://cybrit.ir/linux-desktop-environments/
+https://roocket.ir/articles/best-linux-desktop-environments
+https://cybrit.ir/linux-desktop-environments/
 مراجعه کنید، توضیح رو میزاریم به عهده حرفه ای ها و چی بگم اخه
-File Storage, [6/4/22 1:09 PM]
-1- kde plasma
 تجربه کلی:
 خیلی یوزر فرندلی و عالیه و انعطاف پذیری بالا و استیبلی و جزو دوتای برتر بین لینوکس یوزراس
 حقیقتش، عاشق اینم، حتی واسه افراد گشاد بخش وی پی ان گرافیکی با اکثر پروتکل های معروف وی پی ان راحت گذاشته، خیلی قابل کاستومایز هستش و چون حسو حال ویندوزی داره و حتی بهتر داره، خودم عاشق اینم
 توزیع های همراه این دسکتاپ
- http://kde.org/distributions/
+http://kde.org/distributions/
 یکم مشکلات:
 منم زیاد حرفه ای نیستم و مثلتون تقریبا
 خب من اینو با garuda linux و kubuntu کار کردم، تو kubuntu وی پی ان اش یکم به مشکل خوردم وقتی نصب کردم دیدم وی پی ان پلاگین میخواد، رفتم نصب کردم میگه به سرور وصل نمیشه :/
 شاید من تازه واردم ولی خب، به نظرم ارچ چقدر راحت تره و لذت بخش تره تا دبین اگر استیبل نبودن براتون موردی نداره
-File Storage, [6/4/22 1:09 PM]
 پیش نمایش kde plasma vanilla
-(
 https://www.omgubuntu.co.uk/wp-content/uploads/2020/10/plasma.jpg)----------------
-File Storage, [6/4/22 1:09 PM]
-2- gnome
 تجربه ام:
 همینطور که میدونید gnome و kde جزو محبوب ترینها هستند، هرچند من از گنوم خوشم نمیاد،
 خیلی حسو حال اندرویدی/موبایلی داره و خیلی سنگینه مصرف رم اش، نمد، برای منی که از ویندوز اومدم سازگار نبود، اما خب سلیقه سلیقس و هر کسی دستکتاپ خودشو دوست داره و تجربه شخصیم قرار نیست رو تصمیمتون تاثیر بزاره
@@ -26219,45 +20767,34 @@ Not my thing :/
 اینقدر محبوبه که با خودت میپرسی کجا نیست، یه لینک میدم خودتون ببینید
 بخش کوچیکیش... (
 https://www.linuxandubuntu.com/home/gnome-desktops?amp=1#Best_GNOME_Desktops)
-File Storage, [6/4/22 1:09 PM]
 پیش نمایش gnome vanilla
-(
 https://tgfilestreamer.herokuapp.com/19038014284718092/2021-04-20_07:26:56.jpg)_______
-File Storage, [6/4/22 1:09 PM]
-3- cinnamon
-تجربه ام:
 خیلی برای افراد تازه وارد که از ویندوز میان توصیه میشه، هرچند که kde plasma رو ترجیح میدم اما اینم خوبی خودشو داره از جمله اینکه خیلی قابل کاستومایز هستش و خیلی محیط اشنا به ویندوز داره، میتونید تم رو طوری کنید که بشه عین ویندوز ۷ و مامان بزرگا ندونن لینوکسه و کار روزمره بی دردسر بکنن
 فقط بگم وقتی حرف از ارچه خیلی بده، منجارو زدم و کیبورد فارسی رید و نیومد، گارودا زدم هم همین مشکل بود، بهترین جا به نظرم همون linux mint هستش برا استفاده :/
-توزیع های همراهش:
 به نظرم همون linux mint بزنید براش بهتره، خیلی چیز نابیه
 سرچ کنید خودتون اگر جز اینو میخواین چون تضمینش نمیتونم بکنم
-File Storage, [6/4/22 1:09 PM]
 پیش نمایش cinnamon (
 https://tgfilestreamer.herokuapp.com/19042584129921036/2021-04-20_08:30:31.jpg)
-File Storage, [6/4/22 1:09 PM]
 🛠 4- deepin
-تجربه ام:
 تجربه نکردم، نظری ندارم، خودتون تحقیق کنید
 چیزی که میدونم:
 سعی کرده حسو حاله مک ایکس رو به وجود بیاره
 پیش نمایش:
- https://www.debugpoint.com/blog/wp-content/uploads/2021/01/ExTix-21.1-Deepin-Desktop-1024x575.jpg
-File Storage, [6/4/22 1:09 PM]
+https://www.debugpoint.com/blog/wp-content/uploads/2021/01/ExTix-21.1-Deepin-Desktop-1024x575.jpg
 خب خب، حالا توزیع متناسب با دسکتاپم رو انتخاب کردم یا توزیعم رفتم دسکتاپم رو ترمینال نصب کردم، یکم درباره نرم افزار هاش بگو
 نرم افزار در لینوکس:
 خب هدف ایجاد ذهنیت و آمادگی هستش تجربه ای که داشتم
 قطعا همه نرم افزار های ویندوزی مثلا نرم افزار های adobe نسخه لینوکسی عرضه نکردن، اما میشه با برنامه هایی مثل wine ویندوزی ران کرد (رو همه کار نمیکنه و باید کانفیگ کنید) اما همیشه جایگزین اوپن سورس لینوکسی دارن و گاهی حتی از برنامه های پولی بهتر و امکانات بیشتری میدن، درواقع تو لینوکس کرک معنی ای نداره بخاطر همین (جز گیم که اونم بدل یا انجین اوپن سورس دارن) لینوکس جایی مثل ویندوز آموزش کرک و اینا نمی‌بینید
-File Storage, [6/4/22 1:09 PM]
 بهترین جایگزین Microsoft office
 1- libreoffice
 پیشنهاد میشه چون خیلی خوبه ناموسا
 آموزش شخصی سازی لیبره افیس را در تلگراف بخوانید، محیط رو میتونید شبیه مایکروسافت افیس کنید :
- https://telegra.ph/آموزش-شخصی-سازی-و-تغییر-استایل-لیبره-افیس-02-21
+https://telegra.ph/آموزش-شخصی-سازی-و-تغییر-استایل-لیبره-افیس-02-21
 حل مشکل فارسی نویسی در لیبره افیس را در تلگراف بخوانید :
- https://telegra.ph/حل-مشکل-فارسی-نویسی-در-لیبره-افیس-02-21
+https://telegra.ph/حل-مشکل-فارسی-نویسی-در-لیبره-افیس-02-21
 منبع: @FOSSFA_Channel
 یکم قلق رو کار کنید میتونید کاری کنید که افیس اصلی هم فایلاتون باز بشه
- https://youtu.be/I0jeYe8iNWo
+https://youtu.be/I0jeYe8iNWo
 2- onlyoffice
 نمیدونم، دوستش نداشتم، هدفش اینه که فایلش سازگاری با افیس اصلیه
 3- wps office
@@ -26265,77 +20802,62 @@ File Storage, [6/4/22 1:09 PM]
 بهترین جایگزین نتفلیکس و هرچی فیلم و انیمه و کارتون هستش:
 1- stremio
 پلاگین اضافه کنید و حال کنید، عاشقشم
-File Storage, [6/4/22 1:09 PM]
-[ Photo ]
 مثلا جایگزین محصولات ادوبی
-File Storage, [6/4/22 1:09 PM]
 ایده رو گرفتین؟
- https://github.com/inputsh/awesome-linux
+https://github.com/inputsh/awesome-linux
 https://luong-komorebi.github.io/Awesome-Linux-Software/
 میتونید برید ببینید چه نرم افزار هایی که نیاز دارید لینوکس هستش
 قبلا پست حذف شده درباره awesome صحبت کردم:
- https://t.me/st01747/19
+https://t.me/st01747/19
 سرچ کنید همیشه جایگزین برنامه های ویندوزی هستش و حتی اگر نرم افزارتون فرض محال جایگزین نداشت میتونید نسخه ویندوزی رو با wine بالا بیارید و نشد کانفیگ کنید و یا playonlinux و یا winetricks بزنید و اگر گیمه استیم برا گیماش proton داره و اگر کار نکرد lutrus هستش (البته lutrus برای گیمای قانونی از استورش هستش) که خیلی کارا رو راحت کرده....
 که در پایان یعنی اگر گیمر نیستین و گیمای ویندوزی براتون مهم نی ردیفین
 نکته شفاف سازی: ۶۰ درصد گیمای ویندوزی بدون هیچ مشکلی ران میشن اگر پیش نیازا رو ردیف کنید، اونایی که نمیشن مشکل drm/انتی چیت (یعنی اگر بلد باشید قلقا رو نسخه کرک شده راه میوفته) یا انجین های شخصی قدیمی سورس بسته بود (اونم احتمال بالا با کانفیگا و قلقا و اینا ردیف میشه)
 در پایان رو راست باشیم، واقعا توقع دارید گیمای ویندوزی رو لینوکس ران کنید؟
 اصلا لینوکس واسه اینکه برنامه ویندوزی بزنید توش درست نشد و فلسفه اش اوپن سورسه ولی خب خیلی بهتر از ویندوزشم ران میشه و جامعه اهمیت میدن و همدیگه رو حمایت میکنن و همینم که میشه ران کرد
 در پایان، مشکلی بخورید مسأله چند دقیقه سرچه
-File Storage, [6/4/22 1:09 PM]
 واقعا نیازی نیست ترمینال یاد بگیرین جز چند دستور ابتدایی که همونم میشه محیط گرافیکی انجام داد ولی اگر دنبال یادگیری دستورات بیشتر و حرفه ای تر شدن بودین، فرضا خیلی دلتون میخواد یکی یادتون بده، منبع فارسی خوب تو یوتیوب پیدا نکردم، هرچند واقعا نیاز ندارید و پکیجا قدیمین (نه که بدرد نخوره و به کار نیاد، فقط ممکنه چیزی اضافه و به روز بشه که پکیج نباشه)، پکیج (غیر قانونی و پولی، اگر خوشتون اومد حمایتشون کنید) برای آموزش لینوکس (که شرط می‌بندم اوبونتو یا دبین بیس هستش اما کلیات یکیه) رو میتونید تل دانلود کنید و ببینید:
 1- دوره آموزشی نصب انواع لینوکس از توسینسو
-(
 https://t.me/IRanHackerZ_1/8813)2- آموزش لینوکس ( Linux Essentials ) از توسینسو
-(
 https://t.me/IRanHackerZ_1/8815)تا اینجا برای افرادی که میخوان کارشون راه بیوفته خوبه و نیازی نیست ادامه بدین اما اگر میخواین ادامه بدین و درک بیشتر و بهتری پیدا کنید:
 3- آموزش لینوکس (LPIC1 101) از توسینسو
-(
 https://t.me/IRanHackerZ_1/8827)4- آموزش لینوکس (LPIC1 102) از توسینسو
-(
 https://t.me/IRanHackerZ_1/8829)5- آموزش لینوکس (LPIC2 201) از توسینسو
-(
 https://t.me/IRanHackerZ_1/8843)هرچند که lpic ادامه داره ولی همینقدر از توسینسو پاب شده
 پکیج سوپر لینوکس هم عالیه، کلا نابغه ها خیلی برای درک و فهم خوبه
 پکیج سوپر لینوکس از نابغه ها (
 https://t.me/hackers123/21603)
 یه ایرانی سایت خوب لینوکسی:
- http://linuxbook.ir
+http://linuxbook.ir
 نسخه وب کتاب:
- http://linuxbook.ir/download.html
-File Storage, [6/4/22 1:09 PM]
+http://linuxbook.ir/download.html
 هرچند ادامه داره ولی تا همینقدر از tosinso پاب شده، عالین بر اساس گفته دوستان
 اگر میخواین پرسرعت و مستقیم دانلود کنید لیست ربات هستش
- https://t.me/TGBot_List/23
-https://t.me/TGBot_List/117
 فایل رو فور کنید به ربات و لینک مستقیم بگیرید و دانلود کنید
 خودم که @FileToLinkTGbot و صد البته @Tg2extbot میزنم و راضیم، ایران نمد ‍
-File Storage, [6/4/22 1:09 PM]
 کاری که خودم برا سیستم عامل میکنم اینه، یه لینوکس ارچ بیس میریزم چون برام خیلی راحت تره و گور پدر استیبلی و چیز میز هم با ارورا یاد میگیریم، معمولا به ویندوز نیازی پیدا نمیکنید ولی من چون مثلا گیمرم ویندوز هم در کنار توزیع لینوکسی ام دارم، البته نه هر ویندوزی، ویندوز لایت، مصرف ویندوز معمولی یکو نیم گیگ تا دو گیگه، اینم پونصد تا هفت صد مگ، هرچی نیاز دارید مثلا پیش نیاز برنامه هارو میریزین و فقط گیم میزنید توش، خیلی هم بهتره، خودم اینا رو پیشنهاد میکنم:
- https://youtube.com/c/GHOSTSPECTRE
+https://youtube.com/c/GHOSTSPECTRE
 https://youtube.com/c/TheWorldofPC (تستش نکردم)
 و اگر بازم احساس گیمریم بیشتر بود در کنار همه اینا میتونم اندروید بریزم که prime os برا پابجی، اگر سیستم قوی تری هم داشتم چی بهتر از شبیه ساز داخل لینوکس
 ولی در کل اگر گیمر نیستین، لینوکس عالیه براتون از هر نظر واقعا...
 درسته میشه خیلی خوب گیمای ویندوزی رو لینوکس زد اکثرشون رو اما برا کرکرای گشاد تازه وارد شروع خوبی نیست
-File Storage, [6/4/22 1:09 PM]
 تمام سیستم عامل هارو معرفی کردم و میتونید همشون رو با هم بوت کنید
 این ویدیو نشون میده (اموزش نمیشه گفت با این اسپید ران اش) میشه میتونید هکینتاش و ویندوز و لینوکس و اندروید رو یکجا بوت کنید هر موقع روشن کنید منو بیاد انتخاب کنید
- https://youtu.be/vXMNyiEgD6o
-File Storage, [6/4/22 1:09 PM]
+https://youtu.be/vXMNyiEgD6o
 نکته و حاشیه:
 خیلی جالبه ویندوز و لینوکس همدیگه رو دارن تو همدیگه اضافه میکنن و برنامه های دوتا سیستم عامل تو هم اجرا میشه
 البته مبارزه عادلانه ای نیستش، لینوکس اوپن سورس و ازاد هستش و برا ویندوز راحته اضافه کردنش توش اما برای لینوکس شدنی نیست، نه که نیست، منظورم زمانبره، حتی سورس کد ویندوز اکس پی لیک شد ولی از نظر قانونی حق ندارن اضافه کنن و باید خودشون از پایه بنویسن
 برای لینوکس و مک پروژه wine برای اجرای برنامه های ویندوزی:
- https://www.winehq.org/
+https://www.winehq.org/
 سودش برای لینوکس:
 ۱- جز گیم هیچ سودی نداره برای یوزرای معمولی چون بقیه چیزا حتی بهتر از ویندوزه
 ۲- برای برنامه نویسا که اکثرا لینوکس کار میکنن خوبه محیطی باشه که برنامه ویندوزیشون رو تست کنن، به هر حال برنامه نویسا بیشتر به لینوکس علاقه دارن تا ویندوز، بقیه هم دارن ولی جرقه رو کسی نمیزنه و گشادن خودشون
 برای ویندوز پروژه wsl2 برای اجرای ترمینال به صورت native (هر وقت میگن برنامه native معمولا یعنی درواقع انگار مثلا خود لینوکس رو تو ویندوز ران کردی) ترمینال کار کنید و الان پروژه جدیدشون WSLg برای اجرای برنامه های گرافیکی لینوکس، هنوز دمو هستش
- https://t.me/linuxgram/7282
+https://t.me/linuxgram/7282
 کافیه میتونید یوتیوب سرچ کنید "wslg" و ببینید مردم تست میکنن و چیکار کردن، خیلی باحاله
 اگر اهلشین و میخواین بدونید چطوری دقیقا کار می‌کنه:
- https://youtu.be/EkNBsBx501Q
+https://youtu.be/EkNBsBx501Q
 و جز این شنیده میشه بزودی بر همین پایه اندروید هم ممکنه اضافه بشه به اسم project latte ولی نمیگن بلاخره کی اما میگن ممکنه تا اخر امسال
- https://youtu.be/zgdu4AqVTDo
+https://youtu.be/zgdu4AqVTDo
 بیشتر توضیح میده
 ویندوز از این ماجرا سه سود می‌کنه:
 ۱- کار رو برای لینوکس یوزرا اسون می‌کنه که ویندوز بمونن و مجبور نشن شبیه ساز بزنن یا duel boot کنن، مثلا جوجه هکرایی که میخوان کالی بزنن اما میدونن چطور...
@@ -26358,18 +20880,15 @@ File Storage, [6/4/22 1:10 PM]
 در دسته فیلترشکنها قرار میگیرن
 منبع (
 https://t.me/wbnet/64686)
-File Storage, [6/4/22 1:10 PM]
 تفاوت بین پروکسی و وی پی ان رو میتونید 6:05 ببینید:
- https://youtu.be/nGPbkvbmri8
-File Storage, [6/4/22 1:10 PM]
+https://youtu.be/nGPbkvbmri8
 استفاده از فیلترشکن/vpn جرم است؟
- https://t.me/wbnet/612
+https://t.me/wbnet/612
 https://t.me/wbnet/613
 پ.ن: اکثر مردم ایران فیلترشکن گوشیشون نصبه و این یعنی نمیتونن همه رو مجازات کنن، این قوانین قدیمی بود و حتی الان بدتر هم شده، زورشون نمیرسه، پس نگران نباشید و با عرض بیلاخ به برادران فیلترچی بریم شما شغلتو ریدی و مفت خوری که حتی یه بچه
- https://youtu.be/hczG8s0mTw0
+https://youtu.be/hczG8s0mTw0
 آموزش کصشر میده ولی حداقل این بچه هم میدونه باید فیلترشکن بزنه، شما چرا وجود داری، چرا نفس میکشی....
 خب بریم موضوع بعدی....
-File Storage, [6/4/22 1:10 PM]
 چرا vpn استفاده میشه؟
 1- اتصال به شبکه سرکارشون:
 زیاد اطلاعاتم دقیق نیست ولی کارمند های فلان شرکت مثلا ادارات فلان شرکت خصوصی، همچین چیزی، برای اتصال به شبکه شرکتشون نیاز به وی پی ان دارند که ارتباط بین خودشون و شرکتشون رمزگذاری باشه
@@ -26377,7 +20896,6 @@ File Storage, [6/4/22 1:10 PM]
 مردم برای اینکه مورد حمله هکرها قرار نگیرن یا شنود و فروش اطلاعات دولت ها و شرکت های خصوصی یا سایت ها یا وقتی از وای فای عمومی استفاده میکنند، مشخصات واقعی آدرس، حساب بانکی ی فرد، به خصوص اروپایی، آمریکایی واقعا ارزشمنده و خیلی کارا میشه باهاش کرد پس اونا واقعا نگران امنیت اینترنتشون هستن و حریم خصوصی براشون مهمه و از هر هشت نفر، یک نفر درگیر نوعی فیلترینگ هستش در سراسر جهان...
 ۳- خرید های بدون مالیات و ارزونتری داشته باشن و نتفلیکس هولو و... نگاه کنن
 بعضی سایتا مثلا سایتای خرید و فروش کالا مثل امازون و بلیط هواپیما و فروش گیما مثل استیم اینا قیمت رو مثلا برای مناطق محروم تر پایین میارن و مناطق بهتر قیمتا رو بالا میبرن یا در مناطقی در زمان خاصی قیمتا بالا پایین تر میرن، و وی پی ان استفاده میکنند و نمونه دیگه مثلا نتفلیکس ریجن بلاک میکنند که فلان فیلم چون نمیصرفه فلان منطقه نشون نمیده و باید وی پی ان بزنن که دور بزنن که قانونی دور بزنن
-File Storage, [6/4/22 1:10 PM]
 درباره کلاینت های وی پی ان ها:
 پیشنهاد میکنم به جا استفاده از کلاینت اصلی وی پی ان ها از پروتکل هاشون استفاده کنید چون به هر حال اگر نمیدونید از پروتکل وی پی ان استفاده میکنن برای اتصال، پس از کلاینت پروتکل ها به جا شرکتیا استفاده کنید، کلاینت شرکتی معلوم نیست بک گراند چیکار میکنن، سرور ناامن از کلاینت ناامن بهتره، کلاینت باید اوپن سورس باشه و بدونید چیکار میکنه و دنبال سرور خوب هم باشید مثلا اوپن وی پی ان اکسپرس وی پی ان این کانالا میزارن، کلاینت ایمپورت کنید و استفاده کنید، البته پروتکل هایی هستند مثل clash اما کلاینتش اوپن سورس نیستن (نسخه بتای فاس گیت هاب گذاشتن، زمانی که اینو می‌نویسم ۱۸ مه هستش)
 نکته ۱:
@@ -26385,10 +20903,9 @@ File Storage, [6/4/22 1:10 PM]
 نکته ۲:
 پروتکل نوعه اتصاله، اینجا منظورم پروتکل های وی پی ان هستش مثلا:
 Open vpn, shadowsocks, wireguard....
-File Storage, [6/4/22 1:10 PM]
 انواع پروتکل های وی پی ان و برنامه هاشون تو سیستم عامل ها:
 توضیحات بهتر اگر دنبال جزئیاتین:
- https://www.purevpn.com/what-is-vpn/protocols
+https://www.purevpn.com/what-is-vpn/protocols
 https://www.comparitech.com/vpn/protocols/
 1- pptp, l2tp, sstp, ipsec, IKEv2
 توضیح کوتاه:
@@ -26396,50 +20913,40 @@ https://www.comparitech.com/vpn/protocols/
 اینجور که میدونم زیاد امن نیستند، pptp سریعترین و ناامن ترینشونه، انگار رمزگذاری کمتر سرعت بیشتر...
 نمیدونم اوپن سورس اند یا نه، اصلا استفاده نمیکنم زیاد...
 2-‌ OpenVPN
-توضیح کوتاه:
 این رو امن ترین وی پی ان بخاطر رمزگذاری خوبش هستش ولی خب سریع نیست
 دانلود برای همه سیستم عامل ها:
 رسمی همه سیستم عامل ها از جمله ویندوز:
- https://openvpn.net/vpn-client/
-اندروید
+https://openvpn.net/vpn-client/
 1- کلاینت اوپن وی پی ان رسمی
- https://play.google.com/store/apps/details?id=net.openvpn.openvpn
+https://play.google.com/store/apps/details?id=net.openvpn.openvpn
 2- کلاینت VPN client pro
- https://play.google.com/store/apps/details?id=it.colucciweb.vpnclientpro
+https://play.google.com/store/apps/details?id=it.colucciweb.vpnclientpro
 اوپن سورس نیست، اعتماد ندارم
 2- اوپن وی پی ان کانفیگ ایمپورت با windscribe:
- https://play.google.com/store/apps/details?id=com.windscribe.vpn&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.windscribe.vpn&hl=en&gl=US
 یه اکانت می‌سازین و به جا استفاده ازش میاین کانفیگ ایمپورت میکنید
 دانلود برای انواع سیستم عامل و روتر ها
- https://www.ovpn.com/en/guides#openvpn
+https://www.ovpn.com/en/guides#openvpn
 3- wireguard
-توضیح کوتاه:
 تعداد خط کدش نسبت به اوپن وی پی ان کمتره و هدفش بهبود عملکرد نسبت به اوپن وی‌پی‌ان و آی‌پی‌سک هستش، خیلی خوب و سریعه لامصب، بعضی مواقع ممکنه ای پی تون رو عوض نکنه و باید webrtc مرورگرتون رو خاموش کنید، اکثر وی پی ان ها این مشکل برطرف شده...
-دانلود برای همه سیستم عامل ها:
 1- برنامه رسمیش:
- https://www.wireguard.com/install/
+https://www.wireguard.com/install/
 2- وایرگارد کانفیگ ایمپورت با windscribe:
- https://play.google.com/store/apps/details?id=com.windscribe.vpn&hl=en&gl=US
-یه اکانت می‌سازین و به جا استفاده ازش میاین کانفیگ ایمپورت میکنید
 نکته:
 برنامه windscribe سورس بسته هستش و پیشنهاد نمیکنم، میتونید کانفیگ اوپن وی پی ان و وایرگارد رو ایمپورت کنید، اخه این از وایرگارد اندروید استیبل تره :/
-File Storage, [6/4/22 1:10 PM]
 انواع پروکسی ها:
 1- socks4, socks5,
-http
 خب چیزی که درک کردم خیلی ساده میگیم، پروکسی به معنی واقعی هستش، همون وی پی ان هستش فقط بین شما و سرور وی پی ان رمزگذاری نشده و قابل شنوده و فقط ای پی تون مخفی هستش، یه زمانی ملت از همین چیزا برا فیسبوک رفتن استفاده میکردن و دلشون خوش بود، فلش بک زدی پیرمرد؟
 هعی... امروزه بیشتر و صرفا برای کرکینگ و خلاصه کلام مخفی کردن ای پی یا این چیزاس...
 البته اگر بینتون و جایی که وصل میشین مثل تلگرام رمزگذاری میشه یا صرفا دانلود و کارای از این دسته هستش خوفه و شاید dot (dns over tls) و doh (dns over
 https) بدرد این مواقع بخورن، بوش...
 توضیحات بهتر:
- https://www.aryatehran.com/پروکسی-چیست/
+https://www.aryatehran.com/پروکسی-چیست/
 2- shadowsocks, v2ray, ssr, trojan
 توضیحاتی درباره شادوساکس و فرقش بین وی پی ان ها:
- https://cyberwaters.com/shadowsocks-vpn
+https://cyberwaters.com/shadowsocks-vpn
 https://surfshark.com/features/surfshark-vpn-protocols
-توضیح کوتاه:
 به شادوساکس نمیشه بهش وی پی ان گفت ولی خیلی شبیهشه، یه جور پروکسی socks5 رمزگذاری شده تونل میکنه، که پس از آن ترافیک اینترنتی همانند تونل SSH به آن سمت هدایت می‌شود. بر خلاف یک تونل SSH، شدوساکس می‌تواند ترافیک UDP را نیز پروکسی کند. این بیشتر برای دور زدن فیلترینگ چین (great firewall یا مختصر شده gfw) درست شده و ایران دقیقا یه چیز شبیه ده سال پیش فایروال چین هستش و از نظر رمزگذاری خیلی قوی نیست هرچند بستگی به سروراتون داره چه نوع رمزگذاری انتخاب کنند و در کل سریعه، مصرف باطری برا موبایل هم یکم بالاست، خودم عاشقشم و البته v2ray و ssr و trojan هم برپایه یا شبیه شادوساکس هستن
-دانلود برای همه سیستم عامل ها:
 اندروید:
 1- shadowsocks (
 https://t.me/wbnet/67549)(پیشنهاد نمیکنم چون تبلیغات داره و تبلیغات نباید وجود داشته باشه)
@@ -26452,7 +20959,6 @@ https://sagernet.org/download/))(خداست رسما، همه چی داره)(ت�
 https://t.me/wbnet/68993))
 شک دارم foss هست یا نه اما اوپن سورس هستن:
 4- clash
-(
 https://t.me/wbnet/68701)(هنو شک فاس (
 https://t.me/wbnet/68702) داره یا نه)
 5- v2rayng (
@@ -26462,16 +20968,13 @@ https://t.me/sagernet/6) کاملا اوپن سورس نیست یا اوپن س�
 کامپیوتر:
 1- sstap (
 https://t.me/wbnet/63380) (ویندوز) (shadowsocks, shadowsockR, v2ray, socks5, proxy, ssh)(پیشنهاد میشه)
-(
 https://t.me/wbnet/63380)نکته:
 این رو برای همچی از جمله گیمینگ پیشنهاد میکنم، عالیه ناموسا
 نسخه 1.0.9.7 تمام سیستم رو تونل میکنه، برای دانلود اینجا رو کلیک کنید. (
 https://github.com/FQrabbit/SSTap-Rule/releases/download/SSTap常用版本及去广告/SSTap-beta-setup-1.0.9.7.exe.7z)
 نسخه 1.1.0.1 به صورت لوکال هاست پروکسی باید به برنامتون اضافه کنید، برای دانلود اینجا رو کلیک کنید. (
 https://github.com/FQrabbit/SSTap-Rule/releases/download/SSTap常用版本及去广告/SSTap-beta-setup-1.1.0.1.exe.7z)
-2- outline (
 https://t.me/wbnet/67029)(اندروید، ویندوز، لینوکس) (shadowsocks)(پیشنهاد میشه)
-(
 https://t.me/wbnet/67029)3- qv2ray (
 https://t.me/wbnet/59839) (لینوکس، ویندوز)(پیشنهاد میشه)
 نکته: یکم قلق داره و تمام سیستمتون رو تونل نمیکنه، میشه کلکایی زد اما نمیتونم توضیح بدم
@@ -26480,44 +20983,37 @@ https://t.me/wbnet/66430) (windows) (xray, shadowsocks, v2ray, vless, trojan, so
 5- NetchX (
 https://t.me/wbnet/63330) (windows) (vmess, ssr, ss, s5, trojan, VLESS) (تست نکردم)
 برای تبدیل/درست کردن لیست پروتکلهای برپایه شادوساکس به لینک سابسکرایب، مبدل اوپن سورس هستش که اینکارو خیلی راحت کرده، سرور بهش میدین و انتخاب میکنین به سابسکرایب چی میشه
- https://subcon.dlj.tf/ (آموزش (
+https://subcon.dlj.tf/ (آموزش (
 https://t.me/nimbahaplus/352))
- https://sub-web.wcc.best
+https://sub-web.wcc.best
 https://api.nameless13.com
 https://agwa.page
 https://acl4ssr.netlify.app
 https://sub-web.netlify.com/ (اموزش (
 https://t.me/nimbahaplus/347))
- https://sub.789.st
+https://sub.789.st
 https://web.api.ytoo-163cdn.com
 https://sub.dler.io
 https://subcon.dlj.tf
 https://id9.cc
 https://skapi.cool
-https://api.nameless13.com
-https://web.api.ytoo-163cdn.com
 https://sub-web.netlify.app
 https://gfwsb.114514.best
-https://sub.dler.io
-https://api.nameless13.com
 https://bianyuan.xyz
 https://sub-web.qingsay.com
 https://qimo.city
 اینم یه ابزار دیگه س میتونید استفاده کنید
- https://github.com/tindy2013/subconverter/releases
+https://github.com/tindy2013/subconverter/releases
 https://m.ssrtool.us/ssrToss
 https://zhiyuan-l.github.io/SS-Config-Generator/
-File Storage, [6/4/22 1:10 PM]
 سایر موارد:
 انواع پروتکل های وی پی ان غیر متمرکز و برنامه هاشون تو سیستم عامل ها:
 1- tor
 کلاینت های زیادی برای این وجود دارند و چیزایی که میدونم رو نام میبرم:
-کامپیوتر:
 1- tor browser (
 https://www.torproject.org/download/)(پیشنهاد میشه و اکثر سیستم عامل ها هستش)
 2- onionfruit (
 https://t.me/wbnet/68051)(تست نشده)
-اندروید:
 1- invizible pro (
 https://t.me/wbnet/67617)
 2- tor browser (
@@ -26532,17 +21028,14 @@ https://t.me/wbnet/65649) (android) (تست نشده)
 3- sentinel (
 https://t.me/wbnet/61487)/download (
 https://sentinel.co/downloads) (linux, windows, android) (تست نشده)
-وی پی ان برپایه بلاکچین
 4- mysterium vpn (
 https://t.me/accbox_chat/12357)/download (
 https://mysterium.network/apps/) (android, windows, linux) (تست نشده)
-وی پی ان برپایه بلاکچین
-File Storage, [6/4/22 1:10 PM]
 درباره سرورا:
 به چند دلیل نباید هر وی پی ان شرکتی یا سروری رو استفاده کنید:
 1- کشور های یازده چشم (
 https://t.me/wbnet/67586)
- https://www.privacytools.io/providers/
+https://www.privacytools.io/providers/
 بهتر توضیح میده
 2- نمونه ای کثافت کاری دولت ها و شرکت های وی پی ان رایگان (
 https://t.me/wbnet/63682)/ نکته بامزه (
@@ -26551,18 +21044,14 @@ https://t.me/wbnet/66786)
 و در پایان میخوای استفاده کنیشون؟
 خااااک تو اون سرت درد و بلا هام سرت که هرچی سرت میاد حقته بدبخت
 3- ردیاب ها و پرمیشن های عجیب و تبلیغات کلاینتش
-(
 https://t.me/wbnet/64518)نکته: هیچکس تبلیغات و اپلود نودش نمیدوست... :(
 4- بد افزار بودن بعضیشون
-(
 https://t.me/wbnet/32305)
 5- ایران براشون سودی نداره واقعا
 فروش بیشتر اولویت شرکتهای بزرگ وی پی ان هستش اصلا برای اونا ایران مهم نیست چون بازاری نداره براشون
 گردش مالی بعضی از این شرکتها سالانه به صدها میلیون دلار میرسه و اکثرا مشتریها از اروپا و آمریکا هستن جاهایی که دغدغه فیلترینگ ندارن
-نکته:
 بعضیا یهویی پیدا میشن و میبینی میگه مثل tunnelbear (
 https://t.me/paskoocheh/2975) حجم 100 گیگ رایگان فقط برای ایرانیان و کمک انسان دوستانه و فلان بهمان و فیلترینگ، کافیه با ای پی ایران وصل بشید و میگیرین، یه ریگی واقعا تو کفششون نیس؟
-File Storage, [6/4/22 1:10 PM]
 می توانید VPN ها را براساس معیارهای زیر ارزیابی کنید:
 ادعاها
 آیا ارائه دهنده VPN در مورد محصول یا خدمات خود ادعایی دارد؟ شاید آنها ادعا کنند که هیچ داده اتصال کاربر را وارد نمی کنند ( به جمع آوری داده ها در زیر مراجعه کنید) ، یا ادعا می کنند که داده ها را به اشتراک نمی گذارند یا نمی فروشند. به یاد داشته باشید که ادعا تضمینی نیست ، بنابراین مطمئن باشید که این ادعاها را تأیید می کنید. در سیاست حفظ حریم خصوصی یا privacy policy یک ارائه دهنده VPN عمیقاً کاوش کنید تا جزئیات مربوط به نحوه کسب درآمد از داده های شما را کشف کنید ، حتی اگر VPN آن را مستقیماً به اشخاص ثالث نمی فروشد.
@@ -26579,10 +21068,7 @@ File Storage, [6/4/22 1:10 PM]
 مکان و قوانین
 ممکن است VPN را براساس محل استقرار دفتر مرکزی آن انتخاب کنید. انتخاب VPN براساس قوانین حریم خصوصی داده های آن کشور ممکن است عامل مهمی باشد ، اما توجه داشته باشید که قوانین و سیاست ها می توانند تغییر کنند.
 میتونید بیشتر در این رابطه اینجا بخونید:
- https://www.privacytools.io/providers/
-منبع (
 https://t.me/wbnet/63623)
-File Storage, [6/4/22 1:10 PM]
 درباره کلاینت ها راهه حل خیلی ساده هستش و به سه سطح برا افراد دسته بندی میکنم
 1- افرادی که به foss اهمیت نمیدن و کلاینت براشون مهم نیست ولی امنیت و حریم خصوصیشون مهمه براشون:
 (پیشنهاد نمیکنم)
@@ -26592,7 +21078,7 @@ File Storage, [6/4/22 1:10 PM]
 خودم از این دسته ام، پروتکل های وی پی ان هارو استفاده میکنم و اگر شرکتی باشه چک میکنم ببینم معتبر هستش یا نه و اگر اره privacy policy رو چک میکنم و اگر خوب بود میرم امنیتش رو تست میکنم مثلا whoer.net رو چک میکنم، اگر هم چیزی مثل تلگرام استفاده میکنید که بین سرور تل و شما رمزگذاری شده هستش یا صرفا میخواین دانلود کنید یا کار بی ارزشی دارید، میتونید هر سروری بزنید، تهش شنود می‌کنن ولی چیز مفیدی گیرشون نمیاد، مثلا شادوساکس برای نکوگرام ایکس (تلگرام غیر رسمی اوپن سورس) میزنم و وارپ میزنم که با کمترین تأخیر دانلود کنم، هرچند بازم سرعتش و پینگش و امنیتش (مثلا دی ان اس لیک و اینا) مهمه...
 3- اگر میخواید کاملا و صد در صد ایمن باشید و مطمئن باشید، سرور خودتون رو استفاده کنید:
 سرور/وی پی اس شرکت های مختلف رو بررسی میکنید و اگر همه چیزش مثل قوانین و مواردی دیگه خوب بود و راضی بودین، سرور نزدیک خودتون میگیرین که کمترین پینگ/تاخیر رو داشته باشه میرین میگیرین، خودتون
- https://github.com/StreisandEffect/streisand
+https://github.com/StreisandEffect/streisand
 با ابزار هایی مثل این سرورتون وی پی انتون رو درست میکنید
 مزایا این روش:
 1- امنیت فوق العاده بالایی دارید و میدونید پشت سرورتون چی میگذره و اختیار صد در صد سرورتون رو دارید
@@ -26602,7 +21088,6 @@ File Storage, [6/4/22 1:10 PM]
 1- از مزیت های وی پی ان های شرکتی اینه که بین کلی ادم مخفی میشین، سرور به اسمتونه، برای ناشناس شدن خوب نیست، برای امنیتتون خوبه، مطمئنین که اطلاعاتتون رو دولت شنود نمیکنه و اینکه کثافت کاری ای نشده، میتونید به چندین نفر اجاره بدین و وی پی ان بفروشین، اینطوری ناشناس بودن رو هم بدست میارید، عالیه نه؟
 2- مثل وی پی ان نمی‌تونید کشور های انتخاب کنید و مجبورین برای هر کشور سرور بخرین، اما واقعا مگه مهمه کلی کشور داشته باشین؟
 3- پولشو ندارید
-File Storage, [6/4/22 1:10 PM]
 فرضا بهترین کلاینت و بهترین کانفیگ متناسب با کارتون انتخاب کردید (هر گوه شکنی رو نمیگم)
 باید دو چیز رو بررسی کنید:
 1- سرعت و تاخیرش
@@ -26613,14 +21098,9 @@ https://play.google.com/store/apps/details?id=com.termux) نصب کنید و د�
 ping 1.1.1.1
 و اینتر رو بزنید، البته لینوکس هم به همین صورته فقط برا باز کردن ترمینال بزنید ctrl + alt + t، هرچقدر بود مثلا 90 تا 120 یا بیشتر، هرچی تاخیر رو نوشته رو با بعد روشن کردن فیلترشکن مقایسه کنید، هرچی کمتر بهتر
 بر اساس تجربه ام آلمان کمترین تأخیر رو داره
-File Storage, [6/4/22 1:10 PM]
-[ Photo ]
 یک نمونه....
 هرچند پینگ پایینه چون فیبر نوری دارم، برای شما یه چیز بین 90 تا 140 هستش بدون فیلترشکنتون
-File Storage, [6/4/22 1:10 PM]
-[ Photo ]
 یک نمونه ویندوز....
-File Storage, [6/4/22 1:10 PM]
 بررسی سیستم ضدسانسور تلگرام
 «کلیه‌ی اطلاعات زیر از تحلیل سورس کد تلگرام بدست اومده، پس ممکنه کاملاً درست نباشه.»
 اپلیکیشن تلگرام در هر بار اجرا یک کانفیگ (فایل حاوی تنظیمات) از دیتاسنتر های خودش دریافت میکنه. این کانفیگ شامل مواردیه که لازمه از طریق سرور دریافت بشه. مثلاً دریافت مقدار محدودیت زمانی برای ویرایش پیام‌ها، تعداد محدودیت اعضا در سوپرگروه‌ها که این عدد در حال حاضر ۲۰۰ هزار نفره یا محدودیت تعداد چت‌های پین شده. با این روش میشه بعضی از مقادیر و محدودیت‌ها رو بدون نیاز به انتشار آپدیت و فقط با تغییر مقدار ارسالی به اپلیکیشن تغییر داد. یکی از مقادیری که داخل این کانفیگ موجوده امکان فعال کردن یا غیرفعال کردن سیستم ضدسانسور تلگرامه. این سیستم فعلاً فقط برای کشور روسیه فعال شده به همین دلیل وقتی با وی‌پی‌ان سرور روسیه به تلگرام متصل بشید، دیتاسنتر تلگرام متوجه میشه که درخواست از کشور روسیه ارسال شده و داخل کانفیگ ارسالی به اپلیکیشن، با تغییر یک متغیر سیستم ضدسانسور رو فعال میکنه. دلیل اینکه بعد از قطع کردن وی‌پی‌ان این سیستم غیرفعال میشه هم اینه که اپلیکیشن، کانفیگ دریافتی رو طی بازه‌های زمانی آپدیت میکنه.
@@ -26634,15 +21114,15 @@ File Storage, [6/4/22 1:10 PM]
 توی روش دوم اپلیکیشن سعی میکنه با Resolve کردن آدرس زیر، اطلاعات رو دریافت کنه.
 آدرس زیر فیکه ولی شما همچین چیزی رو در نظر بگیرید:
 Telegram Dns domain (Fake) :
- https://Dns.telegram.me
+https://Dns.telegram.me
 برای این کار از آدرس های زیر استفاده میکنه:
 Google Dns resolver :
- https://dns.google.com/resolve?name=t.me
+https://dns.google.com/resolve?name=t.me
 Cloudflare Dns resolver :
- https://mozilla.cloudflare-dns.com/dns-query?name=t.me
+https://mozilla.cloudflare-dns.com/dns-query?name=t.me
 ساده‌ترین استفاده‌ از Dns resolver ها تبدیل آدرس سایت به آی‌پی آدرسه، مثلا اگه با وی‌پی‌ان آدرس زیر رو باز کنید میبینید که توی بخش مشخص شده آدرس آی‌پی سایت مورد نظر نوشته شده:
 Answer >> data : "IP address"
- https://dns.google.com/resolve?name=t.me&type=A
+https://dns.google.com/resolve?name=t.me&type=A
 خوبی این روش اینه که حتی اگه آدرس سایت موردنظر فیلتر شده باشه بازم اطلاعات دریافت میشه چون Dns resolver ها مثل واسطه عمل میکنن.
 بعد از اینکه آی‌پی و پورت دیتاسنتر های جدید از طریق یکی از راه‌ های بالا دریافت شد، اپلیکیشن از اونا برای اتصال استفاده میکنه. یه احتمال دیگه هم اینجا وجود داره، اطلاعات دریافتی ممکنه آی‌پی و پورت یه سرور ابری متعلق به گوگل یا شرکت دیگه‌ای باشه و برنامه از اون‌ برای اتصال به دیتاسنتر های پیش‌فرض خودش استفاده کنه.
 اگه اتصال انجام نشه پس دیتاسنتر جدید هم فیلتر شده و دوباره مراحل بالا انجام میشه. این کار انقدر تکرار میشه تا اتصال انجام بشه.
@@ -26655,15 +21135,10 @@ D9vu7bvtX9tvYpVzn08mZg2V4L/qHrrJdAG5XzeeeK60f/2E6WDNOXs4VVWr1n7WXqcQiWXEgMtZC9sI
 یکی از مشکلات این سیستم محدود بودن تعداد دیتاسنتر های تلگرامه‌.
 تا هفته‌ی اول فیلترینگ در روسیه این سیستم خیلی خوب کار میکرد (اینجا هم بهش اشاره شده (
 https://t.me/durov/80)) ولی با گذشت زمان و تشدید فیلترینگ سرور های جدید هم مدام فیلتر میشن و کاربرای روس تا همین اواخر از پراکسی برای اتصال استفاده میکردن.
-@VpnProtected
-File Storage, [6/4/22 1:10 PM]
- https://pandorabox.io/
+https://pandorabox.io/
 خواستی تست کنی برو این سرور
-File Storage, [6/4/22 1:10 PM]
- https://www.minecraftskins.com/search/skin/minetest/1/
-File Storage, [6/4/22 1:10 PM]
+https://www.minecraftskins.com/search/skin/minetest/1/
 github.com/mahdymirzade/easymacos
-File Storage, [6/4/22 1:10 PM]
 اول گیکس (Guix) که برای تازه‌کارها خوب نیست، دوم دبیان
 File Storage, [6/4/22 1:04 PM]
 دیتاسنتر های تلگرام:
@@ -26679,39 +21154,30 @@ DC 2: Amsterdam, Netherlands
 149.154.167.50, 149.154.167.51
 2001:67c:4e8:f002::a
 149.154.167.0/24
-Traceroute:
 https://atlas.ripe.net/measurements/8822611/#!map
 DC 3: Miami, Florida, USA
 149.154.175.100
 2001:b28:f23d:f003::a
-149.154.175.0/24
-Traceroute:
 https://atlas.ripe.net/measurements/8822614/#!map
 DC 4: Amsterdam, Netherlands,UK
 149.154.167.91
 2001:67c:4e8:f004::a
-149.154.167.0/24
-Traceroute:
 https://atlas.ripe.net/measurements/8822615/#!map
 DC 5: Singapore, India
 91.108.56.130
 2001:b28:f23f:f005::a
 149.154.171.0/24
-Traceroute:
 https://atlas.ripe.net/measurements/8822616/#!map
 پنج تا از شناخته شده ترین ip ها:
-(
 https://github.com/telegramdesktop/tdesktop/blob/400273968283b1b0fd0ecf2fba388d913da1b140/Telegram/SourceFiles/config.h#L130-L136)
 در MIA, AMS and SIN هستن.
 تلگرام آدرس ها / پیشوندهای IP زیادی داره
-(
 https://bgp.he.net/AS62041#_prefixes &
 https://bgp.he.net/AS62014#_prefixes &
 https://bgp.he.net/AS59930#_prefixes)
-File Storage, [6/4/22 1:04 PM]
 دیتاسنتر آزمایشی تلگرام:
 توضیحات کاملی درباره اش پیدا کردم
- https://daniil.it/deeptelegram
+https://daniil.it/deeptelegram
 https://github.com/danog/deeptelegram
 کلا انگار یه دنیایی دیگه هست واسه خودش
 به سرور تلگرامی که وصلیم وصل نیست
@@ -26724,20 +21190,18 @@ https://github.com/danog/deeptelegram
 اینجا این کانال ما دیتاسنتر اصلی هستیم
 ولی ظاهرا یک دیتاسنتر آزمایشی وجود داره و اطلاعاتی درباره اش ندارم که چطوره
 ولی هست
-File Storage, [6/4/22 1:04 PM]
 دسترسی به کانال/گروه فیلتر شده (مسدود شده به علت کپی رایت، پورنوگرافی):
 روش های رسمی:
 1- استفاده از تلگرام وب
- https://web.telegram.org
+https://web.telegram.org
 و فعال کردنش تو تنظیمات
 2- استفاده از telegram direct
 نسخه direct که در سایت تلگرام منتشر می شود و دارای نماد دیگری است و محدودیت های قوانین Google Play مانند مسدود کردن ربات ها یا کانال های نقض حق نسخه برداری را ندارد و سریعتر از Google Play آپدیت می شود
- http://telegram.org/android
+http://telegram.org/android
 3- استفاده از نسخه خاص telegram x
 برید از ربات @apkdl_bot یا aurora store یا هر برنامه ای که از api گوگل پلی استفاده میکنه برید تلگرام ایکس رو دانلود کنید
 برا فعال کردن برید:
 تنظیمات---» رابط کاربری---» بیاین پایین به بخش گفتگوها ---» دو گزینه "نمایش محتوای حساس" (کپی رایت و این چیزا) و "نادیده گرفتن محدودیت‌های محتوایی" (این گزینه رو زمانی میبینید که دیتابیس چهار نباشید یا همون شماره امریکا و کانادا، پورنوگرافی رو فعال می‌کنه)
-File Storage, [6/4/22 1:04 PM]
 درباره دیتاسنتر های تلگرام و اهمیتشون:
 1- درباره دیتاسنتر های تلگرام:
 راستش خودمم دقیق نمیدونم فرق بین دیتاسنترا چیه دقیقا اما چیزی که میدونم رو به اشتراک قرار میدم
@@ -26751,36 +21215,20 @@ DC 1:
 https://t.me/guide47/322) کنید براتون
 شایعه ای هم شنیده میشه سرعت دانلود تو این دیتاسنتر بیشتر از بقیس، من میگم وی پی ان و تاخیر مسالس
 DC 2:
-کشور ها و جاهایی که میدونم:
 دیتابیس آزمایشی تلگرام، روسیه، ازبکستان
-کشور ها و جاهایی که شک دارم:
 ازبکستان، شنیده میشه ایران هم گاهی نادر میشه
-شرایط این دیتابیس:
 ????
 DC 3:
-کشور ها و جاهایی که میدونم:
-????
-کشور ها و جاهایی که شک دارم:
 فکر میکنم بیشتر اروپا اند، دیتابیس آزمایشی تلگرام
-شرایط این دیتابیس:
-????
 DC 4:
-کشور ها و جاهایی که میدونم:
 ایران
-کشور ها و جاهایی که شک دارم:
 فکر میکنم کلا خاورمیانه
-شرایط این دیتابیس:
 اگر دیتاسنتر 4 باشید و کانالی اگر فیلتر به دلیل پورنوگرافی فیلتر بشه، نمیتونید رفع فیلتر کنید ولی اگر کپی رایت باشه اپشنشو دارید که رفع فیلتر (
-https://t.me/guide47/322) کنید براتون
 DC 5:
-کشور ها و جاهایی که میدونم:
 هند، چین
-کشور ها و جاهایی که شک دارم:
 شنیدم میگن کشور های عربی و استرالیا که شک دارم
-شرایط این دیتابیس:
 فک کنم هند بود که می‌گفت نمیتونه کپی رایت رو دور بزنه....
 نمد....
-نکته:
 کشور ها و جاهایی که شک دارم منظورم چیزایی که شنیده میشه و یقین ندارم
 نکته دوم:
 راهه دور زدن هم داره، اگر به مدت طولانی یا داشتن حداقل چند عکس به مدت طولانی، دقیق نمیدونم شماره مجازی داشته باشید و شماره اصلیتون رو بزنید، مثلم میتونید دیتابیس یک بمونید
@@ -26801,102 +21249,84 @@ DC 5:
 روش دراوردن dc همه در تلگرام های غیر رسمی:
 اکثر تلگرام های غیر رسمی این امکانو دارند یه جوری، بعضی میتونه مثل نکوگرام ایکس غیر فعال باشه، مثلا نکوگرام ایکس برای فعال کردنش باید برید:
 تنظیمات -> تنظیمات nekox -> عمومی
-File Storage, [6/4/22 1:04 PM]
 Linux Meme
- https://youtu.be/jdUXfsMTv7o
+https://youtu.be/jdUXfsMTv7o
 https://youtu.be/S8s9uzPIqQ4
 لعنتی جررر خوردم، بزارم برا اینده
 میم های لینوکس گادن
-File Storage, [6/4/22 1:04 PM]
 کار های حاشیه ای برای انجام:
 اول:
 D:
- https://sahebiacademy.com/needs-choicetheory
+https://sahebiacademy.com/needs-choicetheory
 https://wglasser.com
 ویلیام گلسر یک روان‌پزشکه که تئوری انتخاب رو پایه‌گذاری کرد
-File Storage, [6/4/22 1:04 PM]
 کار های مربوط به کانال:
 ۱- اضافه کردن قالب های مربوط به فایرفاکس
- https://youtu.be/ECta0icNMgY
+https://youtu.be/ECta0icNMgY
 ۲- عاشق اکستنشن پرایواسی ریدایرکت شدم
- https://youtu.be/nQU-Hq5MnOE
+https://youtu.be/nQU-Hq5MnOE
 ۳- گوکل دورک و گوکل هکینگ مهمه
- https://t.me/geeekgirls/4088
+https://t.me/geeekgirls/4088
 ۴- سابسکرایب شادو و منابع برا هر پروتکل گیر بیارم
- https://t.me/CISCO_PLUS/8074
+https://t.me/CISCO_PLUS/8074
 https://t.me/SSRSUB/893
 https://t.me/SSRSUB/1139
 ۵- انواع مختلف شبیه سازی رو بگم
- https://youtu.be/pUb8vVL5wo0
+https://youtu.be/pUb8vVL5wo0
 ۶- چند روش وی پی اس رایگان گرفتن رو بگم
- http://telegra.ph/Pasted-content-by-theuserge-06-26-4
+http://telegra.ph/Pasted-content-by-theuserge-06-26-4
 ۷- چرا لینوکس نیاز نداره پر استفاده باشه
- https://youtu.be/TTks6oNO-E0
+https://youtu.be/TTks6oNO-E0
 ۸- یوزر بات اینو آموزش بدم
- https://t.me/kmiuc/480
+https://t.me/kmiuc/480
 ۹- شایعات دروغین لینوکسی رو میرینه، شاید گذاشتم
- https://youtube.com/playlist?list=PLGSTXM9tEjjvWPO0T7oEaM3GHznQKEneQ
+https://youtube.com/playlist?list=PLGSTXM9tEjjvWPO0T7oEaM3GHznQKEneQ
 ۹- نسخه های تلگرام
- https://t.me/wbnet/70189
+https://t.me/wbnet/70189
 ۱۰ ویدیو آموزش وی پی ان برا عقب مونده ها
- https://t.me/tech_timez/402
+https://t.me/tech_timez/402
 https://t.me/bn_chanll/18447
 ۱۱- برا آموزش اندروید باید ببینم
- https://youtu.be/6Q85I77En34
+https://youtu.be/6Q85I77En34
 https://youtu.be/Lnq9BCuVouE
 ۱۲ لینوکس گیمینگ
- https://level1techs.com/article/gaming-linux-updated
+https://level1techs.com/article/gaming-linux-updated
 https://youtu.be/fzzf2QnyPgY
 ۱۳- اهمیت متمرکز نبودن
- https://t.me/wbnet/70057
+https://t.me/wbnet/70057
 ۱۴- بررسی لیست رباتش
- https://t.me/wbnet/69802
+https://t.me/wbnet/69802
 ۱۵- شبیه ساز ویندوز برا لینوکس
- https://youtu.be/fzzf2QnyPgY
 ۱۶- تمیز کردن اشغال افزار ویندوز
- https://youtu.be/Cq-_5vizlJ8
+https://youtu.be/Cq-_5vizlJ8
 ۲- این لینکا رو بررسی کنم:
- https://t.me/joinchat/AAAAAFe8QT0mGkeehnY1yw
+https://t.me/joinchat/AAAAAFe8QT0mGkeehnY1yw
 https://archive.org/details/Phase_Three
-@linuxtnt
 @AAAB_377
 @CheraInjaIran
 @ipstaticNL
 @channelbpodcast
 @Cyber_Literacy
- https://onion.live
 https://t.me/AnonGhostNetwork
-https://t.me/pack1235
 @FOSSFA
 @FOSS_Club
-@TGOpensource
 @shahzadetarikiha
 @Lammerzone
 @intro_Iran
 @PedoOn
-@NoGoolag
 @LamMeranS
- https://github.com/jonntd/heroku-aria2c-onedrive
+https://github.com/jonntd/heroku-aria2c-onedrive
 https://github.com/spencerwooo/onedrive-cf-index
 Easy one
 https://github.com/vcheckzen/FODI
 https://github.com/MaxxRider/Leech-Pro
 ilovecphfjziywno.onion
 ⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁮⁮ :
- http://okm5wpuh4hmuj4vcy7i72r7uumwwfmgeqjgy7b6qecv2aflaopqvfdad.onion/index.php
- http://dshte6knsgkuqfwsg2i2ingfpsqn7b2pbg2bk5kve77hiyeg4zc7xvqd.onion/index.php
- http://alicefe3b2dqil3mk3ipwtyoqjol23kdai7cjpgzrtvemfvtzz2s67ad.onion/forum/index.php
- http://boyspub4ll6kckvj.onion/tl2.html
- http://bestboytt55akspr.onion/index.php
- http://rxcm6gcgzenjvucid7pnh4tjnkdis553oem34tbqubdf6uv5jlezpayd.onion/index.php?sid=35b1d7b3752658a690af74e4054be438
- http://alice34mdngm7dhzx34dglpactwrppd6cskewvi7ny2ktn7x7tf77qid.onion
- http://boystownbezgvykp.onion/index.php?sid=f25019480e1ebc07d46fdba08aae7964
 موتور جستجوری دیپ وب
- http://onionsearchengine.com
+http://onionsearchengine.com
 http://bznjtqphs2lp4xdd.onion
 https://thehiddenwiki.com/Main_Page
-موتور جستجوری دیپ وب
- http://5u56fjmxu63xcmbk.onion
+http://5u56fjmxu63xcmbk.onion
 https://genesis.onion
 https://haystakvxad7wbk5.onion.ws
 https://xmh57jrzrnw6insl.onion.sh
@@ -26909,8 +21339,6 @@ http://5plvrsgydwy2sgce.onion.ws
 http://torlinkbgs6aabns.onion.dog
 https://grams7enufi7jmdl.onion.ws
 http://grams7enufi7jmdlinfodesk.onion
-http://onionsearchengine.com
-http://bznjtqphs2lp4xdd.onion
 https://thehiddenwiki.com/Main_PageWiki hiden onion
 sntfgwfami5fdbn5.onion
 Sonic
@@ -26919,624 +21347,163 @@ tg index
 Vscodium = foss vs
 برنامه Photogimp یه فورک gimp هستش که شبیه فوتوشاپ میکنه
 Tripmode
-File Storage, [6/4/22 1:04 PM]
 حاشیه ۲:
 یادت بخیر، جان مکافی:
- https://youtu.be/bKgf5PaBzyg
-File Storage, [6/4/22 1:04 PM]
+https://youtu.be/bKgf5PaBzyg
 چگونه بدون گوگل زندگی کنیم
- https://telegra.ph/How-to-live-without-Google-01-26
-File Storage, [6/4/22 1:04 PM]
+https://telegra.ph/How-to-live-without-Google-01-26
 اخبار فیلم ها:
 @CinFact
 The Pyramid of Power: Season 1
-(
 https://www.bitchute.com/video/IItRl5XItvBn/)هرم قدرت یک مجموعه مستند کاملاً جدید و 16 قسمتی است که هدف آن افشای افراد و نهادهایی است که می خواهند جهان ما را دستکاری کنند.
 در بخش هایی از این قسمت به قدرت اطلاعات جمع آوری شده توسط آمازون و گوگل و فیسیوک پرداخته میشه
 متاسفانه لینک زیرنویس فارسی ‌شو نتونستم پیدا کنم
 لینک پخش آنلاین
- https://www.bitchute.com/video/IItRl5XItvBn/
- https://youtu.be/USN923PwdxY
-File Storage, [6/4/22 1:04 PM]
-دانلود فیلم:
-@Film_BBin
-File Storage, [6/4/22 1:04 PM]
-اخبار سیاسی:
-@akhbaronlain
-@ManotoTV
-@mobarezan_vatannews
-@guard_Shahh
-@bisto4news
+https://www.bitchute.com/video/IItRl5XItvBn/
+https://youtu.be/USN923PwdxY
 File Storage, [6/4/22 1:05 PM]
-کانال منحرفانه:
-@pussy_kade
-@HiddenJaghi
-@worldfacts85
-@gif7sex
-@Reaperv
-File Storage, [6/4/22 1:05 PM]
-کتاب یا پکیج درسی:
-@jozveh_nab
-@MoshaverehOne
-@library_konkour
-@excellent_book
-@moshaver_Free
-@azmoon_time
-@PDF_sara
-@Best_konkori
-@TajrobiPlus
-@KetabDarsi12
-@Jozvemotavassete
-@ketabestanbargh
-@ktb_nab
-@book_stop_free
-@film_pishraft
-@Pishraf_t
-@konkur_pishraft
-@moshaveriko
-@kotob_konkori
-@ketab_free
-@azmoonCTU
-@Maharatkonkur
-@LibraryInternational
-@BankSoalataazmon
-@azmonpluss
-@konkuory_sho
-@jozve_nub_free
-@alaa_sanatisharif
-@Green_BookLand
-@Uni_book_bank
-@kotob_konkor
-@bankfilm_20
-@irsoalat
-@uni_bookbank
-@Bank_Arabi
-@Bank_Zist
-@Konkur_Bank100
-@Bank_Dinii
-@Azmon_Bank
-@Bank_Riazi
-@Ketabkhane_Konkor
-@darskhan20
-@irsoalat
-@motavasete_20
-@Bank_Physics
-@Bank_Shimi
-@Bank_Adabiat
-@GAJ_KETAB
-@easy_konkor
-@pdf_book_konkur
-@khaili_sabz
-@ketabestanbargh
-@test_adabyat_1400
-@unibookss
-@zeroan2one
-@Bookchanel1
-File Storage, [6/4/22 1:05 PM]
-کتاب های دانستنی:
-@Mark_Easterbrook
-کتاب برنامه نویسی:
-@zeroan2one
-@Programming4all_0to100
-File Storage, [6/4/22 1:05 PM]
-گروه و کانال برنامه نویسی و کامپیوتری و اوپن سورس:
-@CompTIA_Aplus
-@caa360
-@updatesit
-@LianSec
-@ITRoadMap
-@VIP30T
-@AMIN_HACK_TM
-@learnpy
-@i_Code
-@ShimaSadatMavali
-@EsecurityCo
-@AlieHacker
-@kali_linuxxx
-@sourcep
-@nwclub
-@UltraSecurity
-@denait
-@sabzlearn
-@python_0to100
-@sourcemags
-@jadinet
-@GeekOnline
-@kamyabweb
-@sourceiran
-@Shahab_Shamsi1
-@DeepLearningCenter
-@FullSecurity
-@CyberSTM
-@iBlackCube
-@ai_python
-@compiut96
-@Hooshe_farda
-@elmefarda
-@AuroraOT
-@AuroraOSS
-@AuroraOT
-@AuroraSupport
-@iranFSevents
-@AuroraDroid
-@geekstribe
-@thezoomit
-@myzoomg
-@Digiato
-@kiahamedi
-@rizmini
-@AuroraOfficial
-@neurtex
-@KalamiHeris
-@geeekgirls
-@OpenPcOfficial
-@kalami_qa
-@jadinet
-File Storage, [6/4/22 1:05 PM]
-کانال وردپرس:
-@poinair
-@Ghaleb_Free_WP
-@worldwp
-@WORDPRE33
-@wpsho
-@wpbank
-@wpheart
-File Storage, [6/4/22 1:05 PM]
-کانال های مربوط به ترموکس:
-@termux_chanell
-File Storage, [6/4/22 1:05 PM]
-مربوط به دارک وب:
-@Blank_Link
-@Darkinfo_channel2
-@deepweb_video
-@Dark_Rainb0w
-@IranTor_onion
-@TheHiddenWikiTG
-@hidden_Web
-@g3neral
-@DrkWeb
-@drk_web
-File Storage, [6/4/22 1:05 PM]
-اموزش المانی:
-@Deutsch_kostenfrei
-File Storage, [6/4/22 1:05 PM]
-کانال هکری/درواقع ترفند ها/کرکی:
-@onlyfans2
-@learneh
-@Web_Hacking_ir
-@Crackers_Club
-@Xreactor_Team
-@vpsmafia
-@HACK_LIVE_ORG
-@Ninja_Crack
-@zedsoftofficial
-@nulltm
-@AMIN_HACK_TM
-@MyChannlsid
-@AMIRHACK100
-@TheHackings
-@PaRsInGHaCk
-@Xenon_Crack
-@Hack028
-@Vip_Security
-@DailyTools
-@SellHuB
-@vortex_team_org
-@Account_CENT3R
-@Cyber_Cracking
-@SecEasy
-@ccracker_tmm
-@Unidentified_TM
-@hackingtor
-@ip_scann
-@Back_tr4ck
-@PhoenixSecurity
-@IRANSECURITYTEAM
-@VpsZero
-@ Iraniancrack
-@Nxcracker
-@charz_hack
-@VpsCracks
-@MASHED_iR
-@PanTher_Hak
-@SMRRSecurity
-@CranH
-@ClUbPaNeL
-@Mr_Zed_Team
-@Cracker_ha
-@HACKGM
-@allhak
-@PR0FESSIONALCRACKERS
-@HackingRoom
-@Cracking_Pro
-@Qiftolly_team
-@BruteForce
-@STORMHub
-@DrHack100
- https://t.me/joinchat/AAAAAFipf1cUVSZOGmf7GA
-@zex_member
-@LinApps
-@Hacking_Video
-@team_technical
-@ZetaTech_iR2
-@blackhat_hacking
-@AlieHacker
-@united_hackerZ
-@moduleby404
-@annonymity
-@Ghost_Cracking
-@crushbhai
-@trojans_oo
-@Shayan_Cyber
-@Hacking_Videos
-@WildHackTM
-@zedsoftofficial
-@ImperialHackers
-@MesterSecurity
-@Kouroshhack4
-@hacking_courses_leaked
-@AmiR_HacK
-@Hack028
-@IR_cyberi_hacke
-@Cashout_kingdom
-@bestlearningchnl
-@Infotechgram
-File Storage, [6/4/22 1:05 PM]
-سرویس های ایرانی:
-@shatel
-@rightel_pr
-@shecan_ir
-File Storage, [6/4/22 1:05 PM]
-کانال های تلگرام های غیر رسمی و رسمی:
-@OpenSourceTelegram
-@NekoXAPKs
-@durov
-@telegram
-@NekogramX
-@BGramChannel
-File Storage, [6/4/22 1:05 PM]
-کانال های وی پی ان و اینترانت و ترفند:
-@ArgoVPN
-@wbnet
-@freenet_host
-@proSSH
-@Vpn_Client_pro
-@apkclub
-@king_network7
-@bn_proxy
-@NetClub_iR
-@AzadNet
-@Premium_98
-@bn_chanll
-@vpn_proxy66
-@VpnProtected
-@Accbox_pro
-@VPNFolder
-@Anonymority
-@NetBox2
-@filtershekanha
-@clientpro_vpn
-@myplusvpn
-کانال های چینی برای سرور های مفتی شادوساکس راضیم سرعتش:
-@ssrshares
-@SSRSUB
-تست نشده:
-@freeshadowsock
-File Storage, [6/4/22 1:05 PM]
-کانال برنامه اندروید مود شده:
-@Premiumcomponent
-@UCIRANIR
-@Mehdi_Hack
-@myandroidplus
-@p_lus
-@Glype (بهترینه بهترینا)
-@appilix
-@AMRTSOFFICIAL
-File Storage, [6/4/22 1:05 PM]
-کانال بین:
-@binner_ir
-Windows 8-10 clean, untouched ISO files,
-@TechbenchBot
-Free iptv
-@tvlab
-یوسی سریال
-@Ocean_Films
-@manga_garden_index
-@animugardenindex
-@hadilinkgenbot
-@Axenia_Bot
- https://t.me/r_DataHoarder/
 لیست سایت های دانلود فیلم و سریالtv
 به امید نابودی فیلیمو و نماواfire
 white_check_markرایگان های بدون سانسور
 o️ والا مووی | فیلترشکن خاموش
- http://valamovie.art
+http://valamovie.art
 o️ فیلم تو مدیا | فیلترشکن خاموش
- http://film2media.website
 o️ مای مووی‌ | فیلترشکن خاموش
- http://s1movie.fun
+http://s1movie.fun
 o️ مای هستی دی‌ال | فیلترشکن خاموش
- http://myhastidl16.top
+http://myhastidl16.top
 o️ ماهی‌ دی‌ال | فیلترشکن خاموش
- http://www.mahidl.pw
 o️ آوا مووی‌ | فیلترشکن خاموش
- http://avamovie.top
+http://avamovie.top
 o️ هایلی موویز | فیلترشکن خاموش
- http://Hymvz.fun
+http://Hymvz.fun
 o️ گلچین دانلود | فیلترشکن خاموش
- http://mygolchindl.icu
 o️ صابرفان | فیلترشکن خاموش
- http://saberfun.shop
+http://saberfun.shop
 o️ پرشین دانلود | فیلترشکن روشن
- http://perdl.club
 o️ سینما باکس | فیلترشکن خاموش
- http://cinamabox.com
 o️ الماس مووی | فیلترشکن خاموش
- http://myalmasmovie.com
 o️ بیا تو اچ‌دی | فیلترشکن خاموش
- http://bia2hd.ga
 o️ فیلم گذار | فیلترشکن خاموش
- http://filmgozar.space
+http://filmgozar.space
 o️ ساتینا | فیلترشکن خاموش
- https://mysatina.com
 o️ ماهان مووی
- https://mahanmovie.com
 o️ مای دیبا
- http://mydiba.me
 o️ جم مووی
- https://gemovie.ir
 o️ آکادمی زوزه
- https://academyzooze.com
 o️ دنیای سریال
- http://DonyayeSerial.com
 o️ مای فیلم
- http://my-film.pw
+http://my-film.pw
 o️ سلام دانلود
- http://salamdl.me
+http://salamdl.me
 o️ ام سی تی وی
- http://mctvz.space
 white_check_markاشتراکی های بدون سانسور
 o️ 30 نما‌ | فیلترشکن روشن
- http://30nama.com
 o️ کینگ مووی‌ | فیلترشکن خاموش
- http://mykingmoviz.best
+http://mykingmoviz.best
 o️ نایت مووی‌ | فیلترشکن خاموش
- http://5nightmovie.top
+http://5nightmovie.top
 o️ وارز | فیلترشکن خاموش
- http://wir3.best
+http://wir3.best
 o️ فاکس مووی‌ | فیلترشکن خاموش
- http://foxmovie.casa
+http://foxmovie.casa
 o️ بیا 2 موویز | فیلترشکن روشن
- http://bia2movies.bid
 o️ دیبا موویز(غیر
 اصلی) | فیلترشکن روشن
- http://dibamv.pw
 o️ آی مووی دانلود | فیلترشکن خاموش
- http://imovies-dl6.site
 white_check_markزیرنویس چسپیده بدون سانسور
 o️ دیجی موویز | فیلترشکن روشن
- http://Digimoviez.com
 o️ موبو فیلم | فیلترشکن روشن
- http://mobomovi.ir
 o️ زر فیلم | فیلترشکن روشن
- http://zarfilm.com
 o️ ایزی تی وی | فیلترشکن روشن
- http://eztvs.xyz
 white_check_markانیمه بدون سانسور
 o️ انیمه لیست | فیلترشکن روشن
- http://anime-list10.tk
 o️ بیا 2 انیمه | فیلترشکن خاموش
- http://bia2anime20.cf
 o️ انیمه دابینگ | فیلترشکن خاموش
- http://animedubbing.gq
 o️ اوتاکو | فیلترشکن خاموش
- https://otakutales.site
 o️ مای تو امی | فیلترشکن خاموش
- http://my2amidl.pw
 white_check_mark سایت فیلم و سریال کره ای
 o️ فری دراما | فیلترشکن خاموش
- https://freedrama.xyz
 o️ نکس وان آسیا | فیلترشکن خاموش
- http://nex1asia.ir
 o️ ستاره کره | فیلترشکن خاموش
- https://starko.ir
 o️ کافه دراما | فیلترشکن خاموش
- http://mykodram.xyz
 o️ استار دراما | فیلترشکن خاموش
- https://ssdrama.ir
 white_check_mark سایت دانلود زیرنویس هماهنگ
 o️ ساب سین | فیلترشکن روشن
- http://subscene.com
 o️ جهان زیرنویس | فیلترشکن خاموش
- http://worldsubtitle.info
 o️ ایران زیرنویس | فیلترشکن خاموش
- http://iranzirnevis.com
 o️ ساب استار | فیلترشکن خاموش
- http://subtitlestar.com
 o️ ای سابتایتل | فیلترشکن خاموش
- http://esubtitle.com
 o️ایکس ساب
- https://exsub.ir
 o️ ساب موویز
- http://submovies.ir
 با دوستاتون به اشتراک بذاریدwhite_check_mark
-@Anime4uGeng
-@Anime_4u_Geng
-i only joined these so far
-megadl.xyz
-معرفی ربات عالی برای دوستداران ِ IPTV
-@ejaTvBot
-فقط اسم کانال رو سرچ کنید تا لینک رو بصورت m3u8 بفرسه
-@iranhackerzz
- https://overclockers.ru/blog/Indigo81/show/31739/shadowsocks-cherez-cloudflare-cdn-povyshaem-bezopasnost-v-seti
-@new_everything_free
-File Storage, [6/4/22 1:05 PM]
-کانال های ربات لیچر فیلم:
-@VIPleech
-@FOX_leecher
-File Storage, [6/4/22 1:05 PM]
-گروه های معرفی لیچر تورنت تلگرامی:
-@TorrentLeechingGroup
-@TorrentBots
-منابع سریع کردن لینک دانلود (لینک مستقیم ات رو دانلود میکنه و برات لینک دانلود سریعتر میده):
-@transload
-گروه های معرفی ربات مفید تلگرامی:
-@tgbot_list
-@botlist
-@botreap
-@TGBot_Lists
-@newestbots
-@BotsArchive
-( ریپ بات سرطانی دست ساز خودم چرک نویسم بود میخواستم ربات لیست درست کنم)
-معرفی منابع برای چیزای مختلف: (خیلی مهم)
-@tg_indexs
-راهنمای گوگل درایو:
-@gdriveguides
-منابع آموزش های مختلف:
- https://t.me/rfsnotes/3
-Eastern egg:
-راز بگا:
-۱- بهترین متود خودکشی و متود های دیگه
- https://t.me/fa_death
-۲- کتابی که بعد خوندش حتما دیوانه میشید و میرید جهنم
-(رستاخیز مردگان)
- https://t.me/NECRONOMICONBOOK
-File Storage, [6/4/22 1:05 PM]
-پروژه های اوپن سورس تلگرام:
-@TGOpensource
-File Storage, [6/4/22 1:05 PM]
-تلگرام ایندکس:
- https://t.me/spamverse/324
-File Storage, [6/4/22 1:05 PM]
-@bedonemaarz
-File Storage, [6/4/22 1:05 PM]
-بخش ربات ها:
-ربات های لیچر فیلم و سریال از سایتای پولی:
-(فیلمای کمیاب و دستکاری نشده و سالم پیدا میشن و برا همین دوستش دارم)
-@TeleLeecherbot fa
-@Moviebleecherbot fa
-@kLeechBot fa
-ربات دانلود فیلم و درخواستش:
-@FilmgramBot fa
-@FileMovieBot fa
-ربات تورنت و فیلم:
-@TorPlaybot fa
-آهنگ دیزرر و اسپوتیفای:
-@FusionDL_Bot
-@DeezerMusicBot
-@MusicsHunterbot
-ربات تبدیل فایل به لینک مستقیم بدون محدودیت حجمی:
-@TelFiles_Bot fa
-اپلود لینک به تلگرام:
-@uploadbot @LinkToFileTGBot @UploadDxbot
-ربات جالب با اموزش و کورس های مختلفه خفن:
-@ethical_hacking_bot
-@An0nym0us_Helpers_bot
-@Hacked_freebot
-@Ceh_v_10_bot
-@TricksSeller_Bot
-(بخش مخفیشو باید با /freetricksbot باز کنید)
-ربات های ساخت ایمیل موقت
-@FakemailBot
-@Etlgr_Bot
-@DropmailBot
-@ccgen_robot
-ربات معرفی انیمه:
-@animeirbot fa
-ربات کتاب
-@bookdownbot
-کورس رایگان شده اودمی:
-@GUdemyBot
-File Storage, [6/4/22 1:05 PM]
 زیرنویس انیمه
 @MementosAnimeBot
 ربات مانگای دوجین
 @otakuhentaibot
-File Storage, [6/4/22 1:05 PM]
 Free Zee5 bot:
 @zee5streamer_bot
 Free Aha bot
 @ahadownloader_bot
 File Storage, [6/4/22 1:06 PM]
-@deltaleechbot
-File Storage, [6/4/22 1:06 PM]
 سایر
- https://youtube.com/c/HackerSploit
+https://youtube.com/c/HackerSploit
 https://youtube.com/c/TraversyMedia
-File Storage, [6/4/22 1:06 PM]
 #آموزش #ویندوز
 برا فعال کردن ultimate performance ویندوز ۱۰ اخرین ورژنا
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 بعضی کامپیوترا از جمله مال خودم فعال نبود گفتم بزارم
 Cmd بزنید
-File Storage, [6/4/22 1:06 PM]
 یوزنت مجانی
- https://telegra.ph/UseNet-Era-03-25
-File Storage, [6/4/22 1:06 PM]
+https://telegra.ph/UseNet-Era-03-25
 All in one colab (does alot of thing like downloading your torrent to your google drive without using your interent)
- https://github.com/mohitjoshi155/Codemaster
+https://github.com/mohitjoshi155/Codemaster
 Abuse of Google Colab for cracking hashes
- https://github.com/mxrch/penglab
+https://github.com/mxrch/penglab
 Free ubuntu vnc from Google colab:
- https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb
+https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb
 Copies others goindex to your google drive with google colab
- https://github.com/atlonxp/recursive-goIndex-downloader
+https://github.com/atlonxp/recursive-goIndex-downloader
 Bug:
- https://github.com/Aicirou/goindex-theme-acrou
+https://github.com/Aicirou/goindex-theme-acrou
 Does not support this one bcz of /0:/ in the link
-File Storage, [6/4/22 1:06 PM]
 #18_only #tech_news
- https://dreamtime.tech/docs/installation/
+https://dreamtime.tech/docs/installation/
 هوش مصنوعی لخت کن
-File Storage, [6/4/22 1:06 PM]
 #tip #story
 بعد کلی دیدن هنتای تو فور چان یه چیز جالب پیدا کردم:
- https://boards.4channel.org/g/thread/77874231/just-reminding-everyone-that-this-exists#bottom
 و ردیت هم جالب بود:
- https://www.reddit.com/r/technology/comments/izhrf3/looks_like_the_windows_xp_source_code_just_leaked/
 ظاهراً سورس کد ویندوز اکس پی لیک شده
 هشدار خوفناک!: تست نشدن و مسئولیت استفاده به عهده خودتونه مثل هر پستی که تو کاناله
 لینک مستقیم سورس کد ویندوز اکس پی:
- https://anonfiles.com/R714gdY9o2
 سورس کد ویندوز اکس پی در مگا:
- https://mega.nz/file/PdhxBSZD#w-O3C-BAMwE4E02qPn_fSdTivILcE8hzk9PeyoXg7wU
 دانلود تورنت مجموعه کامل سورس کد مایکروسافت شامل ویندوز اکس پی و مجموعه چیزای لیک شده دیگه اخیرا مایکروسافت:
-File Storage, [6/4/22 1:06 PM]
-magnet:?xt=urn:btih:cec41d87d329822ea9b05c4f6c0dff7d29514d59&dn=Microsoft%2520leaked%2520source%2520code%2520archive%255F2020-09-20
-File Storage, [6/4/22 1:06 PM]
 #tech_news #nale_namaeid
 دیتابیس کامل تلگرام (حجم فایل فشرده شده ۶ گیگ): کلیک کنید
- https://t.me/PackageDoni/64314
+https://t.me/PackageDoni/64314
 دیتابیس کامل تلگرام دوباره اپلود شده: کلیک کنید
- https://drive.google.com/file/d/1nToQw5J6CPj0ywPVt_yBuab2O--rtrbQ/view?usp=drivesdk
+https://drive.google.com/file/d/1nToQw5J6CPj0ywPVt_yBuab2O--rtrbQ/view?usp=drivesdk
 رمز فایل: Masterdata-Raidforums
 ترموکس چیست؟ + دستورات ترمینال ترموکس: کلیک کنید
- https://telegra.ph/ترموکس-چیست--دستورات-ترمینال-ترموکس-05-19
+https://telegra.ph/ترموکس-چیست--دستورات-ترمینال-ترموکس-05-19
 فایل راهنمای بازکردن دیتابیس تلگرام: کلیک کنید
- https://telegra.ph/فایل-راهنمای-باز-کردن-دیتابیس-تلگرام-05-19
+https://telegra.ph/فایل-راهنمای-باز-کردن-دیتابیس-تلگرام-05-19
 اینم دیتابیس تلگرام که خیلیا میفروختن
 نفروشین ! ای خز و خیلا
 پسورد: Masterdata-Raidforums
 اموزشا توسط کانال دیگه گذاشته شدن و اپلود یا یابنده اولی توسط ادمین اصلی انجام شده
-File Storage, [6/4/22 1:06 PM]
 Persian Courses telegram
- https://t.me/ChannelPackages
+https://t.me/ChannelPackages
 https://t.me/mrpackagee
 https://t.me/GANDUM
-https://t.me/madan_pack
-https://t.me/amazingpack
 https://t.me/AcademyPack
 https://t.me/orginal_packs
 https://t.me/tut_999
-https://t.me/MOH21EN
 https://t.me/limonpack
 https://t.me/mahar97at
-https://t.me/ahwaz_hackerzz
-https://t.me/ahwaziahacker
 https://t.me/PackageDoni
 https://t.me/CISCO_PLUS
 https://t.me/p4ck_pub
-https://t.me/myfreepacks
 https://t.me/c241241
 https://t.me/cofeeng
 https://t.me/MyPackage
@@ -27546,18 +21513,13 @@ https://t.me/WorldCode1
 https://t.me/Pythoni_Developers
 https://t.me/WorldCode_Cpp
 https://t.me/WorldCodeLists
-https://t.me/hackers123
-https://t.me/mysecure
 https://t.me/PcAndMob
 https://t.me/Azad_Developers
 https://t.me/Pars_Training
 https://t.me/uni_software
-https://t.me/PcAndMob
 https://t.me/boursnor
 https://t.me/damavand_post
-https://t.me/diamondsteeam
 https://t.me/HeiltonProgramming
-https://t.me/Computer_IT_Engineering
 https://t.me/ba1clickbeyamooz
 https://t.me/MOH21EN_2
 https://t.me/HosienHack021
@@ -27565,17 +21527,14 @@ https://t.me/vippost0201
 https://t.me/kharpack
 https://t.me/fazLearn
 https://t.me/max_academy
-https://t.me/priv8_ir_team
 https://t.me/VIPPKG
 https://t.me/electricalnew
 https://t.me/packagebox
 https://t.me/Pack4You2
-https://t.me/p4ck_pub
 https://t.me/WebComax
 https://t.me/indicator_ir
 https://t.me/Trader_PocketOption
 https://t.me/IRanHackerZ
-https://t.me/FullPackage
 https://t.me/siliciumir
 https://t.me/walpack
 https://t.me/hackower
@@ -27587,7 +21546,6 @@ https://t.me/barnamene
 https://t.me/amuzesh_computer
 https://t.me/pacK2000
 https://t.me/PackLearn
-https://t.me/all_pack
 https://t.me/storereap
 https://t.me/PythonForever
 https://t.me/MRPACKAGE
@@ -27595,39 +21553,27 @@ https://t.me/modapps
 https://t.me/Iran_Packs
 https://t.me/tut_9
 https://t.me/privatpack
-https://t.me/AbasmaneshGroup
 https://t.me/my_free_packs
-https://t.me/joinchat/6IdL-XutO5gwZmU0
 @VipPublic1
-File Storage, [6/4/22 1:06 PM]
-Persian Courses telegram
- https://t.me/AnonyPack
+https://t.me/AnonyPack
 https://t.me/freepakag
 https://t.me/iranian_HACKERA
 https://t.me/jadi_python
-https://t.me/vip_etehad_sibery
 https://t.me/lynda_etehad_sibery
-https://t.me/Infinite_pack
 https://t.me/Freeeleaarn
 https://t.me/packageroot
-https://t.me/diamondsteeam
 https://t.me/PackageCom
 https://t.me/ForexTutorials_ir
 https://t.me/Bia2avaz
 https://t.me/gp_tabliqh
 https://t.me/PersianCyber_org
-https://t.me/ahwaz_hackerz
 https://t.me/IrGFX
-https://t.me/PublicedPackage
-https://t.me/donyayepack3
 https://t.me/arzamoz
 https://t.me/kunkori_free
 https://t.me/EveryThingFree98
 https://t.me/prog_hack
 https://t.me/paweb
-https://t.me/newpacks
 https://t.me/vippacks_ir
-https://t.me/amuzesh_novin
 https://t.me/Trader_Alpari
 https://t.me/Tr8ing_Club
 https://t.me/GodPackage
@@ -27635,34 +21581,22 @@ https://t.me/packfree2
 https://t.me/TechnicWeb
 https://t.me/TradeArchive
 https://t.me/MAHTEC
-https://t.me/fazpack
 https://t.me/baghkhas_hacker
-https://t.me/gold_pack13
 https://t.me/Dark_netVIP
 https://t.me/Yd_Ps
-https://t.me/vip90o8
 https://t.me/publicpackage
-https://t.me/gold_pack12
-https://t.me/prive8pack
 https://t.me/ahvaz_hackerz
 https://t.me/SpectreTM
-https://t.me/pack_7
 https://t.me/lyndafree
-https://t.me/Debuggerr
 https://t.me/vafabuorsi
 https://t.me/ShaDMaN_HaCKe
 https://t.me/asanlearning
 https://t.me/Bernamenevisan
-https://t.me/tut_999
 https://t.me/MyBlenderTutorials
 https://t.me/lynda_courses
 https://t.me/aahhhwwaaz
-https://t.me/hack_packha
-https://t.me/MrPackagerNew
 https://t.me/tiikgroup
-https://t.me/CrackingFull
 https://t.me/publick_packzap
-https://t.me/packpublic
 https://t.me/iran_flstudio
 https://t.me/jadipac
 https://t.me/m_pack
@@ -27671,33 +21605,21 @@ https://t.me/rayganpackeige
 https://t.me/python_pack
 https://t.me/Blackpackage
 https://t.me/vip_for_everyone
-https://t.me/orginal_packs
 https://t.me/RapEfsha
 https://t.me/rayganpack
 https://t.me/Priv8_P4ck
 https://t.me/BestPackageIr
-https://t.me/NeonCracker
 https://t.me/Package_Club
 https://t.me/pubplus
-File Storage, [6/4/22 1:06 PM]
-Persian Courses telegram
- https://t.me/pack_jet
-https://t.me/Infinite_pack
-https://t.me/my_free_packs
-https://t.me/PackJet
 https://t.me/Pack4you
-https://t.me/packfree2
 https://t.me/blackhatFCI
 https://t.me/moslem_hackiram
 https://t.me/diapack
 https://t.me/vip_packss
 https://t.me/Vippackager
-File Storage, [6/4/22 1:06 PM]
 Persian/ Indexers of course leakers telegram
- https://t.me/joinchat/OQLYdFWn-Pe3TGUXRN3FjQ
-https://t.me/VipChannelPersonal
+https://t.me/joinchat/OQLYdFWn-Pe3TGUXRN3FjQ
 https://t.me/PareshTeam
-File Storage, [6/4/22 1:06 PM]
 آموزش و کلیاتی درباره لینوکس
 --- ریپازیتوری چیست/چگونه لینوکس برنامه نصب کنیم؟
 --- فرق بین توزیع های لینوکسی
@@ -27710,7 +21632,6 @@ File Storage, [6/4/22 1:06 PM]
 لینوکس هم مثل اندروید یه چیزی مثل google play داره (در اصل گرافیکی نیست اما گرافیکش هم هست) که برنامه هاتون رو از اونجا نصب میکنید و مطمئن میشین برنامه مضر برای سیستمتون نصب نمیشه و تایید شده هستش که اسمش repository هستش که با برنامه هایی مثل apt ترمینال نصب میکنید...
 اما repository (
 https://youtu.be/U9z0ERcJbrI) چیه؟
-File Storage, [6/4/22 1:06 PM]
 اگر دنبال یک توزیع میگردین لینوکس به دو دسته تقسیم (
 https://youtu.be/G6tlZdDtuhg) میشه و فرقشون تو نحوه دریافت اپدیت هستش
 1- fixed release
@@ -27724,14 +21645,11 @@ https://youtu.be/G6tlZdDtuhg) میشه و فرقشون تو نحوه دریاف�
 2- rolling release
 معمولا برپایه ارچ هستند معمولا و وقتی برنامه نویس اپدیت بده، همون موقع وارد ریپازیتوری میشه به محض اینکه سیستم رو اپدیت بکنید اون برنامه هارو دریافت میکنید، حجم اپدیتا کم هستش و همیشه به روز هستین اما سیستم استیبلی ندارید و استیبل بودنش بستگی به خودتون داره و مزیتش اینه که لبه تکنولوژی هستین و خیلی aur راحتش کرده
 مثلا: arch linux, garuda linux, manjaro و black arch (بهتر از کالی لینوکس) و...
-پیشنهاد:
 اگر گیمر هستین garuda linux نسخه dragonized gaming پیشنهاد میکنم
 اگر ادم معمولی هستین manjaro پیشنهاد میشه، استیبل ترین هستش
 3- source based:
-نکته:
 حتما همه برپایه ارچ و دبین نیستن
 توضیح شفاف تر:
-File Storage, [6/4/22 1:06 PM]
 دسکتاپ لینوکسی/desktop environment:
 خب چی هستش؟
 حسو حاله لینوکسه، اما چیه؟ مجموعه اجزا و نرم افزار هایی هستش که دستکتاپ رو تشکیل میده، مدیریت تب ها، تکست ادیتور، و چیز میزایی همراهش میاد که سیستمتون رو کارامد کنه، این وظیفه دسکتاپه و هر توزیع همراه اجزای مختلفی به علاوه دستکتاپتون میاد و نرم افزار های بیشتری اضافه میکنن
@@ -27739,72 +21657,62 @@ File Storage, [6/4/22 1:06 PM]
 اگر سمت دبین میرین توصیه میشه اوبونتو رو امتحان کنید چون انتخاب زیادی تو انتخاب دسکتاپتون دارید
 اگر سمت بیس ارچ میرین (و استیبل بودن براتون مسأله ای نیست) توصیه میشه منجارو رو امتحان کنید چون انتخاب زیادی تو انتخاب دسکتاپتون دارید
 مثلا cinnamon برای linux mint هستش اما اگر بخواین توزیع دیگه ای نصب کنید میتونید
-File Storage, [6/4/22 1:06 PM]
 نکاتی برای ذهنیت راجب دسکتاپ ها:
 1- عکسهایی که از یک دستکتاپ می‌بینید قرار نیست دستکتاپتون صد در صد اون شکلی باشه، شکل پیش فرض و دست نخورده رو vanilla صدا میکنن، مثلا vanilla kde plasma شکل دیفالت رو منظورشونه، هر توزیع میان دسکتاپ هارو خودشون کاستوم میکنن و از وانیل خارجش میکنن و تبدیل به یه چیز ناشناس و یا خاص میتونن بکنن، مثلا ubuntu اصلی از گنوم استفاده می‌کنه اما گنوم وانیل یکم فرق داره و با gnome customizer کاستوم میکنه، خودتون هم میتونید و این بخاطر ویژگی قابل کاستومایز کردن بالای دسکتاپ هاست، چند عکس نشون میدم ایده رو بگیرید
 نمونه:
-File Storage, [6/4/22 1:06 PM]
-نمونه ۱:
 Kde plasma vanilla (
-https://www.omgubuntu.co.uk/wp-content/uploads/2020/10/plasma.jpg)
-File Storage, [6/4/22 1:06 PM]
 discord backup:
 Account A:
- https://discord.fmhy.tk
+https://discord.fmhy.tk
 https://discord.gg/6qVr2aR
 https://discord.gg/QgxDFuE
 https://discord.gg/YkApH7Z
 https://discord.gg/8MdKWGn
 other:
- https://cdn.discordapp.com/attachments/600672058955006011/797373854304960512/video_2021-01-08_13-18-06.mp4
+https://cdn.discordapp.com/attachments/600672058955006011/797373854304960512/video_2021-01-08_13-18-06.mp4
 https://gfycat.com/discretenarrowgermanwirehairedpointer
 https://github.com/Musta1337/TeknoMW3
 https://github.com/jmir1/aniyomi/
-File Storage, [6/4/22 1:07 PM]
- https://lite.pubg.com/download/
+https://lite.pubg.com/download/
 manjaro cinnamon x64
- https://manjaro.org/downloads/community/cinnamon/
+https://manjaro.org/downloads/community/cinnamon/
 (دو نسخه داره کامل و مینی‌مال، کامل پیشنهاد میشه برا به چوخ نرفتن اما ممکنه یکم برنامه بیخود بیشتر نصب کنه که نهایتش میزنی میپاکی پس نسخه کامل)
 windows 10 ltsc
- https://soft98.ir/os/windows/2338-دانلـود-ویندوز-ال-تی-ای-سی.html
+https://soft98.ir/os/windows/2338-دانلـود-ویندوز-ال-تی-ای-سی.html
 (قدیمیه، نهایتش یه سیستم اپدیت میزنی ههه)
 Windows lite
- https://m.youtube.com/channel/UCphlFqj7Xa9INM3DIvtXUhA
+https://m.youtube.com/channel/UCphlFqj7Xa9INM3DIvtXUhA
 https://m.youtube.com/c/GHOSTSPECTRE
 (خودت پیدا کن، بهم نشون بده قبل جمعه ویدیویی که میخوای)
 prime os classic
- https://dl3.soft98.ir/os/PrimeOS.0.4.5.Classic.rar?1615902512
+https://dl3.soft98.ir/os/PrimeOS.0.4.5.Classic.rar?1615902512
 (فرمت ext4 فک کنم که فرمت لینوکسیه نیازی نبود فایل img درست کنیم یوتیوب میگه اما گوش نمی‌خوام بکنم)
 phoenix os x32
- https://dl.yasdl.com/2019/Software/Phoenix.OS.1.6.1.314.ISO.x86_YasDL.com.rar?aa2bb
+https://dl.yasdl.com/2019/Software/Phoenix.OS.1.6.1.314.ISO.x86_YasDL.com.rar?aa2bb
 (اگر پرایم کار نکرد، چینیه پس مشکوکه)
 phoenix os roc
- https://dl3.soft98.ir/os/Phoenix.ROC.v5.rar?1615890292
-File Storage, [6/4/22 1:07 PM]
- https://cdn.discordapp.com/attachments/595078893522649088/806094291897810964/Dirty_.Jingle_Bells_.mp3
-File Storage, [6/4/22 1:07 PM]
+https://dl3.soft98.ir/os/Phoenix.ROC.v5.rar?1615890292
+https://cdn.discordapp.com/attachments/595078893522649088/806094291897810964/Dirty_.Jingle_Bells_.mp3
 Let's make 2020 the worst year ever
 Min 3:02
- https://youtu.be/4jlDCS-z7TI
+https://youtu.be/4jlDCS-z7TI
 Careful What you wish for
- https://youtu.be/slLI37PTsRQ
-File Storage, [6/4/22 1:07 PM]
+https://youtu.be/slLI37PTsRQ
 No copyright law in the universe is gonna stop me
- https://www.youtube.com/watch?v=VXGkJmRtU0o
+https://www.youtube.com/watch?v=VXGkJmRtU0o
 The story
- https://youtu.be/5NNhz905i78
+https://youtu.be/5NNhz905i78
 The Complete
- https://youtu.be/ZMvHTS9_R0c
-File Storage, [6/4/22 1:07 PM]
+https://youtu.be/ZMvHTS9_R0c
 Bluegrass
 File Storage, [6/4/22 12:59 PM]
- https://t.me/phcommunityhackers
+https://t.me/phcommunityhackers
 کانالش خوبه
 Telegram Search Engine to search things easily
- https://cse.google.com/cse?cx=957ae734f66a7a3e0#gsc.tab=0
+https://cse.google.com/cse?cx=957ae734f66a7a3e0#gsc.tab=0
 Search (CCCC) combos,channels,checkers,configs ETC
 موتور جست و جو تلگرام
- https://t.me/Hashtag_Filternet
+https://t.me/Hashtag_Filternet
 https://t.me/Dr_NiiMA
 https://t.me/qstickers
 https://t.me/Miaplays
@@ -27824,8 +21732,6 @@ File Storage, [6/4/22 1:00 PM]
 @phone_z
 @iran_mobile_org
 apk mod
-@AndroidModsApp
-@apkgold
 t.me/MODbinsandtricks
 ربات های مترجم
 @motarjemro_bot
@@ -27852,7 +21758,6 @@ Translation and Dictionary Bots
 @tgtrbot
 @a8bot
 @AndyRobot
-@BabelgramBot
 @betterTranslateBot
 @drae_bot
 @insttranslatebot
@@ -27904,29 +21809,15 @@ GameBot
 @CheckRestrictionBot
 چک کردن وضعیت کانال و گروه از نظر بن بودن
 T.ME/reklamavp19
- https://t.me/GBCarders
- https://t.me/shieldteam1
- https://t.me/plsnoscam
- https://t.me/SurfShark_ALA
- https://t.me/mastersofdeception1
- http://dl2.gemoviee.xyz/
+https://t.me/GBCarders
+https://t.me/shieldteam1
+https://t.me/plsnoscam
+https://t.me/SurfShark_ALA
+https://t.me/mastersofdeception1
+http://dl2.gemoviee.xyz/
 دایرکتوری
-File Storage, [6/4/22 1:00 PM]
-@freeforbiddenbook
 20 هزارتا تا الان کتاب گذاشته
- https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/
-File Storage, [6/4/22 1:00 PM]
-@booksIranian1
-@freeforbiddenbook
-@freeiranbook
-@ketabnew
-@kettab1
-@sharingbook
-@Frreebook
-@romanmamnoe13
-@onlinelib
-@ketabsarayemazdak
-File Storage, [6/4/22 1:00 PM]
+https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/
 Telegram Game Channel
 @Gamer_karashi
 @VGDL_IR
@@ -27946,8 +21837,6 @@ Telegram Game Channel
 @GAME_WORLD_IRAN
 @pgming
 @Persian_Gamers
-@myzoomg
-@vigiatonet
 @Gamotionart
 @ChertGame
 @prg_gamer
@@ -27976,53 +21865,9 @@ Telegram Game Channel
 @iNetworkGames
 @ELEKTRA_GAME
 @BALOUCHGAMING
-File Storage, [6/4/22 1:00 PM]
 ربات سرعتی و خوبیه
 @TheFileToLinkBot
-File Storage, [6/4/22 1:00 PM]
 Telegram Book Channel
-@bookdownbot
-@pdfbot
-@libsan_bot
-@PDFsCom
-@Academic_Library
-@BookTop
-@Archivebooks
-@bookhapdf
-@AVAYEBUF
-@Philosophy3
-@Philosophers2
-@evophilosophy
-@bookhapdf
-@OfficialBook
-@roman_bookk
-@Y_1360
-@StudentLibrary
-@ketabestanbargh
-@bztebook
-@dl_ketab
-@forbidden_library
-@bo0ks1
-@SmallQuotation
-@chamedan_ketab
-@EricNotes
-@behtarinhayesoti
-@Library_Telegram
-@lBOOKl
-@lAzmonl
-@irDarsir
-@TellBooks
-@konkorhub
-@Book_konkourii
-@Exitomag_Channel
-@audiobook_world
-@enmagazine
-@ASM_Books
-@litera999
-@FarazTed
-@daabeh
-@BooksProject
-File Storage, [6/4/22 1:00 PM]
 داشتیم بحث میکردیم درباره اینکه نت داره شبیه چین میشه بعد تصویب صیانت از کاربران فضای مجازی، چون اکثر تکنولوژی ای که ایران برای فیلترینگ استفاده میکنه شبیه چین عه، خلاصه فیلترینگ شدید در راهه و اگر چیزی چین کار کنه ایران هم میتونه پس دسته بندی کردیم
 بر اساس چیزی که میدونیم به سه طبقه تقسیم میشه
 دسته اول
@@ -28041,71 +21886,22 @@ l2tp/ipsec
 مبهم سازی = obfuscation
 Obfs4 , stealth vpn , ...
 Geph
-File Storage, [6/4/22 1:00 PM]
 خوندن این برای همه واجبه
- https://telegra.ph/رشته-توییتی-از-pedhastam-07-26-3
-Telegram Book Channel
-@bookdownbot
-@pdfbot
-@libsan_bot
-@PDFsCom
-@Academic_Library
-@BookTop
-@Archivebooks
-@bookhapdf
-@AVAYEBUF
-@Philosophy3
-@Philosophers2
-@evophilosophy
-@bookhapdf
-@OfficialBook
-@roman_bookk
-@Y_1360
-@StudentLibrary
-@ketabestanbargh
-@bztebook
-@dl_ketab
-@forbidden_library
-@bo0ks1
-@SmallQuotation
-@chamedan_ketab
-@EricNotes
-@behtarinhayesoti
-@Library_Telegram
-@lBOOKl
-@lAzmonl
-@irDarsir
-@TellBooks
-@konkorhub
-@Book_konkourii
-@Exitomag_Channel
-@audiobook_world
-@enmagazine
-@ASM_Books
-@litera999
-@FarazTed
-@daabeh
-@BooksProject
 ریمو کردن شت افزار های شیاعومی
- https://www.youtube.com/watch?v=_nlAG6nNVjk
- https://connectvip.store/
-File Storage, [6/4/22 1:00 PM]
- https://t.me/Ultra_Board
-@nimbahaplusbot
-Project Charlotte (Died):
- http://T.me/FineOCRBot
- http://T.ME/FDroidSearchBot
- http://T.me/my_id_bot
- http://T.me/TorrentHuntBot
- http://T.me/FreeStockPhotosBot
- http://t.me/ListsChannel
-File Storage, [6/4/22 1:00 PM]
+https://www.youtube.com/watch?v=_nlAG6nNVjk
+https://connectvip.store/
+https://t.me/Ultra_Board
+http://T.me/FineOCRBot
+http://T.ME/FDroidSearchBot
+http://T.me/my_id_bot
+http://T.me/TorrentHuntBot
+http://T.me/FreeStockPhotosBot
+http://t.me/ListsChannel
 کتاب صوتی های فیدیبو رو چجوری میشه استخراج کرد؟
 برو تو android
 data
 com.fidbo
 فایل هاشو بردار تهش بزن .mp3
-File Storage, [6/4/22 1:00 PM]
 آنالیز
 Scamalytics.com
 1:05
@@ -28128,14 +21924,11 @@ https://www.torlock.eom/software/10.html
 دوستان یه سری سایتا هستن کلیک راست و در واقع این امکانات رو مسدود کردن
 راهی هست بشه دورشون زد؟
 پاسخ
- https://medium.com/@krupkzcorpbisnis/how-to-enable-right-click-on-websites-that-have-disabled-it-d234ae616f7d
+https://medium.com/@krupkzcorpbisnis/how-to-enable-right-click-on-websites-that-have-disabled-it-d234ae616f7d
 ——-
- https://www.webnots.com/8-ways-to-copy-content-from-right-click-disabled-webpages/
-File Storage, [6/4/22 1:00 PM]
+https://www.webnots.com/8-ways-to-copy-content-from-right-click-disabled-webpages/
 #وب_سایت
- https://vocalremover.org
 میتونید صدا از موزیک رو جدا و از فایل خروجی بگیرید
- https://t.me/hafezeye_tarikhi
 https://t.me/soltanshirb
 DC MOVIES = @DC_Movies_In_Hindi
 DC ANIMATED MOVIES = @DC_All_Animated_Movies
@@ -28147,127 +21940,93 @@ Young Justice Hindi Dub = @Young_Justice_Hindi_Dub
 Justice League Cartoon In Low MB = @Justice_League_Cartoon
 Anaconda All Movies = @Anaconda_All_Movies_InHindi
 @professional_c_h
- https://rarbgmirror.org/torrents.php?category=2;4
+https://rarbgmirror.org/torrents.php?category=2;4
 از اینجا بزن
- https://webtor.io/#/
+https://webtor.io/#/
 اینم لیچرشه
-File Storage, [6/4/22 1:00 PM]
 تیک تاک
 @ttsavebot
-@MUSICHUB1234
 T.me/boorsboys
 سرویس اوپن سورس
- https://t.me/alefvanoon
- https://t.me/Archive_Team_Channel
-Project Charlotte (Died):
- https://t.me/AzadNetRoyal
- https://t.me/SocialCode
-@libgen_scihub_bot
- https://www.videohelp.com/software/N-m3u8DL-CLI
+https://t.me/alefvanoon
+https://t.me/Archive_Team_Channel
+https://t.me/AzadNetRoyal
+https://t.me/SocialCode
+https://www.videohelp.com/software/N-m3u8DL-CLI
 دانلود فایل های m3u8
- https://www.filesearch.link/
 t.me/The_Angel_Network
- https://t.me/BinBhai
+https://t.me/BinBhai
 https://t.me/binbhaifamily
- https://t.me/Vulture_Network
- https://t.me/REDXSKULL_BINS
- https://t.me/storm_network
- https://t.me/about_mayank
- https://t.me/opensignup
+https://t.me/Vulture_Network
+https://t.me/REDXSKULL_BINS
+https://t.me/storm_network
+https://t.me/about_mayank
+https://t.me/opensignup
 @Bins_Club
-File Storage, [6/4/22 1:00 PM]
 Best adult channels
 Subscribe to channels faster while they are working
 🧨 The Best Porn Stars | Milfs | Lesbian | Onlyfans
-(
 https://t.me/Oasis69) Naughty America PREMIUM
-(
 https://t.me/Naughty_America_premium) Tushy | Blacked | Babes | Vixen | Mofos (
 https://t.me/Pr00n) | Deeper
-(
 https://t.me/Pr00n) REALITY KINGS
-(
 https://t.me/realitykings_pr)PORNHUB PREMIUM
-(
 https://t.me/pornhub_pr) Legal Porno PREMIUM | GangBang
-(
 https://t.me/legalporno_com) (
 https://t.me/realitykings_pr) Woodman Casting X
-(
 https://t.me/woodman_x) Webcam girls | Chaturbate | Bongacams (
 https://t.me/webcam_free)
 ‍ Gay male tube (
 https://t.me/boys_nsfw)
-(
 https://t.me/Pr00n) XVIDEOS (
 https://t.me/Hub_x)-BRAZZERS
-(
 https://t.me/Hub_x) (
 https://t.me/pr_brazzers) BRAZZERS Life
-(
 https://t.me/Brazz_life)SEX DATING pr00nsex.club
 WEBCAM GIRLS FUCKDE.ME
 PORNO GAME Gamesex.me
 ‍ BEST WHORES Girlss.me
-Subscribe to channels faster while they are working
-File Storage, [6/4/22 1:00 PM]
 کانال آموزش و مطالب مهم تورنت:
-https://t.me/torrent_Learning
-@torrents_ir
 گروه درخواست جستجوی تورنت:
- https://t.me/joinchat/03X89wo__pJlY2I6
+https://t.me/joinchat/03X89wo__pJlY2I6
 مقایسه سیدباکس‌های مختلف برای انتخاب راحتتر:
- https://seedboxgui.de/seedbox/
 موارد ممنوعه در این گروه:
 دایرکت دادن بدون اجازه به کاربران گروه.
 خرید و فروش دعوتنامه.
 اعلام مشکلات سیدباکس بیتسو.
-File Storage, [6/4/22 1:00 PM]
 Spotify and Deezer downloader
-@FusionDL_Bot
 @spotdlrobot
 @SpotifyCh_Bot
 @songrefbot
 @spotifysavebot
 @Deezempirebot
-@DeezerMusicBot
 @DeezLoadBot
 @FlacStoreBot
-@FlacStoreBot
-File Storage, [6/4/22 1:00 PM]
 معرفی
 ultra.ccSeedbox.io
-File Storage, [6/4/22 1:00 PM]
- https://t.me/Hmirror_Zone
- https://t.me/free_takhfif_code
+https://t.me/Hmirror_Zone
+https://t.me/free_takhfif_code
 @bonofff
 @chatrbaazan
-File Storage, [6/4/22 1:00 PM]
- https://t.me/TechGolden
+https://t.me/TechGolden
 File Storage, [6/4/22 1:01 PM]
- https://proxy
+https://proxy
 http.net/
- https://www.proxynova.com/proxy-server-list/
- http://www.freeproxylists.net/
- https://free-proxy-list.net/
-File Storage, [6/4/22 1:01 PM]
- https://t.me/ir_teach
- https://t.me/drarayehfarsi
- https://t.me/joinchat/TWXlYzgrb6cuucRX
-File Storage, [6/4/22 1:01 PM]
+https://www.proxynova.com/proxy-server-list/
+http://www.freeproxylists.net/
+https://free-proxy-list.net/
+https://t.me/ir_teach
+https://t.me/drarayehfarsi
+https://t.me/joinchat/TWXlYzgrb6cuucRX
 t.me/scihubot
 دسترسی رایگان به تحقیقات و مقاله ها
-File Storage, [6/4/22 1:01 PM]
- https://t.me/joinchat/BDGgMDu6aQjKdCIXCNfTMQ
-@instatoolboxbot
- https://t.me/Universal_Projects
-File Storage, [6/4/22 1:01 PM]
- https://t.me/V_P_N_CH
+https://t.me/joinchat/BDGgMDu6aQjKdCIXCNfTMQ
+https://t.me/Universal_Projects
+https://t.me/V_P_N_CH
 @vaziat_Iran
 @AcademyLian
 @Bluray1080pJiG
- https://t.me/zer0daylab
-File Storage, [6/4/22 1:01 PM]
+https://t.me/zer0daylab
 🛠 1- Android (
 https://www.android.com/) / Wikipedia (
 https://en.wikipedia.org/wiki/Android_(operating_system))
@@ -28292,21 +22051,20 @@ Android 10 (2019)
 Android 11 (2020)
 Android 12 (????)
 برای اطلاعات بیشتر از تحول اندروید لینک زیر رو کلیک کنید:
- https://youtu.be/leCGI9flgbE
+https://youtu.be/leCGI9flgbE
 اینها نسخه اندروید هستش و هر شرکتی یا بعضی شرکتها یه شکل ظاهری و پوسته ای بهش میدن ولی در اخرش یه نسخه اندروید داره پس زمینه ران میشه، از اونجایی که آدم درستی برای توضیح اینکه دقیقا اندروید چطور کار میکنه، بهتون یه درک کلی ای میده که اندروید چطور کار میکنه:
- https://youtu.be/8Yy6Wje0z_o
+https://youtu.be/8Yy6Wje0z_o
 رو پیشنهاد میکنم، اگر میخواین پیشرفته تر بشین میتونید (برای همه پیشنهاد نمیشه)
- https://youtu.be/TwXuY2w7Zv0
+https://youtu.be/TwXuY2w7Zv0
 رو ببینید
-File Storage, [6/4/22 1:01 PM]
 از اینجا به بعد باید با مفهوم چند کلمه اشنا بشین (برا تازه‌وارد ها):
 درایور/driver:
 خلاصه اش به نرم افزار ای هستش که واسه این درست شده که به دستگاه اجازه میده که با سخت افزار ارتباط برقرار کنه
- https://youtu.be/t-aRlwLI-b0
+https://youtu.be/t-aRlwLI-b0
 رام/rom:
 رام (ROM) مخفف اصطلاح Android Read Only Memory یا حافظه فقط خواندنی اندروید است. اگر بخواهیم به زبان ساده و ملموس رام اندروید را تعریف کنیم میتوانیم بگوییم که رام همان سیستم عاملی است که روی گوشی استفاده میکنید. البته این نام و طبیعتا ترجمۀ آن ارتباط بسیار کمی با واقعیت وجودی یک ROM اندروید داشته و گاهی کاربران را به اشتباه می‌اندازد. منظور از ROM اندروید، سیستم عامل یک تلفن همراه است که بر پایه پتلفرم اندروید شرکت گوگل طراحی و ساخته شده است. این تعریف از لحاظ فنی دقیق نیست و فقط برای این که تصویری در ذهن خود داشته باشید ارائه شده.
 کرنل/kernel:
- https://edu.thregence.ir/what-is-kernel/
+https://edu.thregence.ir/what-is-kernel/
 خیلی خوب و قابل فهم توضیح داده
 پورت کردن/porting:
 توضیح خوبی فعلا ندارم ولی به بهترین شکل که درکش کردم توضیح میدم
@@ -28320,7 +22078,6 @@ File Storage, [6/4/22 1:01 PM]
 از اونجایی که اندروید اوپن سورسه کلی مزیت برای همه داره:
 از اونجایی که اوپن سورسه قابل دستکاریه و چیزی ساخته میشه بستگی به نیازتون، همه میتونن رام اندروید رو بردارن و کارایی بکنند بستگی به نیازشون، یکی از بزرگترین نقطه قوت ها و مزیت های سیستم عامل اندروید اپن سورس بودن است. یعنی امکان ویرایش کد اندروید وجود دارد. بنابراین سازندگان گوشی های هوشمند، نسخه اندروید ویژه خود را روی گوشی ها نصب می کنند که بر اساس مشخصات گوشی بهینه شده استهمه میتونن گوشی اندروید خودشون رو بسازند، شرکت ها میتونن درایور برای کرنل درست کنند و به گوشیشون پورت کنند و رام بسازند برا گوشی، از اونور تنها سازندگان گوشی های هوشمند نیستند که رام مخصوص خود را می سازند. متن باز (اپن سورس) بودن اندروید امکان ویرایش کد و ساخت رام را برای توسعه دهندگان اندروید هم فراهم کرده. رام هایی که توسط توسعه دهندگان اندروید ساخته و منتشر می شود، کاستوم رام هستند و به دلایلی منتشر میشن:
 گوشی های اندروید بعد یه مدت ۴ سال دیگه اپدیت رسمی نمیکنند شرکتا یا حریم خصوصی ات رو میخوای حفظ کنی و یا گیم و بهینه سازی میخوای، بهش میرسیم ادامه مطلب....
-File Storage, [6/4/22 1:01 PM]
 انواع رام های گوشی: (منبعم (
 https://zancko.ir/رام-گوشی-چیست؟-آشنایی-با-رام-اندروید/) آخه کپی پیست یکم زیاده)
 1- stock rom / استوک رام / رام رسمی:
@@ -28338,7 +22095,6 @@ https://zancko.ir/رام-گوشی-چیست؟-آشنایی-با-رام-اندرو
 واقعا به سازنده های گوشیتون اعتماد دارید؟
 اگر اره پیشنهاد میکنم یه بار دیگه فکر کنید
 ۴- گوشیتون به صورت پیشفرض روت نیستش به دلایل امنیتی ولی باید اپشنش در دسترس باشه برا یوزر های پیشرفته اما نیست، مجبورین از سایتا دنبال روش روت باشین و پیدا کردین استفاده کنید، حداقلش اپشن اینو دارید اگر سامسونگ دارید وقتی گند بزنید رام رسمی دانلود کنید با odin بزنید با خیال راحت و انگار نه انگار که گند زدین، به اونایی که شمارو از روت میترسونن گوش نکنید، هرچند گوشی به گوشی فرق داره مثلا اگر هواوی باشید (تست نکردم، با توجه به چیزایی که میدونم میگم) راه برگشتی نیست یا جررر عه 🥴
-File Storage, [6/4/22 1:01 PM]
 🛠 2- custom rom / کاستوم رام:
 کاستوم رام، رام رسمی شرکت سازنده نیست و معمولا توسط توسعه دهندگان اندروید (که به آن ها کوکر (= آشپز) هم میگویند) منتشر میشود و در اغلب موارد نسخه دستکاری شده و اصلاح شده همان استوک رام یا رام اصلی است. علت این که توسعه دهندگان اندروید، کاستوم رام میسازند این است که میخواهند زیبایی بصری سیستم عامل را بالا ببرند یا امکانات و قابلیت های جدیدی به آن اضافه کنند که در نسخه رسمی نیست. البته چون این رام ها توسط کمپانی های سازنده تولید نمیشوند احتمال وجود باگ و مشکلات مختلف در آن ها بیشتر است.
 بعضی مزایا (اسکی با اندکی ادیت):
@@ -28351,12 +22107,10 @@ File Storage, [6/4/22 1:01 PM]
 ۶- امکان آپدیت منظم کاستوم رام: معمولا آپدیت های اندروید با فاصله زمانی بسیار زیادی منتشر میشود و بسیاری از تولید کنندگان از آپدیت های جدیدتر پشتیبانی نمیکنند بنابراین کاربرانی که گوشی قدیمی تر دارند مجبور هستند از یک نسخه اندروید قدیمی استفاده کنند و امکان آپدیت آن را هم ندارند (که این خودش کلی حفره امنیتی برا هکرا اماده میکنه) برای حل این مشکل میتوانید یک کاستوم رام که به جدیدترین نسخه اندروید مجهز است نصب کنید. مثلا اگر گوشی شما اندروید 4.4 دارد میتوانید کاستوم رام مبتنی بر اندروید 5 روی آن نصب کنید
 ۷- فعالسازی دسترسی روت از طریق تنظیمات سیستم
 ۸- هر توزیع کاستوم رام فلسفه خودشو داره، بعضی برا گیم بهتر شدند، بعضی برا حریم خصوصی، بعضی بدل ios اند، بعضی استفاده میشن که تحریم گوگل رو هواوی و شیاومی رو دور بزنند، بستگی به این داره چی نصب کنید
-معایب:
 ۱- نیاز به بررسی کیفیت دارن:
 نگاه، اول اینکه باید کاستوم رام مطمئن بشین مخصوص گوشی خودتونه وگرنه گوشیتون خراب میشه
 دوم میبینی خوب بررسی شده و یوزر زیاد داره و باگاش چی هستش ببینید میصرفه یا نه
 سوم اینکه باید اوپن سورس باشه وگرنه سیستم عامل جاسوس افزار هم بزارن خبردار نمیشین و همون بهتره رام اصلیتون رو بریزین، بستگی به ریسک پذیری خودشون داره
-File Storage, [6/4/22 1:01 PM]
 به سوی آزادی دیجیتالی. (
 https://youtu.be/0cKEyag7jBM)
 تعریف و کلیات foss (
@@ -28381,14 +22135,13 @@ https://t.me/c/1314087575/478)
 دی ان اس
 دی گوگلینگ
 پیشنهاد میکنم اینو ببینید:
-File Storage, [6/4/22 1:01 PM]
 تعریف و کلیات foss:
 کوتاه شده هستش از
 Free Open Source Software
 یا به فارسی میشه برنامه های متن باز آزاد، free لزوماً به معنی مجانی نیست (ولی اکثر مواقع مجانی هستش)، از freedom به معنی آزادی میاد
 شاید الان بپرسی: خب متن باز یعنی چی؟
 نرم‌افزار آزاد و متن‌باز (FLOSS، F/OSS، FOSS)، نرم‌افزاری است که به‌منظور تامین حق کاربران برای مطالعه، تغییر، و بهبود طراحی آن، با دردسترس‌بودن کد مبدأ نرم‌افزار، به‌شکل آزاد پروانه‌دار گشته است.
- https://github.com
+https://github.com
 https://gitlab.com
 یا تو سایت خودش که برنامه نویس بتونه کد رو بخونه
 بر اساس فلسفه foss میگه ما باید آزادی اینو داشته باشیم که برنامه ای که داره اجرا می‌کنه رو بتونیم بخونیم و بهبود بدیم و کپی برداری و در دسترس باشه
@@ -28403,10 +22156,9 @@ https://gitlab.com
 نکته 2:
 هر برنامه اوپن سورس ای foss نیست چون اوپن سورس بودن لزوما بهتون آزادی نمی‌ده یا بخش های سورس بسته داره اما هر برنامه foss اوپن سورسه و چند چیز دیگه
 برای اطلاعات بیشتر:
- https://en.m.wikipedia.org/wiki/Free_and_open-source_software
+https://en.m.wikipedia.org/wiki/Free_and_open-source_software
 Libre/free software vs open source:
- https://youtu.be/fwOytIbmMsY
-File Storage, [6/4/22 1:01 PM]
+https://youtu.be/fwOytIbmMsY
 چرا برنامه متن باز رو معرفی میکنی؟ چه اهمیتی داره اصلا؟
 جواب کوتاه:
 پس گرفتن آزادیمون که تحت کنترلشونه و حفظ امنیتمون، خیلی ساده
@@ -28414,7 +22166,7 @@ File Storage, [6/4/22 1:01 PM]
 خب همینطور که میدونید برنامه های closed source (برنامه هایی که کدش رو نمیشه حتی خوند) نمیدونیم پشتش چی میگذره، معمولا برای درامد زایی هستش بیشتر...
 برنامه های سورس بسته ممکنه کار های کثیفی بکنند که خبر نداشته باشیم، مثلا جاسوسی یا ماین بیت کوین و کار های از این قبیل مثلا
 ۱- نمونه اش مثلا یه حمله ای شده بود و ابزار nsa لیک شده بود که برای جاسوسیشون بود (حالا معلوم نیست بک دور هستش یا یه ضعفیه که میدونستن ولی گزارش ندادن) و باهاش ویروس خطرناکی به اسم wannacry درست شد و یکی به اسم مارکوس هاچینز میاد همه رو نجات میده، ماجراش:
- https://youtu.be/Y7LeAteDdYY
+https://youtu.be/Y7LeAteDdYY
 ۲- کلا شرکت های غول مثل فیسبوک و گوگل سرویسی بهتون رایگان میدن و در عوضش اطلاعاتتون رو جمع میکنن، معلوم نیست اطلاعاتتون چیکار میکنند ولی اینقدر میدونیم که میان برای تبلیغ های مرتبط با شما و نمایش نتایج متناسب با سرچ شما بر اساس شناختی که از شما دارن میدن و اطلاعاتون رو به nsa یا همون سازمان امنیت ملی امریکا میدن و اونا هم به یه عده اطلاعات رو میفروشن
 ۳- شاید بگید چیزیو برای مخفی کردن ندارم، خب اطلاعاتم رو داشته باشن، من که خلافکار نیستم.....
 اینکه بگی من امنتیت سایبری برام مهم نیست چون چیزی برای مخفی کردن ندارم مثل اینه که بگی من آزادی بیان برام مهم نیست چون حرفی برای گفتن ندارم. ادوارد اسنودن گفت، یکم داستان ادوارد اسنودن (edward snowden) رو بخونید و اینکه چیا رو لو داد خیلی جالبه، اصلا نیازی نیست خلافکار باشید که از اطلاعاتتون محافظت کنید، اطلاعاتتون رو جمع آوری میکنند به بهونه مبارزه با تروریسم ولی اثری نداره
@@ -28434,12 +22186,10 @@ File Storage, [6/4/22 1:01 PM]
 اطلاعات شخصیتون رو میفروشن و نمیدونیم چیکار میکنن باهاش دیگه، اطلاعات قدرته...
 در حقیقت وقتی نتونن شفاف بگن منبع درامدشون چیه، منبع درامدشون شمایید، درواقع مشتری نیستین، شما محصولین
 ۴- جاسوس افزار پگاسوز
- https://t.me/durov/162
-نکته:
+https://t.me/durov/162
 متادیتا به اطلاعاتی در ظاهر نچندان مهم ولی خیلی مهم اگر شاخه ای دربارتون جمع کنن، مثلا کی انلاین میشین، لوکشینتون کجایین، اطلاعات خریدتون و...
 نتیجه: نباید اعتماد کنید به هیچکس سر اطلاعات شخصیتون، خیلی سو استفاده ها میتونن بکنن، یکیش تحریم و تعیین و ایجاد محدودیت که براتون ملموسه...
 گوگل اخیرا ایرانی ها رو حتی با فیلتر شکن هم شناسایی میکنه متاسفانه، خیلی از درآمد های یوتیوبر های ایرانی به خاطر همین قضیه به شدت افت کرده، تحریم از داخل و خارج. چند روز ديگه اين بدبختي رو سر گوگل پلی و هزار تا برنامه دیگه داریم که اوضاع واقعا سخت میشه.
-File Storage, [6/4/22 1:01 PM]
 یک ذهنیت کلی:
 خب خب، حالا که میدونید foss چیه و منطق پشت استفاده اش، می‌خوام بگم که قرار نیست حتما و ٪۱۰۰ برنامه های foss استفاده کنید، بیشتر می‌خوام ترجیحا foss رو جا بندازم، یعنی ممکنه چیزی بخواین که برنامه های foss نتونن ارائه بدن (هرچند میدن و باور نمیکنم ندن جز یه استثنا، گیم، اونم اکثر مواقع میشه راه انداخت)، یعنی اگر آپشن foss داشته باشین، چرا ازش بهره نبرید و برنامه های سورس بسته اشغال رو مثل بقیه (گوسفند های قربانی) استفاده کنید؟ بهونه ای ندارید :)
 اگر گیمر نیستین واقعا چیزی نیست که لینوکس نتونید انجام بدین چون برای همه چیز تقریبا یه الترناتیو/جایگزین هستش و نباشه میتونید برنامه های ویندوزی رو اجرا کنید با wine (نه که گیم ویندوزی کار نمیکنه، خیلی گیمای ویندوزی رو لینوکس ساپورت می‌کنه و اگر نکته ابزار هایی هستن یا قلقی دارن و خیلی کمه لینوکس ساپورت نکنه، هرچند اگر گیمی تو لینوکس باشه چرا نسخه ویندوزیش اخه؟)
@@ -28459,7 +22209,6 @@ File Storage, [6/4/22 1:01 PM]
 راهه حل خیلی ساده هستش، چرا برنامه های foss رو امتحان نمیکنید؟
 با تعویض ویندوز به یه توزیع لینوکسی و یا تعویض کروم به brave یا chromium که اوپن سورسن....
 هر وقت جلو ضرر رو بگیرید منفعته...
-File Storage, [6/4/22 1:01 PM]
 خب خب تغییر عادت هارو شروع میکنیم با مرورگر
 ۱- مرورگر:
 خیلی از کارامون رو انلاین انجام میدیم، سرچ و خرید و کارایی که بعضیا میخوان و نمیخوان انجام بدین
@@ -28477,11 +22226,9 @@ https://blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/) بش�
 مثلا:
 مرورگر اوپن سورس برپایه کرومیوم
 ۱- Brave
-(
 https://brave.com/)خلاصه ضد اثر انگشت، ضد تبلیغات، اوپن سورس، سبک تر از گوگل کروم، دارای tor
 درونش حتی بلاک لیست ublock origin رو هم داره میتونید brave://adblock برید و فعال کنید
 ۲- ungoogled chromium
-(
 https://t.me/wbnet/64758)۳- bromite (android only) (
 https://t.me/wbnet/66582)
 کانالش بهتر توضیح میده، اوپن سورسه...
@@ -28489,21 +22236,16 @@ https://t.me/wbnet/66582)
 ۱- waterfox (
 https://t.me/wbnet/65988)
 ۲- librewolf
-(
 https://t.me/wbnet/65988)کانالش بهتر توضیح میده، اوپن سورسن...
-File Storage, [6/4/22 1:01 PM]
 اکستنشن هایی نیاز دارید برای مرورگر هاتون
 اگر یوتیوب میخواین ببینید:
- https://youtu.be/N66CmWhgrO4
+https://youtu.be/N66CmWhgrO4
 اکستنشنا:
 بهترین پیشنهاد رو برا یوزر های عادی میکنه، هرچند فری مدیا خیلی پیشنهاد ها و انتخاب ها بیشتره...
 1- localcdn (بهتره)/decentraleyes
-(
 https://t.me/wbnet/65911)2- sponsorblock
-(
 https://t.me/wbnet/65021)پیش میاد یوتیوب طرف وسط ویدیو میاد از اسپانسر میگه، با این میتونید ببینید و اسکیپ کنید
 3- search by image
-(
 https://t.me/wbnet/65936)4- keepassxc/bitwarden (
 https://t.me/wbnet/66538) (بیت واردن خوفه)
 5- clearurl (
@@ -28512,29 +22254,23 @@ https://t.me/wbnet/58662)
 6- ublock origin (
 https://t.me/wbnet/63751)یا AdNauseam (
 https://t.me/wbnet/67725) + privacy badger
-(
 https://t.me/wbnet/63751)(ترجیحا با هم باشن، و اینکه برای یو بلاک برید تیک سرور لیستا رو بزنید، فقط اد بلاکر نیست، خیلی کارای دیگه هم می‌کنه اگر یاد بگیرید)
 7- violentmonkey/tampermonkey/userscript
 اسکریپت هایی رو میتونید ران کنید... برا کاربرای پیشرفته تر پیشنهاد میشه چک کنن
 8- switchyomega
-(
 https://t.me/wbnet/63182)9- buster captcha (
 https://t.me/wbnet/65175)
 10- universal bypass
-(
 https://t.me/wbnet/66276)(شماره هفت ممکنه اسکریپتی باشه که سایتایی من شماره ده نمیتونه رو انجام بده)
 11- Others (
 https://t.me/wbnet/68524)....
 اینطوری میتونید خیلی راحت به خیلی سایتا برید بدون اعصاب خوردی و این چیزا
-File Storage, [6/4/22 1:01 PM]
 اگر اطلاعات کاملتری میخواین بهتر توضیح میده (انگلیسی هستش)
- https://youtu.be/IKhn20KYnF0
+https://youtu.be/IKhn20KYnF0
 https://youtu.be/dTF8_DwDjW4
 https://youtu.be/vZBa5-wFAfQ
 خواهشاً همشو ببینید
-File Storage, [6/4/22 1:01 PM]
- https://youtu.be/hLjht9uJWgw
-File Storage, [6/4/22 1:01 PM]
+https://youtu.be/hLjht9uJWgw
 خب خب بگم، نیومدم بترسونم و بگم گوگل استفاده نکنید (درواقع اومدم دقیقا همین کارو بکنم)، اومدم پیشنهاد یه چیز خیلی بهتر رو بدم، بهتر از گوگل، پیشنهادی که به حریم خصوصی و آزادیتون احترام میزاره...
 سرچ انجین هایی هم که ادعای حفظ حریم خصوصی میکنند هم اوپن سورس نیستن پس اعتماد ندارم
 مثلا: duckduckgo
@@ -28550,18 +22286,15 @@ https://searx.me/)
 ۳- خودتون میتونید به صورت لوکال هاست استفاده کنید (اگر نگران حریم خصوصی هستین ابری پیشنهاد میشه چون همه از یک سرور استفاده میکنن و بین همه اونایی که مثلا گوگل سرچ میکنن مخفی می‌شید و نگران سرچ پورن چند دقیقه پیشتون نیستین)
 ۴- رایگان و اوپن سورسه
 ۵- اپشن هایی دارید که گوگل نداره مثلا تورنت سرچ...
-معایب:
 ۱- یکم سر سرچ عکس اذیت میکنه، بازم بستگی به instance/سروره سرکسی هستش که استفاده میکنید، اپشن image reverse search هم نیست
 ۲- نمیدونید دقیقا سمت سرور چی میگذره، خودتون هم هاستش بشین خاص میشین و نمیتونید بین کلی ادم مخفی بشین
 چون سرکس اوپن سورسه پس جاهای مختلف استفاده کنید ازش، همه میتونن سرکس خودشون رو راه بندازن
 روش اول:
 استفاده از سرور ابری دیگران
- https://searx.space
+https://searx.space
 میرید و یه سرور لیست ظاهر میشه
-File Storage, [6/4/22 1:02 PM]
-(
 https://tg-file2link.herokuapp.com/dl/0/photo_2021-05-28_05-23-21_6967649353963430912.jpg) کلی instance ها هستش، بستگی به سلیقتون داره، ممکنه چیزیش کار کنه چیزیش کار نکنه، مثلا گوگل کار نکنه چون گوگل شناساییش کرده، شما میای مثلا یا startpage میزنی به جا گوگل (نتایجشو از گوگل میگیره) یا مثلا بیخیال گوگل میشیم و یا گوگل خوشتون نمیاد duckduckgo مثلا میزنید، جز سرچ انجینا اهنگ و تورنت و مقاله تحقیقاتی دانشجویی هم میتونید پیدا کنید، اگر قلق دستت بیاد خیلی مفیده
- https://searx.decatec.de/
+https://searx.decatec.de/
 مثلا خودم اینو خوشم اومده چون تورنتش عالیه، سرور خوب پیدا کردن سخت نیستش
 خلاصه حاشیه نریم، چطور سرور خوب پیدا کنیم؟
 توی سرور لیست اون بالا اگر دقت کنید چند چیز نوشته
@@ -28584,12 +22317,9 @@ Search response
 Google response
 هم تیکو نزن که گاهی تشخیص اش ریده
 در اخرش این شکلی در میاد:
-File Storage, [6/4/22 1:02 PM]
 خلاصه، چندتایی از بهترین سرورا میمونه از اون لیست، یکم ور میری ببینی کدوم مناسب کارته و دیگه از اون به بعد ازش استفاده میکنی
-مزایا:
 ۱- نتایجتون همراه خیلیا لای هم میره و کسی نیاد دنبالتون مثل گوگل
 ۲-‌ دیگه دردسر لوکال هاست و راه اندازیش رو ندارید و تنها کاری که می‌کنید تنظیم تنظیماته
-معایب:
 ۱- ممکنه از کار بیوفته
 ۲- ممکنه مثل گوگل شنود بشید پس کامنت هارو بخونید
 ۳- ممکنه تاخیر سایت جستجوگر به سرورت زیاد باشه
@@ -28599,48 +22329,38 @@ File Storage, [6/4/22 1:02 PM]
 برای اطلاعات بیشتر راجب هاست کردنش برید به
 searx.me
 روش لوکال هاست موبایل:
- https://www.reddit.com/r/Searx/comments/jdfwwh/searx_on_termux/
-مزایا:
+https://www.reddit.com/r/Searx/comments/jdfwwh/searx_on_termux/
 ۱- سرور های انلاینش گاهی توسط گوگل ای پی بن میشن و نتایج گوگل ندارید و یکم دردسر داره گاهی (استارت پیج بزنید از نتایج گوگل استفاده می‌کنه پس همون گوگله اگر گوگلشون از کار افتاد) و شما این دردسر رو ندارید
 ۲- نگران افلاین شدن و کندیش نیستین
-معایب:
 ۱- نمی‌تونید مثل انلاینش مخفی بشید لای جمعیت زیاد مخفی بشین
-File Storage, [6/4/22 1:02 PM]
-[ Photo ]
 چند نکته پایانی:
 ۱- به زبون سرچتون توجه کنید، ممکنه چیزی سرچ کنید و نتیجه ای نیاره و یا بی ربط بیاره بخاطر زبونتون
 ۲- تنظیمات رو همه چیزشو یه چکی بکنید ببینید امکاناتشو، سرچ کنید اگر میتونید و یاد بگیرید کامل، نمیتونم یادتون بدم همشو که
 به خدا قسم از گوگل کم نداره هیچ، خیلیم بهتر ازشه (فقط یه چی نیست اونم سرچ با عکسه اما در عوض کلی چیزای دیگه دارید گوگل نداره که یا سانسور میکنه یا کپچا کپچا کپچا...)
 ۳- به کامنت توجه کنید
 ۴- باید کلی تست کنی ببینی کدوم مد نظرته اگر ابری میزنی، ممکنه شما چیز دیگه ای استفاده کنید بستگی به عوامل مختلف، ممکنه ایده عال خودتو پیدا کنی....
-File Storage, [6/4/22 1:02 PM]
-[ Photo ]
 محیط گرافیکی (ui (user interface)) searx
 البته قابل تغییره، اگر لوکال باشه میتونید تم/قالب بهش بزنید، اگر ابری باشه همیشه چند تم داره
-File Storage, [6/4/22 1:02 PM]
 2- whoogle
-(
 https://benbusby.com/projects/whoogle-search/)عین searx کار می‌کنه فقط گوگله و ui گوگلی داره و میتونید به صورت لوکال هاست یا سرور های انلاینش (
 https://github.com/benbusby/whoogle-search#public-instances) استفاده کنید
 یک نمونه خوبش:
 whoogle.cookiejarapps.com
 Whoogle ui:
- https://github.com/benbusby/whoogle-search#screenshots
-File Storage, [6/4/22 1:02 PM]
+https://github.com/benbusby/whoogle-search#screenshots
 1- Windows 10/8.1/7/... / Wikipedia (
 https://en.wikipedia.org/wiki/Microsoft_Windows)
-کلیات:
 سیستم عامل اولم...
 اوپن سورس نیست، زمانی که همه سیستم عامل ها پولی بودن و لینوکس محیط گرافیکی نداشت، اومد رایگان کرد چند نسلو و بعد پولی کرد، پر از جاسوس افزار و اشغال افزار و بک دور، هر نسل و اپدیت ویندوز سیستم رو کند تر و چرت تر میکنه، مجبورید مثلا ابزار هایی مثل این و windows deblooter بزنید یا نسخه های کاستوم بسازید یا ویندوز لایت بریزید و... تا از شر اشغال افزار اش خلاص بشید، اپدیت های اساسی اش محیط اش رو به کلی تغییر میده و کلا رو مخه، هیچ اختیاری ندارید تو عملکردش و حتی ویندوز دیفندر دیگه خاموش بشو نیست....
 حداقل میزارن کرک کنید، به ضررشونه برید لینوکس :)
- https://youtu.be/fGIrnT5yPWo
+https://youtu.be/fGIrnT5yPWo
 خود بیل گیتس گفت
 پیشنهاد نمیشه، مگه باید بهت تجاوز کنن که نزدیک متجاوزا نشی؟ :/
 امنیت:
 به عنوان سیستم عامل امنیتی ای نمیبینمش
 گاهی عمدا به باگ رو نگه می‌داره و ماجرای مارکوس هاچینز شروع میشه، گاهی سورس کدش لیک میشه و هکرا سو استفاده میکنن، گاهی وقتای دیگه بک دور میزاره سیستمش که معلومه هیچ دری نیستش که فقط ادم خوبا بیان تو، علاوه بر همه اینا هکرا چون که این سیستم عامل بیشترین استفاده رو داره مورد تارگت قرار میدن، از اونجایی که سورسش بسته هستش، هر ابزاری برای امنیت توش پیشنهاد بدم خریته، فرضا که واقعا ابزاری باشه که امنیت ویندوز رو ببره بالا، nsa (سازمان امنیت ملی امریکا) اینو نمیخواد، باید نفوذی داشته باشن :)
 سرعت:
- https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update
+https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update
 https://youtu.be/qho3zIgeEuA
 براساس آزمایشی که شده از اولین ویندوز ده تا امروز یواش یواش کند و کند تر میشد و تونست اخرین اپدیتا یکم بهتر کنه ولی بازم یه جوریه، مساله اینه که هر اپدیت مایکروسافت هر برنامه ای که عشقش می‌کشه میاد نصب می‌کنه، چیزای بیخود اضافه میکنه و دچار مرضی به اسم identity crisis یا بحران هویتی شده و واقعا ریده، مثلا نصب زورکی برنامه ها از مایکروسافت استور (البته میتونید ریجن ایران بزنید و مایکروسافت استور قهر می‌کنه) نصب میکنه و خلاصه کلام، کند و کند تر میشه، ویندوز 8 گوهه خالصه، ویندوز های قبل 8 هم دیگه پشتیبانی نمیشه و مناسب حمله هکراست، مجبوری ویندوز ده استفاده کنی، خب می‌پرسی راهه حل چیه؟
 ۱- استفاده از windows deblooter
@@ -28650,75 +22370,61 @@ https://youtu.be/qho3zIgeEuA
 (er = انجام دهنده)
 کارش برداشتن گوه افزار هستش و دو تا از معروف ترینا رو میگم:
 آسونتر
- https://christitus.com/debloat-windows-10/
+https://christitus.com/debloat-windows-10/
 پیشرفته تر
- https://github.com/farag2/Windows-10-Sophia-Script
-نکته:
+https://github.com/farag2/Windows-10-Sophia-Script
 پیشنهاد میکنم با windows 10 manager (
 https://downloadly.ir/software/optimizer/windows-10-manager/) برید و آپدیت خودکار برنامه های ویندوز استور رو خاموش کنید
 ۲- استفاده از نسخه windows 10 ltsc
- https://youtu.be/8dyhoh7u8JA
+https://youtu.be/8dyhoh7u8JA
 برای اطلاعات دقیق تر سرچ کنید دربارش، بهترین ورژن ویندوز 10
 خلاصه اش اینه، نسخه ویندوز کاملا پایدار برا پنج سال و بدون شت افزار هاش و فقط اپدیت امنیتی دریافت میکنید، نسخه ای که بانکا و ارتش و این چیزا استفاده میکنن، میخوای بهتر درکش کنی؟ شما بخون ویندوز 7 با شکل ویندوز ده که هنوزم اپدیت امنیتی دریافت میکنه و از ساپورت خارج نشده
 3- استفاده از نسخه windows 10 lite
- https://youtube.com/c/GHOSTSPECTRE (پیشنهاد شده)
- https://youtube.com/c/TheWorldofPC
+https://youtube.com/c/GHOSTSPECTRE (پیشنهاد شده)
+https://youtube.com/c/TheWorldofPC
 ویندوز لایت نسخه غیر رسمی ای هستش که اشغال افزار هاش و جاسوس افزار ها برداشته میشه، یه اسکریپت هم داره چی بخواین اضافه کنید و این چیزا، بهتره خودتون یوتیوبشون رو ببینید، این دو یوتیوبر میان ویندوز لایت درست میکنن، بستگی به خودتون داره اعتماد کنید یا اگر یوزر حرفه ای باشید
-روش اول
- https://youtu.be/Xzk1ZIQgCos
+https://youtu.be/Xzk1ZIQgCos
 https://youtu.be/WxMqtyNJOkk
-روش دوم
- https://youtu.be/PYOsevW3KdA
+https://youtu.be/PYOsevW3KdA
 میتونید خودتون بسازید هرچند خودم تا حالا نساختم
 پیشنهادم اینه که اگر خودتون می‌سازید و نصب کردین اینترنت رو روشن نکنید به هیچ وجه و windows 10 manager رو نصب کنید و برید آپدیت خودکار برنامه های ویندوز استور رو خاموش کنید و ترجیحا ویندوز اپدیت رو خاموش کنید، هرچند این روش مجبور میشن خودتون درایورا رو بریزین، اگر ویندوز عادی میریزین پیشنهاد میشه از اپدیت درایور نصب کنید، اگر این روش رو میزنید و ویندوز اپدیت رو بستین، میتونید از برنامه های شخص سوم استفاده کنید، این ایده رو میده:
- https://youtu.be/S4eVPnfPvEI
+https://youtu.be/S4eVPnfPvEI
 4- استفاده از Windows 10 Ameliorated:
- https://ameliorated.info/
 نسخه غیر رسمی ویندوز ده بدون جاسوس افزار (تا جایی که میدونیم) و بدون گوه افزار، یعنی در برابر بک دور ای که هیچکس نمیدونه تضمین نمیکنه، نظر منو بپرسی بهتر از Windows 10 ltsc هستش، تست نکردم برا گیمینگ، پیشنهادی ندارم.
-File Storage, [6/4/22 1:02 PM]
 حریم خصوصی:
 فکر می‌کنی امنه؟
 خب اشتباه میکنی
- https://privacytools.io/operating-systems/#win10
+https://privacytools.io/operating-systems/#win10
 قشنگ تا جایی که میدونیم گفته، اصلا به حریم خصوصیتون احترام نمیزاره و دروغ گفتن هم دیگه براشون عادی شده، امنیتی هم نداره، سابقه درخشانی هم نداره، چرا هنوز استفاده میکنید؟ :)
 هرچند...
 یه روشی میشناسم که تضمین نمیکنم:
 1- استفاده از Windows 10 Ameliorated:
- https://ameliorated.info/
-نسخه غیر رسمی ویندوز ده بدون جاسوس افزار (تا جایی که میدونیم) و بدون گوه افزار، یعنی در برابر بک دور ای که هیچکس نمیدونه تضمین نمیکنه، نظر منو بپرسی بهتر از Windows 10 ltsc هستش، تست نکردم برا گیمینگ، پیشنهادی ندارم.
-حاشیه:
 برای راحتی بیشتر برنامه chocolatey‌ (
 https://chocolatey.org/)رو نصب کنید، میتونید تو powershell برنامه هارو با یه دستور نصب کنید و خودش همه کارا رو میکنه، مثلا
 choco install Firefox
 بزنید و نصب کنه، برای اطلاعات کاملتر
- https://docs.chocolatey.org/en-us/
+https://docs.chocolatey.org/en-us/
 کاکیومنت و
- https://community.chocolatey.org/courses
+https://community.chocolatey.org/courses
 کورسش رو پیشنهاد میکنم و یا خودتون سرچ کنید خلاصه
 نکته آخر:
 میتونید روش هارو ترکیب بزنید و چیز مناسب خودتون بزنید، محدودین ولی بازم کارایی میشه کرد خلاصه
 میتونید یکم اینو ببینید و خیس کنید:
 Windows 10 spying is worse than i ever imagined
- https://youtu.be/RVzc5wK2-pc
-File Storage, [6/4/22 1:02 PM]
+https://youtu.be/RVzc5wK2-pc
 2- Android-x86 (
 https://www.android-x86.org/) / Wikipedia (
 https://en.m.wikipedia.org/wiki/Android-x86)
-کلیات:
 یک پروژه منبع باز است که به غیر از تراشه های ARM مبتنی بر RISC ، به طور غیررسمی سیستم عامل تلفن همراه Android Google را برای اجرا در دستگاههایی که از پردازنده های AMD و Intel x86 استفاده می کنند ، ایجاد می کند.
 خلاصه اش میشه اندروید رو میتونید تو کامپیوتر کار کنید
 چندتا سیستم عامل برپایه این ساخته شدند که برای گیمینگ عالین و جایگزین هرچی شبیه سازن، خودشو امتحان نکردم ولی برا گیم که پیشنهاد نمیشه چون نمیشه کیبورد زد، prime os پیشنهاد میشه....
 توزیع های برپایه android x86:
 2-1- prime os
-(
 https://primeos.in/)امنیت:
 راستش اطلاع ندارم، کار مشکوکی که ندیدم
-سرعت:
 سرعتش محشره و بهترینه نوعه خودشه و از توزیع های مشابه سریعتره، برای گیمینگ مثلا پابجی موبایل و کالاف موبایل عالیه و مثل gameloop با موس و کیبورد بازی کنید، مزیتش نسبت به gameloop اینه که شبیه ساز نیست و ویندوزی یک گراند ران نمیشه و رم رو نمیخوره
-حریم خصوصی:
 از اونجایی که اوپن سورس نیست تضمینی نمیکنم، اما خب بدرد ایزوله کردن و تست برنامه های گوهی مثل اینستا و واتساپ میخوره و مثل گوشی ردتو نمیزنه
 2-2- phoenix os
-(
 http://www.phoenixos.com/en/)
 این همون prime os هستش اما قدیمی تر و بدتر :/
 -محدودیت نصب برنامه ها به 20 تا و باید با لاکی پچر پچ کنید که پریمیوم بشه
@@ -28726,76 +22432,66 @@ http://www.phoenixos.com/en/)
 -چینیه، هندی رو به چینی ترجیح میدم چون اوپن سورس نی
 امنیت و حریم خصوصی:
 کاملا پیشنهاد نمیشه، از اونجایی که چینیه و شایعاتی شنیده میشه و یه سری برنامه های چینی رو سیستم نصبه اگر دقت کرده باشین، نمی‌دونم، میونه خوبی ندارم
-سرعت:
 جزئیات همون prime os ولی سرعت با تفاوت خیلی ناچیزی کمتر از prime os هستش
-File Storage, [6/4/22 1:02 PM]
 3- Macintosh / Wikipedia (
 https://en.wikipedia.org/wiki/Macintosh)
-کلیات:
 تست نکردم، براساس تحقیقاتم و چیزایی که مک یوزرا تعریف میکنن
 یه نمونه سرطان خالصه... سورس بسته و محدود (به تصمیم اپل، مثلا کار گذاشتن و نگذاشتن drm) و وحشتناک تر از ویندوز....!
 این سیستم عامل برپایه bsd هستش، فقط رو کامپیوتر های مک به صورت پیشفرض هستش و نمی‌تونید غیر مک نصب کنید، و اینکه درباره لبتاپ مک داشته باشید نمی‌تونید تعمیر کنید (با گارانتی، باید مراکز رسمی باشه، نسل به نسل سخت تر قابل تعمیر میشن) و سعیشونو میکنن جلوشو بگیرن، این سیستم عامل چند برابر سخت افزار اش پیشنیاز برای گیماش نیاز داره و درست تر بگم، مناسب گیمینگ نیست :/
 ولی خب یه مزیت داره و فقط یک مزیت، برنامه های رسمی استور اش تست شده اند و خیلی خیلی راحته استفاده باهاش در کل و واسه مامان بزرگا بابابزرگا و افراد عقب مونده خوبه
-امنیت:
 از اونجایی که یوزر کمی داره نسبت به ویندوز، ویروس ساز ها تمرکزشون رو مک نیست پس ویروس کمتری دارند
 هیچ سیستمی امنیت صد در صدی رو نداره
-سرعت:
 بستگی به سخت افزار ات داره، نمی‌دونم چطور معیاری براش قائل بشم...
-حریم خصوصی:
 و کلا خلاصه ای بگم از اینکه شاید بهتر از گوگل طرفو میشناسن
 هر برنامه ای باز میکنید و کلی چیزا می‌فرسته سرور اپل، کلا سرتاسر محدودیت و محیط بسته ای داره، بیخیالش، بهتره منبع بزارم خودتون قضاوت کنید:
 1- Apple doesn't actually care about your privacy
- https://youtu.be/shxTTon5lfs
+https://youtu.be/shxTTon5lfs
 2- iPhone remotely compromised: ios security is more broken then you think
- https://youtu.be/zvTKikwUMRg
+https://youtu.be/zvTKikwUMRg
 3- Apple and Google contant tracing is a dystopian nightmare
- https://youtu.be/WRalTWAFBY4
+https://youtu.be/WRalTWAFBY4
 4- Apple Is Not Your Friend - The Facebook Feud
- https://youtu.be/y8SjmcVJOjw
+https://youtu.be/y8SjmcVJOjw
 5- Apple Is Terrible for Your Privacy
- https://youtu.be/r38Epj6ldKU
+https://youtu.be/r38Epj6ldKU
 6- Apple - The Largest Modern Day Slave Owner
- https://youtu.be/5yqRZo4usjk
+https://youtu.be/5yqRZo4usjk
 7- This Is How Apple Profits from China's Authoritarianism (همین اخیرا)
- https://youtu.be/Ev9_oDHNf-4
+https://youtu.be/Ev9_oDHNf-4
 واقعا چرا هنوز ادمای عوضی ای هستن که از این حرومزاده ها حمایت میکنین، اینا سرطان اند، نخرید، این پیام رو منتشر کنید :)
 ⚒ حاشیه:
 (اگر انگلیسی ات متوسط نیست ادامشو نخون، به هر حال نمیتونی کاری بکنی و فلجی )
 چیزی وجود داره به اسم هکینتاش، یعنی یه کاری میکنن ملت که بتونن مک رو کامپیوتر خودشون نصب کنن
 متود زیاده و از کار میوفتن از وقتی به وقت دیگه...
 آموزش مکینتاش به زبون ساده (انگلیسیه، بلد نیستی؟ بوش ):
- https://youtu.be/eUnVzJsINCI
+https://youtu.be/eUnVzJsINCI
 https://christitus.com/opencore-mac/
 یه کانال که تخصصش اینه:
- https://youtube.com/playlist?list=PLdllkCpgbzYAoxRDwNO0QWB3q42_Hblmj
+https://youtube.com/playlist?list=PLdllkCpgbzYAoxRDwNO0QWB3q42_Hblmj
 و یکم سرچ خودتون کنید، ایزی، نه؟
 _-
 چیزایی که پیدا کردم:
 دیتابیس سخت افزار هکینتاش؟
- https://osx86project.com/
+https://osx86project.com/
 نمی‌دونم:
- https://hackintosh.com
+https://hackintosh.com
 https://www.tonymacx86.com/
 نکته؟
 ساختن dsdt به عنوان درایور برای هکینتاش؟
-File Storage, [6/4/22 1:02 PM]
 🛠 4- bsd / Wikipedia (
 https://en.m.wikipedia.org/wiki/List_of_BSD_operating_systems)
 نمیدونم، پیگیرش نیستم و حالا حالا ها دربارش نمیخوام تحقیق کنم.....
 کلیاتی که میدونم یه چی شبیه لینوکسه فقط همه کامپیوتر هارو ساپورت نمیکنه و برنامه های لینوکسی رو ساپورت میکنه
-File Storage, [6/4/22 1:02 PM]
 🛠 5- Google Fuchsia (
 https://fuchsia.dev/) / Wikipedia (
 https://en.wikipedia.org/wiki/Google_Fuchsia)
 وجود داره و عرضه شده ولی واقعا نمی‌دونم کی فعلا میخواد ازش استفاده کنه، زیاد خبری نی، شاید روزی تحقیق کردم ‍
 کلیاتی که میدونم ترکیبی از لینوکس و اندروید و کروم او اس و برنامه های خودش (و شایعه شنیدم می‌خوان برنامه های مک هم اضافه کنن)
-File Storage, [6/4/22 1:02 PM]
 6- Gnu (
 https://www.gnu.org/)/linux (
 https://www.linux.org/) (Gnu Wikipedia (
 https://en.m.wikipedia.org/wiki/GNU)/Linux Wikipedia (
 https://en.m.wikipedia.org/wiki/Linux))
-کلیات:
 درواقع لینوکس همش یه کرنله، یه هسته هستش درواقع همش، اندروید برپایه اش هستش، سرور های جهان رو تقریبا لینوکس درست کرده، نتفلیکس، یوتیوب، و حتی سایت مایکروسافت
 اوپن سورس (متن باز/منبع باز) و مجانیه، نیازی به کرک برنامه ندارید، میدونید دقیقا چی ران میشه و چطور ران میشه، دنیایی هستش که ازادی کامل رو سیستم عاملتون دارید و چیزیه که میخواین باشه، میتونید تو هرچی تقریبا ران کنید، اینقدر قدرتمنده که دوست همیشگی هکرا و برنامه نویسا و ملت عادی و بزودی گیمرا
 فلسفه اش برای درک:
@@ -28807,7 +22503,6 @@ sudo apt install firefox
 بزنید نصب کنید و منبعشم معتبره، واقعا چه مشکلی؟ کجاش سخته؟ ویندوز حالا برو سایت به سایت نصب کن، بعدا اپدیت جدیدش برو دوباره همون سایتا، ما میزنیم:
 sudo apt update
 (که بدونه چه برنامه ها تو سروره)
-و
 sudo apt upgrade
 (که برنامه هارو به اخرین نسخه ارتقا بده)
 دیدی چقدر راحت تره؟ ریپازیتوری توضیح میدم چطوریه دقیقا
@@ -28815,480 +22510,91 @@ sudo apt upgrade
 از خوبی های لینوکس اینه که ارور هاش بهت میگن مشکل چیه و میری سرچ کنی دقیقا همون مشکلت رو حل میکنی که برخلاف ویندوز و مک که یکم دردسر دارید و اگر انگلیسی بلد باشین خیلی راحت فروم مشکلات همدیگه رو حل کردن
 یکی دیگه از مزیت های اینه که لینوکسو هم راحت با فلش هم میشه بالا اورد، یعنی میتونید به صورت live بدون نصب کردن باهاش کار کنید
 برای برنامه نویسا هم هر برنامه اوپن سورسی که درست میکنید توش باعث کمک به کلی ادم میشه و یه جامعه هستش که به هم کمک میکنن و اهمیت میدن و چیز میز از هم یاد میگیرن، روی هر چیزی با کمترین مشخصات سیستمی با کمترین باگ حداقل نسبت به ویندوزی که منابع سیستمو بگاج میده، درواقع میتونید توزیع هایی سیستمتون بریزید که کامپیوتر های قدیمیتون رو زنده کنه
-سرعت:
 همینطور که فلسفه اش گفتم مجموعه نرم افزار هایی هستش که سرهم شده و یک توزیع رو میسازن، یک توزیع ممکنه مصرفش در کل ۳۰۰ مگ باشه، توزیع های دیگه ۱/۵ گیگ باشه مصرف رمش، همینطور که میدونید واسه هر قشری یه توزیعی وجود داره، اگر هم یکم حوصله به خرج بدید میتونید چیزی بکنید که میخواین، پس در نتیجه جوابی ندارم، هرچند انتخاب desktop environment یا محیط دسکتاپ که حسو حال لینوکسیتونه ممکنه سنگین و سبک باشه، مثلا xfce برا یوزرایی که سبک میخوان خیلی مصرفش رمش از ویندوز کمتره، خداییش میگم، de (دسکتاپ اینترفیس) تون رو انتخاب کنید حتی به 200 مگ مصرف میرسید (ویندوز یکو نیم تا دو گیگه...!) gnome عالیه اما خیلی سنگینه اگر بپرسی، جز دسکتاپ برنامه هایی هستن مثلا systemd که از همه اجزاش استفاده نمیشه و همین باعث میشه کامپیوتر یه خورده سنگین تر بشه (ولی هرکاری بکنی از ویندوز سبک تره )، یعنی بعضی مواقع پتانسیلشو داره سبک تر بشه
-File Storage, [6/4/22 1:02 PM]
 و خلاصه، این یکی از دلایلی هستش که کلی توزیع وجود داره و میتونید توزیع خودتون رو بزنید برپایه توزیعی یا از ریشه بسازید (راستش کسی واقعا نمیکنه، یا برپایه دبین هستن یا برپایه ارچ چون مینیمال اند)
-امنیت:
 در حال حاضر گنو/لینوکس از ایمن ترین سیستم عامل دنیاست به نظرم (و میتونید ایمن تر هم بکنید)، اینقدر ایمن که سرورا و اینترنت رو لینوکس پیاده میشه، اندروید کرنل لینوکس داره، ویندوز لینوکس رو داره قشنگ ادغام می‌کنه و wslg ساپورت برنامه های گرافیکی لینوکسی رو تو ویندوز میبینیم، مک و کروم او اس هم به صورت ترمینالی ازش ساپورت میکنن، خلاصه می‌بینید که چقدر اهمیتش زیاد شده و این بخاطر ماهیت اوپن سورسشه، دقیق تر بگم، برنامه رو همه سورس کد یا کدی که باهاش برنامه نوشته شده رو میبینن و از اونجایی که خیلی ادما ازش استفاده میکنن به برنامه نویس کمک میکنن و سریع بررسی و برطرف میشه باگا (برخلاف بعضی سیستم عاملهای سورس بسته ) و اینطوری لینوکس با اینکه همه سورس کد اش رو میتونن بخونن از یه چیز که سورسش بستس ایمن تره، دلیل دوم هم اینه که از اونجایی که ادمای کمی استفاده میکنن به هر حال ادم بدا که ویروس رو میسازن میبینن کجا بیشترین یوزر رو داره و از اونجایی که لینوکس یوزرش کمه کسی براش یه اون صورت ویروس نمیسازه ولی بهتون اطمینان میدم حتی یوزرشم زیاد بشه سریعتر باگ بچ میشه
-حریم خصوصی:
 حس میکنم پراکنده گویی میکنم ولی خب نمی‌دونم فلسفه ریچارد استالمن (سازنده گنو) رو میدونید یا نه ولی اگر بدونید میگن برنامه حق نداره بدون اجازه یوزر و بدون اینکه یوزر بدونه چیکار می‌کنه کاری بکنه، جز این تو دنیای اوپن سورس یوزرا خیلی حساسن نسبت به این چیزا و ازادیشون، برنامه های که اوپن سورسی که کار مشکوکی بکنن سریع لو میرن و طرد میشن، برنامه ها اگر بخوان مثلا گزارش بدن (مثلا برنامه کرش کنه و این چیزا) به سرورشون ازت اجازه میگیرن (و ویندوز بعید بدونم بکنن)، و همون گزارش هم ناشناس میکنن که یوزری که گزارش داد لو نره (خب مثلا اینطوری مثلا یه جا اینکه ای پی ات رو ذخیره کنند موقعیت جغرافیایی مثلا ایران یا اسیا ذخیره میکنن)، درسته این گزارشات برا تعمیر باگا و بهتر شدن برنامه استفاده میشه ولی اجازش دستتونه، نمیگم اگر لینوکس استفاده کنید صد در صد حریم خصوصی عالی رعایت میشه (از نظر ارمانی باید بشه ولی برنامه بد همه جا هستش (جز ریپازیتوری های توزیع ها)) ولی این گامی در جهت درسته
-معایب:
 ۱- مشکلات گیم:
 اول این شروع کنم که از اونجایی که ویندوز بیشترین یوزر رو داره بیشتر گیما ویندوز درست میشه و از خیلی گیما لینوکس محروم میشه، البته اشتباه نکنید، لینوکس هم کتابخونه عظیمی از گیمای لینوکسی داره اما همه گیمای ویندوزی رو نداره، پس مجبور میشی از گیمای ویندوزی استفاده کنی میری سراغ پروتون لینوکس، شصت درصد مواقع کار می‌کنه بدون مشکل و کار نکنه و یا استیم نباشه میری lutrus میزنی و اگر گیمت کرکی باشه که وضعت بدتره، مجبوری با wine راه بندازی و اگر کار نکنه یوزرای حرفه ای با playonlinux و winetricks یه جوری کانفیگ و ور میرین و بلد باشید ۷۰ درصد گیما راه میوفتن، مشکل گیمای ویندوزی drm و انتی چیت هستش که وقتی لینوکس استفاده میکنید نمیزارن استفاده کنید، خلاصه از این دردسرا دارید که راهش اینه که یا duel boot کنید (یعنی وقتی کامپیوتر روشن میشه میپرسه ویندوز یا لینوکس مثلا) یا یکم ور برید، به هر حال اصلا لینوکس حامی برنامه های سورس بسته نیست ولی خب از اونجایی که گیمر زیاده همین که گیمای ویندوزی و خیلی برنامه ها بدون مشکل ران میشه (اگر پروسه رو درست رفته باشید) معجزس، البته این مشکلات شامل برنامه های غیر گیم هم میشه.
 ۲- نبود برنامه های office و autocad و adobe:
 خب اینکه این شرکتا برای لینوکس نرم افزار درست نمیکنن تقصیر لینوکس نیست، اصلا اینا برنامه های سورس بسته هستن و لینوکس باشی تقریبا به برنامه های اوپن سورس عادت میکنی و کرک از سرت میپره، مثلا جایگزین office که همه استفاده میکنید libreoffice هستش که افیس اصلی باز می‌کنه و اوتوکد هم بهتره بگم بیخیال بشیم بهتره، ادوبی هم تقریبا واسه اکثر برنامه هاش جایگزین داره مثلا فوتوشاپ ما میگیم gimp و...، دلیل اینکه این برنامه ها وارد لینوکس نمیشن هم سادس، یوزر لینوکس خیلی کمه و مورد توجهشون فعلا نیس :(
-حاشیه:
 پیشنهاد میشه اینو ببینید:
 سیستم عامل های متن باز (شبکه آموزش جالبه از این ویدیو ها میزاره):
- https://vimeo.com/14711037
+https://vimeo.com/14711037
 مال ده سال پیشه!
 Top 5 Mistakes new Linux users:
 (هرچند این مشکلات کمتر و کمتر شده)
- https://youtu.be/MoqxphFukTQ
+https://youtu.be/MoqxphFukTQ
 If someone asks you about linux:
- https://youtu.be/xZU5M-joMOc
+https://youtu.be/xZU5M-joMOc
 Linux means ownership:
- https://youtu.be/ml8ChkdLCRM
+https://youtu.be/ml8ChkdLCRM
 What is the best linux distribution?
- https://youtu.be/yRtiAKK_TnQ
-File Storage, [6/4/22 1:02 PM]
+https://youtu.be/yRtiAKK_TnQ
 🛠 نکته:
 همینطور که گفتم برای همه یک توزیعی وجود داره، اگر بگم توزیع هایی وجود دارند که شبیه ساز کنسول هستن و سیستمتون رو تبدیل به یه چی شبیه کنسول میکنن و کنترلر وصل کنید چی میگین؟
 خب وجود دارن و میخوام چندتاشون رو معرفی کنم، هرچند خودم تست نکردم
-File Storage, [6/4/22 1:02 PM]
 نحوه استفاده خودم و پیشنهادم/نتیجه گیری:
 همینطور که گفتم ویندوز و مکینتاش (هکینتاش) واقعا به حریم خصوصی و امنیت احترام نمیزارن، همه سیستم عامل ها مزیت و معایبی دارند، ولی خب میتونید چند سیستم عامل رو با هم داشته باشید و معایب رو بپوشونید، خودم باشم سیستم عامل اصلیمو kubuntu میزنم چون راحت ترین توزیع لینوکسیه برام یا garuda linux برا گیمینگ، یه ویندوز ۱۰ لایت دستکاری شده خودمو میریزم اگر بخوام گیم بزنم (صرفا گیم میریزم و هیچ کار دیگه ای نمیکنم، واقعا جز گیم دلیلی واقعا نیس که ویندوز بریزید) و prime os که بازی های اندرویدی مثل کالاف دیوتی بکنم و اگر هم بخوام میتونم lakka os هم بریزم که کنسول های ساپورت شده موجود در retroarch رو بتونم بازی کنم مثلا psp و ps1 و sega و این چیزا و اگر هم خل شدم میتونم هکینتاش بزنم و یه کامپیوتر با همه سیستم عامل ها داشته باشم، ولی خب اصل کارمو سعی میکنم لینوکس نگه دارم (فیلم ببینم و گیم های ساپورت شده و گیمای لینوکسی بزنم و سرچ کنم و برنامه نویسی و این حرفا، خلاصه هرکاری که شخصیه و میشه لینوکس کرد)، اگر گیمر نیستین و یه یوزر معمولی هستین به نظرم همون لینوکس کارتون رو راه می اندازه و بی نظیره
-حاشیه:
 (مخصوص یوزرای حرفه ای)
 اگر سیستم قوی و دو کارت گرافیک دارید میتونید لینوکس از kvm استفاده کنید، یه شبیه ساز هستش که خلاصه خداست، نمیتونم توضیح بدم چون طولانی میشه ولی مثلا هکینتاش بخواین راه بندازین خیلیییی دردسرش کمتره تا روش اصلی و حتی میشه توش گیم زد، خلاصه عشقه رسما...
-File Storage, [6/4/22 1:02 PM]
-Watch porn Online
- https://t.me/joinchat/AAAAAFNfGs7fDxX5yW9QVg
-File Storage, [6/4/22 1:02 PM]
-Больше порнушки
-More porn channel
-
-PORN CINEMA FULL (
-https://t.me/joinchat/AAAAAE6iGpWLQ7zUqIYwhA)
-
-️BRAZZERS CINEMA (
-https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w)
-
-HOME PORN (
-https://t.me/joinchat/AAAAAE8sVRZ7a-N7qL8ZxA)
-
-FULL ZONA (
-https://t.me/joinchat/AAAAAESDgyiLAI1FIEmZfA)
-
-DIGITALPLAYGROUND (
-https://t.me/joinchat/AAAAAFL7D_RKUQiVIdWdJg)
-
-P VIDEOS (
-https://t.me/joinchat/AAAAAEac9i6a38OQ_ZrgqQ)
-
-BRATTY SIS (
-https://t.me/joinchat/AAAAAEb0MeZ4H8CXSG6ZOA)
-
-EROTIC PORN (
-https://t.me/joinchat/AAAAAFGz9osdss1Rp8-SJA)
-
-ULTRA️HD️PORN (
-https://t.me/joinchat/AAAAAEqvmOrNMYhRiJKOYg)
-
-PORN PICS (
-https://t.me/joinchat/AAAAAFbTSHeJbvbLYuvEPA)
-
-️TEAM SKEET (
-https://t.me/joinchat/AAAAAFcBgInz6yxjmulH1Q)
-
-LEGAL PORNO (
-https://t.me/joinchat/AAAAAEpSNzUdH5eH1hIobg)
-
-MOFOS (
-https://t.me/joinchat/AAAAAFAfvsFNUXY8YQURtg)
-
-INTERRACIAL (
-https://t.me/joinchat/AAAAAEhN0njz6ZG_cuylQQ)
-
-PURE TABOO (
-https://t.me/joinchat/AAAAAFLSImMb4cKv9Mx-Lg)
-
-TUSHY‍♂ (
-https://t.me/joinchat/AAAAAFWQcljEqdD_eNpo3A)
-
-NAUGHTY AMERICA (
-https://t.me/joinchat/AAAAAEQw36S1SfOOSbgy3Q)
-
-PORN GIFS (
-https://t.me/joinchat/AAAAAEx-n4OtISEDj4Lr2Q)
-
-ASIAN PORN (
-https://t.me/joinchat/AAAAAFJK4FMvvsoRebuD4w)
-
- https://t.me/premiumtgnetwork ️
-
-@premiumtgnetwork
-File Storage, [6/4/22 1:02 PM]
-Brazzers Videos
- https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w
-File Storage, [6/4/22 1:02 PM]
-Ultra HD porn shifted to
- https://t.me/joinchat/AAAAAExG3udpFoH-YHxC9Q
 File Storage, [6/4/22 1:03 PM]
-BrattySis shifted to
- https://t.me/joinchat/AAAAAFM72DgGdrB6hYpt5Q
-File Storage, [6/4/22 1:03 PM]
- https://t.me/joinchat/AAAAAFepDMcbh0bHNYPTzg : Brazzers videos as streams
-File Storage, [6/4/22 1:03 PM]
-NAUGHTYAMERICA
- https://t.me/joinchat/AAAAAEQw36S1SfOOSbgy3Q
-File Storage, [6/4/22 1:03 PM]
-REALITYKINGS
- https://t.me/joinchat/AAAAAFPkqU6yYSIocl4-xQ
-File Storage, [6/4/22 1:03 PM]
-BANGBROS
- https://t.me/joinchat/AAAAAEzPtHDI_uVB05-7Ag
-File Storage, [6/4/22 1:03 PM]
-TUSHY
- https://t.me/joinchat/AAAAAFWQcljEqdD_eNpo3A
-File Storage, [6/4/22 1:03 PM]
-MOFOS
- https://t.me/joinchat/AAAAAFAfvsFNUXY8YQURtg
-File Storage, [6/4/22 1:03 PM]
-PURE TABOO
- https://t.me/joinchat/AAAAAFb0DPvdtFNPoufG0Q
-File Storage, [6/4/22 1:03 PM]
- https://t.me/joinchat/AAAAAE6HvKrKNi4crhPiGA
-File Storage, [6/4/22 1:03 PM]
-Anime World Network! - Channel promotion Network
-NSFW Channels
-Ecchi Land
-(
-https://t.me/joinchat/AAAAAFUjq77H4V-N0-ehRg) My Yaoi Academy
-(
-https://t.me/MyYaoiAcademy) Church of Hentai
-(
-https://t.me/joinchat/AAAAAFj1jJTLK9B47dLgTg) NekoLover
-(
-https://t.me/NekoLover18) 病み可愛いPics
-(
-https://t.me/yamikawaiipics) Furry Porn
-(
-https://t.me/furryYiff4all) ドキドキPics
-(
-https://t.me/dokidokipics) Hentai Night
-(
-https://t.me/NightHentai) Hentai Flear
-(
-https://t.me/joinchat/AAAAAFG6bYsLk-EsfPnXKQ) YuriMania
-(
-https://t.me/YuriMania) Oppai Master
-(
-https://t.me/joinchat/AAAAAFNz189LbD14jwZIBA) Oppai Heaven
-(
-https://t.me/opaiheaven) Yuri Heaven
-(
-https://t.me/yuridesuka) Darling in the FranXX
-(
-https://t.me/joinchat/AAAAAFJUxUBq68gpmGxcwA) Kemono-chanⒽ
-(
-https://t.me/kemonoheaven) Lust 39/01
-(
-https://t.me/joinchat/AAAAAEfMT0EtVmCHIJAexQ) World of Ecchi
-(
-https://t.me/World_Of_Ecchi) Lewdmageddon
-(
-https://t.me/Lewd_Falls) Hentai & Blood
-(
-https://t.me/BloodHentai) Hentai for Weebs
-(
-https://t.me/joinchat/AAAAAEizTKqDZgnq42C7vg) パンチラ(pants shot)
-(
-https://t.me/joinchat/AAAAAEUhrGTc42EhrVgWHg) The Ultimate Channel
-(
-https://t.me/TheUltimateChannel) Life Phobia
-(
-https://t.me/joinchat/AAAAAEsts7rCDiPkXC1FXw) Furrisimos World
-(
-https://t.me/FurrisimosWorld) Azaura 2D
-(
-https://t.me/joinchat/AAAAAEWrsWbhMQppqTMNUw) Booty Beauty
-(
-https://t.me/buttheaven) Kemonomimi Nation
-(
-https://t.me/kemonation18) Loli Nation
-(
-https://t.me/loliesnation) Hentai Nation
-(
-https://t.me/hentaination) Furry Nation
-(
-https://t.me/furnation) Shota Nation
-(
-https://t.me/shotasnation) Furry Yaoi Nation
-(
-https://t.me/furyaoination) Dolfis Blood
-(
-https://t.me/doIfis_blood) Flat Justice!
-(
-https://t.me/FlatJustice) Lewd Desires
-(
-https://t.me/LewdDesires) Loliteismo Network
-(
-https://t.me/joinchat/AAAAAFI2gnzfJrVQ23MH7g) The Armpit Licker
-(
-https://t.me/joinchat/AAAAAEYPVy1Hfrdgp6p4MQ) Monster Girls for Degenerate Weebs
-(
-https://t.me/joinchat/AAAAAExX3kHYvDQLvE0eFg) Shorthair
-(
-https://t.me/joinchat/AAAAAFF1XEMcyL0u9OMVzw) Shimapan & Pantsu
-(
-https://t.me/joinchat/AAAAAE4geWrzYsuWfke69g) DemonGirls
-(
-https://t.me/joinchat/AAAAAEeFnucVg98FTmNPJA) Swimsuit
-(
-https://t.me/joinchat/AAAAAE400nNx8dc-5Z4jIw) Tentacle Dreams
-(
-https://t.me/joinchat/AAAAAEMAIy78OAGHrB6v2A) Meganeparadaisu メガネパラダイス
-(
-https://t.me/joinchat/AAAAAEkwavIQtrzvlvF_Sw) Trap Fever
-(
-https://t.me/TrapFever) Monstergirls archive
-(
-https://t.me/joinchat/AAAAAE73YyYnL-4XHH1ZNg) BDSM archive
-(
-https://t.me/joinchat/AAAAAFcaFJfl_MypKg1Urw) Cute traps archive
-(
-https://t.me/joinchat/AAAAAFH1m31TBcwQSUJ8DQ) ACVH - Mundo Perverso
-(
-https://t.me/AhhHentai) Loliteismo World Channel
-(
-https://t.me/joinchat/AAAAAE4ftbl1Naq9-WJeng) ~Ecchi-Hentai~
-(
-https://t.me/EcchiHentaiIta) Hentai Wonderland
-(
-https://t.me/WonderLandHentai) Yes Mommy Please
-(
-https://t.me/joinchat/AAAAAEZdc1Vkjp1AzPV2gA) Pokésluts
-(
-https://t.me/joinchat/AAAAAFLAJJlBNGOTqvnPcA) Pantyhose & Thickness
-(
-https://t.me/joinchat/AAAAAEWIWtCiuskMoDQ2jQ) Futas and Traps
-(
-https://t.me/joinchat/AAAAAFE-QHikZVoqFh2VQw) MaidZone
-(
-https://t.me/joinchat/AAAAAFMvdyx6RizQKoRusQ) Lick My Feet Onichan
-(
-https://t.me/joinchat/AAAAAFRZSb5180xPPAkHIg) Kemonomimi NSFW
-(
-https://t.me/joinchat/AAAAAE6oymfRv5qnnS4eSw) OppaiWorld
-(
-https://t.me/joinchat/AAAAAFjT1hklpMxR2ACu0g) BunnyGirls
-(
-https://t.me/joinchat/AAAAAFVjEHcnLzU9FyhAQg) FellaNation
-(
-https://t.me/joinchat/AAAAAEXd7bBgajT4YtzdnQ) AhegaoZone
-(
-https://t.me/joinchat/AAAAAFaKAT1QFLAxggqLew) Empire of the Golden Rain And More
-(
-https://t.me/joinchat/AAAAAEUBTsbEa4G-EbXQuA) FutaMommy's yiff stash
-(
-https://t.me/FutaMomYiff) Ecchi Lingerie
-(
-https://t.me/joinchat/AAAAAFcRcQSFiMMxgzRr9g) Futanari archive
-(
-https://t.me/joinchat/AAAAAEjrEVBrCsM8JlfJJA) Bukkake archive
-(
-https://t.me/joinchat/AAAAAE8_guFzDZx11g1qrw) SFW Channels
-AestheticZone
-(
-https://t.me/aestheeticzone) AnimeFlear
-(
-https://t.me/joinchat/AAAAAExFv_I0hCsCvLyvbw) Anime Industry
-(
-https://t.me/AnimeSeriesInc) AnimeOnLine
-(
-https://t.me/animeDescargas) Anime Images
-(
-https://t.me/anime_images_1) ふわふわPics
-(
-https://t.me/fuwafuwapics) Anime Images
-(
-https://t.me/animeimagess) Themes for All
-(
-https://t.me/ThemesForAll) House of Anime
-(
-https://t.me/HouseOfAnime) World of Kawaii
-(
-https://t.me/World_Of_Kawaii) Neko~Chan
-(
-https://t.me/NekoChanOne) AnimePics Night
-(
-https://t.me/AnimePicsNight) Creepy Pasta
-(
-https://t.me/CreepyITA) Konosuba
-(
-https://t.me/KonoSubaTyt) Cute Island
-(
-http://t.me/cuteisland) アニメアカデミー | Anime Academy
-(
-http://t.me/anime_academy2) WeebQ
-(
-https://t.me/weebQ) Original Anime Pictures
-(
-https://t.me/OriginalAnimePictures) Anime Facts
-(
-https://t.me/World_Of_Fact) Themes Love Anime
-(
-https://t.me/themesanime) Kawaii Nation
-(
-https://t.me/kawaination) (
-https://t.me/CreepySeason)Akatsuki ITA
-(
-https://t.me/AkatsukiIT) E∂яιѕ Aмν (
-https://t.me/EdrisAMV)
-Seasons Pic
-(
-https://t.me/SeasonsPic) Dolfi's Art
-(
-https://t.me/joinchat/AAAAAEudbCL2JGLuZhphAA) Otaku Arena
-(
-https://t.me/OtakuArena) Add your channel (
-http://t.me/AWN_requestbot)
-File Storage, [6/4/22 1:03 PM]
-@iranFSevents
 انجمن نرم افزار ازاد
-File Storage, [6/4/22 1:03 PM]
 یک پادکست فارسی دیگه
 @stringcast
-File Storage, [6/4/22 1:03 PM]
-[ Photo ]
 بیاین پایین و بخش dns mode رو بزارین local
 بعدش local dns میتونید هر doh ای انتخاب کنید، یه لیست از انواع ارائه دهندگان
- https://github.com/curl/curl/wiki/DNS-over-HTTPS
+https://github.com/curl/curl/wiki/DNS-over-HTTPS
 چند نمونه برا حداکثر سرعت
 کلاودفلیر
- https://security.cloudflare-dns.com/dns-query
+https://security.cloudflare-dns.com/dns-query
 یا گوگل
- https://dns.google/dns-query
+https://dns.google/dns-query
 چند نمونه برای حریم خصوصی
 Mullvad without adblocker
- https://doh.mullvad.net/dns-query
+https://doh.mullvad.net/dns-query
 Mullvad with adblocker
- https://adblock.doh.mullvad.net/dns-query
+https://adblock.doh.mullvad.net/dns-query
 لیست بهترین تامین کننده های دی ان اس با حریم خصوصی خوب
- https://privacytools.io/providers/dns/
-File Storage, [6/4/22 1:03 PM]
+https://privacytools.io/providers/dns/
 این هم اصل کاری اخر، اینو راه انداختین اگر اندروید 9 به بالا هستین برین تنظیمات private dns، گوشی به گوشی فرق داره، خودتون ببینید چطور ست میکنید، رفتین باید یه dot ست کنید
 برا سرعت
-کلاودفلیر
 one.one.one.one
-یا
 1dot1dot1dot1.cloudflare-dns.com
 گوگل
 dns.google
 برای حریم خصوصی:
 dot.libredns.gr
-لیست بهترین تامین کننده های دی ان اس با حریم خصوصی خوب
- https://privacytools.io/providers/dns/
 و بهترین نت رو خواهین داشت، تموم کردین پروسه رو دیگه با یک کلیک وصل میشین
-File Storage, [6/4/22 1:03 PM]
 یادآوری:
 میگن Phobos موتور جستجوگر تور عالیه و ahmia رو چک کنم
-File Storage, [6/4/22 1:03 PM]
-🟨دانلود فیلم و سریال بدون سانسور با زبان اصلی و یا همراه با دوبله فارسی به صورت کاملا رایگان
-️
 https://golchindl-download.xyz =>بدون فیلترشکن وارد شوید
-نیم بها
 ️ Filmir1.xyz =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://filmirn.xyz =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://aramovie.club =>بدون فیلتر شکن وارد شوید،برای اینکه لینک های دانلود برایتان نمایان بشه فراینده ثبت نام و ورود را انجام دهید
-نیم بها
 ️ Bluemoviee.website =>بدون فیلتر شکن وارد شوید،برای اینکه لینک های دانلود برایتان نمایان بشه فراینده ثبت نام و ورود را انجام دهید
-تمام بها
-️
 https://valamovie.today => بدون فیلتر شکن وارد شوید در ضمن این سایت فقط لینک های زبان اصلی به صورت رایگانه
-تمام بها
-️
 https://film1sun.pw =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://www.film2media.mobi =>بدون فیلتر شکن وارد شوید
-نیم بها
- http://valiantmovie.rf.gd =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-تمام بها
-️
+http://valiantmovie.rf.gd =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
 https://turksoz.ir =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-نیم بها
-️
 https://donyayeserial.com =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-نیم بها
-️
 http://vinadl.uno =>بدون فیلترشکن وارد شوید
-تمام بها
-️
 https://filmban.xyz =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 http://sohafilm1.com =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-تمام بها
-️
 https://s1movie.xyz =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://almasmovie8.xyz => بدون فیلتر شکن وارد شوید
-تمام بها
-️
 http://hastidl.cam =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 http://ba2hd.tk =>بدون فیلتر شکن وارد شوید
-تمام بها
-🟧دانلود فیلم و سریال بدون سانسور با زیرنویس چسبیده فارسی و یا همراه با دوبله فارسی به صورت کاملا رایگان
-️
 https://digimovie.fun =>بدون فیلتر شکن وارد شوید
-تمام بها
-️
 https://zarfilms.fun =>بدون فیلترشکن وارد شوید
-تمام بها
-️
 https://mobomoviez.ir =>بدون فیلترشکن وارد شوید
-نیم بها
-️
 https://eztvs.online =>با فیلترشکن وارد شوید برای دانلود فیلترشکن را خاموش کنید
-نیم بها
-️
 https://my3eries.bar =>بدون فیلتر شکن وارد شوید
-نیم بها
-️
 https://nafasmovie1.cf =>بدون فیلتر شکن وارد شوید
-نیم بها
 ️ avamovie.me => با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-نیم بها
-️ @Mobomoviesbot =>ربات دانلود فیلم و سریال بدون سانسور و با زیرنویس چسبیده فارسی و به صورته کاملا رایگان
-نیم بها
-️ @filmgirbot => ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور به صورت کاملا رایگان
-تمام بها
 ️ @robomovie_bot =>ربات دانلود فیلم و سریال خارجی بدون سانسور و کاملا رایگان
-نیم بها
-️ @findmoviebot =>ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور و به صورت کاملا رایگان
-تمام بها
-️ @FileMovieBot =>ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور و به صورت کاملا رایگان
-تمام بها
-️ @DbMovieBot =>ربات دانلود فیلم و سریال ایرانی و خارجی به صورت کاملا رایگان
-تمام بها
 🟩 Irmo.website =>سایت ویژه دانلود صوت دوبله بدون فیلترشکن وارد شوید
-تمام بها
-🟪 @TeleLeecherbot =>ربات نیم بها برای لینک
-🟪 @NimDownloader_Bot =>ربات نیم بها برای لینک
-🟪 @NimDownloaderBot =>ربات نیم بها برای لینک
-🟪 @FiletoLinkTelegramBot =>ربات نیم بها برای لینک
-🟪 digitalbam.ir => سایت نیم بها برای لینک
-🟪
-http://www.myusb.ir =>سایت نیم بها برای لینک و فایل
-🟦
-https://sub.scene.tk =>آدرس بدون فیلتر سایت سابسین برای دانلود و پیدا کردن زیرنویس
-🟦 @SubSoonBot =>ربات زیرنویس یاب
-🟦 @SubYabBot =>ربات زیرنویس یاب
-🟦 @subscene_Bot =>ربات زیرنویس یاب
-🟦 @SubCitybot =>ربات زیرنویس یاب
-🟦 @SubsearchsBot =>ربات زیرنویس یاب
-#update
-File Storage, [6/4/22 1:04 PM]
 🛠 جایگزین های اوپن سورس:
 متمرکز:
 1- signal
@@ -29304,18 +22610,13 @@ File Storage, [6/4/22 1:04 PM]
 برپایه p2p
 3- LBRY
 جایگزین اوپن سورس YouTube
-برپایه Blockchain
 4- karma
 جایگزین اوپن سورس Instagram
-برپایه Blockchain
 5- Peertube
-جایگزین اوپن سورس YouTube
 برپایه Decentralized, P2P
 6- Diaspora
 جایگزین اوپن سورس Facebook
-برپایه Blockchain
 7- Dtube
-جایگزین اوپن سورس YouTube
 برپایه Decentralized
 Other....
 8- Wire
@@ -29327,9 +22628,8 @@ Other....
 14- Mattermost
 15- Lemmy
 Other:
- https://codeberg.org/hydis/awesome-alternatives
+https://codeberg.org/hydis/awesome-alternatives
 حسش نی....
-File Storage, [6/4/22 1:04 PM]
 کلاینت ها (فرانت اند):
 کلاینت های فرانت اند تلگرام اوپن سورس هستن به همین دلیل به دو دسته رسمی و غیر رسمی تقسیم میشه، رسمی همونیه که تلگرام ارائه میده و غیر رسمی همونیه که مردم سورس کد رو دستکاری میکنن و امکانات اضافه میکنن و اسم میزارن....
 رسمیا:
@@ -29346,7 +22646,6 @@ http://telegram.org/android))
 https://play.google.com/store/apps/details?id=org.thunderdog.challegram))
 نسخه تلگرام با محیط گرافیکی قدیمی تلگرام، نسخه روون تر و سبک تر تلگرام هستش و کد اش بهینه شده هستش، ممکن بود جای تلگرام اصلی هم حتی بگیره اگر خوب پیش میرفت، اما لنتی دیر به دیر اپدیت میده، قرنی یک بار؟
 یه سری امکانات داره که تلگرام رسمی نداره و خیلی از امکانات تلگرام های غیر رسمی اسکی ای از اینه
-نکته:
 اگر برید @apkdl_bot و متناسب با گوشیتون تلگرام ایکس و برید
 تنظیمات - رابطه کاربری - گفتگو ها
 و برید "نمایش محتوای حساس" رو روشن کنید می‌بینید کانال های کپی رایت شده رو ببینید و اگر شماره مجازی داشته باشین و دیتابیس یک باشید (شماره های امریکا و کانادا دیتابیس یک اند) یه تیک زیرش که یادم نمیاد رو روشن کنید کانال های پورن هم باز میشه براتون
@@ -29354,14 +22653,12 @@ https://play.google.com/store/apps/details?id=org.thunderdog.challegram))
 نسخه وب تلگرام هستش برای زمانی که ایفون تلگرام رو از اپ استور حذف کنه (اوههه بله شما بدبخت ترین موجوداتین و ناگفته نمونه برده اپلین و با پول دادن حمایتشون میکنید و محدود به چیزی هستین که به خوردتون میدن، حتی کانالم دقت کنی شمارو حساب نکردم، اره لفت بده ) و زمانی که نمی‌خواین تلگرام رو نصب کنید و دستگاه هایی که تلگرام نمیشه احتمالا نصب کرد
 دو نسخه وب وجود داره
 نسخه قدیمی و کلاسیک:
- https://web.telegram.org
 نسخه جدید:
 دو نسخه پیشرفته جدید تلگرام وب را امتحان کنید. هر دو نسخه از استیکرهای متحرک، حالت تیره، پوشه‌های گفتگو و قابلیت‌های جدید دیگر پشتیبانی می‌کنند:
- https://webk.telegram.org
+https://webk.telegram.org
 https://webz.telegram.org/
 پ.ن: ناموسا ترکوندن، عالیه، عین نسخه موبایلشه ناموسا
 پی سی تست نکردم حقیقتش، ولی بگم که سنگینه
-File Storage, [6/4/22 1:04 PM]
 غیر رسمی (اوپن سورس):
 چرا غیر رسمی؟
 معمولا امکانات بیشتری از تلگرام اصلی میدن که خیلی استفاده از تلگرام رو شیرین تر میکنه
@@ -29369,13 +22666,10 @@ File Storage, [6/4/22 1:04 PM]
 معمولا اوپن سورسا بهترینن
 چه مزایایی داره؟
 فوروارد به عنوان خودت، کاستومایز، ترجمه یک پیام از درون برنامه و....
-کامپیوتر:
 1- kotatogram
-(
 https://t.me/kotatogram)تست نکردم اما انگار معروفه
 موبایل:
 1- telegram foss
-(
 https://github.com/Telegram-FOSS-Team/Telegram-FOSS)همون تلگرام رسمیه ولی به جا بعضی کتابخونه های سورس بسته از اوپن سورس اش استفاده‌ میکنه، به عبارتی از تلگرام اصلی امن تره....
 2- Nekogram X (
 https://t.me/wbnet/61945) (عاشقشم، شما هم میشین)
@@ -29394,7 +22688,6 @@ l.telegram.ind.in/Telegraminstantview.telegram.ind.intranslations.telegram.ind.i
 نظرم:
 یه جورایی وب پروکسی هستش که تلگرام بدون فیلترشکن استفاده کنید، خودم اعتماد %25100 ندارم
 و پیشنهاد میکنم تنظیمات مرورگر doh رو روشن کنید که فیلتر نشه (:
-File Storage, [6/4/22 1:04 PM]
 یوزربات:
 یوزر بات چیه؟
 یه رباتیه که به عنوان یوزر کارایی که یوزر بهش میگه رو انجام میده
@@ -29405,29 +22698,23 @@ File Storage, [6/4/22 1:04 PM]
 1- Userge (
 https://t.me/theUserge):
 ۱- سورس کد
-(
 https://github.com/UsergeTeam/Userge)۲- ویکی
-(
 https://theuserge.github.io/)۳- اجرا و راه اندازی برای هاست ابری و لوکال هاست (
 https://theuserge.tech/deployment.html) (برای ترموکس) (
 https://theuserge.tech/termux.html)
-(
 https://theuserge.tech/deployment.html)۴- یه q&a (
 https://t.me/usergeot/700196)
 2- friday (
 https://t.me/FridayUB):
 ۱- هرچی که نیازتون میشه
-(
 https://t.me/FRIDAYCHAT/430377)پ.ن: هر کدوم خوبی خودشون رو دارن و این جالبه و امکانات خفنی داره اما دردسرش بیشتره نسبت به userge
 آرشیو @UserBotsList یوزر بات ها
-File Storage, [6/4/22 1:04 PM]
 آموزش روش رسمی برای همه دستگاه ها:
- https://t.me/tgbeta/4123
+https://t.me/tgbeta/4123
 نسخه دسکتاپ تلگرام روی add account
 alt+shift+right-click
 غیر رسمی:
 تنها تلگرام غیر رسمی ای که دیدم میشه به دیتابیس آزمایشی دسترسی داشت همون nekogram x هستش، آموزشش به شرح زیره:
-File Storage, [6/4/22 12:59 PM]
 Gif Channel
 @galgadotgifs
 @Hazratgif
@@ -29449,7 +22736,6 @@ Gif Channel
 @mojogif
 @sweithart
 @topkam
-@HANGSEED
 @dashatarangifs
 @CuteAs_Fuck
 @haghking_gif
@@ -29467,11 +22753,9 @@ Gif Channel
 @HaghGIF
 @Hagh_Gifff
 @amirMS19Gifs
-@meme_mhr
 @clicrf
 @ben_gif
 @GifNigga
-@ben_gif
 @cage_iran
 @haghsarra
 @BigMasoodGIF
@@ -29530,13 +22814,9 @@ Gif Channel
 @PaulWesleyGiF
 @babiish
 #Gif
-File Storage, [6/4/22 12:59 PM]
- https://t.me/pack1235
 https://t.me/BETA_PACK
-@Gozilla_bot
- https://t.me/mswin11
+https://t.me/mswin11
 @WinForm
-File Storage, [6/4/22 12:59 PM]
 ربات های تیم آی او اس اف وان | Robots of iOSF1 Team
 File To Link | @DownloadyarBot | فایل تو لینک نیم بها
 Link To File | @iOSF1_LinkToFileBot | لینک تو فایل
@@ -29545,30 +22825,24 @@ Video to MP3 | @iOSyar_Bot | تبدیل ویدیو به صدا
 YouTube dl | @iOSyar_Bot | دانلود از یوتوب
 RJ dl | @iOSyar_Bot | دانلود از رادیوجوان
 خدمات پیشرو | Future Services
-————————
 HardSub in @MergeToolsBot | هاردساب
 link to link in @iOSF1_LinkToFileBot | لینک تو لینک نیم بها
 @iOSF1_Robots
 @iOSF1_Robots_Fans
 سفارش ربات اختصاصی | @Javan_cr
-File Storage, [6/4/22 12:59 PM]
 OPENSPIDER
- https://github.com/Paget96/LSpeed
-https://t.me/Experts_Team
+https://github.com/Paget96/LSpeed
 https://t.me/Infinity_Carding
 تاریخ ساخت اکانت
- https://t.me/creationdatebot
-Project Charlotte (Died):
- https://t.me/android_tv_box
+https://t.me/creationdatebot
+https://t.me/android_tv_box
 کانال خوبی در زمینه پخش آنلاین شبکه های تلویزیونیه
- https://t.me/Bluray1080pJiG
+https://t.me/Bluray1080pJiG
 کانال مسعود جیگ از بهترینای تورنت فارسی
-@Anty_filter
 کیرم تو خودت ، کانالت و تبلیغاتت
 بدی هم نیس
 @moviesdbbot
- https://t.me/WinDroidUploads
-File Storage, [6/4/22 12:59 PM]
+https://t.me/WinDroidUploads
 Telegram Sat Channel ماهواره
 @MahvareTeam
 @StarMaxOrginal
@@ -29581,7 +22855,7 @@ Telegram Sat Channel ماهواره
 @MahvareStoreGroup
 @satelliteteamgroup
 @world_satellitee
- https://t.me/joinchat/Bw9Og0xZHJ1ZbvnpOWO9pQ
+https://t.me/joinchat/Bw9Og0xZHJ1ZbvnpOWO9pQ
 @satlastnews
 @SignalSatNews
 @freesat
@@ -29596,29 +22870,24 @@ Telegram Sat Channel ماهواره
 @hacksatfeed
 @webcccam
 @GPNFH
- https://t.me/joinchat/UnCKiWAWWjisyLtW
-File Storage, [6/4/22 12:59 PM]
+https://t.me/joinchat/UnCKiWAWWjisyLtW
 Telegram Storage Channel
 @guide47
 @kmiuc
 @Links
 @te_links
-@pack1235
 @Valuable_garbage
-@VipChannelPersonal
 @AiT_channel
 @gpbaz
-File Storage, [6/4/22 12:59 PM]
- https://www.downloadhelper.net
+https://www.downloadhelper.net
 https://t.me/bni4ir
 https://www.benameiran.com/t.me/appxa
 https://t.me/sourcekaifa
 والپیپرهاش حرف نداره
 بنظرم سوالای خوبی تو ذهن میاره
 @khod3
- https://t.me/StellioPlayerPremium
+https://t.me/StellioPlayerPremium
 https://github.com/jychp/cloudflare-bypass
-File Storage, [6/4/22 12:59 PM]
 Telegram OFF Channel
 @SBUtakhfif
 @takhfif_100
@@ -29627,31 +22896,18 @@ Telegram OFF Channel
 @StoreCode
 WebSite
 Mopon.irOffch.comTakhfifan.comCotakhfif.com
-File Storage, [6/4/22 12:59 PM]
- https://t.me/joinchat/ucFIgxRd0HhhZmE8
+https://t.me/joinchat/ucFIgxRd0HhhZmE8
 @moongteam
- https://ewasion.github.io/opendirectory-finder
+https://ewasion.github.io/opendirectory-finder
 http://file-extension.net/seeker
-http://filechef.com
-https://filepursuit.com
 http://www.fonetask.com
 http://www.giitit.com
-https://lumpysoft.com
-http://palined.com/search
-https://sites.google.com/view/l33tech/tools/ods
-http://lendx.org
-https://lumpysoft.com
 https://doyou.needmorehdd.space
-https://open-directories.reecemercer.dev
 https://odfinder.github.io
 http://eyeofjustice.com/od
-https://opendirsearch.abifog.com/
-File Storage, [6/4/22 12:59 PM]
- https://github.com/curl/curl/wiki/DNS-over-HTTPS
 https://privacytools.io
 https://t.me/SecComputer
 بهترین کار برای دور زدن اینترانت برنامه sagernet روی حالت proxychain
-File Storage, [6/4/22 12:59 PM]
 Telegram Phone Number & ID Finder
 @badjmbot
 @Havij_robot
@@ -29664,7 +22920,6 @@ Telegram Phone Number & ID Finder
 @infotele_robot
 @getidsbot
 @teledbbot
-File Storage, [6/4/22 12:59 PM]
 گروه اموزش و حل مشکلات کامپیوتر
 @Computer_IT_Engineering
 @narmafzar_samir_1
@@ -29687,15 +22942,13 @@ File Storage, [6/4/22 12:59 PM]
 @archlinuxgroup
 @Pyrogram_Persion_Ir
 @arrowoschat
-File Storage, [6/4/22 12:59 PM]
- https://t.me/Chrome_Proxy
+https://t.me/Chrome_Proxy
 https://t.me/AzaD_NeT
 https://portableapps.com/apps
 https://thegeeks.click/signup.php
 https://theshow.click/signup.php
 https://wordpress.org/plugins/wp-cerber/
 The Iranian Renaissance Group encourages intellectual acti
- https://t.me/joinchat/TJs2Dkvwhd7txAhSPXge7w
 https://t.me/joinchat/NLxGIlZ0klWNf3vTY1AgfA
 @archiveRON
 @Haji_aqha
@@ -29703,105 +22956,73 @@ https://t.me/joinchat/NLxGIlZ0klWNf3vTY1AgfA
 File Storage, [6/4/22 12:55 PM]
 welcome
 File Storage, [6/4/22 12:56 PM]
- https://madaidans-insecurities.github.io/linux.html
- https://madaidans-insecurities.github.io/guides/linux-hardening.html
- https://madaidans-insecurities.github.io/firefox-chromium.html
-File Storage, [6/4/22 12:56 PM]
 [ File : The_state_of_the_Linux_kernel_security.pdf ]
-File Storage, [6/4/22 12:56 PM]
 [ File : browser_privacy.pdf ]
-File Storage, [6/4/22 12:56 PM]
- https://www.ranum.com/security/computer_security/editorials/dumb/index.html
- https://derelict-land.neocities.org/articles/security-researchers.html
-File Storage, [6/4/22 12:56 PM]
+https://www.ranum.com/security/computer_security/editorials/dumb/index.html
+https://derelict-land.neocities.org/articles/security-researchers.html
 تفاوت Debate و Discussion هم به نوع نگاه افراد به بحث بستگی داره ، اگر افراد این پیش فرض رو داشته باشن که بخوان از بحث یک چیزی یاد بگیرن و فکر کنن که نظر خودشون می تونه اشتباه باشه و سعی در برتری و به رخ کشیدن دانش خودشون رو نداشته باشند ، اون می شه Discussion و برعکس این شرایط هم می شه Debate [به هیچ عنوان هدفم از استفاده از این کلمات کلاس گذاشتن نیست ، بلکه به کاربردن این کلمه های انگلیسی تفاوت رو ملموس تر می کنه و اگر در اینترنت جستجو کنید Debate Vs Discussion به مطالب جالبی بر می خورید]
- https://www.bsdcan.org/
+https://www.bsdcan.org/
 ادعایی که بیشتر طرفداران نرم افزار آزاد دارند این هستش که چون لینوکس سورس کد اش مشخص هست پس راحت تر می شه توش باگ ها رو پیدا کرد و سریعتر رفعشون کرد. ولی مسئله خیلی پیچیده تر از این حرف ها هست ، یک توسعه دهنده ممکنه از obfuscation استفاده کنه و خوندن سورس کد و فهمیدن اینکه اون کد دقیقا چیکار می کنه رو سخت کنه
- https://en.wikipedia.org/wiki/Obfuscation_(software)
+https://en.wikipedia.org/wiki/Obfuscation_(software)
 حالا این رو هم اضافه کنید که خیلی ها از شلخته بودن و comment نداشتن خیلی از کد ها شاکی هستند و می گن که بر اساس اصول کتاب Clean Code نبوده ! (البته خیلی ها هم انتقادات زیادی به این کتاب وارد کردند ولی در مجموع خیلی ها گفتند که کدها شلخته هستند)
 یک سری از این اعضای جامعه نرم افزار آزاد فکر می کنند که خوندن سورس کد راه بهینه ای برای پیدا کردن باگ های امنیتی و ... است ، درصورتی که راه بهینه استفاده از ابزار هایی مثل sanitizer , fuzzer و ... هست.
- https://www.kernel.org/doc/html/latest/dev-tools/index.html
- https://www.kernel.org/doc/html/latest/dev-tools/testing-overview.html
- https://papers.freebsd.org/2019/bsdcan/turner-fuzzing_the_kernel/
- https://github.com/intelpt/winafl-intelpt
+https://www.kernel.org/doc/html/latest/dev-tools/index.html
+https://www.kernel.org/doc/html/latest/dev-tools/testing-overview.html
+https://papers.freebsd.org/2019/bsdcan/turner-fuzzing_the_kernel/
+https://github.com/intelpt/winafl-intelpt
 به جز این می تونه جوری کد مخرب بنویسه که اشتباه برنامه نویسی به نظر بیاد
- https://en.m.wikipedia.org/wiki/Underhanded_C_Contest
-File Storage, [6/4/22 12:56 PM]
- https://archive.org/details/@tehlug
+https://en.m.wikipedia.org/wiki/Underhanded_C_Contest
+https://archive.org/details/@tehlug
 https://t.me/kaliboys_com
-File Storage, [6/4/22 12:56 PM]
 (انسان ایدئولوگ یا ایدئولوژیک محکوم به فنا است ، چون با هرچیزی در تضاد با ایدئولوژی خودش حتی یک انتقاد ساده هم دشمنی می کنه)
 آمار متجاوزین بیشتر از همین مردان فمنیست بوده ، این ها با فریب زنان که ما به حقوق شما اهمیت می دیم و شعار های دروغین دیگه توجه زنان رو جلب کردن و بعد از تجاوز ، متواری شدند !
 @nemigozarim_mardanegi_bemirad
 پست های این کانال روشنگرانه رو مطالعه کنید. (عضو گروه نشید چون اکثر اعضای گروه این کانال مگتاو هستند که کم از فمنیست ها ندارند !)
 Mgtow = men go their own way
-File Storage, [6/4/22 12:56 PM]
 آنارشیسم حتی از کمونیسم هم بدتر است.
 هرکجا که دیدید از آرمان های خوب حرف می زنند بدانید که دروغ است و فقط می خواهند از شما منفعت کسب کنند. فقط فرار کنید !
 مثال :
 صیانت از حقوق کاربران فضای مجازی = خیانت به کاربران و بستن دهنشون
 حمایت از فرودستان = اتخاذ بیشتر سیاست های تشدید کننده تورم ، فرودست تر شدن مردم عادی و ...
-File Storage, [6/4/22 12:56 PM]
 الگوریتم چپ ها برای حل مشکلات دنیا :
 • اینا همش تقصیر نظام سرمایه داری هست ، اگه اون نابود بشه همه چیز حل می شه !
-File Storage, [6/4/22 12:56 PM]
- https://toofan.soozanchi.ir/
-File Storage, [6/4/22 12:56 PM]
+https://toofan.soozanchi.ir/
 فیلترینگ چین
- https://telegra.ph/How-to-bypass-strict-censorship-09-10
-File Storage, [6/4/22 12:56 PM]
 فکر انسان فراتر از ۴ تا باور خشک و غیرقابل تغییر هست !
 ما در یک جهان VUCA (
 https://en.wikipedia.org/wiki/Volatility%252C_uncertainty%252C_complexity_and_ambiguity) زندگی می کنیم، یعنی روند تغییر جهان مثل گذشته خطی نیست، پس انسان ها باید منعطف تر بشن و سریعتر به تغییرات جهان واکنش نشون بدن !
 ایدئولوژی دقیقا همون چیزی هست که انعطاف رو از ما می گیره.
 The problems I’ve identified in my old world are universal across the ideological spectrum. Ideology corrupts caring, idealistic, educated, and intelligent people … and turns some of them into monsters. Ideologies breed dogmatic thinking and lazy, decoder-ring policy analysis. They encourage motivated cognition. They give birth to excessive certainty, crowding out healthy intellectual skepticism. They moralize political conflict in an unhealthy fashion, yielding incivility, extremism, and social discord. They ignore the complexities of the modern world.
-File Storage, [6/4/22 12:56 PM]
 معنی امپرالیسم
- https://t.me/pre_box
-File Storage, [6/4/22 12:56 PM]
- https://seedpuller.ir/blog/Solution-for-crimes
-File Storage, [6/4/22 12:56 PM]
- http://t.me/iranFSevents
-File Storage, [6/4/22 12:56 PM]
- http://www.gnu.org/philosophy/free-sw.en.html
-File Storage, [6/4/22 12:56 PM]
+https://t.me/pre_box
+https://seedpuller.ir/blog/Solution-for-crimes
+http://t.me/iranFSevents
+http://www.gnu.org/philosophy/free-sw.en.html
 [ File : UEFI_Secure_Boot_in_Modern_Computer_Security_Solutions_2013.pdf ]
-File Storage, [6/4/22 12:56 PM]
 تعریف معروف سیستم عامل
 Andrew S. Tanenbaum
-(
 http://www.cs.vu.nl/~ast)Abraham Silberschatz
-(
 http://www.cs.yale.edu/~avi/)POSIX (
 http://get.posixcertified.ieee.org/)
-File Storage, [6/4/22 12:56 PM]
-[ Photo ]
-File Storage, [6/4/22 12:56 PM]
 پیشنهاد می کنم برای درک بهتر این مقالات را مطالعه بکنید :
- https://madaidans-insecurities.github.io/android.html
- https://source.android.com/security/verifiedboot
- https://source.android.com/security/verifiedboot/avb
- https://source.android.com/security/verifiedboot/verified-boot#rollback-protection
- https://source.android.com/security/verifiedboot/dm-verity
- https://source.android.com/devices/architecture#hidl
+https://madaidans-insecurities.github.io/android.html
+https://source.android.com/security/verifiedboot
+https://source.android.com/security/verifiedboot/avb
+https://source.android.com/security/verifiedboot/verified-boot#rollback-protection
+https://source.android.com/security/verifiedboot/dm-verity
+https://source.android.com/devices/architecture#hidl
 اگر به دنبال یک رام امن هستید بدون شک پیشنهاد من GrapheneOS است !
 7.
 https://grapheneos.org/features
 File Storage, [6/4/22 12:57 PM]
- https://ieeexplore.ieee.org/document/7362260
+https://ieeexplore.ieee.org/document/7362260
 https://dl.acm.org/doi/10.1145/1941487.1941516
-File Storage, [6/4/22 12:57 PM]
 [ File : OpenSourceInsecurity.pdf ]
-@floss_dictators
-File Storage, [6/4/22 12:57 PM]
- https://t.me/IRLinuxGP
-File Storage, [6/4/22 12:57 PM]
+https://t.me/IRLinuxGP
 فکر کنم چون نظرم با آن ها متفاوت است !
 چون گفتم :
 ۱. لینوکس (گنو/لینوکس) به طور پیش فرض امن نیست و خود کاربر باید سطح امنیت را افزایش بدهد.
- https://madaidans-insecurities.github.io/linux.html
- https://t.me/floss_dictators/20
- https://madaidans-insecurities.github.io/guides/linux-hardening.html
+https://t.me/floss_dictators/20
 بهترین توزیع ها برای امن سازی از نظر من :
 • Gentoo Linux
 • Void Linux (Musl)
@@ -29812,75 +23033,63 @@ https://wiki.gentoo.org/wiki/Hardened_Gentoo) که قابل قبول هست. م�
 https://wiki.debian.org/grsecurity) که grsecurity (
 https://grsecurity.net/) پیشنهاد داده رو به کرنل لینوکس اضافه کرده است و تا حد ممکن با استفاده از busybox و musl و... attack surface را کم کرده است !
 ۲. فایرفاکس امن نیست و حریم خصوصی را نقض می کند.
- https://madaidans-insecurities.github.io/firefox-chromium.html
- https://grapheneos.org/usage#web-browsing
- https://t.me/floss_dictators/308
- https://t.me/floss_dictators/357
+https://t.me/floss_dictators/308
+https://t.me/floss_dictators/357
 ۳. رام استوک از نظر امنیت از رام LineageOS بهتر است چون که اون کاستوم رام بعضی مکانیزم های امنیتی AOSP را غیرفعال کرده است.
 البته بهترین رام برای امنیت GrapheneOS است !
- https://madaidans-insecurities.github.io/android.html
- https://t.me/floss_dictators/344
+https://t.me/floss_dictators/344
 ۴. نرم افزار آزاد/متن باز تضمینی برای امنیت و حریم خصوصی نیست و این به بقیه عوامل بستگی دارد
- https://t.me/floss_dictators/357
 ۵. امنیت و حریم خصوصی دو مقوله جدا از هم هستند (این به این معنی نیست که یکی بی اهمیت هست. اهمیت هر کدام به کاربر بستگی دارد)
 ۶. گنو به تنهایی سیستم عامل نیست و برداشت گنو از سیستم عامل اشتباه است.
 گنو، گنو/لینوکس را سیستم عامل گنو حساب کرده است و لینوکس را جزئی از سیستم عامل گنو می داند ! این به مخاطب القا می کند که لینوکس کلا بی اهمیت است
 گنو/هرد را هم Complete GNU System در نظر گرفت !
 به نظر من گنو/لینوکس درست است و گنو بهتر است که فقط برای گنو/هرد از نام سیستم عامل گنو استفاده کند.
- https://t.me/floss_dictators/262
- https://telegra.ph/Ahangarha-09-11
- https://t.me/floss_dictators/230
- https://t.me/floss_dictators/282
- https://t.me/floss_dictators/283
+https://t.me/floss_dictators/262
+https://telegra.ph/Ahangarha-09-11
+https://t.me/floss_dictators/230
+https://t.me/floss_dictators/282
+https://t.me/floss_dictators/283
 البته همین الان هم تلاش های زیادی برای جایگزین کردن گنو با ابزارهای دیگر صورت گرفته است که تا حدودی موفق هم بودند.
 مثلا توزیع Alpine Linux که از BusyBox و Musl استفاده می کند.
 البته امکاناتش به عنوان توزیع برای Desktop هنوز محدود است ولی اگر جامعه مشارکت کنندگانش بیشتر بشود قطعا بهتر می شود.
 برای اطلاعات بیشتر این پیام ها را بخوانید :
- https://tilde.town/~kzimmermann/articles/alpine_linux_desktop.html
- https://news.ycombinator.com/item?id=27104898
+https://tilde.town/~kzimmermann/articles/alpine_linux_desktop.html
+https://news.ycombinator.com/item?id=27104898
 در مقابل اما گنو نتوانسته جایگزین مناسبی به جای لینوکس پیدا کند ! (گنو/هرد را تست کردم و قابلیت هایش به شدت محدود بود)
 ۷. تفکرات شما برای من مهم نیست ولی موقع بحث فنی تفکرات آنارشیستی ، ضد سرمایه داری و ... خودتان را وارد بحث نکنید !
 یه بار داشتم سر IME بحث می کردم. جوابی که بعدش گرفتم این بود که کاپیتالیست ها آدم های کثیفی هستند و چون قبلا به کارشناس ها و محققین پول می دادند که بگویند شکر خوب است الان هم نظر کارشناس هایی که IME را بررسی می کنند اشتباه هست.
- https://t.me/floss_dictators/28
- https://t.me/floss_dictators/33
- https://t.me/floss_dictators/35
+https://t.me/floss_dictators/28
+https://t.me/floss_dictators/33
+https://t.me/floss_dictators/35
 به شما پیشنهاد می کنم این مطالب را بخوانید اگر قبلا نخوانده اید :
- https://t.me/floss_dictators/260
- https://t.me/floss_dictators/36
- https://t.me/floss_dictators/312
-File Storage, [6/4/22 12:57 PM]
+https://t.me/floss_dictators/260
+https://t.me/floss_dictators/36
+https://t.me/floss_dictators/312
 [ File : android-cdd.pdf ]
- https://source.android.com/compatibility/cdd
- https://palone.blog/your-android-might-be-the-most-secure-device-you-own/
-File Storage, [6/4/22 12:57 PM]
- https://madaidans-insecurities.github.io/browser-tracking.html
+https://source.android.com/compatibility/cdd
+https://palone.blog/your-android-might-be-the-most-secure-device-you-own/
+https://madaidans-insecurities.github.io/browser-tracking.html
 https://qua3k.github.io/ungoogled
-https://madaidans-insecurities.github.io/firefox-chromium.html
 https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html
 https://www.whonix.org
 https://securelist.com/finspy-unseen-findings/104322
 https://source.android.com/security/app-sandbox
-https://www.ranum.com/security/computer_security/editorials/dumb/index.html
 به هیچ وجه از یک نرم افزار antivirus استفاده نکنید. برعکس تصور خیلی از افراد نصب antivirus نه تنها به وضعیت امنیت شما کمکی نمی کند بلکه حتی attack surface را افزایش می دهد. حتی در مواردی شاهد بودیم که antivirus ها خود بد افزار یا جاسوس افزار بوده اند ! پس به طور کلی استفاده از antivirus اشتباه است. البته windows defender استثنا است نه به این دلیل که antivirus خوبی است بلکه به این دلیل که امکانات امنیتی دیگری دارد و در صورت غیرفعال کردن windows defender از آن امکانات محروم می شویم. اما به طور کلی antivirus ها رویکرد امنیتی غلطی دارند (
 https://www.ranum.com/security/computer_security/editorials/dumb/index.html).
 همینطور antivirus ها به این دلیل (
 https://source.android.com/security/app-sandbox) در سیستم عامل Android کارایی خاصی ندارند.
 ۴. حتما درباره قابلیت های امنیتی سیستم عامل خود تحقیق کنید و روش های اصولی hardening کردن آن ها را آموزش ببینید.
 برای اطلاعات بیشتر درباره قابلیت های امنیتی سیستم عامل Windows به این صفحات وب مراجعه کنید :
- https://docs.microsoft.com/en-us/windows/security/
- https://www.microsoft.com/security/blog/
+https://docs.microsoft.com/en-us/windows/security/
+https://www.microsoft.com/security/blog/
 ۵. تا جای ممکن سعی کنید از نرم افزارهای کمتری استفاده کنید و از نصب چند نرم افزار با قابلیت یکسان برای یک هدف یکسان بپرهیزید. همینطور از میزان تخصص و اهمیت دادن تیم توسعه دهنده آن نرم افزار مطلع شوید.
- https://www.youtube.com/channel/UCp_5b6aTfd3FgIrN2zXXeBg/playlists
+https://www.youtube.com/channel/UCp_5b6aTfd3FgIrN2zXXeBg/playlists
 https://t.me/ToofanReports
-File Storage, [6/4/22 12:57 PM]
- https://t.me/shirazlug
+https://t.me/shirazlug
 https://t.me/SoftwareFreedomFA
-File Storage, [6/4/22 12:57 PM]
 منظور جناب پارسارچ از «سایت های مثلا مهم شما» این مطلب بود :
- https://madaidans-insecurities.github.io/android.html
 آنها در حال نقد این قسمت از آن بودند :
- https://madaidans-insecurities.github.io/android.html#lineageos
-File Storage, [6/4/22 12:57 PM]
+https://madaidans-insecurities.github.io/android.html#lineageos
 متاسفانه به دلیل مشکلات زیاد و اضافه شدن مسئولیت ها (زندگی شخصی) و اهداف بیشتر و حساسیت برای به دست آوردن اطلاعات صحیح تا به الان نتوانستم مطلب جدیدی را بنویسم.
 اما به طور خلاصه سعی می کنم برای هر موضوع اطلاعات صحیحی ارائه بدهم :
 بسیاری تصور می کردند که از GNU متنفر هستم، ولی واقعیت این است که به دستاورد های گنو واقف هستم. با این حال با بسیاری از سیاست های آن نیز مخالف بوده و هستم...
@@ -29888,19 +23097,16 @@ File Storage, [6/4/22 12:57 PM]
 https://en.m.wikipedia.org/wiki/TRIX_(operating_system)) نیست) همینطور GNU Hurd مفید است :
 •
 https://www.fsf.org/history/
-•
 https://en-academic.com/dic.nsf/enwiki/1406788
-•
 https://www.gnu.org/software/hurd/history.html
 برای مطالعه درباره License ها (هم بخش حقوقی و هم بخش فنی) این منابع توصیه می شوند :
- https://gnu.org
+https://gnu.org
 https://fsf.org
 https://kernel.org
 https://linuxfoundation.org
 https://apache.org
 https://openbsd.org
 https://spdx.org
-https://github.com
 https://github.blog
 https://opensource.guide
 https://choosealicense.com
@@ -29914,7 +23120,6 @@ https://wikipedia.org
 https://wipo.int
 https://investopedia.com
 https://whitesourcesoftware.com
-File Storage, [6/4/22 12:57 PM]
 به نظر من در بین License های FLOSS بهترین انتخاب Apache 2.0 است....
 همینطور MIT + explicit patent grant هم انتخاب خوبی است.
 البته انتخاب License برای یک پروژه به عوامل مختلفی بستگی دارد، برای مثال :
@@ -29938,70 +23143,52 @@ https://opensource.org/licenses/BSDplusPatent)
 با این حال همانطور که گفتم من License های خانواده BSD را به شما پیشنهاد نمی کنم. اگر به این وبسایت (
 https://spdx.org/licenses/) سر بزنید لیست بلندی از License های خانواده BSD را مشاهده می کنید که هر کدام تفاوت های خاصی دارند اما در نهایت کاربرد آن ها تقریبا یکسان است.
 حالا فرض کنید می خواهید نرم افزار خود را با یکی از License های خانواده ‌BSD منتشر کنید. قطعا شما در این صورت به دلیل وجود License های زیاد این خانواده دچار سردرگمی می شوید. پس MIT اینجا است که مشکل را حل کند.
-File Storage, [6/4/22 12:57 PM]
 با توجه به مطالعه و تحقیقات فراوانی (بررسی نظرات محققین و کارشناسان امنیت، مقالات و بررسی های علمی و.‌‌..) که داشتم، به این نتیجه رسیدم که سیستم عامل GNU/Linux به صورت پیش فرض (توزیع های معمول لینوکسی بدون هیچگونه hardening) نسبت به سیستم عامل Windows (نسخه ۱۰ و ۱۱) آسیب پذیر تر است (با تعداد کاربر ارتباطی ندارد)
 از طرفی فعال کردن مکانیزم های امنیتی Windows 10, 11 برای یک کاربر عادی بسیار ساده تر از ایمن سازی توزیع لینوکس می باشد. البته توجه شود که همین مکانیزم های امنیتی در Windows 10, 11 بر پرفرمنس تاثیر بسیار منفی می گذارند.
 توجه کنید که هر کاربری باید ضعف آنچه که از آن استفاده می کند را بداند. اما این قضیه برگ برنده ای برای Windows نیست و خیلی به threat model فرد بستگی دارد (حداقل برای من تقریبا بی اهمیت است). مزیت های خیلی زیادی را می توان برای لینوکس بر شمرد‌ که آن را تبدیل به سیستم عامل فوق العاده ای برای توسعه دهندگان می کند.
 پس به طور کلی من ترجیح می دهم که کاربر لینوکس باشم. یکی دیگر از مزیت های بسیار مهم لینوکس بر باقی سیستم عامل ها (و به خصوص Windows)، اکوسیستم فوق العاده پویای آن است...
 اگر کاربر لینوکس هستید، نصب بسته linux-hardened را به شما توصیه می کنم، اما برای کاربر عادی حل مشکلات حاصل از نصب این پکیج می تواند دشوار باشد
 در صورتی که به دنبال ایمن تر کردن توزیع لینوکسی خود هستید، این آموزش ها را شدیدا توصیه می کنم (حداقل دانش در حد LPIC 2 می تواند بسیار مفید باشد) :
-•
 https://wiki.archlinux.org/title/security
-•
-https://madaidans-insecurities.github.io/guides/linux-hardening.html
-•
 https://man7.org/linux/man-pages/man8/selinux.8.html
-•
 https://selinuxproject.org/page/User_Resources
-•
 https://www.kernel.org/doc/html/v4.16/admin-guide/LSM/SELinux.html
 البته توجه شود که بعضی توصیه ها در دومین مقاله تاثیر بسیار بدی بر روی قابلیت استفاده می گذارند (و حتی در مواردی سیستم عامل در وضعیت غیر استفاده و آزار دهنده قرار خواهد گرفت)
 پیشنهاد می کنم که در این کانال ها عضو بشوید :
 @linkersec
 @securation
-File Storage, [6/4/22 12:57 PM]
 توصیه می کنم در این گروه ها عضو بشوید :
 @GrapheneOS
 @GrapheneOS_offtopic
-File Storage, [6/4/22 12:57 PM]
 خیلی قبل ها که با Fediverse آشنا شده بودم، بسیار مجذوب ایده آن شدم.
 اما به طور کلی استفاده از Fediverse تاثیر مثبتی بر روی امنیت ندارد (و در مواردی با توجه به شرایط می تواند تاثیر منفی بر امنیت کاربر بگذارد)
 لیست برخی از ابزار های Fediverse را اینجا (
 https://fediverse.party/en/miscellaneous/) می توانید پیدا کنید.
 چند ماه پیش به یکی از علاقه مندان به نرم افزار آزاد ایده تشکیل یک طرح برای متحد و یکپارچه سازی کردن جوامع آزاد را دادم، تا به الان طرح موفق بوده، اما دستاورد های بزرگی نداشته است. (البته خود من نقش خاصی در این طرح نداشتم)
 احتمالا در آینده این طرح دستاورد های بزرگی داشته باشد :
- https://fossfa.github.io/UFC-IRAN/
+https://fossfa.github.io/UFC-IRAN/
 در صورت بروز مشکل می توانید متن طرح را از اینجا هم مطالعه نمایید :
- https://github.com/FOSSFA/UFC-IRAN
- https://t.me/gnkalk
+https://github.com/FOSSFA/UFC-IRAN
+https://t.me/gnkalk
 https://t.me/shahriaarrr12
-https://t.me/FOSSFA
-File Storage, [6/4/22 12:57 PM]
 [ File : computer-science.pdf ]
 اگر به علوم کامپیوتر علاقه مند هستید، این فایل pdf را بخوانید.
 منابع خوبی در این فایل معرفی شده اند.
-File Storage, [6/4/22 12:57 PM]
 [ File : human.pdf ]
 اگر به دنبال تقویت اعتماد به نفس و روحیه خود هستید این فایل pdf را بخوانید.
 در این فایل به اختلالات و فاکتورهای مهم مرتبط با روان انسان اشاره شده است و برای درمان/بهبود برخی از آن ها کتاب های معتبر علمی ارائه شده اند.
 قرار بود این فایل تکمیل شود اما به دلایل نامشخصی فرایند تکمیل آن متوقف شد، اما همچنان مفید است.
-File Storage, [6/4/22 12:57 PM]
 [ File : پیشنهاداتی برای تغذیهٔ سالم.pdf ]
 منابع این مطلب عبارتند از :
 • وبسایت معتبر healthline
-(
 https://www.healthline.com)
 • برخی مقالات وبسایت معتبر pubmed
-(
 https://pubmed.ncbi.nlm.nih.gov)
 • برخی مقالات وبسایت معتبر nature
-(
 https://www.nature.com)
 • ویدیو های برخی از پزشکان معتمد
 میزان مصرف شیر با توجه به معیار های مختلف (سن، جنسیت،...) بین ۱ تا ۳ لیوان متغیر است.
-File Storage, [6/4/22 12:57 PM]
- https://mobilecount.cra.ir
-File Storage, [6/4/22 12:57 PM]
+https://mobilecount.cra.ir
 Carding
 The Course Instructor’s intent is to spread awareness about the carding. The Course Instructor is not responsible if any damage occurs. This is for educational purpose only. Hello Guys, if you were a victim of carding fraud or really want to understand what is Carding and how it should be done then here I prepared the document which will clear the basic understanding.
 Procedure of Carding process by KAUSHAL PAL :
@@ -30034,7 +23221,7 @@ Step 20: (Few carder arrange fake id if delivery boy ask for proof).
 تعداد سیم کارت های تلفن همراه که به نام شما ثبت گردیده است، به آدرس
 https://mobilecount.cra.ir مراجعه نمایید.
 سایت ساخت ایبان با هر کشوری ک بخواید:
- https://www.coolgenerator.com/iban-generator?country
+https://www.coolgenerator.com/iban-generator?country
 File Storage, [6/4/22 12:58 PM]
 در صورت فراموش‌کردن رمز عبور ویندوز چه کار کنیم؟
 شاید برای شما هم پیش آمده باشد که پسورد ویندوز خود را فراموش کرده باشید. حس خوبی نیست؛ اولین چیزی که به ذهن‌تان می‌رسد عدم دسترسی به اطلاعات و فایل‌ها و ترس از دست دادن آن‌ها ست. اما نه، هیچ اتفاقی نمی‌افتد. شما می‌توانید در چند مرحله به ویندوز، اطلاعات و فایل‌های‌تان دسترسی پیدا کنید. در این مقاله به این مسئله می‌پردازیم.
@@ -30057,20 +23244,16 @@ net localgroup administrators <username> /add
 در محیط ویندوز روی استارت کلیک راست کنید و وارد بخش Computer Management بشوید.
 به بخش Local Users and Groups بروید. نام کاربری اصلی‌تان، که پسوردش را فراموش کرده‌اید، پیدا کنید و روی آن کلیک راست کنید. سپس گزینه Set Password را انتخاب کنید. در مرحله بعدی روی گزینه Proceed بزنید و رمز جدید را تعریف کنید.
 حالا می‌توانید به حساب کاربری قبلی‌تان دسترسی داشته باشید.
-File Storage, [6/4/22 12:58 PM]
 معرفی سایت Mathway برای حل مسائل ریاضی
- http://Mathway.com
- https://www.cleanpng.com
+http://Mathway.com
+https://www.cleanpng.com
 دانلود کلیپ های یوتیوب
- https://keepv.id/
+https://keepv.id/
 دانلود کلیپهای توییتر
- https://twdown.net/
+https://twdown.net/
 دانلود کلیپهای فیسبوک
- https://fbdown.net/
-@professional_c_h
-@beepassvpn_bot
+https://fbdown.net/
 بهترین کانال های روشنگری تلگرام
-
 اهم اخبار بی سانسور
 @PN_KFP
 کتاب بخوانیم
@@ -30094,7 +23277,6 @@ File Storage, [6/4/22 12:58 PM]
 حرفه‌ای رانندگی کنید !!!
 @Car_BESTM
 اخبار ایران و جهان
-@po_litics
 جنگ با خرافات
 @TalareAndisheH
 دانستنی‌های حیوانات
@@ -30128,7 +23310,6 @@ File Storage, [6/4/22 12:58 PM]
 دنیای مستندهای ممنوعه ونایاب
 @MutedDocsKFP
 زرخند طنز تلخ سیاسی
-File Storage, [6/4/22 12:58 PM]
 @ZARKHAND
 «آموزشِ ۰ تا ۱۰۰ پارسی، نه فارسی»
 @jonbeshezabanepak
@@ -30151,7 +23332,6 @@ File Storage, [6/4/22 12:58 PM]
 رادیو شهیاد آریامهر
 @RadioShahyad
 افشاگری جنایات رءییسی
-@mobarezan_vatannews
 محمد یک کودک باز بود
 @BIDARIEMELLI
 آرشیو PDF ممنوعه و زیرزمینی
@@ -30171,10 +23351,7 @@ File Storage, [6/4/22 12:58 PM]
 افشای پنها‌ن‌کاری‌های حکومت
 @KHOD2
 اخبار فوری و محرمانه/پشت پرده ها
-@PN_KFP
-
 پیوستن به تبادلات لیستی ایران
-@ZagsTab
 آرشیو کلیپهای خدا، زئوس و دارک متر (Dark Matter)
 @khod2 من خدا هستم
 @khod3bot تماس با ما
@@ -30186,17 +23363,12 @@ File Storage, [6/4/22 12:58 PM]
 t.me/joinchat/BVWmm0BBN6miZ7LBg_qtNwt.me/joinchat/Cqcr_Du7ZRayXbUIT7w6Sg
 https://darknetweb.ru
 https://t.me/GroupCsharps
-موتور جستجوری دیپ وب
- http://onionsearchengine.com
-http://bznjtqphs2lp4xdd.onion
-https://thehiddenwiki.com/Main_Page
 سايت دريافت بين
 https://freemethods.net
- https://babiato.co/
-@WinForm
- https://magic-wormhole.readthedocs.io/en/latest/
+https://babiato.co/
+https://magic-wormhole.readthedocs.io/en/latest/
 آنچه هر مرورگری درباره شما میداند
- https://webkay.robinlinus.com/
+https://webkay.robinlinus.com/
 ربات sms bomber
 @SMSBomber_Ro_Bot
 @FreeBomber_Ro_Bot
@@ -30207,12 +23379,10 @@ https://freemethods.net
 @CitroBomberBot
 @S_bomber_bot
 @sms_bomberRobot
- https://t.me/sssoou_group
+https://t.me/sssoou_group
 @SearcheeBot
 لینکدونی
- https://t.me/Te_links
-Project Charlotte (Died):
-@JRSpotifybot
+https://t.me/Te_links
 spotify downloader
 فیلم های مرتبط با اختلالات روحی روانی:
 اسکیزوفرنی:
@@ -30268,7 +23438,6 @@ Kite runner
 اختلال شخصیت ضداجتماعی:
 Silence of lamps
 Hannibal rising
-Hannibal
 Red dragon
 آلزایمر:
 Still alise
@@ -30287,81 +23456,70 @@ Antrograde amnesia:
 Remember Sunday(2013)
 Retrograde amnesia:
 Furius 7(2015)
- https://www.testbirds.com
- https://manalyzer.org
+https://www.testbirds.com
+https://manalyzer.org
 https://github.com/JusticeRage/Manalyze
 آشنایی با روش های کلاهبرداری
- https://t.me/teleScam
-@Unidentified_TM
+https://t.me/teleScam
 اینجا یه پروکسی MTProto بساز ( رایگان)
- https://howdy.id/proxy-server/
+https://howdy.id/proxy-server/
 اینجا هم پروکسی ساکس میشه ساخت
- https://socks5.woiden.id/
-@TorrentLeechingGroup
- https://www.deepl.com/translator
-File Storage, [6/4/22 12:58 PM]
- https://x265.club/
-File Storage, [6/4/22 12:58 PM]
+https://socks5.woiden.id/
+https://www.deepl.com/translator
+https://x265.club/
 دریافت شادوساکس مدت دار و رایگان
- https://sshmax.net/create/shadowsocks
- https://sshocean.com/shadowsocks
- https://www.sshagan.net/?page=shadowsocks
- https://ciscossh.com/shadowsock
- https://androvpn.com/shadowsocks
- https://freesslvpn.us/shadowsocks
- https://contassh.com/?do=shadowsocks
- https://createssh.com/vpn/shadowsocks
- https://www.speedssh.com/shadowsocks
- https://www.ssh-free.com/shadowsocks-server
- https://lionssh.com/services/shadowsocks
- https://greenssh.com/shadowsocks
- https://sshstores.net/shadowsocks
- https://akunssh.net/shadowsocks-server
- https://vpnhack.com/shadowsocks
- https://www.tcpvpn.com/shadowsocks-account
-File Storage, [6/4/22 12:58 PM]
+https://sshmax.net/create/shadowsocks
+https://sshocean.com/shadowsocks
+https://www.sshagan.net/?page=shadowsocks
+https://ciscossh.com/shadowsock
+https://androvpn.com/shadowsocks
+https://freesslvpn.us/shadowsocks
+https://contassh.com/?do=shadowsocks
+https://createssh.com/vpn/shadowsocks
+https://www.speedssh.com/shadowsocks
+https://www.ssh-free.com/shadowsocks-server
+https://lionssh.com/services/shadowsocks
+https://greenssh.com/shadowsocks
+https://sshstores.net/shadowsocks
+https://akunssh.net/shadowsocks-server
+https://vpnhack.com/shadowsocks
+https://www.tcpvpn.com/shadowsocks-account
 پنل ایمیل بمبر اپک گارد :
 کافیه ایمیل مورد نظر رو وارد کنید تا به صورت رگباری توسط پنل برای اون ایمیل پیام بره
 ● ورود به پنل :
- https://zprg.me/zebomber
- https://www.youtube.com/watch?v=6-SX3JsSihU&t=194
- https://t.me/archive_30napp
+https://zprg.me/zebomber
+https://www.youtube.com/watch?v=6-SX3JsSihU&t=194
+https://t.me/archive_30napp
 اکانتهای رایگان v2ray
- https://www.vpnjantit.com/free-v2ray-vmess.html
- https://sshocean.com/v2ray
- https://sshstores.net/v2ray-region
- https://lionssh.com/services/vmess
- https://contassh.com/?do=v2ray
- https://ciscossh.com/v2ray
- https://www.sshagan.net/?page=v2ray
- https://androvpn.com/v2ray
- https://freesslvpn.us/v2ray
- https://vpnhack.com/v2ray
- https://akunssh.net/v2ray-vmess-server
+https://www.vpnjantit.com/free-v2ray-vmess.html
+https://sshocean.com/v2ray
+https://sshstores.net/v2ray-region
+https://lionssh.com/services/vmess
+https://contassh.com/?do=v2ray
+https://ciscossh.com/v2ray
+https://www.sshagan.net/?page=v2ray
+https://androvpn.com/v2ray
+https://freesslvpn.us/v2ray
+https://vpnhack.com/v2ray
+https://akunssh.net/v2ray-vmess-server
 دریافت sms با شماره های آمریکا
- https://smsreceives.com/
- https://receivedsms.com/
+https://smsreceives.com/
+https://receivedsms.com/
 ساخت و دریافت پراکسی های mtproto پنج روزه
- https://www.listvpn.net/best-server-mtprotoproxy-telegram
+https://www.listvpn.net/best-server-mtprotoproxy-telegram
 اکانتهای pptp پنج روزه
- https://www.listvpn.net/pptp-vpn-server
-File Storage, [6/4/22 12:58 PM]
+https://www.listvpn.net/pptp-vpn-server
 نگرانیهای مربوط به #حریم_خصوصی خصوصی در برنامه های Android را تجزیه و تحلیل می کند.
-متن باز
- https://exodus-privacy.eu.org/en/
+https://exodus-privacy.eu.org/en/
 چیز نابیه داشته باشینش و کلا اپ f-droid عالیه
- https://unblockit.ca
- https://www.syedgakbar.com/projects/dst
+https://unblockit.ca
 میتونید زیر نویسایی با یه زبانو به زبان دیگه تبدیل کنید
 یه خواهش اگر عکس میفرستی قبلش بفرست به این نرم‌افزار متا دیتاش رو پاک کن
-گوگل
- https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif
+https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif
 گیت هاب
- https://gitlab.com/juanitobananas/scrambled-exif
-File Storage, [6/4/22 12:58 PM]
- http://itools.com/tool/google-translate-web-page-translator
+https://gitlab.com/juanitobananas/scrambled-exif
+http://itools.com/tool/google-translate-web-page-translator
 ترنسلیت
-File Storage, [6/4/22 12:58 PM]
 سایتهایی که اطلاعات مربوط به یک درخواست خاص را پیدا می کنند ، که می تواند هر چیزی باشد ، نامه یا حتی رمز عبور
 search.carrot2.org
 یک موتور جستجوی خوشه ای است که اشیا یا دسته های مرتبط با یک کلمه را در جستجوی جستجو شناسایی می کند.
@@ -30378,119 +23536,64 @@ publicwww.com
 جستجو بر اساس کد صفحه منبع ، می توانید با نام های مستعار ، نامه ، ردیاب ، کیف پول ، آدرس وب سایت و غیره جستجو کنید.
 psbdmp.ws
 جستجوی pastebin
- https://recon.secapps.com/login
+https://recon.secapps.com/login
 جستجوی خودکار و ایجاد نقشه های رابطه.
-#معرفی_سایت
- https://filelisting.com/ - جستجوی تورنت
- https://www.mmnt.ru/int/ - جستجوی FTP
- https://www.ecosia.org/ - جستجوی خصوصی بینگ
- http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/ - موتور جستجوی Tor بدون تبلیغات
-File Storage, [6/4/22 12:58 PM]
+https://filelisting.com/ - جستجوی تورنت
+https://www.mmnt.ru/int/ - جستجوی FTP
+https://www.ecosia.org/ - جستجوی خصوصی بینگ
+http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/ - موتور جستجوی Tor بدون تبلیغات
 Ssr chanel
-@FAST_SS
-@SSRSUB
-@ShadowsocksRssr
-@freetgpp
-@ssList
-@jingpingziyuanfenxiang
-@shadow_socks1
-@shadow_vpn
- https://t.me/conceptualimage
+https://t.me/conceptualimage
 @InfoSecTube
 @P4CKageVip
-File Storage, [6/4/22 12:58 PM]
 به راحتی دانلود از پورن هاب و بقیه
- https://www.savido.net/sites/pornhub
-@PHVideosBot
+https://www.savido.net/sites/pornhub
 بات دانلود وو جستجو از پورنهاب
- https://t.me/TGRobots
-File Storage, [6/4/22 12:58 PM]
+https://t.me/TGRobots
 معرفی انواع ربات
 @botcollection
-@tgbot_list
 @Best_robots
 @TGBotsCollection
-@BotsArchive
-@botlist
-File Storage, [6/4/22 12:58 PM]
 نود32
 @licensesBox
 @LicenseForAll
 @LicKeys
 @antiquariat
 @Licenseantivirus
-File Storage, [6/4/22 12:58 PM]
- https://t.me/GdriveMirrorCloud
+https://t.me/GdriveMirrorCloud
 @freehub1
- https://chocolatey.org
+https://chocolatey.org
 https://torrentgalaxy.to/
 یک سایت عالی جهت جستجوی تورنت
-File Storage, [6/4/22 12:58 PM]
 ربات دیسکوگرافی @discographyofficialbot
-File Storage, [6/4/22 12:58 PM]
- https://t.me/wwgyuio =>چنل دانلود فیلم های قدیمی
- https://t.me/joinchat/TZwR66HRsG2iWCEb =>چنل دانلود سریال های جدید
- https://t.me/Rayegan_Film=>چنل دانلود فیلم های ایرانی و فیلم های خارجی
+https://t.me/wwgyuio =>چنل دانلود فیلم های قدیمی
+https://t.me/joinchat/TZwR66HRsG2iWCEb =>چنل دانلود سریال های جدید
+https://t.me/Rayegan_Film=>چنل دانلود فیلم های ایرانی و فیلم های خارجی
 @Movie_Empire =>چنل دانلود فیلم های جدید
-File Storage, [6/4/22 12:58 PM]
-@subrica
 این کاناله کلا اینطوریه هر موقع نت اضافه دارم موزیک ویدیو هاشو دان میکنم
 @sm0k7
-@allsaverbot
- https://t.me/Rayegan_Film1
+https://t.me/Rayegan_Film1
 https://t.me/Rayegan_Seryal
 توررنت هاتون رو می‌تونید از این سایت جستجو کنید:
- http://knaben.net
 تمام سایت‌های توررنت رو کرال می‌کنه و نتیجه‌اش رو نشون می‌ده.
 1377x.torutracker.orgrarbgtor.org/torrents.phpknaben.eupsarips.uk
- https://t.me/pc_game_down
+https://t.me/pc_game_down
 https://t.me/pcgames_torrents
 https://t.me/pcgame_download
- https://t.me/Udemy_Unacademy_Courses_Free
+https://t.me/Udemy_Unacademy_Courses_Free
 https://t.me/Udemy_Courses_Free_Daily
-@non_vocal1
- https://t.me/instrumental
- https://voicechanger.io/
- https://29a.ch/photo-forensics/#forensic-magnifier
- http://fotoforensics.com/
- https://resolve.rs/
- http://img2txt.com
-File Storage, [6/4/22 12:58 PM]
-بک
- https://t.me/Glype_File
-@subrica
-این کاناله کلا اینطوریه هر موقع نت اضافه دارم موزیک ویدیو هاشو دان میکنم
-@sm0k7
-@allsaverbot
- https://t.me/Rayegan_Film1
-https://t.me/Rayegan_Seryal
-توررنت هاتون رو می‌تونید از این سایت جستجو کنید:
- http://knaben.net
-تمام سایت‌های توررنت رو کرال می‌کنه و نتیجه‌اش رو نشون می‌ده.
-1377x.torutracker.orgrarbgtor.org/torrents.phpknaben.eupsarips.uk
- https://t.me/pc_game_down
-https://t.me/pcgames_torrents
-https://t.me/pcgame_download
- https://t.me/Udemy_Unacademy_Courses_Free
-https://t.me/Udemy_Courses_Free_Daily
-@non_vocal1
- https://t.me/instrumental
- https://voicechanger.io/
- https://29a.ch/photo-forensics/#forensic-magnifier
- http://fotoforensics.com/
- https://resolve.rs/
- http://img2txt.com
- https://storyset.com
+https://t.me/instrumental
+https://voicechanger.io/
+https://29a.ch/photo-forensics/#forensic-magnifier
+http://fotoforensics.com/
+https://resolve.rs/
+http://img2txt.com
+https://t.me/Glype_File
+https://storyset.com
 https://fakedetail.com
 https://t.me/HachicKumo
 https://t.me/Shutter
 Wallpapers
-@wallpaper_int
-@profilesiah
-@WallpapersART
-@Ax3bodi
-@astrowall
-File Storage, [6/4/22 12:59 PM]
 HACKERS DOT COM (Sale)
 @hackersdotcom
 HARSH GIVEAWAYS (Sale)
@@ -30518,57 +23621,45 @@ CrazyCracking (private)
 @CrazyCracking
 STICKERS
 t.me/addstickers/Tapp_here
-@moongteam
-File Storage, [6/4/22 12:59 PM]
- https://downloader.la
 https://getpaidstock.com
-https://nohat.cc
-https://sharedvn.net
 https://png.is/tool/findstock
 https://propoint.ir/free-dl-photos-shutterstock-site
 http://cdn.7king.xyz/0:
 https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en
 این افزونه باعث میشه خار مادر سیستمو کروم نگاد
- https://github.com/ALIILAPRO/warp-plus-cloudflare/releases/tag/gui-v2.2
+https://github.com/ALIILAPRO/warp-plus-cloudflare/releases/tag/gui-v2.2
 https://bmbgk.ir/
-File Storage, [6/4/22 12:59 PM]
- https://download.deemix.app
+https://download.deemix.app
 https://t.me/deemixbuildbot
 @hotredditbot
 @RedditBrowserBot
- https://t.me/nsfweveryday
- https://t.me/getfreecourses
- https://t.me/joinchat/oIB0KCISPWQxYTE9
+https://t.me/nsfweveryday
+https://t.me/getfreecourses
+https://t.me/joinchat/oIB0KCISPWQxYTE9
 t.me/GraphicMaster
 https://t.me/rbmod
-@geeekgirls
-Project Charlotte (Died):
- https://t.me/WPTM_ir
- https://t.me/litera999
- http://t.me/drivinglicensesofficial
- https://t.me/universaldocs
- https://t.me/scannable
- https://t.me/PaidFonts
- https://t.me/envatofree5
- https://t.me/elementsiq
+https://t.me/WPTM_ir
+https://t.me/litera999
+http://t.me/drivinglicensesofficial
+https://t.me/universaldocs
+https://t.me/scannable
+https://t.me/PaidFonts
+https://t.me/envatofree5
+https://t.me/elementsiq
 https://t.me/Mytoolz
 از این سرویس آنلاین برای بستن سیستم استفاده کن هر قطعه ای هم اشتباه برداری بهت هشدار میده که هماهنگ نیست
- https://pcpartpicker.com/list/
- https://tb.rg-adguard.net/public.php
- https://rexdl.com/
+https://pcpartpicker.com/list/
+https://tb.rg-adguard.net/public.php
+https://rexdl.com/
 @RJ_DownloadBot
 رادیو جواد
-File Storage, [6/4/22 12:59 PM]
 Legal porno
- https://t.me/legalporno_com
- https://www.remove.bg
-File Storage, [6/4/22 12:59 PM]
+https://t.me/legalporno_com
 کانال نابیه
- https://t.me/EdithUpdates
-@moviewebs99
+https://t.me/EdithUpdates
 4- link check list
- https://www.youtube.com/watch?v=di3IQw4_sg0
- https://www.youtube.com/channel/UCBIt1VN5j37PVM8LLSuTTlw
+https://www.youtube.com/watch?v=di3IQw4_sg0
+https://www.youtube.com/channel/UCBIt1VN5j37PVM8LLSuTTlw
 Quera.ir
 [12:59 PM]
 Codeforces
