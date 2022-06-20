@@ -23,7 +23,6 @@ https://116.85.15.25 - China
 https://117.103.80.101/FTP
 https://11ty.dev
 https://123apps.com
-https://123apps.com/ بسیاری از مشکلاتی که ما هر روز با آن روبرو هستیم را حل می کند.
 https://123convert.to
 https://123gostream.tv
 https://123movies.review
@@ -82,7 +81,7 @@ https://1jalshamoviez.art [Download from filehosting]
 https://1mobile-market.en.softonic.com/android
 https://1movietv.com
 https://1rmb.tk
-https://1umovie.xyz/️ZedMovie
+https://1umovie.xyz/ZedMovie
 https://1v1.lol
 https://20-things.com
 https://2000.shodan.io
@@ -145,7 +144,7 @@ https://4chan.partyvan.epikfail.win:55899/
 https://4chan.partyvan.epikfail.win:55899/OperationEpikFail.torrent
 https://4dayweek.io
 https://4dayweek.io/
-https://4discovery.com/our-tools/usb-historian/ Parse USB
+https://4discovery.com/our-tools/usb-historian/Parse USB
 https://4downfiles.filesearch.link
 https://4kremux.com
 https://4pda.to/forum/index.php?showtopic=1000362
@@ -157,7 +156,7 @@ https://52.8.94.115 - AWS
 https://54.209.18.17 - AWS
 https://54.67.15.186 - AWS
 https://54.87.255.209 - AWS
-https://5acemovies.xyz => بدون فیلترشکن وارد شوید
+https://5acemovies.xyz =>  
 https://5droid.com/
 https://5hxxw4p4adget6dkbjflg2cfmktf5ojoq2sw5xyr6v4ekz6b4x56drad.onion
 https://5nightmovie.top
@@ -190,12 +189,12 @@ https://94.130.184.92 - Hetzner
 https://98.145.185.175/insignia
 https://998988.xyz
 https://9live.club
-https://9movie.live/️SerMovie
-https://9movie.website =>بدون فیلتر شکن وارد شوید
+https://9movie.live/SerMovie
+https://9movie.website =>  
 https://9to5linux.com
 https://9xbuddy.org
 https://9xupload.xyz
-https://BENAMEIRAN.COMایرانی
+https://BENAMEIRAN.COM
 https://Brew.fm
 https://ChayaMarket.ir
 https://DONYAYESERIAL.COM
@@ -213,8 +212,8 @@ https://Mastodon.Instance/
 https://Mastodon.Instance/users/userhandle.rss
 https://Mathway.com
 https://Multiup.org
-https://Myhastidl.cam =>بدون فیلتر شکن وارد شوید
-https://NFSMovie.cf =>بدون فیلتر شکن وارد شوید و برای اینکه لینک های دانلود برایتان نمایان بشه فراینده ثبت نام و ورود را انجام دهید
+https://Myhastidl.cam =>  
+https://NFSMovie.cf =>  
 https://Netlas.io
 https://Onlystream.tv
 https://STARTDL.IRYOOZDL.COM
@@ -267,7 +266,7 @@ https://addons.mozilla.org/en-US/firefox/addon/adnauseam/
 https://addons.mozilla.org/en-US/firefox/addon/anti-grabify/anti-grabify chrome
 https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver
 https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/
-https://addons.mozilla.org/en-US/firefox/addon/canvas-fingerprint-defender/ ، Edge
+https://addons.mozilla.org/en-US/firefox/addon/canvas-fingerprint-defender/ Edge
 https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext
 https://addons.mozilla.org/en-US/firefox/addon/copyfish-ocr-software/Copyfish OCR for Edge
 https://addons.mozilla.org/en-US/firefox/addon/invidition
@@ -280,7 +279,7 @@ https://addons.mozilla.org/en-US/firefox/addon/native_hls_playback
 https://addons.mozilla.org/en-US/firefox/addon/open-with
 https://addons.mozilla.org/en-US/firefox/addon/port-authority
 https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/
-https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/ یکی از معروف ترین پلاگین های فایرفاکس است که برای مبارزه با نظارت از طریق مسدود کردن و جعل داده های جمع آوری شده توسط اسکریپت های ردیابی مختلف طراحی شده است.
+https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/  .
 https://addons.mozilla.org/en-US/firefox/addon/search_by_image
 https://addons.mozilla.org/en-US/firefox/addon/shodan_io/
 https://addons.mozilla.org/en-US/firefox/addon/smart-referer
@@ -291,12 +290,12 @@ https://addons.mozilla.org/en-US/firefox/addon/twitch-adblock
 https://addons.mozilla.org/en-US/firefox/addon/youtube-classic
 https://addons.mozilla.org/en-us/firefox/addon/chatzilla
 https://addons.mozilla.org/fa/android/addon/sponsorblock/?src=external-website
-https://addons.mozilla.org/firefox/addon/feed-preview/ comparable to the one above;
+https://addons.mozilla.org/firefox/addon/feed-preview/comparable to the one above;
 https://addons.mozilla.org/firefox/addon/greasemonkey
 https://addons.mozilla.org/firefox/addon/languageswitch/
-https://addons.mozilla.org/firefox/addon/rss-html/ keeps it simple; does not preserve feed url
+https://addons.mozilla.org/firefox/addon/rss-html/keeps it simple; does not preserve feed url
 https://addons.mozilla.org/firefox/downloads/latest/terms-of-service-didnt-read/addon-latest.xpi
-https://addons.opera.com/en/extensions/details/canvas-fingerprint-defender/ در دسترس است.
+https://addons.opera.com/en/extensions/details/canvas-fingerprint-defender/  .
 https://addons.thunderbird.net/en-US/thunderbird/addon/minimize-on-close/
 https://addons.thunderbird.net/en-US/thunderbird/addon/remove-duplicate-messages-alte/
 https://adhole.org
@@ -314,7 +313,7 @@ https://aes67.app
 https://afdah.info
 https://affiliate.itunes.apple.com/resources/blog/introduction-rss-feed-generator/
 https://afinilexpress.com
-https://africam.com/wildlife/live-african-wildlife-safari-channels/ - webcams in africa
+https://africam.com/wildlife/live-african-wildlife-safari-channels/- webcams in africa
 https://afterdawn.com
 https://afuckingle.af
 https://agar.io
@@ -325,9 +324,9 @@ https://ahnames.com/en
 https://ahputuleech.herokuapp.com
 https://aidownload.com
 https://aiowares.com
-https://aiowares.com/ , Mydigitallife
+https://aiowares.com/, Mydigitallife
 https://airbnb.design/lottie/
-https://aircrack-ng.org/ - An 802.11 WEP and WPA-PSK keys cracking program
+https://aircrack-ng.org/- An 802.11 WEP and WPA-PSK keys cracking program
 https://airdcpp.net
 https://airdrops.io
 https://airexplorer.net/en
@@ -340,8 +339,8 @@ https://ak47full.com
 https://akunssh.net
 https://akunssh.net/shadowsocks-server
 https://akunssh.net/v2ray-vmess-server
-https://alefmovie9.xyz/️Film2Sun
-https://alefmovies.xyz =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
+https://alefmovie9.xyz/Film2Sun
+https://alefmovies.xyz =>  
 https://alemdarleech.com
 https://alexa.com/siteinfo/weboas.is
 https://alexmercerind.github.io/harmonoid/
@@ -356,7 +355,7 @@ https://alicefe3b2dqil3mk3ipwtyoqjol23kdai7cjpgzrtvemfvtzz2s67ad.onion/forum/ind
 https://aliexpress.com
 https://aliez.me
 https://aliprice.com
-https://alison.com/ -->ALISON Lots of free courses with free certificates. In my opinion these courses are not the best quality but if you want some free certifications quick, it's good for that. I would personally advise against spending money there.
+https://alison.com/-->ALISON Lots of free courses with free certificates. In my opinion these courses are not the best quality but if you want some free certifications quick, it's good for that. I would personally advise against spending money there.
 https://all-free-download.com
 https://allbad.cards
 https://allfreedumps.com
@@ -366,7 +365,7 @@ https://allsides.com
 https://allthevaccines.org/
 https://alltomp3.org
 https://alluc.uno
-https://almasmovie8.xyz => بدون فیلتر شکن وارد شوید
+https://almasmovie8.xyz =>  
 https://almasmovie8.xyz/
 https://alohabrowser.com
 https://alpinelinux.org
@@ -393,9 +392,9 @@ https://anchorcms.com
 https://andchill.tv
 https://androeed.ru/
 https://android-x86.org
-https://android-x86.org/ / Wikipedia
+https://android-x86.org//Wikipedia
 https://android-zone.ws
-https://android.com/ / Wikipedia
+https://android.com//Wikipedia
 https://android.izzysoft.de/repo
 https://androidapksfree.com
 https://androvpn.com/shadowsocks
@@ -404,7 +403,7 @@ https://andyroid.net
 https://angusj.com/resourcehacker
 https://angusnicneven.com
 https://anidex.info/rss
-https://anilist1.ir/ This one is really good because they provide multiple video codecs and pixel quality for movies and tv shows
+https://anilist1.ir/This one is really good because they provide multiple video codecs and pixel quality for movies and tv shows
 https://animate.style
 https://animatedknots.com
 https://anime-list10.tk
@@ -469,10 +468,10 @@ https://anxl.faith
 https://anydebrid.com
 https://aospextended.com
 https://apache.org
-https://aparat.com/v/1NKL0/نحوه_انلاین_بازی_کردن_call_of_duty_mw3_با_2.8
-https://aparat.com/v/BKgiT/مستند_انقلاب_اوپن_سورسمتن_باز_-_کامل_با_زیرنویس_فارسی
-https://aparat.com/v/UHf5Q/اهمیت_استفاده_از_نرم_افزار_های_آزاد_Open_Source
-https://aparat.com/v/UHf5Q/اهمیت_استفاده_از_نرم_افزار_های_آزاد_Open_Sourceمتن باز اوپن سورس ویکیپدیا
+https://aparat.com/v/1NKL0/____call_of_duty_mw3__2.8
+https://aparat.com/v/BKgiT/_____-____
+https://aparat.com/v/UHf5Q/_______Open_Source
+https://aparat.com/v/UHf5Q/_______Open_Source  
 https://apd.msbots.workers.dev < Has multiple different drives, change drive in upper left.
 https://api.123movie.cc
 https://api.crackwatch.com/rss/cracks.xml
@@ -510,7 +509,7 @@ https://appletvhacks.net
 https://application.security
 https://appmaker.xyz/pwa-to-apk
 https://appnee.com
-https://appnee.com/ , Rutracker
+https://appnee.com/, Rutracker
 https://apps.apple.com/us/app/oriole-network-proxy/id1245170216 Oriole
 https://apps.apple.com/us/app/outline-app/id1356177741 Outline
 https://apps.apple.com/us/app/potatso-lite/id1239860606 Potasto Lite
@@ -525,9 +524,9 @@ https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/
 https://aquapark.io
 https://aquiles.me
 https://ar500armor.com
-https://aramovie.club =>بدون فیلتر شکن وارد شوید،برای اینکه لینک های دانلود برایتان نمایان بشه فراینده ثبت نام و ورود را انجام دهید
-https://aramoviez.shop =>بدون فیلتر شکن وارد شوید
-https://aramoviez.xyz/️AlefMovie
+https://aramovie.club =>  
+https://aramoviez.shop =>  
+https://aramoviez.xyz/AlefMovie
 https://arbtt.nomeata.de
 https://arc.io
 https://arcadeprehacks.com
@@ -559,20 +558,20 @@ https://archive.is/uq6ek
 https://archive.is/xemFM
 https://archive.is/zXIek
 https://archive.org
-https://archive.org/  The Internet Archive
+https://archive.org/ The Internet Archive
 https://archive.org/details/
 https://archive.org/details/Phase_Three
 https://archive.org/details/comp3321/page/n9/mode/2up
 https://archive.org/details/movies
-https://archive.org/details/pgp-farsi آشنایی با سیستم رمزنگاری RSA
+https://archive.org/details/pgp-farsi  RSA
 https://archive.org/details/softwarelibrary_flash
 https://archive.org/download/Reddit.7z/Reddit.7z
 https://archive.org/help/rss.php
 https://archive.org/services/collection-rss.php?collection=
 https://archive.org/services/collection-rss.php?mediatype=
 https://archive.org/services/collection-rss.php?query=
-https://archive.org/web/ The Wayback Machine
-https://archive.ph/ archives web snapshots
+https://archive.org/web/The Wayback Machine
+https://archive.ph/archives web snapshots
 https://archive.ph/lB2EX
 https://archive.st
 https://archive.st/archive/2019/4/old.reddit.com/i0ty/old.reddit.com/r/WorkOnline/comments/b96v0c/stable_online_job_without_a_bachelors_degree/index.html
@@ -599,7 +598,7 @@ https://area51.to/en
 https://arenabg.com
 https://arewedistributedyet.com
 https://argfx.co
-https://arjmandpub.com/Book/1314/5/ACT-به-زبان-ساده-الفباي-درمان-مبتني-بر-پذيرش-و-تعهد
+https://arjmandpub.com/Book/1314/5/ACT----------
 https://armadillophone.com
 https://armorgames.com
 https://arrowchat.com
@@ -615,15 +614,15 @@ https://artybollocks.com/certificate.html -->Become a certified artist instantly
 https://artybollocks.com/generator.html -->artist's statement while you're at it, too.
 https://arunkprasad.com/log/amateurs-and-professionals
 https://arunkprasad.com/log/who-uses-todo-lists
-https://aryatehran.com/سورس-کد-چیست/
-https://aryatehran.com/پروکسی-چیست/
+https://aryatehran.com/--/
+https://aryatehran.com/-/
 https://asciinema.org
 https://asdf-vm.com
 https://aseanlegacy.net/cbox.html
 https://asec.ahnlab.com/en/
 https://ashley.cynic.al
 https://asia.cloud
-https://aslookup.com/ - a useful tool for exploring autonomous systems and all related info CIDR, ASN, Org...
+https://aslookup.com/- a useful tool for exploring autonomous systems and all related info CIDR, ASN, Org...
 https://asmrtags.com
 https://asmtutor.com/
 https://asn.cymru.com/cgi-bin/whois.cgi
@@ -666,8 +665,8 @@ https://avaddongun7rngel.onion.ly
 https://avain.app/#info
 https://avamovie.pro
 https://avamovie.top
-https://avamovie1.xyz/️MoboMoviez
-https://avamovie9.xyz => بدون فیلتر شکن وارد شوید
+https://avamovie1.xyz/MoboMoviez
+https://avamovie9.xyz =>  
 https://avanier.studio
 https://avatarqing.github.io/FlappyBird
 https://avaxgfx.com
@@ -692,20 +691,20 @@ https://b-ok.cc
 https://b-ok.xyz
 https://b.lulu.workers.dev
 https://b2mz.site/
-https://ba2hd.tk =>بدون فیلتر شکن وارد شوید
+https://ba2hd.tk =>  
 https://ba2hd.tk/
 https://babeljs.io/repl
 https://babiato.co
 https://babiato.com
 https://babyixntjlabwkpi.onion/viewtopic.php?f=222&t=5604
-https://backfeed.strangecode.com/ collecting removed entries from archive.org
+https://backfeed.strangecode.com/collecting removed entries from archive.org
 https://backgroundchecks.org/justdeleteme
-https://backgroundchecks.org/justdeleteme/می‌توانید دریابید که پاک کردن حساب‌تان از روی وب‌سایت‌های مختلف چقدر ساده یا پیچیده است. بصورت جداگانه به وب‌سایت‌هایی که در آنها حساب دارید، درخواست حذف اطلاعات‌تان را ارسال کنید.
+https://backgroundchecks.org/justdeleteme/  .  .
 https://backlinkshitter.com
 https://badgoy.net
 https://bae.lena.moe
 https://bagusdl.pro
-https://balticlivecam.com/ - see above
+https://balticlivecam.com/- see above
 https://banned.pics
 https://barinsta.austinhuang.me/
 https://barnimages.com
@@ -753,7 +752,7 @@ https://beautifier.io
 https://beautifuldingbats.com/hey-howd-you-do-that
 https://bedrocklinux.org
 https://beej.us/guide/bgipc/
-https://beenverified.com/ وب‌سایت‌هایی هستند که در آنها می‌توانید اطلاعات اشخاص را جستجو و پیدا کنید. اگر اطلاعات شما نیز در این وب‌سایت‌ها وجود دارد بصورت جداگانه از آنها درخواست حذف داده‌هایتان را بفرستید. علاوه بر این می‌توانید از سرویس‌های پولی برای حذف اطلاعات‌تان از تمامی این وب‌سایت‌ها استفاده کنید.
+https://beenverified.com/  .  .  .
 https://beeref.org
 https://beermoneyforum.com
 https://beets.io
@@ -770,7 +769,7 @@ https://bellard.org/textsynth
 https://bellingcat.com
 https://bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/
 https://benameiran.com/
-https://benbusby.com/projects/whoogle-search/عین searx کار می‌کنه فقط گوگله و ui گوگلی داره و میتونید به صورت لوکال هاست یا سرور های انلاینش
+https://benbusby.com/projects/whoogle-search/ searx  ui  
 https://bench.monster
 https://benchmark-js.ipfs.io
 https://bendodson.com/weblog/2016/05/17/fetching-rss-feeds-for-steam-game-updates/
@@ -783,7 +782,7 @@ https://bestboytt55akspr.onion/index.php
 https://bestcaptchasolver.com
 https://bestdebrid.com
 https://bestgore.com
-https://bestgore.com/all-the-gore/ - infamous blog
+https://bestgore.com/all-the-gore/- infamous blog
 https://bestgore.fun
 https://besthosting.ua/en
 https://bestvpnserver.com/list-of-free-pptp-vpn-server/
@@ -799,7 +798,7 @@ https://bgp.tools
 https://bgpstream.com
 https://bia2anime20.cf
 https://bia2hd.ga
-https://bia2hd.store =>بدون فیلتر شکن وارد شوید
+https://bia2hd.store =>  
 https://bia2movies.bid
 https://bianyuan.xyz
 https://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/
@@ -837,7 +836,7 @@ https://bit.tube/dashboard
 https://bitchute.com
 https://bitchute.com/feeds/rss/channel/ChannelName/
 https://bitchute.com/video/IItRl5XItvBn/
-https://bitchute.com/video/IItRl5XItvBn/هرم قدرت یک مجموعه مستند کاملاً جدید و 16 قسمتی است که هدف آن افشای افراد و نهادهایی است که می خواهند جهان ما را دستکاری کنند.
+https://bitchute.com/video/IItRl5XItvBn/  16  .
 https://bitchute.com/video/MuwCoNDdsGQj/
 https://bitclout.com
 https://bitcoin.directory
@@ -849,7 +848,7 @@ https://bitdomain.biz
 https://bitflock.com
 https://bithash.net/en
 https://bitify.com
-https://bitlogic.tech/ --> the tech blog to learn about crypto and other technologies
+https://bitlogic.tech/--> the tech blog to learn about crypto and other technologies
 https://bitmessage.ch
 https://bitmitigate.com
 https://bitnami.com
@@ -885,7 +884,7 @@ https://bleachbit.org/download/file/t?file=BleachBit-4.4.0-portable.zip
 https://bleachbit.org/download/file/t?file=BleachBit-4.4.0-setup.exe
 https://bleep.is
 https://blinkenshell.org/wiki/Start
-https://blockanet.com/enربات پروکسی:
+https://blockanet.com/en :
 https://blockchair.com
 https://blockonomics.co
 https://blocks.ipfs.io
@@ -901,7 +900,7 @@ https://blog.ipfire.org/post/why-not-wireguard
 https://blog.ipfs.io
 https://blog.jonlu.ca/posts/illegal-streams
 https://blog.llvm.org/posts/2020-11-30-interactive-cpp-with-cling/
-https://blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/ بشن
+https://blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/
 https://blog.mozilla.org/en/mozilla/we-need-more-than-deplatforming
 https://blogs.harvard.edu/feed/atom
 https://blogs.harvard.edu/feed/rdf/
@@ -911,8 +910,8 @@ https://bloom.sh
 https://blubrry.com/podcast-search
 https://bludit.com
 https://bluemaxima.org/flashpoint
-https://bluemoviee.website/️9Movie
-https://blueridgecountry.com/travel/fall/fall-foliage-webcams/ - another small list
+https://bluemoviee.website/9Movie
+https://blueridgecountry.com/travel/fall/fall-foliage-webcams/- another small list
 https://bluesmods.com/bluecord.html
 https://bluestacks.com
 https://bluevertigo.com.ar/
@@ -929,7 +928,7 @@ https://bocchilorenzo.github.io/invuedious
 https://bodoicuho.ucoz.ru/
 https://boingboing.net
 https://boltcms.io
-https://bondage-me.cc/ - Premium links for bondage videos. No I didn't visit it
+https://bondage-me.cc/- Premium links for bondage videos. No I didn't visit it
 https://bonginoreport.com
 https://bonkerfield.org/2020/05/swale-garden-stream
 https://booba.tv
@@ -962,13 +961,13 @@ https://bradharris.com/how-it-began
 https://braintropic.com
 https://brandsoftheworld.com/
 https://brave.com
-https://brave.com/ و Tor
-https://brave.com/خلاصه ضد اثر انگشت، ضد تبلیغات، اوپن سورس، سبک تر از گوگل کروم، دارای tor
+https://brave.com/ Tor
+https://brave.com/  tor
 https://breachalarm.com
 https://breachaware.com
 https://breachdirectory.tk
 https://breachforums.com
-https://bri.io/ personal site
+https://bri.io/personal site
 https://briarproject.org
 https://briarproject.org/Security Messenger
 https://brickit.app
@@ -981,7 +980,7 @@ https://browserleaks.com
 https://browserling.com/tools
 https://bsdcan.org/
 https://bsehovac.github.io/the-cube
-https://bsehovac.github.io/the-cube/ Rubik cube Desc: ”works” for mobile but still wouldn't recommend
+https://bsehovac.github.io/the-cube/Rubik cube Desc: works for mobile but still wouldn't recommend
 https://btcache.me
 https://btcdir.net/services/payment-gateways
 https://btcguide.github.io
@@ -1007,15 +1006,15 @@ https://burles.co/en
 https://burnermail.io
 https://buttplug.io
 https://buyaccs.com/en
-https://buyaladdin.com/ --> to buy using cryptos Y
+https://buyaladdin.com/--> to buy using cryptos Y
 https://buyformeretail.com
 https://buylowsellhigh.fyi
 https://buypass.com/ssl/products/acme
 https://bvlist.com
-https://bytegate.io/سیستم-فایل-file-system-چیست؟/ ساده توضیح داده، مثال بزنم بهتره، تا حالا شده ویندوز یه usb فرمت کنی و یه لیست مثلا مثلا: Fat32, NTFS, Fat, exFAT دنیای لینوکسیشم مثلا btrfs، ext4
+https://bytegate.io/--file-system-/  usb  : Fat32, NTFS, Fat, exFAT  btrfs ext4
 https://bytesized-hosting.com
 https://bznjtqphs2lp4xdd.onion
-https://c4-cams.qwazwsx.xyz/c4-cams/ - random webcam streams
+https://c4-cams.qwazwsx.xyz/c4-cams/- random webcam streams
 https://cabconmodding.com/threads/bo2-gsc-stonedyodas-gsc-board-scripts-sources.188
 https://cachedpage.co
 https://caddyserver.com
@@ -1060,7 +1059,7 @@ https://catbox.moe
 https://catfiles.net
 https://catfiles.net/
 https://catgirl.wtf
-https://catholiconline.school/ -->Catholic Online School Tons of free course with tons of free certificates...but it's an online Catholic school. I took a course for fun and now I have a certificate in, uh, "Secret Message of Our Lady of Fatima."
+https://catholiconline.school/-->Catholic Online School Tons of free course with tons of free certificates...but it's an online Catholic school. I took a course for fun and now I have a certificate in, uh, "Secret Message of Our Lady of Fatima."
 https://catonmat.net/cookbooks/curl
 https://caxuxinhabrazilpremium2016.tk/
 https://cbox.turkdown.com/index.php
@@ -1229,7 +1228,7 @@ https://chimu.moe/en
 https://chinafirewalltest.com
 https://chmuranet.com
 https://chocolatey.org
-https://chocolatey.org/رو نصب کنید، میتونید تو powershell برنامه هارو با یه دستور نصب کنید و خودش همه کارا رو میکنه، مثلا
+https://chocolatey.org/  powershell  
 https://choosealicense.com
 https://choosedeath.free.fr/Pages/Main.htm - blast from the past web design
 https://chown.io/defend-against-ddos-tor/
@@ -1246,7 +1245,7 @@ https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeac
 https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en
 https://chrome.google.com/webstore/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn
 https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl
-https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp/related?hl=ru ، Firefox
+https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp/related?hl=ru  Firefox
 https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?hl=en
 https://chrome.google.com/webstore/detail/copyfish--free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbjCopyfish OCR for Firefox
 https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
@@ -1264,13 +1263,13 @@ https://chrome.google.com/webstore/detail/skip-silence/fhdmkhbefcbhakffdihhceakl
 https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=
 https://chrome.google.com/webstore/detail/survol/fdnnmbmkgfdjclkgimonnimokhnndalk
 https://chrome.google.com/webstore/detail/syncro-omegle-ip-location/mddlplfahhkojhjmmnkjeaghalncgjdb
-https://chrome.google.com/webstore/detail/terms-of-service-didn’t-r/hjdoplcnndgiblooccencgcggcoihigg
+https://chrome.google.com/webstore/detail/terms-of-service-didnt-r/hjdoplcnndgiblooccencgcggcoihigg
 https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en
 https://chrome.google.com/webstore/detail/twitch-adblock/mipdalemhlhfenbikcloloheedmmecme
 https://chrome.google.com/webstore/detail/ublock-origin-extra/pgdnlhfefecpicbbihgmbmffkjpaplco?hl=en
 https://chrome.google.com/webstore/detail/unmailto/omnmcffbgocomleepoodlfbigkglehpm/
 https://chrome.google.com/webstore/detail/web-apps-by-123apps/dpplndkoilcedkdjicmbeoahnckdcnle/related?hl=ru
-https://chrome.google.com/webstore/detail/web-apps-by-123apps/dpplndkoilcedkdjicmbeoahnckdcnle/related?hl=ru وجود دارد که با آن می توانید به سرعت و به راحتی عملکرد مورد نظر را پیدا کنید.
+https://chrome.google.com/webstore/detail/web-apps-by-123apps/dpplndkoilcedkdjicmbeoahnckdcnle/related?hl=ru  .
 https://chromium.woolyss.com
 https://churchofeuthanasia.org
 https://cia.gov/library/readingroom/
@@ -1289,16 +1288,16 @@ https://ciphershed.org
 https://circleid.com
 https://cirlos.net
 https://cirrusretro.com
-https://cirt.dk/ - A simple TCP/UDP protocol fuzzer.
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Local• Remote DNS Attack Lab;
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Remote• Packet Sniffing and Spoofing Lab;
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Linux• Firewall-VPN Lab: Bypassing Firewalls using VPN;
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_VPN• Virtual Private Network VPN Lab;
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed• Local DNS Attack Lab;
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/IPSec• Minix Firewall Lab.
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing• Linux Firewall Exploration Lab;
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP• Heartbleed Attack Lab;
-https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/VPN• Minix IPSec Lab;
+https://cirt.dk/- A simple TCP/UDP protocol fuzzer.
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Local Remote DNS Attack Lab;
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Remote Packet Sniffing and Spoofing Lab;
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Linux Firewall-VPN Lab: Bypassing Firewalls using VPN;
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_VPN Virtual Private Network VPN Lab;
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed Local DNS Attack Lab;
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/IPSec Minix Firewall Lab.
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing Linux Firewall Exploration Lab;
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP Heartbleed Attack Lab;
+https://cis.syr.edu/~wedu/seed/Labs_12.04/Networking/VPN Minix IPSec Lab;
 https://ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/BRKSEC-2049.pdf
 https://ciscossh.com
 https://ciscossh.com/shadowsock
@@ -1352,7 +1351,7 @@ https://cluster.ipfs.io
 https://clyp.it
 https://cmdchallenge.com
 https://cmovieshd.com
-https://cnet.com/rss/ or
+https://cnet.com/rss/or
 https://cobalt.io/blog/a-pentesters-guide-to-server-side-request-forgery-ssrf
 https://cock.li
 https://cockbox.org
@@ -1369,7 +1368,7 @@ https://codeberg.org/heretic/torrents-csv-server
 https://codeberg.org/hydis/awesome-alternatives
 https://codeberg.org/teddit/teddit -
 https://codeberg.org/teddit/teddit#instances
-https://codebutler.github.io/firesheep/ - Free program for
+https://codebutler.github.io/firesheep/- Free program for
 https://codecanyon.net/item/hipload-free-files-hosting-quick-easy/91815
 https://codeload.github.com
 https://codermails.in/pricing.html
@@ -1401,7 +1400,7 @@ https://comicrack.cyolito.com
 https://comics-all.com
 https://comicscodes.com
 https://comicsnake.com
-https://commafeed.com/ usr=am2h, pass=am2h
+https://commafeed.com/usr=am2h, pass=am2h
 https://command-not-found.com
 https://commento.io
 https://commonplace.doubleloop.net
@@ -1471,7 +1470,7 @@ https://countermail.com
 https://courseclub.me
 https://coursehunter.net
 https://coursehunters.net
-https://coursera.com/ -->Coursera Free courses from top universities again, pay for a verified certificate. Has more options than EdX.
+https://coursera.com/-->Coursera Free courses from top universities again, pay for a verified certificate. Has more options than EdX.
 https://courvix.com
 https://covers.com/sports/matchups
 https://coverthacks.com
@@ -1511,7 +1510,7 @@ https://crawl.develz.org
 https://crawli.net
 https://craze.co.uk
 https://crazymonkeygames.com
-https://crazyshit.com/ - video hosting site with a snarky comment section
+https://crazyshit.com/- video hosting site with a snarky comment section
 https://crdclub.su
 https://createfeed.fivefilters.org
 https://createssh.com
@@ -1537,7 +1536,7 @@ https://crowdsec.net
 https://crt.sh/
 https://crypt.ee
 https://cryptbb2gezhohku.onion.ly
-https://cryptocam.gitlab.io/ استفاده کنید.
+https://cryptocam.gitlab.io/ .
 https://cryptomator.org
 https://cryptonator.com
 https://cryptopals.com
@@ -1549,7 +1548,7 @@ https://cryptoworld.is
 https://cryptpad.fr
 https://cryptpad.fr/drive/#/2/drive/view/1CNtfyU6K8nDUStZey2a+iPdSPD7MjT0oCMG5d+ajvU/
 https://cs-online.club/en/servers
-https://cs.rin.ru/forum/ < go to developer forum section once registered
+https://cs.rin.ru/forum/< go to developer forum section once registered
 https://cs.vu.nl/~astAbraham Silberschatz
 https://cs.yale.edu/~avi/POSIX
 https://cse.google.com/cse?cx=957ae734f66a7a3e0#gsc.tab=0
@@ -1716,13 +1715,13 @@ https://de.sanshihui.win
 https://deadfake.com
 https://deaditarchive.netlify.app
 https://deals.neowin.net
-https://deathaddict.co/ - infamous forum & video hosting site requires login
-https://deathaddict.co/rss/ The video platform
-https://deathplz.com/ - a list of gore sites
+https://deathaddict.co/- infamous forum & video hosting site requires login
+https://deathaddict.co/rss/The video platform
+https://deathplz.com/- a list of gore sites
 https://deathtothestockphoto.com
 https://debdom.com
 https://debgen.fr
-https://debian.org/doc/manuals/debian-reference/ | Ubuntu
+https://debian.org/doc/manuals/debian-reference/| Ubuntu
 https://debrid-file.com/
 https://debrid-link.fr/webapp/register
 https://debrid.cracking.ml
@@ -1801,10 +1800,10 @@ https://dfile.space/OFY8
 https://dfirdiva.com/youtube-channels/
 https://dgchost.net/dedicatedserver/cr_dediserver.php
 https://dht.chylex.com
-https://diafygi.github.io/webrtc-ips/‌‌
+https://diafygi.github.io/webrtc-ips/
 https://diamondbuild.xyz
 https://dibamv.pw
-https://diedart.com/ - timing out
+https://diedart.com/- timing out
 https://diep.io
 https://dietpi.com
 https://diffnow.com
@@ -1815,8 +1814,8 @@ https://diggza.com
 https://digi.ninja/projects/bucket_finder.php
 https://digi.vatlib.it
 https://digiato.com/feed/
-https://digimovie.fun =>بدون فیلتر شکن وارد شوید
-https://digimovie.rip =>بدون فیلتر شکن وارد شوید
+https://digimovie.fun =>  
+https://digimovie.rip =>  
 https://digimoviez.prowww.sam-serial1.mlwww.lavinmovie1.com
 https://digimoviez1.xyz/the-social-dilemma-2020/
 https://digitalattackmap.com
@@ -1848,7 +1847,7 @@ https://discord.gg/QgxDFuE
 https://discord.gg/YkApH7Z
 https://discord.gg/kDsZfGc
 https://discord.gg/pjfYkmbq69
-https://discord.gg/wdjtevG - /r/controllablewebcams' discord
+https://discord.gg/wdjtevG -/r/controllablewebcams' discord
 https://discord.id
 https://discordbots.org
 https://discordservers.me
@@ -1881,7 +1880,7 @@ https://dl3.golchinup.ir/
 https://dl3.perserver.site
 https://dl3.soft98.ir/os/Phoenix.ROC.v5.rar?1615890292
 https://dl3.soft98.ir/os/PrimeOS.0.4.5.Classic.rar?1615902512
-https://dl3.tvto.ga/ There 5 servers on this site, can change the number in the url accordingly
+https://dl3.tvto.ga/There 5 servers on this site, can change the number in the url accordingly
 https://dl4.golchinup.ir
 https://dl4.perserver.site
 https://dl5.perserver.site
@@ -1890,8 +1889,8 @@ https://dlfeb.com
 https://dlroozane.net
 https://dlupload.com
 https://dmca.gripe
-https://dmca.gripe/ - 1025MB
-https://dmca.gripe/1 GB∞ ?Slow as hell but basically bulletproof
+https://dmca.gripe/- 1025MB
+https://dmca.gripe/1 GB ?Slow as hell but basically bulletproof
 https://dmoztools.net
 https://dmoztools.net/
 https://dmzhost.co
@@ -1946,7 +1945,7 @@ https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BG
 https://docs.inlets.dev
 https://docs.ipfs.io
 https://docs.libp2p.io
-https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/●▬۩❁
+https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/
 https://docs.microsoft.com/en-us/learn/modules/basic-python-nasa/13. Count the number of Moon rocks by type using Python
 https://docs.microsoft.com/en-us/learn/modules/count-moon-rocks-python-nasa/14. Code control statements in Python
 https://docs.microsoft.com/en-us/learn/modules/django-get-started/5. Architect full-stack applications and automate deployments with GitHub
@@ -1955,7 +1954,7 @@ https://docs.microsoft.com/en-us/learn/modules/install-code-tools-python-nasa/17
 https://docs.microsoft.com/en-us/learn/modules/intermediate-python-nasa/15. Introduction to Python for space exploration
 https://docs.microsoft.com/en-us/learn/modules/intro-to-python/3. Take your first steps with Python
 https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/16. Install coding tools for Python development
-https://docs.microsoft.com/en-us/learn/modules/plan-moon-mission-using-python-pandas/ Intermediate
+https://docs.microsoft.com/en-us/learn/modules/plan-moon-mission-using-python-pandas/Intermediate
 https://docs.microsoft.com/en-us/learn/modules/predict-meteor-showers-using-python/22. Plan a Moon mission by using Python pandas
 https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/8. Iterate through code blocks by using the while statement
 https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/4. Get started with Django
@@ -1976,7 +1975,7 @@ https://docs.microsoft.com/en-us/learn/paths/python-partnership/21. Predict mete
 https://docs.microsoft.com/en-us/windows/security/
 https://docs.nekmo.org/dirhunt/installation.html
 https://docs.nekmo.org/dirhunt/usage.html
-https://docs.python-guide.org/ - Book
+https://docs.python-guide.org/- Book
 https://docs.python.org/3/tutorial/index.html - Book
 https://docs.replit.com/repls/web-hosting
 https://docs.rsshub.app/en/
@@ -1989,7 +1988,7 @@ https://docs.waydro.id/faq/get-waydroid-to-work-through-a-vm
 https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1
 https://doctoolhub.com
 https://documentingreality.com/forum
-https://documentingreality.com/forum/ - heavily rate-limited forum
+https://documentingreality.com/forum/- heavily rate-limited forum
 https://docupub.com/pdfcompress
 https://dogehouse.tv
 https://dognzb.cr
@@ -2003,9 +2002,9 @@ https://dominio.gq
 https://donation-tracker.de
 https://dontdo.herokuapp.com
 https://donw.io
-https://donyayeserial.com =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-https://donyayeserial.com/️VinadDL
-https://donyayeserial.site =>بدون فیلتر شکن وارد شوید
+https://donyayeserial.com =>  
+https://donyayeserial.com/VinadDL
+https://donyayeserial.site =>  
 https://doodlecricket.github.io/index.html Desc: click anywhere to start goal is to hit a ball
 https://doodrive.com
 https://doodstream.com
@@ -2023,7 +2022,7 @@ https://download1626.mediafire.com/3ek14kupz4jg/he4p7muxuumsl3z/vcruntime140.dll
 https://downloadbandcamp.com
 https://downloader.la
 https://downloadhelper.net
-https://downloadly.ir/software/optimizer/windows-10-manager/ برید و آپدیت خودکار برنامه های ویندوز استور رو خاموش کنید
+https://downloadly.ir/software/optimizer/windows-10-manager/  
 https://downloadmusicschool.com/bandcamp
 https://downloadpsd.cc
 https://downloadrooz.pro
@@ -2066,7 +2065,7 @@ https://drop.me
 https://dropapk.com
 https://dropapk.to
 https://dropapk.to/5 GB?$
-https://dropbox.com2 GB∞ $
+https://dropbox.com2 GB $
 https://dropmb.com
 https://drunkenslug.com
 https://dshte6knsgkuqfwsg2i2ingfpsqn7b2pbg2bk5kve77hiyeg4zc7xvqd.onion/index.php
@@ -2083,13 +2082,13 @@ https://dutafilm.com
 https://duudl3.xyz/defcad.html
 https://dwservice.net
 https://dxd.moe
-https://dxd.moe/ - 500MB
+https://dxd.moe/- 500MB
 https://dynadot.com
 https://dynamicssh.com
 https://e-hentai.org
 https://e.ciusan.com
 https://earth.nullschool.net
-https://earthcam.com/ - official webcams from around the world
+https://earthcam.com/- official webcams from around the world
 https://earthly.dev
 https://easy-leech.to
 https://easyautocomplete.com/example/duckduckgo-ajax-api
@@ -2119,7 +2118,7 @@ https://ebooks.betamode.dev
 https://eccouncil.org
 https://ecosia.org
 https://ecosia.org/
-https://ecosia.org/ - جستجوی خصوصی بینگ
+https://ecosia.org/-  
 https://ecraft2learn.github.io/ai/
 https://ecstatic-mayer-972003.netlify.app/
 https://edavis.github.io/hnrss
@@ -2133,7 +2132,7 @@ https://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion.
 https://edu.thregence.ir/what-is-kernel/
 https://edumail.icu
 https://edx.org
-https://edx.org/ -->EdX Free courses from top universities, pay for a verified certificate. EdX certificates are probably the most valuable certificates here.
+https://edx.org/-->EdX Free courses from top universities, pay for a verified certificate. EdX certificates are probably the most valuable certificates here.
 https://edxp.meowcat.org
 https://eff.org/files/2017/08/02/domain_registry_whitepaper.pdf
 https://eff.org/issues/file-sharing/subpoena-defense
@@ -2183,7 +2182,7 @@ https://emupedia.net/beta/emuos
 https://en-academic.com/dic.nsf/enwiki/1406788
 https://en.altervista.org
 https://en.aptoide.com/
-https://en.aptoide.com/ , Apkpure
+https://en.aptoide.com/, Apkpure
 https://en.cppreference.com/w
 https://en.ddl.me
 https://en.fawproject.com/Forensic Webpages
@@ -2196,9 +2195,9 @@ https://en.m.wikipedia.org/wiki/Free_and_open-source_software
 https://en.m.wikipedia.org/wiki/GNU/Linux Wikipedia
 https://en.m.wikipedia.org/wiki/Linux
 https://en.m.wikipedia.org/wiki/List_of_BSD_operating_systems
-https://en.m.wikipedia.org/wiki/Media_Transfer_Protocol" یا به اختصار "MTP" عه، ویکی پدیا رو لینک کردم و هر چیزی که ساخت دست مایکروسافت باشه به راستی آشغاله!
+https://en.m.wikipedia.org/wiki/Media_Transfer_Protocol"  "MTP"  !
 https://en.m.wikipedia.org/wiki/Poe's_law
-https://en.m.wikipedia.org/wiki/TRIX_operating_system نیست همینطور GNU Hurd مفید است :
+https://en.m.wikipedia.org/wiki/TRIX_operating_system  GNU Hurd  :
 https://en.m.wikipedia.org/wiki/Underhanded_C_Contest
 https://en.metadedi.net
 https://en.metal-tracker.com
@@ -2217,15 +2216,15 @@ https://en.wikipedia.org/wiki/Denuvo
 https://en.wikipedia.org/wiki/Google_Fuchsia
 https://en.wikipedia.org/wiki/Haskell -->Haskell for free. No certificates.
 https://en.wikipedia.org/wiki/Joanna_Rutkowska
-https://en.wikipedia.org/wiki/List_of_file_systems از فایل سیستم وجود دارن، هر کدوم مزیت، معایب خودشون رو دارن
+https://en.wikipedia.org/wiki/List_of_file_systems  
 https://en.wikipedia.org/wiki/List_of_podcatchers
 https://en.wikipedia.org/wiki/Macintosh
 https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Obfuscation_software
-https://en.wikipedia.org/wiki/Phil_Zimmermann نرم‌افزاری رو عرضه کرد که چهرهٔ حریم خصوصی رو برای همیشه تغییر و دنیا رو در مسیری تازه قرار داد. در این مطلب خواهیم دید نتیجهٔ سال‌ها تلاش و فداکاری یک نفر چطور رمزنگاری رو از سلطهٔ دولت‌ها خارج و به دست مردم عادی رسوند.
-https://en.wikipedia.org/wiki/Richard_Stallman بیان شده اند. البته این مشکلات آنچنان جدی نیستند و تنها مختص به original/4-clause BSD License هستند. در واقع BSD License های جدید چنین مشکلی که در آن مقاله ذکر شد را ندارند !
+https://en.wikipedia.org/wiki/Phil_Zimmermann  .  .
+https://en.wikipedia.org/wiki/Richard_Stallman  .  original/4-clause BSD License .  BSD License  !
 https://en.wikipedia.org/wiki/The_Dawn_of_the_Black_Hearts
-https://en.wikipedia.org/wiki/Volatility%252C_uncertainty%252C_complexity_and_ambiguity زندگی می کنیم، یعنی روند تغییر جهان مثل گذشته خطی نیست، پس انسان ها باید منعطف تر بشن و سریعتر به تغییرات جهان واکنش نشون بدن !
+https://en.wikipedia.org/wiki/Volatility%252C_uncertainty%252C_complexity_and_ambiguity  !
 https://en.wikipedia.org/wiki/Wikipedia:Database_download
 https://en.wikiversity.org/wiki/Portal:Research -->conducts its own research and
 https://en.wikiversity.org/wiki/WikiJournal_User_Group -->publishes its own journals! No certificates of course.
@@ -2251,7 +2250,7 @@ https://epicbrowser.com
 https://epicport.com/en/caesar3
 https://epicport.com/en/dune2
 https://epicport.com/en/xcom
-https://epicroadtrips.us/2003/summer/nola/nola_offsite/FQ_en.wikipedia.org/en.wikipedia.org/wiki/List_of_shock_sites.html /
+https://epicroadtrips.us/2003/summer/nola/nola_offsite/FQ_en.wikipedia.org/en.wikipedia.org/wiki/List_of_shock_sites.html/
 https://epik.com
 https://epochconverter.com
 https://eporner.com
@@ -2297,7 +2296,7 @@ https://ewora.blogspot.com/
 https://excalidraw.com
 https://exchange.xforce.ibmcloud.com
 https://exifpurge.com
-https://exiftool.org/ Photo Metadata
+https://exiftool.org/Photo Metadata
 https://exitscam.show
 https://exitscam.show/
 https://exodus-privacy.eu.org/en/
@@ -2324,7 +2323,7 @@ https://ext.to
 https://extensions.libreoffice.org
 https://extremedownload.org
 https://eyedex.org
-https://eyedex.org/ Search The Eye
+https://eyedex.org/Search The Eye
 https://eyeofjustice.com/od
 https://eyeofjustice.com/od/
 https://eyepaste.com/mailsucker.net
@@ -2334,10 +2333,10 @@ https://ezhevika.blogspot.com
 https://ezlive.tv
 https://eztv.io
 https://eztv.io/ezrss.xml
-https://eztvs.online =>با فیلترشکن وارد شوید برای دانلود فیلترشکن را خاموش کنید
+https://eztvs.online =>  
 https://eztvs.xyz
 https://ezzocard.com
-https://f-droid.org/ , Aptoide
+https://f-droid.org/, Aptoide
 https://f-droid.org/en/packages/apps.amine.bou.readerforselfoss/
 https://f-droid.org/en/packages/com.nononsenseapps.feeder/
 https://f-droid.org/en/packages/com.poloure.simplerss/
@@ -2352,13 +2351,12 @@ https://f-droid.org/packages/org.xbmc.kodi/
 https://f-droid.org/repo/com.tnibler.cryptocam_15.apk
 https://f.scriptz-team.info
 https://f.vision
-https://f2m.site =>بدون فیلتر شکن وارد شوید
-https://f2m.site/️SalamDL
+https://f2m.site =>  
+https://f2m.site/SalamDL
 https://f95zone.to - sex mods, games and everything else where you put your virtual dick into stuff
-https://fa.m.wikipedia.org/wiki/تچان_روانشناسی
-https://fa.m.wikipedia.org/wiki/رخنه‌گر
-https://fa.m.wikipedia.org/wiki/هکر
-https://fa.wikipedia.org/wiki/جدول_رنگین‌کمانی
+https://fa.m.wikipedia.org/wiki/_
+https://fa.m.wikipedia.org/wiki/
+https://fa.wikipedia.org/wiki/_
 https://fabiensanglard.net
 https://facebook.com/TheOfficeExtended
 https://fact.directory
@@ -2392,14 +2390,14 @@ https://fcportables.com
 https://featherwallet.org
 https://federacy.com
 https://fediverse.party
-https://fediverse.party/en/miscellaneous/ می توانید پیدا کنید.
+https://fediverse.party/en/miscellaneous/  .
 https://feed-me-up-scotty.vincenttunru.com
 https://feed.eugenemolotov.ru
 https://feed.mikle.com/support/rss-feed-sources-online-news-sites
 https://feed2json.org/convert?url=
-https://feed43.com/ demo:
+https://feed43.com/demo:
 https://feedbridge.notmyhostna.me/
-https://feedbucket.com/ web-based service
+https://feedbucket.com/web-based service
 https://feeder.co/knowledge-base/rss-content/rss-lists-popular-and-useful-rss-feeds
 https://feedex.net
 https://feedgen.kiesow.be/
@@ -2416,7 +2414,7 @@ https://feeds.japan.cnet.com/rss/cnet/lessig.rdf
 https://feeds.pub/explore
 https://feeds.simplecast.com/ID
 https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss
-https://feedsearch.dev/ using
+https://feedsearch.dev/using
 https://feedsub.com
 https://feedsubs.com/
 https://feedvalidator.org/check.cgi?url=
@@ -2443,16 +2441,16 @@ https://filebot.net
 https://filechef.com
 https://filechef.com/
 https://filecr.com
-https://filecr.com/ , sanet.st
+https://filecr.com/, sanet.st
 https://filecrypt.cc/Create.html
 https://filedropper.com/5 GB?
 https://filefactory.com
 https://filefactory.com/5 GB30 Days* $
 https://fileforums.com
 https://filehosting.org/??
-https://filehosting.org/∞"at least 20 days"
+https://filehosting.org/"at least 20 days"
 https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches
-https://filelisting.com/ - جستجوی تورنت
+https://filelisting.com/-  
 https://filen.io
 https://filepursuit.com/
 https://filerio.in/10 GB?
@@ -2502,20 +2500,20 @@ https://filestash.app
 https://filestreame.me
 https://fileup.pro
 https://filewish.com
-https://film1sun.pw =>بدون فیلتر شکن وارد شوید
-https://film2media.mobi =>بدون فیلتر شکن وارد شوید
+https://film1sun.pw =>  
+https://film2media.mobi =>  
 https://film2media.pw
 https://film2media.website
 https://film2serial.ir
-https://film2sun.fun =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-https://film2sun.fun/️TehranFilm
-https://filmban.site/️S2-Movie
-https://filmban.top =>بدون فیلتر شکن وارد شوید
-https://filmban.xyz =>بدون فیلتر شکن وارد شوید
+https://film2sun.fun =>  
+https://film2sun.fun/TehranFilm
+https://filmban.site/S2-Movie
+https://filmban.top =>  
+https://filmban.xyz =>  
 https://filmbazan.pro
-https://filmgozar.fun =>بدون فیلتر شکن وارد شوید
+https://filmgozar.fun =>  
 https://filmgozar.space
-https://filmirn.xyz =>بدون فیلتر شکن وارد شوید
+https://filmirn.xyz =>  
 https://filmlicious.net
 https://filmon.com/channel/2966?utm_source=filmon_iframe&utm_medium=filmon_iframe&utm_term=June2017&utm_content=redirect_channel&utm_campaign=redirect_channel&affid=66747Hg
 https://filmon.com/channel/challenge
@@ -2526,7 +2524,7 @@ https://finalmovie.zone
 https://financialoasis.club
 https://findsounds.com
 https://findstarlink.com
-https://findsubdomains.com/ - really fast subdomains scanning service that has much greater opportunities than simple subs finderworks using OSINT.
+https://findsubdomains.com/- really fast subdomains scanning service that has much greater opportunities than simple subs finderworks using OSINT.
 https://fingerprintjs.com
 https://fireball.de
 https://firebog.net
@@ -2551,7 +2549,7 @@ https://fleek.co
 https://flexget.com
 https://flickr.com/services/feeds/photos_public.gne?format=atom
 https://flightradar24.com
-https://flightradar24.com/ Flight Radar - Live.
+https://flightradar24.com/Flight Radar - Live.
 https://flimade.com
 https://flipchart.peerpad.net
 https://flipgrid.com/cassiozen
@@ -2597,7 +2595,7 @@ https://forum.chknet.cc
 https://forum.cstalking.tv
 https://forum.darkwebsolutions.com
 https://forum.deathaddict.co/forums/-/index.rss The forum index
-https://forum.deathaddict.co/forums/isis.56/ ->
+https://forum.deathaddict.co/forums/isis.56/->
 https://forum.deathaddict.co/forums/isis.56/index.rss
 https://forum.exetools.com
 https://forum.exploit.in
@@ -2611,7 +2609,7 @@ https://forum.mobilism.org/app
 https://forum.mobilism.org/viewforum.php?f=120
 https://forum.openbullet.dev
 https://forum.reverse4you.org
-https://forum.ru-board.com/ , Aiowares
+https://forum.ru-board.com/, Aiowares
 https://forum.sec.army
 https://forum.sexy-egirls.com
 https://forum.snahp.it
@@ -2627,7 +2625,7 @@ https://forums.digitalpoint.com
 https://forums.grsecurity.net/viewtopic.php?f=7&t=4309, forum post by Brad Spengler about the infamous WaPo article on Linux security
 https://forums.hak5.org
 https://forums.mvgroup.org
-https://forums.mydigitallife.net/ , Getintopc
+https://forums.mydigitallife.net/, Getintopc
 https://forums.sexy-youtubers.com
 https://forums.somethingawful.com
 https://forums.untangle.com
@@ -2650,7 +2648,7 @@ https://foundshit.com/
 https://fountainofdreams.net
 https://four.driveindex.ga
 https://foxmovie.casa
-https://foxtonforensics.com/browser-history-capturer/ Browser History
+https://foxtonforensics.com/browser-history-capturer/Browser History
 https://fq.lonxin.net
 https://fraidyc.at
 https://fraudstercrew.su
@@ -2677,7 +2675,7 @@ https://freebookspot.es
 https://freebox.us.to:8989
 https://freebsd.org
 https://freecarrierlookup.com
-https://freecodecamp.org/ -->Freecodecamp Free courses on web design 300+ hours each with free certificates. Incredibly streamlined.
+https://freecodecamp.org/-->Freecodecamp Free courses on web design 300+ hours each with free certificates. Incredibly streamlined.
 https://freecodecamp.org/learn
 https://freecoursesite.com
 https://freedomain.co.nr
@@ -2745,7 +2743,7 @@ https://fsi-languages.yojik.eu
 https://fssquad.com/
 https://ftr.fivefilters.org/
 https://fu.stgod.com
-https://fuchsia.dev/ / Wikipedia
+https://fuchsia.dev//Wikipedia
 https://fuchsia.dev/fuchsia-src/contribute/community/get-involved#join_a_discussion_group
 https://fuckgfw.tk
 https://fuckingscan.me
@@ -2774,21 +2772,21 @@ https://g1.ipcamlive.com/player/player.php?alias=5b56517614100 - ipcamlive.com e
 https://g7r.com
 https://gain.gg
 https://gainsec.com
-https://game-theory-class.org/ -->Game Theory Online Nice little lecture series on game theory that is both standalone on
+https://game-theory-class.org/-->Game Theory Online Nice little lecture series on game theory that is both standalone on
 https://gamecopyworld.eu/games/index.php
 https://gamedev8.github.io/js-sfa/default.htm
 https://gamedva.com
 https://gamefaqs.gamespot.com
 https://gamermine.com
 https://games4u.freesite.host
-https://gametheory101.com/courses/ -->Game Theory 101 Actually has a ton of free video courses ranging from logic to international relations. No certificates but full of good, useful, dense information.
+https://gametheory101.com/courses/-->Game Theory 101 Actually has a ton of free video courses ranging from logic to international relations. No certificates but full of good, useful, dense information.
 https://gametracker.com
 https://gaming.stackexchange.com/questions/254631/difference-between-cl-interp-ratio-1-and-2
 https://gamingonlinux.com/2021/10/nvidia-beta-4952905-rolls-out-with-gbm-for-expanded-wayland-support/
 https://gamingonlinux.com/article_rss.php
 https://gamingonlinux.com/wiki/Main_Page
 https://gamulator.com
-https://gang.moe/ - 10000MB
+https://gang.moe/- 10000MB
 https://ganool.xyz
 https://garage4hackers.com
 https://garanntor.us
@@ -2833,7 +2831,7 @@ https://geniusguard.com
 https://geo-fs.com
 https://geocities.restorativland.org
 https://geocreepy.com/
-https://geoguessr.com/ - Randomly placed somewhere in the world on google maps. Try to guess the location as close as possible.
+https://geoguessr.com/- Randomly placed somewhere in the world on google maps. Try to guess the location as close as possible.
 https://gerbera.io
 https://get.posixcertified.ieee.org/
 https://get4all.org
@@ -2876,7 +2874,7 @@ https://gfxdownload.com
 https://gfxmountain.com
 https://gfxtra31.com
 https://gfycat.com/discretenarrowgermanwirehairedpointer
-https://gg.fm/ - 512MB
+https://gg.fm/- 512MB
 https://gh.ctemplar.com
 https://ghacks.net/
 https://ghacks.net/2019/05/10/simple-ping-blocker-for-firefox
@@ -2898,7 +2896,7 @@ https://gigaleecher.com
 https://gigsgigscdn.com
 https://gigsgigscloud.com/premium-china-kvm-vps
 https://giitit.com
-https://gikradio.com/ربات دانلود برنامه‌های رادیوییبه زبان‌های مختلف:
+https://gikradio.com/  :
 https://ginernet.com/en
 https://gingadaddy.com
 https://girlsprin3pqjyqk.onion
@@ -2934,7 +2932,7 @@ https://gitcoin.co
 https://gitcomp.com
 https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
 https://gitexplorer.com
-https://gitgud.io/cathugger/mkp224o /
+https://gitgud.io/cathugger/mkp224o/
 https://gitgud.io/cathugger/mkp224o/blob/master/main.c#L81
 https://github.blog
 https://github.com
@@ -3041,15 +3039,15 @@ https://github.com/ExeCsrss/EzWindSLIC
 https://github.com/Eyevinn/hls-relay
 https://github.com/FChannel0
 https://github.com/FOSSFA/UFC-IRAN
-https://github.com/FQrabbit/SSTap-Rule/releases/download/SSTap常用版本及去广告/SSTap-beta-setup-1.0.9.7.exe.7z
-https://github.com/FQrabbit/SSTap-Rule/releases/download/SSTap常用版本及去广告/SSTap-beta-setup-1.1.0.1.exe.7z
+https://github.com/FQrabbit/SSTap-Rule/releases/download/SSTap/SSTap-beta-setup-1.0.9.7.exe.7z
+https://github.com/FQrabbit/SSTap-Rule/releases/download/SSTap/SSTap-beta-setup-1.1.0.1.exe.7z
 https://github.com/FaisalUmair/udemy-downloader-gui
 https://github.com/Finitebottutu/botkaca
-https://github.com/FlameOfIgnis/Pwdb-Publicgeeekgirls ❁۩▬●
+https://github.com/FlameOfIgnis/Pwdb-Publicgeeekgirls 
 https://github.com/Flood-UI/flood
 https://github.com/FlorianHeigl/cms-explorer
 https://github.com/FluxionNetwork/fluxion
-https://github.com/Fndroid/clash_for_windows_pkg/releases/ Clash
+https://github.com/Fndroid/clash_for_windows_pkg/releases/Clash
 https://github.com/FredJul/Flym
 https://github.com/FreshRSS/FreshRSS
 https://github.com/Frug/AJAX-Chat
@@ -3098,7 +3096,7 @@ https://github.com/Kkevsterrr/geneva
 https://github.com/Knallli/lolisafe
 https://github.com/KoalaBear84/OpenDirectoryDownloader/
 https://github.com/KoalaBear84/OpenDirectoryDownloader/releases
-https://github.com/KoalaBear84/OpenDirectoryDownloader> /user/KoalaBear84/ typically provides these in the comments of an OD post on reddit too
+https://github.com/KoalaBear84/OpenDirectoryDownloader>/user/KoalaBear84/typically provides these in the comments of an OD post on reddit too
 https://github.com/Kombustor/rss-fulltext-proxy retrieves full-text content
 https://github.com/Lallassu/gorss another cli feed reader
 https://github.com/LandGrey/pydictors://github.com/sc0tfree/mentalist
@@ -3190,7 +3188,7 @@ https://github.com/TeaSpeak/TeaSpeak
 https://github.com/TeamNewPipe/NewPipe
 https://github.com/TeamPiped/Piped/wiki/Instances
 https://github.com/TeleTux/TeleTux/
-https://github.com/Telegram-FOSS-Team/Telegram-FOSSهمون تلگرام رسمیه ولی به جا بعضی کتابخونه های سورس بسته از اوپن سورس اش استفاده‌ میکنه، به عبارتی از تلگرام اصلی امن تره....
+https://github.com/Telegram-FOSS-Team/Telegram-FOSS  ....
 https://github.com/The-Lynx-Team/OSCP
 https://github.com/TheAlgorithms/Python
 https://github.com/TheCaduceus
@@ -3206,7 +3204,7 @@ https://github.com/Triefr/tribler/graphs/contributors
 https://github.com/TryGhost/Ghost
 https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/
 https://github.com/UnluckyLuke/supercharge-magnet-links
-https://github.com/UsergeTeam/Userge۲- ویکی
+https://github.com/UsergeTeam/Userge- 
 https://github.com/VBPXKSMI/Open-CYOAI-Project/wiki comprehensive wiki about AI Dungeon 2's functionality
 https://github.com/ValdikSS/GoodbyeDPI
 https://github.com/ValdikSS/GoodbyeDPI#similar-projects
@@ -3219,7 +3217,7 @@ https://github.com/WorldBrain/Memex
 https://github.com/X4BNet/lists_stopforumspam
 https://github.com/X4BNet/lists_torexit
 https://github.com/X4BNet/lists_vpn
-https://github.com/XTLS/AnXray/releases/ Anxray
+https://github.com/XTLS/AnXray/releases/Anxray
 https://github.com/Xyfir/ptorx
 https://github.com/Y-Vladimir/SmartDeblur Video Enhancer
 https://github.com/YoRyan/nuxhash
@@ -3297,7 +3295,7 @@ https://github.com/beardlyness/NGINXY
 https://github.com/beardog108/MicroTXT
 https://github.com/belay-labs/gpt-explorer
 https://github.com/benbusby/whoogle-search#public-instances
-https://github.com/benbusby/whoogle-search#public-instances استفاده کنید
+https://github.com/benbusby/whoogle-search#public-instances  
 https://github.com/benbusby/whoogle-search#screenshots
 https://github.com/bendodson/Steam-RSS
 https://github.com/benwilber/boltstream
@@ -3325,7 +3323,7 @@ https://github.com/can1357/NoVmp
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 https://github.com/casualsnek/waydroid_script
 https://github.com/catamphetamine/captchan
-https://github.com/cathugger/mkp224o /
+https://github.com/cathugger/mkp224o/
 https://github.com/causefx/iDashboard-PHP
 https://github.com/cbosdo/rocketchat-dark
 https://github.com/celzero/rethink-app/releases/download/v0.5.3g/rethinkdns18.apk
@@ -3360,7 +3358,7 @@ https://github.com/custom-components/feedparser feed parser for home-assistant
 https://github.com/cypress-io/cypress
 https://github.com/d34dfr4m3/goDuck
 https://github.com/dail8859/NotepadNext
-https://github.com/damoeb/rss-proxy/ demo:
+https://github.com/damoeb/rss-proxy/demo:
 https://github.com/danielmiessler/SecLists
 https://github.com/danielmiessler/SecListss://github.com/berzerk0/Probable-Wordlists
 https://github.com/danmactough/node-feedparser
@@ -3652,8 +3650,8 @@ https://github.com/n1nj4sec/pupy
 https://github.com/n7olkachev/imgdiff
 https://github.com/nahamsec/HostileSubBruteforcer
 https://github.com/naiveHobo/InvoiceNet
-https://github.com/nbats/FMHY/wiki نسخه اصل بکاپ ها
-https://github.com/nbats/FMHYedit/ نسخه بروزتر ولی تمیز نی
+https://github.com/nbats/FMHY/wiki  
+https://github.com/nbats/FMHYedit/  
 https://github.com/ncarlier/nunux-reader
 https://github.com/nccgroup/solitude
 https://github.com/nerevu/riko
@@ -3802,7 +3800,7 @@ https://github.com/sireliah/dragit/releases/tag/v0.6.1
 https://github.com/sismics/reader demo:
 https://github.com/six2dez/OSCP-Human-Guide
 https://github.com/skahwah/wordsmiths://github.com/1N3/IntruderPayloads
-https://github.com/skx/rss2email/ golang port of the above
+https://github.com/skx/rss2email/golang port of the above
 https://github.com/skylot/jadx
 https://github.com/slicer69/doas
 https://github.com/sloonz/ua 'rss2json' tool
@@ -3896,7 +3894,7 @@ https://github.com/v2fly/v2ray-core/releases/
 https://github.com/v2raym/bifrostv/blob/master/BifrostV_v0.6.8.apk?raw=true bifrostv
 https://github.com/valentinxxx/nginxconfig.io
 https://github.com/vanhauser-thc/thc-hydra
-https://github.com/vantezzen/skip-silence برای مرورگرهای مبتنی بر موتور کرومیوم استفاده کنید.
+https://github.com/vantezzen/skip-silence  .
 https://github.com/vbuell/torram
 https://github.com/vcheckzen/FODI
 https://github.com/video-dev/hls.js/releases
@@ -3991,7 +3989,7 @@ https://gmailnator.com
 https://gmzorz.com/bo2dvars.html
 https://gnu.org
 https://gnu.org//linux
-https://gnu.org/licenses/bsd.html هم مشکلات BSD License از نظر شخص Richard Stallman
+https://gnu.org/licenses/bsd.html  BSD License  Richard Stallman
 https://gnu.org/philosophy/free-sw.en.html
 https://gnu.org/software/gdb
 https://gnu.org/software/hurd/history.html
@@ -4006,13 +4004,13 @@ https://gobolinux.org
 https://gobust.net/reg
 https://god-games.com
 https://godex.io
-https://godo.dev/tutorials/hugo-full-text-rss/ full text rss for hugo site
+https://godo.dev/tutorials/hugo-full-text-rss/full text rss for hugo site
 https://godownloadmovies.com
 https://gofile.io
 https://gofile.io/d/6Lrm0W
 https://gofile.io/d/HZMa9p
 https://gofile.io/d/MHr4Pr
-https://gofile.io/∞"indefinitely as long as they are active"< 100Mo = 30 days; > 100Mo = 7 days; "visit resets the counter"
+https://gofile.io/"indefinitely as long as they are active"< 100Mo = 30 days; > 100Mo = 7 days; "visit resets the counter"
 https://gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/page1
 https://gog.com/news/feed
 https://gogetssl.com/sslcerts/free-ssl
@@ -4021,16 +4019,16 @@ https://goggamespc7v6z5e.onion/rss
 https://gogunlocked.com
 https://gohost.kz/?language=english
 https://goindex.glitch.me
-https://golchindl-download.xyz =>بدون فیلترشکن وارد شوید
-https://golchindls.site =>بدون فیلترشکن وارد شوید
-https://golchindls.site/️BlueMoviee
+https://golchindl-download.xyz =>  
+https://golchindls.site =>  
+https://golchindls.site/BlueMoviee
 https://goldenaudiobooks.com
 https://gologin.com/
 https://gomovies.click
 https://goodlinks.app
 https://goodporn.to
 https://goodreports.com
-https://google.com/drive/15 GB∞ $
+https://google.com/drive/15 GB $
 https://google.com/keep
 https://google.com/search?q=how+to+use+google+search+engine+effectively+reddit
 https://google.com/search?q=intext:"Maximum+upload+size+per+file+is"
@@ -4041,7 +4039,7 @@ https://googulator.com
 https://gordonbrander.com/pattern
 https://gore.tube/
 https://gore.tube/videos/latest?page_id=1
-https://goregrish.com/ - deathaddict's shinier sibling
+https://goregrish.com/- deathaddict's shinier sibling
 https://gorejunkies.com/
 https://goringa.net
 https://gotham.chat
@@ -4068,7 +4066,7 @@ https://grc.com/initdisk.htm
 https://grc.com/securitynow.htm
 https://grc.com/sr/spinrite.htm
 https://greasyfork.org
-https://greasyfork.org/en برا اکثر سایتا
+https://greasyfork.org/en  
 https://greasyfork.org/en/scripts/396057-kawai-scripts-soundcloud-downloader
 https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser
 https://greasyfork.org/en/scripts/430593-recaptcha-solver-automatically-solves-recaptcha-in-browser
@@ -4103,7 +4101,7 @@ https://groups.google.com/njteamdrive |
 https://groups.io
 https://groupsense.io
 https://grow.google/certificates
-https://grsecurity.net/ پیشنهاد داده رو به کرنل لینوکس اضافه کرده است و تا حد ممکن با استفاده از busybox و musl و... attack surface را کم کرده است !
+https://grsecurity.net/  busybox  musl ... attack surface  !
 https://grsecurity.net/~spender/interview_notes.txt
 https://gstatic.com/ipranges/goog.json
 https://gt.kalli.st/kallist/kddit
@@ -4184,14 +4182,14 @@ https://hard-configurator.com
 https://hardbin.com
 https://hardenedbsd.org
 https://hardkernel.com/shop/odroid-n2-with-4gbyte-ram
-https://hashbang.sh — this one has very extensive server hardening ansible configuration paybooks on their github, very useful information for configuring shared shell access on your own server.
+https://hashbang.sh  this one has very extensive server hardening ansible configuration paybooks on their github, very useful information for configuring shared shell access on your own server.
 https://hashcat.net/forum/thread-6299.html
 https://hashkiller.co.uk/Tools/HashcatGUI
 https://hastebin.com/uqugosodud.php
-https://hastidl.cam =>بدون فیلتر شکن وارد شوید
+https://hastidl.cam =>  
 https://hat.sh
 https://haveibeenpwned.com
-https://haveibeenpwned.com/ and
+https://haveibeenpwned.com/and
 https://havenweb.org
 https://hawkturbo.com
 https://hax.tor.hu
@@ -4228,7 +4226,7 @@ https://hello.stgod.com
 https://hellopool.herokuapp.com
 https://help.ubuntu.com/lts/ubuntu-help/index.html#learn_linux
 https://hen-net.xyz
-https://henk.tech/aid/ AIDungeon 2 Unleashed, based on thadunge2's fork Version 2.0 Announcement:
+https://henk.tech/aid/AIDungeon 2 Unleashed, based on thadunge2's fork Version 2.0 Announcement:
 https://heracl.es
 https://herokuaria.herokuapp.com/wolfozzotorrent.herokuapp.com/#
 https://heroupload.com/10 GB?$
@@ -4318,7 +4316,7 @@ https://hurtmeetcphif532mvbxfrrufx7zedu2qnuhg3g5u44ob5bw7cohgwid.onion/index.php
 https://hushed.com/pricing
 https://hxt254aygrsziejn.onion.ly
 https://hybrid-analysis.com
-https://hybridpedagogy.org/ -->Hybrid Pedagogy on, you guessed it, music theory. No certificate.
+https://hybridpedagogy.org/-->Hybrid Pedagogy on, you guessed it, music theory. No certificate.
 https://hydrax.net
 https://hydrusnetwork.github.io/hydrus
 https://hymvz.shop
@@ -4342,7 +4340,7 @@ https://i.simonrahn.xyz
 https://ia803003.us.archive.org/19/items/myspace_dragon_hoard_searcher/viewer.html?q=ganglia&amp;amp;amp;amp;amp;id=141502
 https://ianjones.us/notes
 https://ibm.com/cloud/free
-https://ibm.com/security/digital-assets/cybersecurity-ops/terminal/ is a very high quality browser game from IBM. Allows you to understand the importance of cyber protection of CII facilities
+https://ibm.com/security/digital-assets/cybersecurity-ops/terminal/is a very high quality browser game from IBM. Allows you to understand the importance of cyber protection of CII facilities
 https://ibookpile.net
 https://ibotpeaches.github.io/Apktool
 https://ibradome.com
@@ -4354,13 +4352,13 @@ https://icculus.org/ut99-emscripten/flyby/wasm
 https://icelz.newsrade.com/olympics
 https://icons8.com
 https://icrazyblaze.github.io/Xash3D-Emscripten/xash.html
-https://icysleep.de/ - timing out
+https://icysleep.de/- timing out
 https://id9.cc
 https://ide.onelang.io
 https://identinator.to
 https://idhost.kz/site/index/lang/en
 https://idw.community
-https://ieee-security.org/TC/SP2019/papers/405.pdf نشان داد که هیچ کاری نمی توانید انجام دهید تا برخی از حملات اثر انگشت روی گوشی های هوشمند کاهش یابد
+https://ieee-security.org/TC/SP2019/papers/405.pdf  
 https://ieeexplore.ieee.org/document/7362260
 https://ievaphone.com
 https://ifaketextmessage.com
@@ -4381,7 +4379,7 @@ https://images2.imgbox.com/6c/33/T8FDii0L_o.png
 https://imcreator.com/free
 https://imdb.com/title/tt1492966/
 https://imdb.com/title/tt3268458 [2014]
-https://imdb.com/title/tt5242220 [2016–2019]
+https://imdb.com/title/tt5242220 [20162019]
 https://img2txt.com
 https://img42.com
 https://imgfo.com
@@ -4395,7 +4393,7 @@ https://imkmedia.com/watch/espn2
 https://immersivelabs.com
 https://immuniweb.com/free
 https://immuniweb.com/websec
-https://imouto.kawaii.su/ - 100MB
+https://imouto.kawaii.su/- 100MB
 https://imovies-dl6.site
 https://imperiya.to
 https://implbits.com/products/hashtab
@@ -4433,7 +4431,7 @@ https://inline-reddit.com/feed/?multireddit=security&user=goretsky
 https://inline-reddit.com/feed/?subreddit=crackwatch/new
 https://inloop.github.io/sqlite-viewer
 https://insecam.org
-https://insecam.org/en/ - massive ip cam directory
+https://insecam.org/en/- massive ip cam directory
 https://insecure.in
 https://inspirobot.me
 https://instafree.com
@@ -4476,8 +4474,8 @@ https://invidious.tiekoetter.com/watch?v=qn38zKqPCFE
 https://invited.tv
 https://iogames.space
 https://iosgods.com
-https://iostream.ir/articles/compilers/معرفی-کامپایلر-و-انواع-آن-r5/
-https://iostream.ir/entry/29-اسکریپتینگ-در-c/—————————————————
+https://iostream.ir/articles/compilers/-----r5/
+https://iostream.ir/entry/29---c/
 https://iotone.com
 https://ip-24.net/list.php - webcams
 https://ip-adress.com/ipaddresstolocation/
@@ -4513,10 +4511,10 @@ https://iranzirnevis.com
 https://irccloud.com
 https://iredmail.org
 https://irfanview.com
-https://irmo.website/ لیست سایت فیلم و سریال ایرانی
+https://irmo.website/  
 https://irssi.org
 https://is-never.online
-https://is-on-your.network/ - 512MB
+https://is-on-your.network/- 512MB
 https://is-your.pet
 https://isaidub.net
 https://isc.sans.edu/links.html
@@ -4524,7 +4522,7 @@ https://isearchfrom.com/
 https://isecauditors.com/herramientas-tinfoleak
 https://ish.app
 https://isical.ac.in/~pdslab/2016/lectures/bash_cheat_sheet.pdf
-https://isna.ir/news/1400080604295/گمنامی-کاربران-فضای-مجازی-یک-چالش-جدی-است
+https://isna.ir/news/1400080604295/-------
 https://isorepublic.com
 https://isotopium.com
 https://isthereanydeal.com
@@ -4555,7 +4553,7 @@ https://jam.systems
 https://james.darpinian.com/satellites
 https://jami.net
 https://jamieweb.net/blog/onionv3-vanity-address/
-https://jarr.info/ usr=5bnhbdk, pass=
+https://jarr.info/usr=5bnhbdk, pass=
 https://jasonbernier.com/oscp-review/
 https://javascript.info
 https://javascriptjob.xyz
@@ -4633,12 +4631,12 @@ https://kajiwoto.com
 https://kalilinux.in/2019/09/make-own-dark-website.html
 https://kangax.github.io/html-minifier
 https://kaotic.com
-https://kaotic.com/ - large video hosting site
+https://kaotic.com/- large video hosting site
 https://kartaview.org
 https://kaspermovies.me
 https://kast.gg
 https://kastapp.co
-https://katapult.io £100 Free Credit
+https://katapult.io 100 Free Credit
 https://katcafe.org
 https://katcr.co/new/full
 https://katmoviehd.nl [Download from filehosting and team drive]
@@ -4662,7 +4660,7 @@ https://keygenmusic.tk
 https://keyoneclick.com
 https://keypirinha.com
 https://kgay4all.com/seioqueseiporleroqueleio/
-https://khanacademy.org/ -->Khan Academy Tons of free courses with tons of useful content, particularly in math. No certificates.
+https://khanacademy.org/-->Khan Academy Tons of free courses with tons of useful content, particularly in math. No certificates.
 https://kickasstorrents.to
 https://killabee-gaming.com
 https://kindzadza.net
@@ -4689,8 +4687,8 @@ https://kmediatv.com
 https://knaben.net
 https://knewz.com
 https://knownorigin.io
-https://kodular.io/ بسازید
-https://koizora.moe/ - 50MB
+https://kodular.io/
+https://koizora.moe/- 50MB
 https://konghq.com/kong
 https://kongregate.com
 https://kore.io
@@ -4712,7 +4710,7 @@ https://lab.pentestit.ru
 https://labnol.org/internet/rss-feeds-directory/21242/
 https://labs.wizard-security.net
 https://lafand.com
-https://lagunita.stanford.edu/ -->Stanford Lagunita Free courses on advanced topics from <em>fucking Stanford</em> with free certificates.
+https://lagunita.stanford.edu/-->Stanford Lagunita Free courses on advanced topics from <em>fucking Stanford</em> with free certificates.
 https://lainchan.org
 https://lalal.ai
 https://lalal.ai/
@@ -4720,7 +4718,7 @@ https://lambdatest.com/
 https://lambdatest.com/Free RDP
 https://landgrab.xyz
 https://landzdown.com
-https://lanekelly.github.io/coldcut/ windows installer
+https://lanekelly.github.io/coldcut/windows installer
 https://languagedrops.com
 https://lanmessenger.github.io
 https://laracasts.com
@@ -4744,11 +4742,11 @@ https://leakreality.com
 https://leakreality.com/videos?type=featured
 https://leakth.is
 https://leapchat.org
-https://learn.saylor.org/ -->Saylor Academy It's been a <b>long</b> time since I used Saylor Academy but last I remember, they offered free courses, with free certificates, and the learning was pretty high-quality. It might have changed in the 6 or 7 years since I've used Saylor. But they're still advertising "Free, Modern Certificates" on their homepage so maybe not.
+https://learn.saylor.org/-->Saylor Academy It's been a <b>long</b> time since I used Saylor Academy but last I remember, they offered free courses, with free certificates, and the learning was pretty high-quality. It might have changed in the 6 or 7 years since I've used Saylor. But they're still advertising "Free, Modern Certificates" on their homepage so maybe not.
 https://learn.shayhowe.com/html-css
 https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing -->free certificate in digital marketing
 https://learndigital.withgoogle.com/digitalgarage/courses -->Google Digital Garage Tons of free and paid courses, with a pretty valuable
-https://learnpython.org/ - Interactive
+https://learnpython.org/- Interactive
 https://learnsecurity.amazon.com/
 https://leech-brasil.com
 https://leech.ae
@@ -4829,7 +4827,7 @@ https://libredirect.github.io/
 https://libredns.gr
 https://libreelec.tv
 https://libregamewiki.org/Main_Page
-https://librehunt.org/ | Distro Chooser
+https://librehunt.org/| Distro Chooser
 https://libreserver.org
 https://librespeed.org
 https://librestock.com
@@ -4853,7 +4851,7 @@ https://linkace.org
 https://linkgenerate.com
 https://linkirani.ir
 https://linkirani.ir/
-https://linkirani.ir/ وارد کنید که ببینید نیم بها هست یا نه!
+https://linkirani.ir/  !
 https://linkleech.net/#
 https://linklonk.com
 https://linkr.top
@@ -4861,12 +4859,12 @@ https://linksnappy.com
 https://linksvip.net
 https://linktr.ee
 https://linux.oracle.com/switch/centos
-https://linux.org/ Gnu Wikipedia
-https://linuxacademy.com/ | Linux Command
+https://linux.org/Gnu Wikipedia
+https://linuxacademy.com/| Linux Command
 https://linuxandubuntu.com/home/gnome-desktops?amp=1#Best_GNOME_Desktops
 https://linuxbook.ir
 https://linuxbook.ir/download.html
-https://linuxcommand.org/ | Linux Journey
+https://linuxcommand.org/| Linux Journey
 https://linuxfoundation.org
 https://linuxfromscratch.org/
 https://linuxgames.me
@@ -4874,7 +4872,7 @@ https://linuxgsm.com
 https://linuxjobs.io
 https://linuxjournal.com
 https://linuxjourney.com
-https://linuxjourney.com/ | Linux Survival
+https://linuxjourney.com/| Linux Survival
 https://linuxstory.ir/
 https://linuxstory.ir/justforfun_persian.pdf
 https://linuxsurvival.com/Wikipedia
@@ -4882,7 +4880,7 @@ https://linuxvaman.ir/
 https://lionssh.com/services/shadowsocks
 https://lionssh.com/services/vmess
 https://lisd.org/technology/itswebs/elem/curr/webcams.htm
-https://listenbox.app/ demo:
+https://listenbox.app/demo:
 https://listenbox.app/i/gbG5sTFjmMA requires registration, does not update for free
 https://listenlater.fm
 https://listennotes.com
@@ -4898,7 +4896,7 @@ https://live.soccerstreams.net/home
 https://livegore.com
 https://livegore.com/
 https://liveleak.com
-https://liveleak.com/ - some uploaders add context to their uploads
+https://liveleak.com/- some uploaders add context to their uploads
 https://livenewschat.eu
 https://livenewsmag.com
 https://livenewsmag.com/bbc-world-news-live-stream/
@@ -4934,7 +4932,7 @@ https://loki.network
 https://lokinet.org
 https://lolbeans.io
 https://loli.graphics
-https://loli.solutions/ -
+https://loli.solutions/-
 https://lolimknaduomuzdr.onion
 https://lolisafe.moe
 https://lolisare.life
@@ -4959,8 +4957,8 @@ https://lowendtalk.com/discussion/160841/new-all-in-one-gameserver-control-panel
 https://lowendtalk.com/discussion/173649/windows-lite-templates-support-bios-uefi-boot-kvm-xen-hyper-v-virtualization
 https://loyalfans.com
 https://loyalfans.com/
-https://lpf.pw/ -
-https://lrepacks.ru/ , Rsload
+https://lpf.pw/-
+https://lrepacks.ru/, Rsload
 https://ludotune.com
 https://lukasoppermann.github.io/html5sortable/index.html
 https://lulzbase.ru
@@ -4973,7 +4971,7 @@ https://lyrica.sio.pw/
 https://lyz-code.github.io/blue-book
 https://lyzem.com
 https://m.apkpure.com/
-https://m.apkpure.com/ , Apkmirror
+https://m.apkpure.com/, Apkmirror
 https://m.freeopenvpn.org/en
 https://m.freeopenvpn.org/en/
 https://m.freevpn4you.net/
@@ -4981,7 +4979,7 @@ https://m.kuku.lu/index.php
 https://m.liveonlinetv.org/external.php?title=Sky Sports&stream=skysportsf1-hq
 https://m.liveonlinetv247.info/external.php?title=BBC Two&stream=bbctwo-hq
 https://m.narpi.me
-https://m.narpi.me/ - 512MB
+https://m.narpi.me/- 512MB
 https://m.narpi.me/nojs - 100MB
 https://m.ok.ru/dk?st.cmd=accountRecoverFeedbackForm - shows part of the phone number, email, surname and full city with the registration date, use in the incognito tab;
 https://m.ok.ru/dk?st.cmd=accountRecoverFeedbackForm.
@@ -5025,7 +5023,7 @@ https://magnetdl.com
 https://magnetoo.io
 https://mahanmovie.com
 https://mahidl.pw
-https://mahifun.xyz/ لیست سایت های رایگان فیلم و سریال زیرنویس چسبیده فارسی، دوبله فارسی
+https://mahifun.xyz/  
 https://mail-tester.com
 https://mail.tm/en/
 https://mailcow.email
@@ -5058,13 +5056,13 @@ https://mangahub.io
 https://manjaro.org/download/architect
 https://manjaro.org/downloads/community/cinnamon/
 https://manjaro.org/img/editions/arm-kde-full.png
-https://manly.gachimuchi.men/ -
+https://manly.gachimuchi.men/-
 https://manojvivek.github.io/medium-unlimited
 https://mantisbt.org
 https://manybooks.net
 https://manytools.org
 https://manyvids.com
-https://mapchannels.com/ Unique Google Maps / Street View & Sync with YouTube.
+https://mapchannels.com/Unique Google Maps/Street View & Sync with YouTube.
 https://mapchart.net
 https://maple-hosting.com
 https://maple.pet/webgbcam
@@ -5082,7 +5080,7 @@ https://materialui.co
 https://matrix.org/docs/projects/try-matrix-now
 https://matt.traudt.xyz/posts/dont-
 https://mattermost.com
-https://mattw.io/youtube-geofind/location برای چنین کاری ایجاد شده است. یک نقطه از نقشه را انتخاب کنید و تمام ویدیوهایی که از این منطقه دانلود شده اند را مشاهده خواهید کرد.
+https://mattw.io/youtube-geofind/location  .  .
 https://maulvi.github.io
 https://max-leech.com
 https://mazterize.com
@@ -5134,7 +5132,7 @@ https://mega.nz/#!bTY1jITb!-k8oDpbGle5kQU7D8IuEjd81uoPY0kmh5I94St-1itQ
 https://mega.nz/#!eXJkgKjI!dyTJKIAUo_mYHS1Xu5jCKkTbL2v8tVgtugGtzut086E
 https://mega.nz/#!ebYT3IoT!p_6QdBHYFpJTU9KLAeeQakSROCuf3cduNvSldwNp_Cw
 https://mega.nz/#F!51ED1CSA!YbifAmboqSLCrr3Y78axqw trained models "made by anons"
-https://mega.nz/50 GB∞ $
+https://mega.nz/50 GB $
 https://mega.nz/file/PdhxBSZD#w-O3C-BAMwE4E02qPn_fSdTivILcE8hzk9PeyoXg7wU
 https://mega.nz/file/iDgw0QDC#JjZvljkTL5ohIjLWIy26pb_G_bSGSdPvQrQ9S5KKJsg
 https://mega.nz/file/oMliRaxC#Fb-7HAm4mn9HtdTCkMFZlalsIRfZTWFohn9bkqIV2dI
@@ -5162,8 +5160,8 @@ https://meilisearch.com
 https://melijn.me
 https://mellimovies.com
 https://melody.ml
-https://melovies.info =>بدون فیلتر شکن وارد شوید
-https://melovies.info/️My3eries
+https://melovies.info =>  
+https://melovies.info/My3eries
 https://memeatlas.com
 https://memecenter.com
 https://memeinsider.com
@@ -5184,7 +5182,7 @@ https://metadefender.opswat.com/
 https://metager.org
 https://metamask.io
 https://mewe.com
-https://mg-döner.de:8080
+https://mg-dner.de:8080
 https://michaelscepaniak.com/2020s/giving-to-freely-given-software-the-why
 https://micro-editor.github.io
 https://microcorruption.com
@@ -5194,7 +5192,7 @@ https://microsoft.com/en-us/software-download/mediafeaturepack
 https://microsoft.com/security/blog/
 https://microsoftedge.microsoft.com/addons/detail/admkpobhocmdideidcndkfaeffadipkc
 https://microsoftedge.microsoft.com/addons/detail/ankheondabfngkjomknppbpkjcdabdlg
-https://microsoftedge.microsoft.com/addons/detail/giglaifdfkimffokoomllcpmdjeomckf و Opera
+https://microsoftedge.microsoft.com/addons/detail/giglaifdfkimffokoomllcpmdjeomckf  Opera
 https://midi.moe
 https://midnightbsd.org
 https://migadu.com
@@ -5240,7 +5238,7 @@ https://missing.csail.mit.edu
 https://mixdrop.co
 https://mixdrop.co/f/mzfcqu
 https://mixloads.com
-https://mizbanfa.net/blog/other/what/cdn/ برای بهبود #حریم_خصوصی آنلاین شما تقلید می کند. ترافیک را رهگیری می کند
+https://mizbanfa.net/blog/other/what/cdn/  #_  .  
 https://mksorb.com/link-generator
 https://mkvcage.com
 https://mkvcage.nl
@@ -5251,7 +5249,7 @@ https://mmcors.autonio.foundation
 https://mmhmm.app
 https://mmnt.ru/int
 https://mmnt.ru/int/
-https://mmnt.ru/int/ - جستجوی FTP
+https://mmnt.ru/int/-  FTP
 https://mmoapi.com/cloudflare-ip-resolver
 https://mmsecurity.net/forum
 https://mmtstock.com
@@ -5260,18 +5258,18 @@ https://mob.org/en/android/games/tags/adventure
 https://mobexler.com/checklist.htm
 https://mobian-project.org
 https://mobilecount.cra.ir
-https://mobilecount.cra.ir مراجعه نمایید.
+https://mobilecount.cra.ir  .
 https://mobilemovies.me
 https://mobileread.com/forums
 https://mobileread.com/forums/ebooks.php?order=desc&sort=dateline
 https://mobilesms.io
 https://mobomovi.ir
 https://mobomovie.net
-https://mobomoviez.ir =>بدون فیلترشکن وارد شوید
-https://mobomoviez1.site =>بدون فیلتر شکن وارد شوید
-https://mobomoviez1.xyz/️Melovies
+https://mobomoviez.ir =>  
+https://mobomoviez1.site =>  
+https://mobomoviez1.xyz/Melovies
 https://mochi.cards
-https://moddingunited.xyz/ , Rockmods
+https://moddingunited.xyz/, Rockmods
 https://moddroid.co/temp-home
 https://modoboa.org/en
 https://mojeek.com
@@ -5290,7 +5288,7 @@ https://monkeytype.com
 https://monkrus.ws
 https://monova.org
 https://monthlyssh.com
-https://montmovie.co =>بدون فیلتر شکن وارد شوید
+https://montmovie.co =>  
 https://montmovie.co/
 https://moonlight-stream.org
 https://morene.host/en
@@ -5307,7 +5305,7 @@ https://movie-map.com/
 https://movie4k.dev
 https://moviecastblog.com
 https://moviecottage.xyz/
-https://moviecottage1.fun =>بدون فیلتر شکن وارد شوید
+https://moviecottage1.fun =>  
 https://movieddl.to
 https://moviemagnet.co
 https://movieminions.co
@@ -5320,7 +5318,7 @@ https://moviesverse.in
 https://moviewatcher.is
 https://movim.eu
 https://mozilla.cloudflare-dns.com/dns-query?name=t.me
-https://mozilla.org/en-US/firefox/new/ , Brave
+https://mozilla.org/en-US/firefox/new/, Brave
 https://mp3-youtube.download
 https://mp3-youtube.download/en
 https://mp3.pm
@@ -5380,14 +5378,14 @@ https://my.ishadowx.biz/
 https://my.new
 https://my.soccerstreams100.tv
 https://my2amidl.pw
-https://my3eries.bar =>بدون فیلتر شکن وارد شوید
-https://my3eries.net/️MontMovie
-https://my3eries.one =>بدون فیلتر شکن وارد شوید
+https://my3eries.bar =>  
+https://my3eries.net/MontMovie
+https://my3eries.one =>  
 https://my90stv.com
 https://myalmasmovie.com
 https://myazintv.xyz/
 https://mybrowseraddon.com/canvas-defender.html
-https://mybrowseraddon.com/canvas-defender.html پنهان کردن اثر انگشت واقعی را آسان می کند. به جای مسدود کردن کامل آن ، سرویس نویز تصادفی به آن اضافه می کند. خروجی یک اثر انگشت جعلی است که از شناسایی معتبر سایت توسط سایت جلوگیری می کند.
+https://mybrowseraddon.com/canvas-defender.html  .  .  .
 https://mycoolmoviez.net
 https://mydiba.me
 https://mydownloadtube.to
@@ -5395,10 +5393,10 @@ https://myemulator.online
 https://myfilmgozar.site
 https://myflixer.to
 https://myfreeocr.com/en
-https://mygemtio.cf/️IrMo
+https://mygemtio.cf/IrMo
 https://mygolchindl.icu
 https://mygoodstream.pw
-https://myhastidl.cam/️Bia2HD
+https://myhastidl.cam/Bia2HD
 https://myhastidl16.top
 https://myhastidl6.top
 https://myhastidl7.fun
@@ -5407,7 +5405,7 @@ https://mykingmoviz.best
 https://mykodram.xyz
 https://mylinkconverter.com
 https://mymovie3enter.info
-https://mymoviefilm.rest =>بدون فیلتر شکن وارد شوید
+https://mymoviefilm.rest =>  
 https://mynoise.net
 https://myri.io
 https://myrss.email/
@@ -5416,25 +5414,25 @@ https://mysatina.com
 https://myspace.thecthulhu.com/
 https://myssh.info
 https://mysterium.network
-https://mysterium.network/apps/ android, windows, linux تست نشده
+https://mysterium.network/apps/android, windows, linux  
 https://mystore.to
 https://myswissmailaddress.com/en
 https://mytemp.email
 https://mytunneling.com
 https://myupload.co
 https://myuploadedpremium.de
-https://myusb.ir =>سایت نیم بها برای لینک و فایل
+https://myusb.ir =>  
 https://myustv.com
-https://myvdl.xyz =>بدون فیلترشکن وارد شوید
+https://myvdl.xyz =>  
 https://myvpn.run
 https://n.exchange
 https://n0where.net
-https://n0where.net/wifijammer/ - Free program to jam all wifi clients in range
+https://n0where.net/wifijammer/- Free program to jam all wifi clients in range
 https://nab.cx
 https://nabble.com
 https://nafanz.github.io/cloudstorage.html
 https://nafanz.github.io/filesharing.html
-https://nafasmovie1.cf =>بدون فیلتر شکن وارد شوید
+https://nafasmovie1.cf =>  
 https://nakitcoins.com
 https://nakst.gitlab.io/essence
 https://namebase.io
@@ -5460,7 +5458,7 @@ https://nblog.org
 https://nbzzb6sa6xuura2z.onion.ly
 https://ncehk2019.github.io/nce-live
 https://nch.com.au/wavepad/index.html
-https://nch.pl/ 15gb
+https://nch.pl/15gb
 https://ndtv.com/topic/shocking-video
 https://negativespace.co
 https://neilpatel.com/ubersuggest
@@ -5471,7 +5469,7 @@ https://neomailbox.com/services/secure-email
 https://neovistas.net
 https://nerdfonts.com
 https://nesslabs.com/mind-garden
-https://nestcamdirectory.com/ - another webcam directory
+https://nestcamdirectory.com/- another webcam directory
 https://netboot.xyz
 https://netbsd.org
 https://netflixparty.com
@@ -5490,7 +5488,7 @@ https://neverware.com
 https://new.reddit.com/wiki/search
 https://newalbum.club
 https://newalbumreleases.net
-https://newalmasmovie3.xyz => بدون فیلتر شکن وارد شوید
+https://newalmasmovie3.xyz =>  
 https://newbiecontest.org
 https://newcomic.info
 https://newgamesbox.net
@@ -5525,7 +5523,7 @@ https://newsclapper.com
 https://newsit.benwinding.com
 https://newspaper.readthedocs.io/en/latest/
 https://nex1asia.ir
-https://nextcloud.com/sign-up/ ???? not working at moment
+https://nextcloud.com/sign-up/???? not working at moment
 https://nffs.tk
 https://nflfullhd.com
 https://nflstream.io/espn-live/stream-2
@@ -5558,7 +5556,7 @@ https://nixnet.services
 https://njal.la
 https://njal.la/blog/hijack/
 https://nmap.org
-https://nmap.org/ - Nmap Network Mapper is a security scanner
+https://nmap.org/- Nmap Network Mapper is a security scanner
 https://noamp.link
 https://noblechairs.com
 https://nocodb.com
@@ -5611,9 +5609,9 @@ https://now.lectronice.com
 https://nowagoal.xyz
 https://nowagoal.xyz/embed/ch51.php
 https://noxx.to
-https://nsaneforums.com/ , Filecr
-https://nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38™-generation
-https://nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38™-generation/ - Activate Windows 10 hassle free!* * - and posdibly other versions Delete it afterwards or you will be met with a nice message on boot
+https://nsaneforums.com/, Filecr
+https://nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38-generation
+https://nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38-generation/- Activate Windows 10 hassle free!* * - and posdibly other versions Delete it afterwards or you will be met with a nice message on boot
 https://nsw2u.org
 https://nswdb.com
 https://ntcore.com
@@ -5651,7 +5649,7 @@ https://nyaa.si/?page=rss
 https://nyaa.si/?s=seeders&o=desc
 https://nyanko.ws/nymphcast.php
 https://nyberway.com/us
-https://nylonbot.xyz/ - 100MB
+https://nylonbot.xyz/- 100MB
 https://nytimes.com/column/the-argument
 https://nzb.cat
 https://nzbfinder.ws
@@ -5683,7 +5681,7 @@ https://offensive-security.com/metasploit-unleashed
 https://offensive-security.com/metasploit-unleashed/
 https://offensivecommunity.net
 https://offers.internationalopenacademy.com/astrella/course/advanced-120-tefl-course
-https://offline-dino-game.firebaseapp.com/ Chrome dino game Desc: can't crouch on mobile so you will die to birds
+https://offline-dino-game.firebaseapp.com/Chrome dino game Desc: can't crouch on mobile so you will die to birds
 https://offshorecorptalk.com
 https://offshoreleaks.icij.org
 https://offshoremail.net
@@ -5700,7 +5698,7 @@ https://old.bigcat.space/
 https://old.reddit.com/r/AIDungeon/comments/eddu0k/
 https://old.reddit.com/r/DataHoarder/comments/9ir3v8/youtube_uploads_playlist_not_showing_all_uploads/
 https://old.reddit.com/r/FREEMEDIAHECKYEAH/comments/bhtgvd/firefox_addons_guide
-https://old.reddit.com/r/GrapheneOS/comments/bj1gpz/syzbot_and_the_tale_of_thousand_kernel_bugs/ | Pdf
+https://old.reddit.com/r/GrapheneOS/comments/bj1gpz/syzbot_and_the_tale_of_thousand_kernel_bugs/| Pdf
 https://old.reddit.com/r/HireaWriter/
 https://old.reddit.com/r/LiveTvLinks/
 https://old.reddit.com/r/MechanicalKeyboards/wiki/switch_guides
@@ -5719,13 +5717,13 @@ https://old.reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links
 https://old.reddit.com/r/TheSellSpot
 https://old.reddit.com/r/WorkOnline
 https://old.reddit.com/r/beermoney
-https://old.reddit.com/r/controllablewebcams/ - a subreddit on the topic
-https://old.reddit.com/r/controllablewebcams/comments/h0riz/ - google search terms
+https://old.reddit.com/r/controllablewebcams/- a subreddit on the topic
+https://old.reddit.com/r/controllablewebcams/comments/h0riz/- google search terms
 https://old.reddit.com/r/desktops
 https://old.reddit.com/r/forhire
 https://old.reddit.com/r/pathogendavid/comments/tv8m9/pathogendavids_guide_to_rss_and_reddit/
-https://old.reddit.com/r/podcasts/comments/75ilo5/do6tp5j/ 100 podcasts for "general" audiences
-https://old.reddit.com/r/podcasts/comments/aknnta/ 100+ fictional podcasts sorted by genre
+https://old.reddit.com/r/podcasts/comments/75ilo5/do6tp5j/100 podcasts for "general" audiences
+https://old.reddit.com/r/podcasts/comments/aknnta/100+ fictional podcasts sorted by genre
 https://old.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019
 https://old.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/
 https://old.reddit.com/r/ps3hacks
@@ -5742,7 +5740,7 @@ https://oldunreal.com
 https://oldversion.com/
 https://ollydbg.de
 https://oload.site/embed/lLoT_OZvL3Y
-https://ololo.to/ - Streaming site SE
+https://ololo.to/- Streaming site SE
 https://olweb.tv
 https://omdbapi.com/> to fetch all details director, genres, IMDB rating, ...
 https://omegat.org
@@ -5815,10 +5813,10 @@ https://openinternetaccess.com
 https://openload.cc
 https://openload.cc/20 GB6 Years These are all the
 https://openload.co/f/70iEAq0FvrM/Midsommar.2019.720p.HDCAM.900MB.getb8.x264-BONSAI_weboasis.mkv
-https://openload.pw/∞∞ ?$
+https://openload.pw/ ?$
 https://openmhz.com
 https://openmidiproject.osdn.jp/Sekaiju_en.html
-https://openmusictheory.com/ -->Open Music Theory An online course technically a "hybrid textbook from
+https://openmusictheory.com/-->Open Music Theory An online course technically a "hybrid textbook from
 https://openproxy.co
 https://openproxy.space/list
 https://openrazer.github.io
@@ -5853,7 +5851,7 @@ https://openuserjs.org
 https://openvaers.com/covid-data
 https://openvpn.net/vpn-client/
 https://ophosting.net
-https://opml-gen.ovh/ opml generator
+https://opml-gen.ovh/opml generator
 https://oracle.com/cloud/free/
 https://oracle.com/linux
 https://orbit.chat
@@ -5923,12 +5921,12 @@ https://pahe.stream
 https://palined.com/search
 https://palined.com/search/
 https://palone.blog/your-android-might-be-the-most-secure-device-you-own/
-https://pan.luochenzhimu.com/disk/software/ - Software
+https://pan.luochenzhimu.com/disk/software/- Software
 https://pandavpnpro.com
 https://pandoc.org
 https://pandorabox.io/
 https://panopticlick.eff.org
-https://panopticlick.eff.org/ برای بررسی مسدود شدن کوکی ها و ردیاب های تبلیغاتی استفاده کنید.
+https://panopticlick.eff.org/  .
 https://panzermarshal.com
 https://papaparse.com
 https://papaya.moe
@@ -5944,7 +5942,7 @@ https://parsecgaming.com
 https://parsslio.com
 https://passbolt.com
 https://passport.yandex.com/registration?mode=register
-https://passware.com/encryption-analyzer/ Encryption Analyzer
+https://passware.com/encryption-analyzer/Encryption Analyzer
 https://passwordsdatabase.com - the service contains over 391 vendors and 1600 passwords for various devices.
 https://pasta.stream/espn
 https://paste.ee
@@ -6037,7 +6035,7 @@ https://petitions.net/278143
 https://peux-os.netlify.app
 https://pexels.com
 https://pfs.red/?lang=en
-https://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/ - موتور جستجوی Tor بدون تبلیغات
+https://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/-  Tor  
 https://phoenixos.com/en/
 https://phoronix.com/scan.php?page=news_item&px=Looking-Glass-KVM-Frame-Relay
 https://photomosh.com
@@ -6073,7 +6071,7 @@ https://pingu.drk1.workers.dev
 https://piotrbania.com/all/kon-boot
 https://piped.alefvanoon.xyz/
 https://pipewire.org
-https://piracy.vercel.app/irc سر بزنید چیزای خوبی معرفی کرده و بگم این کانال لیچر از
+https://piracy.vercel.app/irc  
 https://piracybank.org
 https://pirateproxy.live/torrent/7310207/Call_of_Duty_5_World_at_War_v_1.7_full_game_-_AviaRa_-
 https://pirateship.com
@@ -6092,7 +6090,7 @@ https://planetemu.net/roms/sony-playstation-games-usa
 https://platfor.io
 https://plausible.io
 https://play.aidungeon.io
-https://play.aidungeon.io/ The official web client - signup accepts m.kuku.lu's addresses
+https://play.aidungeon.io/The official web client - signup accepts m.kuku.lu's addresses
 https://play.google.com/store/apps/details?id=com.appsource.v2ray Napsternet VPN
 https://play.google.com/store/apps/details?id=com.crosserr.trojan Trojan
 https://play.google.com/store/apps/details?id=com.getsurfboard Surfboard
@@ -6101,14 +6099,14 @@ https://play.google.com/store/apps/details?id=com.github.shadowsocks Shadowsocks
 https://play.google.com/store/apps/details?id=com.gologin.gologin_mobile
 https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr ShadowsockR
 https://play.google.com/store/apps/details?id=com.icechen1.metalsniffer Metal Sniffer
-https://play.google.com/store/apps/details?id=com.imdb.mobileاطلاع از آخرین آدرس‌ سایت‌ها:
+https://play.google.com/store/apps/details?id=com.imdb.mobile  :
 https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif
 https://play.google.com/store/apps/details?id=com.namelessnetx.ang NamelessnetX
 https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv NapsternetV
 https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free
 https://play.google.com/store/apps/details?id=com.shivam.torrent_search
 https://play.google.com/store/apps/details?id=com.spians.plenary
-https://play.google.com/store/apps/details?id=com.termux نصب کنید و داخل ترمینال بنویسین
+https://play.google.com/store/apps/details?id=com.termux  
 https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtimeANDROID
 https://play.google.com/store/apps/details?id=com.v2cross.proxy Shadowrocket
 https://play.google.com/store/apps/details?id=com.v2ray.ang v2rayNG
@@ -6124,11 +6122,11 @@ https://play.google.com/store/apps/details?id=it.colucciweb.vpnclientpro
 https://play.google.com/store/apps/details?id=net.openvpn.openvpn
 https://play.google.com/store/apps/details?id=nl.tudelft.trustchain
 https://play.google.com/store/apps/details?id=org.outline.android.client Outline
-https://play.google.com/store/apps/details?id=org.telegram.messengerسایر دستگاه ها
+https://play.google.com/store/apps/details?id=org.telegram.messenger  
 https://play.google.com/store/apps/details?id=org.thunderdog.challegram
 https://play.google.com/store/apps/details?id=vpn.v2ray.xray XRAY VPN
 https://play0ad.com
-https://playcanv.as/p/2OlkUaxF/ Flappy bird Desc: you all know this game therefore I have come to the assumption that no description is needed
+https://playcanv.as/p/2OlkUaxF/Flappy bird Desc: you all know this game therefore I have come to the assumption that no description is needed
 https://playclassic.games
 https://player.twitch.tv/?channel=h4ckermantv
 https://playingcards.io
@@ -6160,8 +6158,8 @@ https://podflix.app
 https://podhound.co
 https://podhunt.app
 https://podify.org/
-https://podnami.com/ podcast episodes aggregator
-https://podnoms.com/ requires registration
+https://podnami.com/podcast episodes aggregator
+https://podnoms.com/requires registration
 https://podsearch.com/
 https://podshows.fr/itunesrss
 https://podurama.com/home
@@ -6180,7 +6178,7 @@ https://pomf.lain.la/f/s7new7nz.csv
 https://pomf.lolisandstuff.moe
 https://pomfcrawl.pythonanywhere.com
 https://pool-840979.asia1.kinto.io
-https://poopsweeper-game.firebaseapp.com/ minesweeper but with poop emojis
+https://poopsweeper-game.firebaseapp.com/minesweeper but with poop emojis
 https://poptox.com
 https://porjati.net/
 https://porn4k.to
@@ -6225,10 +6223,10 @@ https://premiumlinkgenerator-leecher.blogspot.com
 https://premiumtoss.com
 https://premiumzen.com/generate
 https://presearch.org
-https://pressebnesina.com/Product/98/کتاب-رهایی-از-دام-آمیختگی-و-اجتناب-شدیدراهنمای-غلبه-بر-چالش-های-درمان-در-ACT
+https://pressebnesina.com/Product/98/--------------ACT
 https://pricearchive.orgftp://ftp.cybsec.io/uploads
 https://primapad.com
-https://primeos.in/امنیت:
+https://primeos.in/:
 https://primewire.vc
 https://printfriendly.com
 https://prism-break.org/en/
@@ -6240,7 +6238,7 @@ https://privacypay.io
 https://privacytests.org
 https://privacytools.io
 https://privacytools.io/
-https://privacytools.io/ same but outdated crap
+https://privacytools.io/same but outdated crap
 https://privacytools.io/#about_config
 https://privacytools.io/operating-systems/#win10
 https://privacytools.io/providers/
@@ -6269,7 +6267,7 @@ https://project-repos.ipfs.io
 https://project-trident.org
 https://projectifi.io
 https://projectmoon.dance
-https://projectpython.net/ - Interactive
+https://projectpython.net/- Interactive
 https://projectsandcastle.org
 https://projectsend.org
 https://proleech.link
@@ -6291,11 +6289,11 @@ https://prothots.com
 https://protocol.com
 https://protondb.com
 https://protonvideo.to
-https://provalenslearning.com/ -->proValens Learning Free and paid courses with certificates from the National Parks Service. I have 3 certificates from here; I highly recommend them if you're interested in this type of stuff.
+https://provalenslearning.com/-->proValens Learning Free and paid courses with certificates from the National Parks Service. I have 3 certificates from here; I highly recommend them if you're interested in this type of stuff.
 https://prowebber.ru
 https://proxies.bihai.cf
 https://proxies.bihai.cf/clash/config
-https://proxx.app/ similar to mine sweeper Desc: has epic modern look
+https://proxx.app/similar to mine sweeper Desc: has epic modern look
 https://proxy
 https://proxy-checker.net
 https://proxy.51798.xyz
@@ -6403,7 +6401,7 @@ https://radio.dubbeh.net
 https://radio.garden
 https://radio.ghanacloud.one/boxlofi/B
 https://rahul.io
-https://raidforums.com/ and create an account if you don't already have one. At their database index
+https://raidforums.com/and create an account if you don't already have one. At their database index
 https://raidforums.com/Announcement-Database-Index-CLICK-ME
 https://raidrive.com
 https://rainwave.cc/chiptune
@@ -6447,7 +6445,7 @@ https://rate.sx
 https://rateourcops.org
 https://rationalwiki.org/wiki/Eric_S._Raymond
 https://raumrot.com
-https://ravanhami.com/رواندرمانی-پویشی-فشرده-و-کوتاه-مدت
+https://ravanhami.com/-----
 https://rave.dj
 https://raw.githack.com
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
@@ -6477,7 +6475,7 @@ https://react-devtools-tutorial.now.sh
 https://reactos.org
 https://readanybook.com
 https://readcomicsonline.ru
-https://reader-demo.sismics.com/ usr=demo, pass=demo
+https://reader-demo.sismics.com/usr=demo, pass=demo
 https://readme.so
 https://readyssh.net
 https://real-debrid.com
@@ -6503,7 +6501,7 @@ https://reddit-livetv-links.blogspot.com/2020/01/nba-streams.html
 https://reddit-livetv-links.blogspot.com/2020/01/nhl-streams.html
 https://reddit-livetv-links.blogspot.com/2020/01/soccer-streams.html
 https://reddit-marketing.pro
-https://reddit-top-rss.herokuapp.com/ for specific subreddits with score thresholds
+https://reddit-top-rss.herokuapp.com/for specific subreddits with score thresholds
 https://reddit-user-analyser.netlify.app
 https://reddit.0qz.fun/r/subreddit.json
 https://reddit.com/.rss
@@ -6712,7 +6710,7 @@ https://rizin.re
 https://rizonrice.club
 https://rlpass.com
 https://rlsbb.ru
-https://rlsbb.ru/ - Check comment section for ever more links
+https://rlsbb.ru/- Check comment section for ever more links
 https://rlslog.net/category/ebooks
 https://rmz.cr
 https://rnbxclusive.vip
@@ -6729,7 +6727,7 @@ https://robwu.nl/cors-anywhere.html
 https://rock.so
 https://rocket.chat
 https://rocketreach.co
-https://rockmods.net/ , Androeed
+https://rockmods.net/, Androeed
 https://rockonvinyl.blogspot.com
 https://rockylinux.org
 https://rohitab.com/discuss
@@ -6742,11 +6740,11 @@ https://rosano.hmm.garden
 https://rosemoviez.com
 https://routerpwn.com
 https://rsaconference.com/writable/presentations/file_upload/fle-f02_how_a_diverse_underground_ecosystem_creates_resilience_in_the_dark_web.pdf
-https://rsload.net/ , Repack.me
+https://rsload.net/, Repack.me
 https://rslookup.com
 https://rspace.me
 https://rss-bridge.lamop.fr
-https://rss-bridge.snopyta.org/ 247/247 bridges enabled
+https://rss-bridge.snopyta.org/247/247 bridges enabled
 https://rss.app
 https://rss.app/rss-feed
 https://rss.bka.li
@@ -6758,7 +6756,7 @@ https://rssbox.herokuapp.com/twitter/821806287461740544/CVEnew
 https://rssbox.herokuapp.com/twitter/855507876839739392/GOGConnectAlert?with_media=1 unaffiliated twitter account
 https://rssbridge.chamallow.com
 https://rssfilter.netlify.app/
-https://rssguide.neocities.org/ guide to adding rss feed to Neocities site
+https://rssguide.neocities.org/guide to adding rss feed to Neocities site
 https://rsshub.app
 https://rsshub.app/github/pull/busyloop/lolcat
 https://rsshub.app/github/repos/the-eye-team
@@ -6780,7 +6778,7 @@ https://runestone.academy/runestone/books
 https://runson.cloud
 https://ruqqus.com
 https://rustwasm.github.io/docs/book
-https://rutracker.net/ , Ru-board
+https://rutracker.net/, Ru-board
 https://rutracker.org - semi-private forum with music and so on...
 https://rutracker.org/forum/index.php
 https://rutracker.org/forum/viewforum.php?f%253D899
@@ -6795,43 +6793,43 @@ https://s.taking.kr
 https://s01.transferfile.tk/rapidleech
 https://s05.cloudwebcopy.com
 https://s1movie.fun
-https://s1movie.xyz =>بدون فیلتر شکن وارد شوید
-https://s2-movie.xyz/️MyHastiDL
+https://s1movie.xyz =>  
+https://s2-movie.xyz/MyHastiDL
 https://s3-ap-southeast-1.amazonaws.com/academi.es/index.html
 https://s3.bitdownload.ir/Learning/LYNDA.COM
 https://s4.picofile.com/file/8163334234/Arrivals_Farsi_Subtitles.zip.html
 https://saaki.net
 https://saberfun.shop
 https://sadvibes.co.uk
-https://sadvibes.co.uk/ - 512MB
+https://sadvibes.co.uk/- 512MB
 https://safe.0x0.la
-https://safe.0x0.la/ - 2048MB
+https://safe.0x0.la/- 2048MB
 https://safe.aphelion.design
 https://safe.fiery.me
-https://safe.fiery.me/ - 512MB
+https://safe.fiery.me/- 512MB
 https://safe.hacks.wtf
 https://safe.manu.moe
 https://safe.mememe.moe
 https://safe.rita.moe/
 https://safe.vikavo.lt
-https://safe.vikavo.lt/ - 512MB
+https://safe.vikavo.lt/- 512MB
 https://safe.waifuhunter.club/
 https://safeskyhacks.com
-https://safetmp.waifuhunter.club/ - 1024MB
+https://safetmp.waifuhunter.club/- 1024MB
 https://saftproject.com
-https://sagernet.org/download/خداست رسما، همه چی دارهتونل کردن تو دستگاه های دیگه
+https://sagernet.org/download/  
 https://sahebiacademy.com/needs-choicetheory
 https://sahilpatel.herokuapp.com
 https://saidit.net
-https://saidit.net/s/WatchPeopleDie/ - successor of /r/watchpeopledie
+https://saidit.net/s/WatchPeopleDie/- successor of/r/watchpeopledie
 https://saidit.net/s/freemediafuckyeah/wiki/index
 https://saidit.net/s/freemediaheckyeah/wiki/index
 https://saidit.net/s/sjain_guides
 https://saidit.net/s/sjain_guides/wiki/downloads
 https://salamdl.club
 https://salamdl.me
-https://salamdl.rip =>بدون فیلتر شکن وارد شوید
-https://salamdl.shop/️Golchindl
+https://salamdl.rip =>  
+https://salamdl.shop/Golchindl
 https://samaup.co
 https://same.energy
 https://samouraiwallet.com
@@ -6841,7 +6839,7 @@ https://sandlab.cs.uchicago.edu/fawkes/
 https://sandstorm.io
 https://sanet.lc
 https://sanet.st - Movies, Software and so on...
-https://sanet.st/ , appnee
+https://sanet.st/, appnee
 https://sans.org/cyber-security-summit/archives/file/summit-archive-1517343456.pdf
 https://sans.org/reading-room
 https://sans.org/reading-room/whitepapers/threats/buffer-overflows-dummies-481
@@ -6862,7 +6860,7 @@ https://savygamer.co.uk/category/deals/*/feed
 https://savygamer.co.uk/category/deals/feed
 https://savygamer.co.uk/category/deals/pc/dd/feed
 https://savygamer.co.uk/category/deals/pc/feed
-https://sayehsokhan.com/default.aspx?TabId=502&Id=27524&mId=1&title=تله شادمانی
+https://sayehsokhan.com/default.aspx?TabId=502&Id=27524&mId=1&title= 
 https://saymine.com
 https://sb-innovation.de
 https://scans.io
@@ -6874,7 +6872,7 @@ https://schiffradio.com
 https://schnaader.info/precomp.php
 https://schneier.com
 https://scholar.archive.org
-https://schoolofhaskell.com/ -->School of Haskell Learn
+https://schoolofhaskell.com/-->School of Haskell Learn
 https://sci-hub.ltd
 https://sci.booksdescr.com
 https://scienceresearch.com/scienceresearch/desktop/en/search.html
@@ -6915,7 +6913,7 @@ https://searx.decatec.de/
 https://searx.fmac.xyz
 https://searx.github.io/searx/
 https://searx.me/
-https://searx.me/ - Video, Streaming site, Torrent finder
+https://searx.me/- Video, Streaming site, Torrent finder
 https://searx.ninja
 https://searx.nixnet.services
 https://searx.prvcy.eu
@@ -6924,7 +6922,7 @@ https://searx.tk
 https://searx.tux.land/
 https://searxng.github.io/searxng/
 https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
-https://sebsauvage.net/rss-bridge/ 185/185 bridges enabled
+https://sebsauvage.net/rss-bridge/185/185 bridges enabled
 https://sec.report
 https://secapps.com/
 https://secbsd.org
@@ -6968,7 +6966,7 @@ https://sejda.com
 https://selectel.ru/en
 https://selfhosted.show
 https://selinuxproject.org/page/User_Resources
-https://semioticon.com/sio/ -->Semiotics Institute Online Free, highly advanced courses on semiotics led by eminent theorists. No certificates. My personal favorite, but I'm a big nerd and have a background in semiotics already.
+https://semioticon.com/sio/-->Semiotics Institute Online Free, highly advanced courses on semiotics led by eminent theorists. No certificates. My personal favorite, but I'm a big nerd and have a background in semiotics already.
 https://send.cm
 https://send.firefox.com
 https://send.lambda.dance
@@ -6976,7 +6974,7 @@ https://send.vis.ee
 https://sendit.cloud
 https://sendit.gg
 https://sendy.co
-https://sentinel.co/downloads linux, windows, android تست نشده
+https://sentinel.co/downloads linux, windows, android  
 https://sequencer64.com
 https://sequoia-pgp.org
 https://sercurius.net
@@ -7011,7 +7009,7 @@ https://share.dmca.gripe/PzuFVWkRqmjuHPrE.7z
 https://share.dmca.gripe/RSlJ5mMbu3174Xxy.pdf
 https://share.dmca.gripe/ldSfs1zvtjjB9mpo.zip
 https://share.heraut.eu/f.php?h=2pYcKEfn&d=1
-https://share.wildbook.me/ -
+https://share.wildbook.me/-
 https://shareappscrack.com
 https://sharedvn.net
 https://sharepad.io
@@ -7022,7 +7020,7 @@ https://sharghmedia.ml
 https://sharklasers.com
 https://sharktastica.co.uk
 https://sharkwouter.github.io/minigalaxy
-https://shawacademy.com/ -->Shaw Academy Tons of shady reviews of this site. I've only used it once personally for their free trial; but I could immediately tell it wasn't worth the risk.
+https://shawacademy.com/-->Shaw Academy Tons of shady reviews of this site. I've only used it once personally for their free trial; but I could immediately tell it wasn't worth the risk.
 https://sheet-posting.me
 https://shelf.so
 https://shell.cloud.google.com/]
@@ -7096,7 +7094,7 @@ https://sites.vergitek.com/lastos/EMUlation/Motion.Blue.Unified.Rom.Sets-PiPiggi
 https://sizzy.app
 https://skapi.cool
 https://sketch.metademolab.com/canvas
-https://sketch.metademolab.com/canvas بروید و فرمت تصویر را بررسی کنید. باید روی یک ورقه تمیز، بدون چروک، به خوبی روشن و با حداقل سایه روی ورق رنگ شود.
+https://sketch.metademolab.com/canvas  .  .
 https://skidbin.net/paste/7uyucYqSFw
 https://skidrowrepacks.com
 https://skiff.org
@@ -7113,9 +7111,9 @@ https://skytransfer.hns.siasky.net/#/2515656eeb7dd5df8cbea4bc6789930ea937500febe
 https://skytransfer.hns.siasky.net/#/cb7dfcc05b8fe2de04e0cfd103ac780f1088f9ee93f477b4ea95432fd0a0572d/8b5680b296c209f3d5b3030d8e07a845b3d9d82d77ec895e7eea15404c4484fd2f1a776255f8d99f82e2715802c28bb7405032bce5c6b67da56ca6f44a989300
 https://slate.host
 https://slay.one/beta
-https://sleazyfork.org/en برا سایتای بزرگسالان مثلا فلان هاب
+https://sleazyfork.org/en  
 https://sleuthkit.org/autopsy
-https://sleuthkit.org/autopsy/ Forensics Platform
+https://sleuthkit.org/autopsy/Forensics Platform
 https://sleuthkit.org/autopsy/index.php
 https://slickdeals.net
 https://slickdeals.net/deals/tech
@@ -7163,9 +7161,9 @@ https://sociopathcommunity.com
 https://socks5.woiden.id/
 https://sockslist.net
 https://soda.privatevoid.net/num/links
-https://soft98.ir/os/windows/2338-دانلـود-ویندوز-ال-تی-ای-سی.html
-https://sohafilm1.com =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
-https://sokanacademy.com/blog/اپن-سورس-چیست قابل دستکاریه, یعنی همه میتونن سورس کد نرم افزار رو بردارن و دستکاری کنن,
+https://soft98.ir/os/windows/2338------.html
+https://sohafilm1.com =>  
+https://sokanacademy.com/blog/--  ,  ,
 https://soldierx.com/bbs
 https://solidfiles.com/v/3dLAKPLm44m8K
 https://solidfiles.com/v/4YLKyzDxWLW4G
@@ -7188,7 +7186,7 @@ https://soundsnap.com
 https://source.android.com/compatibility/cdd
 https://source.android.com/devices/architecture#hidl
 https://source.android.com/security/app-sandbox
-https://source.android.com/security/app-sandbox در سیستم عامل Android کارایی خاصی ندارند.
+https://source.android.com/security/app-sandbox  Android  .
 https://source.android.com/security/verifiedboot
 https://source.android.com/security/verifiedboot/avb
 https://source.android.com/security/verifiedboot/dm-verity
@@ -7198,7 +7196,7 @@ https://sourceforge.net/projects/dex2jar/
 https://sourceforge.net/projects/dirbuster/
 https://sourceforge.net/projects/gregarius
 https://sourceforge.net/projects/m3u8x
-https://sourceforge.net/projects/paros/ - A Java-based
+https://sourceforge.net/projects/paros/- A Java-based
 https://sourcetrail.com
 https://sovietmaps.com/node/2
 https://soyoustart.com/us/essential-servers
@@ -7212,7 +7210,7 @@ https://spacevim.org
 https://spachero.com
 https://spartanhost.org
 https://spdx.org
-https://spdx.org/licenses/ سر بزنید لیست بلندی از License های خانواده BSD را مشاهده می کنید که هر کدام تفاوت های خاصی دارند اما در نهایت کاربرد آن ها تقریبا یکسان است.
+https://spdx.org/licenses/  License  BSD  .
 https://spectraip.net
 https://spee.ch
 https://speechcat.org
@@ -7295,7 +7293,7 @@ https://srrdb.com/browse/order:date-desc/1
 https://srrdb.com/feed
 https://srrdb.com/feed/srrs
 https://srrdb.com/feed/titles
-https://srv.tt-rss.org/tt-rss/ usr=demo, pass=demo
+https://srv.tt-rss.org/tt-rss/usr=demo, pass=demo
 https://ss-leech.herokuapp.com
 https://ss.dswang.ga
 https://ssd.eff.org/en
@@ -7366,7 +7364,7 @@ https://stealthpay.com
 https://steamcommunity.com/games/897030/rss/
 https://steamcommunity.com/games/STEAMAPPID/rss/
 https://steamcommunity.com/games/mysummercar/rss/
-https://steamcommunity.com/games/mysummercar/rss/ ->
+https://steamcommunity.com/games/mysummercar/rss/->
 https://steamcrackedgames.com
 https://steamid.uk
 https://steamprices.com/ae/feed
@@ -7388,12 +7386,12 @@ https://storage.kanzaki.ru
 https://storage.kanzaki.ru/ANIME___
 https://store.minisforum.com
 https://store.pine64.org/?product=rockpro64-4gb-single-board-computer
-https://store.steampowered.com/app/365450/Hacknet/ - the game is similar to the Hack_me described above, only here you help the deceased hacker or not, and the arsenal is the same - the terminal and music.
+https://store.steampowered.com/app/365450/Hacknet/- the game is similar to the Hack_me described above, only here you help the deceased hacker or not, and the arsenal is the same - the terminal and music.
 https://store.steampowered.com/app/496890/Replica/?l=russian - you are an information security specialist who must hack the phone of a suspect in terrorism and find evidence against him or save yourself. A mixture of forensics, OSINT and social engineering ... in the spirit of 1984 and Fahrenheit 451. The game is not very long, but at the same time there are more than ten different endings - the outcome depends only on your actions :
-https://store.steampowered.com/app/544390/NITE_Team_4__Military_Hacking_Division/ - you are a special agent of the cyber intelligence unit. You have a fancy Stinger OS at your fingertips and a bunch of hacking software analogs to nmap, metsploit, aircrack, etc., a terminal and a beautiful gui with a soundtrack. A bunch of missions to complete, ranging from looking for vulnerabilities and ending with telephone and satellite tracking.
+https://store.steampowered.com/app/544390/NITE_Team_4__Military_Hacking_Division/- you are a special agent of the cyber intelligence unit. You have a fancy Stinger OS at your fingertips and a bunch of hacking software analogs to nmap, metsploit, aircrack, etc., a terminal and a beautiful gui with a soundtrack. A bunch of missions to complete, ranging from looking for vulnerabilities and ending with telephone and satellite tracking.
 https://store.steampowered.com/app/993090/Lossless_Scaling/?beta=0
-https://store.steampowered.com/app/994670/ThreatGEN_Red_vs_Blue/ - left this game for last, as it deserves special attention as a valuable copy, which is great for the option of gamification in information security, because it was originally designed for this very purpose.
-https://store.steampowered.com/bundle/3801/hack_me_collection/ - if in the previous game you try on the role of an intelligence agent, then in this series of games you will be a real hacktivist - you have equipment, utilities for sqk-injection, for example, or for brute-force passwords and terminal. A dashing plot and full immersion are guaranteed OST is good, and if you don't like it, you can turn on your own music.
+https://store.steampowered.com/app/994670/ThreatGEN_Red_vs_Blue/- left this game for last, as it deserves special attention as a valuable copy, which is great for the option of gamification in information security, because it was originally designed for this very purpose.
+https://store.steampowered.com/bundle/3801/hack_me_collection/- if in the previous game you try on the role of an intelligence agent, then in this series of games you will be a real hacktivist - you have equipment, utilities for sqk-injection, for example, or for brute-force passwords and terminal. A dashing plot and full immersion are guaranteed OST is good, and if you don't like it, you can turn on your own music.
 https://store.steampowered.com/feeds/news.xml
 https://store.vikings.net
 https://stories.audible.com/discovery
@@ -7433,18 +7431,18 @@ https://strims.gg
 https://stringers.live
 https://studio.code.org/courses
 https://stumbled.cc
-https://su.suwellcc.workers.dev/IMDB TOP250（1789.23G）/
+https://su.suwellcc.workers.dev/IMDB TOP2501789.23G/
 https://sub-web.netlify.app
-https://sub-web.netlify.com/ اموزش
+https://sub-web.netlify.com/
 https://sub-web.qingsay.com
 https://sub-web.wcc.best
 https://sub.789.st
 https://sub.dler.io
-https://sub.scene.tk =>آدرس بدون فیلتر سایت سابسین برای دانلود و پیدا کردن زیرنویس
+https://sub.scene.tk =>  
 https://subcon.dlj.tf
-https://subcon.dlj.tf/ آموزش
+https://subcon.dlj.tf/
 https://subf2m.co
-https://subf2m.ir/subtitles/زیرنویس-فارسی-the-arrivals
+https://subf2m.ir/subtitles/--the-arrivals
 https://sublimemerge.com
 https://sublimetext.com
 https://submovies.ir
@@ -7527,23 +7525,23 @@ https://sysadmin.it-landscape.info
 https://systemuicons.com
 https://t.bdaily.club
 https://t.me/
-https://t.me/ Ben Gurion University
-https://t.me/ Iraniancrack
-https://t.me/ cybercrime intelligence firm Hudson Rock
-https://t.me/ last4mailbot - the bot will find the last 4 digits of the Sberbank client's phone number;
-https://t.me/ ya.ru
-https://t.me/ yandex.by
-https://t.me/ yandex.com
-https://t.me/ yandex.ee
-https://t.me/ yandex.kz
-https://t.me/ yandex.lt
-https://t.me/ yandex.md
-https://t.me/ yandex.pl
-https://t.me/ yandex.ru
-https://t.me/ yandex.tj
-https://t.me/ yandex.tm
-https://t.me/ yandex.ua
-https://t.me/ yandex.uz
+https://t.me/Ben Gurion University
+https://t.me/Iraniancrack
+https://t.me/cybercrime intelligence firm Hudson Rock
+https://t.me/last4mailbot - the bot will find the last 4 digits of the Sberbank client's phone number;
+https://t.me/ya.ru
+https://t.me/yandex.by
+https://t.me/yandex.com
+https://t.me/yandex.ee
+https://t.me/yandex.kz
+https://t.me/yandex.lt
+https://t.me/yandex.md
+https://t.me/yandex.pl
+https://t.me/yandex.ru
+https://t.me/yandex.tj
+https://t.me/yandex.tm
+https://t.me/yandex.ua
+https://t.me/yandex.uz
 https://t.me/+2gL-n-5j0qczZTNi
 https://t.me/+2gL-n-5j0qczZTNi]
 https://t.me/+RXLil4RVZicyZWFl
@@ -7589,7 +7587,7 @@ https://t.me/ACUTEBOT
 https://t.me/ADDSTICKER
 https://t.me/ADDTHEMESS
 https://t.me/ADELKHAAN
-https://t.me/ADMIN در گروه نوشته بشه:
+https://t.me/ADMIN  :
 https://t.me/ADMLINKBOT
 https://t.me/ADMLinkbot
 https://t.me/ADSHOMRBOT
@@ -7850,7 +7848,7 @@ https://t.me/AhleNaaAhli
 https://t.me/AiT_channel
 https://t.me/AioMovies_Ch
 https://t.me/AioUploaderBot
-https://t.me/AkatsukiIT E∂яιѕ Aмν
+https://t.me/AkatsukiIT E A
 https://t.me/Akina_Bot
 https://t.me/Albumpodcast
 https://t.me/Alexey070315
@@ -8077,7 +8075,7 @@ https://t.me/BavariaBadMusic
 https://t.me/Bayanz/403
 https://t.me/BeMolaTV
 https://t.me/BearProxies
-https://t.me/BeetlessUSER‍ for an assload of sites
+https://t.me/BeetlessUSER for an assload of sites
 https://t.me/Bernamenevisan
 https://t.me/Best2film
 https://t.me/BestGore:2
@@ -8459,13 +8457,13 @@ https://t.me/Darkinfo_channel2
 https://t.me/Darknet_planet
 https://t.me/Davazdahomiy
 https://t.me/DbMovieBot
-https://t.me/DbMovieBot =>ربات دانلود فیلم و سریال ایرانی و خارجی به صورت کاملا رایگان
+https://t.me/DbMovieBot =>  
 https://t.me/DcMarvel_BinahayatMag
 https://t.me/DeLvapsi
 https://t.me/DebianLinux
 https://t.me/Debuggerr
 https://t.me/DeepLearningCenter
-https://t.me/DeepLink یه سری شورت کات هارو گذاشته
+https://t.me/DeepLink  
 https://t.me/DeepSpaceEye
 https://t.me/DeezLoadBot
 https://t.me/Deezempirebot
@@ -8501,7 +8499,7 @@ https://t.me/Dorehamistartup
 https://t.me/Dotspuzzle_Bot
 https://t.me/DownloadFlixBot
 https://t.me/DownloadYarbot
-https://t.me/DownloadyarBot | فایل تو لینک نیم بها
+https://t.me/DownloadyarBot |  
 https://t.me/DoxxFascists
 https://t.me/DrHack100
 https://t.me/DrIDMBot
@@ -8517,7 +8515,7 @@ https://t.me/Dwnmp3Bot
 https://t.me/EASYSTRONGPASSWORDBOT
 https://t.me/EDITFILEBOT
 https://t.me/EDITGRAM_BOT
-https://t.me/EDUUROBOT❤️
+https://t.me/EDUUROBOT
 https://t.me/EEAUTMEMES
 https://t.me/EGSNOTIFIER_BOT
 https://t.me/ELAHEHKLIP
@@ -8541,12 +8539,12 @@ https://t.me/EMOJISBOT
 https://t.me/EMPIREBESTTV
 https://t.me/ENGLISHLANGUAGESS
 https://t.me/ENHIBOT
-https://t.me/ENHIBot [English » Hindi]
+https://t.me/ENHIBot [English  Hindi]
 https://t.me/ENKNBOT
 https://t.me/ENMLBOT
-https://t.me/ENMLBot [English » Malayalam]
+https://t.me/ENMLBot [English  Malayalam]
 https://t.me/ENONLYBOT
-https://t.me/ENTABot [English » Tamil]
+https://t.me/ENTABot [English  Tamil]
 https://t.me/EPLPERSIAN
 https://t.me/EPLUPDATES
 https://t.me/EPL_FANTASY
@@ -8575,13 +8573,13 @@ https://t.me/EdrisAMV
 https://t.me/ElectronicDanceMusic
 https://t.me/EmpireBestTv
 https://t.me/EmpireOfAccounts
-https://t.me/EnKnBot [English » Kannada]
+https://t.me/EnKnBot [English  Kannada]
 https://t.me/Endeavouros
 https://t.me/English_10_11_12
 https://t.me/English_translator_user
 https://t.me/Ensanii_10_11_12
 https://t.me/Enshaae
-https://t.me/EntagBot [English » Filipino]
+https://t.me/EntagBot [English  Filipino]
 https://t.me/EpickingBot
 https://t.me/EricNotes
 https://t.me/EsecurityCo
@@ -8717,7 +8715,7 @@ https://t.me/FREEPIKFILES
 https://t.me/FREEPROACCOUNTSTG
 https://t.me/FREESHADOWS
 https://t.me/FREQROBOT
-https://t.me/FRIDAYCHAT/430377پ.ن: هر کدوم خوبی خودشون رو دارن و این جالبه و امکانات خفنی داره اما دردسرش بیشتره نسبت به userge
+https://t.me/FRIDAYCHAT/430377.:  userge
 https://t.me/FSTIKBOT
 https://t.me/FTL_LFS_bot
 https://t.me/FUCKINESONGS
@@ -8755,18 +8753,18 @@ https://t.me/File2LinkSkybot
 https://t.me/File2LinkproBot
 https://t.me/File2link_bot
 https://t.me/FileBot
-https://t.me/FileMovieBot =>ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور و به صورت کاملا رایگان
+https://t.me/FileMovieBot =>  
 https://t.me/FileMovieBot fa
 https://t.me/FileStreamingBot
 https://t.me/FileToLinkTGbot
-https://t.me/FileToLinkTGbot و صد البته
+https://t.me/FileToLinkTGbot  
 https://t.me/FileUploaderBottor_DL_bot
 https://t.me/File_to_link_Nsbot
 https://t.me/Files2LinkProBot
 https://t.me/Files7baRu
 https://t.me/FilesToIinkBot
 https://t.me/FiletoLinkTelegramBot
-https://t.me/FiletoLinkTelegramBot =>ربات نیم بها برای لینک
+https://t.me/FiletoLinkTelegramBot =>  
 https://t.me/FiletodlBot
 https://t.me/Filetolink_byAIbot
 https://t.me/Filimo85
@@ -8991,7 +8989,7 @@ https://t.me/GifNigga
 https://t.me/Gif_Error
 https://t.me/Gif_Rapi
 https://t.me/GifsMovie
-https://t.me/Glype بهترینه بهترینا
+https://t.me/Glype  
 https://t.me/GlypeX
 https://t.me/Glype_File
 https://t.me/GlysitAndroid
@@ -9022,7 +9020,7 @@ https://t.me/GreenApp_Store
 https://t.me/Green_BookLand
 https://t.me/GroupCsharps
 https://t.me/GuendalinaHackerata
-https://t.me/H4ckTvist 🦹
+https://t.me/H4ckTvist 
 https://t.me/HAAWY5111
 https://t.me/HACK028
 https://t.me/HACKGM
@@ -9189,7 +9187,7 @@ https://t.me/IMAGEEDITSBOT
 https://t.me/IMAGEEDI_BOT
 https://t.me/IMAGEFETCHERBOT
 https://t.me/IMAGEREADERBOT
-https://t.me/IMAGETOTEXT_BOT به همراه ترجمه متن
+https://t.me/IMAGETOTEXT_BOT  
 https://t.me/IMAGINE_DRAGONS_PERSIA
 https://t.me/IMDB
 https://t.me/IMDBOT
@@ -9216,7 +9214,7 @@ https://t.me/INLINEGAMESBOT
 https://t.me/INOUX
 https://t.me/INSTABOT
 https://t.me/INSTAGRAMLLBOT
-https://t.me/INSTANTMEDIABOTفقط در گروه کار می‌کند
+https://t.me/INSTANTMEDIABOT  
 https://t.me/INSTAPICOBOT
 https://t.me/INSTAPROFILE_BOT
 https://t.me/INSTAROONX_BOT
@@ -9272,11 +9270,11 @@ https://t.me/IR_SERIES_IR
 https://t.me/IR_Series_IR
 https://t.me/IR_cyberi_hacke
 https://t.me/IRanHackerZ
-https://t.me/IRanHackerZ_1/88132- آموزش لینوکس  Linux Essentials  از توسینسو
-https://t.me/IRanHackerZ_1/8815تا اینجا برای افرادی که میخوان کارشون راه بیوفته خوبه و نیازی نیست ادامه بدین اما اگر میخواین ادامه بدین و درک بیشتر و بهتری پیدا کنید:
-https://t.me/IRanHackerZ_1/88274- آموزش لینوکس LPIC1 102 از توسینسو
-https://t.me/IRanHackerZ_1/88295- آموزش لینوکس LPIC2 201 از توسینسو
-https://t.me/IRanHackerZ_1/8843هرچند که lpic ادامه داره ولی همینقدر از توسینسو پاب شده
+https://t.me/IRanHackerZ_1/88132-  Linux Essentials  
+https://t.me/IRanHackerZ_1/8815  :
+https://t.me/IRanHackerZ_1/88274-  LPIC1 102  
+https://t.me/IRanHackerZ_1/88295-  LPIC2 201  
+https://t.me/IRanHackerZ_1/8843  lpic  
 https://t.me/IRfiletolinkbot
 https://t.me/IRmaxdrivebot
 https://t.me/ISBOT
@@ -9370,7 +9368,7 @@ https://t.me/JRSpotifybot
 https://t.me/JSONDUMPBOT
 https://t.me/JSONIFYBOT
 https://t.me/JSONSHOWBOT
-https://t.me/JUNCTION_BOTفقط کانال و گروه‌های تلگرام
+https://t.me/JUNCTION_BOT  
 https://t.me/JUSTYOUTUBEMUSICBOT
 https://t.me/JVCAPTCHABOT
 https://t.me/JVD_MOVIES
@@ -9383,7 +9381,7 @@ https://t.me/Joel_Osteen
 https://t.me/JoeyMusicbot Playlist
 https://t.me/JolEston
 https://t.me/Jozvemotavassete
-https://t.me/JugShelf این دلقکو زیرو رو کنم
+https://t.me/JugShelf  
 https://t.me/JustPersianStuff
 https://t.me/JustReformation
 https://t.me/Justice_League_Cartoon
@@ -9765,7 +9763,7 @@ https://t.me/MRVARANIBOT
 https://t.me/MR_LIGHTBORN11
 https://t.me/MSA_ChaNNeL
 https://t.me/MSG_INDEX_BOT
-https://t.me/MSIFARSI ،
+https://t.me/MSIFARSI 
 https://t.me/MSONEBOT
 https://t.me/MTHRK1
 https://t.me/MTPOREXY
@@ -9812,7 +9810,7 @@ https://t.me/MUSICALHUB
 https://t.me/MUSICASSISTBOT
 https://t.me/MUSICCPERSIANN
 https://t.me/MUSICDOWNLOADERROBOT
-https://t.me/MUSICEDITOR_TGBOT❤️
+https://t.me/MUSICEDITOR_TGBOT
 https://t.me/MUSICEL8D
 https://t.me/MUSICEMA7
 https://t.me/MUSICEMA_COM
@@ -9856,7 +9854,7 @@ https://t.me/MYPROXY98
 https://t.me/MYSEEKERBOT
 https://t.me/MYTGROBOT
 https://t.me/MYTRANSLATBOT
-https://t.me/MYYOUTUBEROBOTو توییتر و تیک تاک
+https://t.me/MYYOUTUBEROBOT  
 https://t.me/MY_ANIMELIST
 https://t.me/MY_ID_BOT
 https://t.me/MY_MANGA_LIST
@@ -9880,7 +9878,7 @@ https://t.me/Marvelverse_Archive
 https://t.me/MaxFile2LinkBot
 https://t.me/MaxxYoutubeDL_Bot
 https://t.me/Mazboohane
-https://t.me/Mctvz❌ moviesera.world . T
+https://t.me/Mctvz moviesera.world . T
 https://t.me/MeTubeBot
 https://t.me/MeduzaGameBot
 https://t.me/MegadlBot
@@ -9900,13 +9898,13 @@ https://t.me/Memeromicon
 https://t.me/MemesMasters
 https://t.me/Memesta
 https://t.me/MenuBuilderBot
-https://t.me/MergeToolsBot | هاردساب
-https://t.me/MergeToolsBot | چسباندن زیرنویس
+https://t.me/MergeToolsBot | 
+https://t.me/MergeToolsBot |  
 https://t.me/MesterSecurity
 https://t.me/MetaCryptoOfficial
 https://t.me/MetaPublicLeech
 https://t.me/MetalWorld
-https://t.me/Mi_digital ،
+https://t.me/Mi_digital 
 https://t.me/MiaKhalifaGifs
 https://t.me/Miaplays
 https://t.me/MicroSoftOneDriveBot
@@ -9916,10 +9914,10 @@ https://t.me/MihanMoviez . F
 https://t.me/MinNaJoBot
 https://t.me/MineProxy
 https://t.me/MinrooBot
-https://t.me/MirrorBots چون اینا دائما اپدیت میشن
+https://t.me/MirrorBots  
 https://t.me/Mix_moviez
 https://t.me/Mobomoviesbot
-https://t.me/Mobomoviesbot =>ربات دانلود فیلم و سریال بدون سانسور و با زیرنویس چسبیده فارسی و به صورته کاملا رایگان
+https://t.me/Mobomoviesbot =>  
 https://t.me/ModCrackedAPK
 https://t.me/ModdedCentral , Amrts
 https://t.me/ModdedPrivate beetv
@@ -9931,7 +9929,7 @@ https://t.me/Mortezajavid220
 https://t.me/MoshaverehOne
 https://t.me/Movaffaghtarinhaa
 https://t.me/MovieBarnBot
-https://t.me/MovieBaz_Asliایران:
+https://t.me/MovieBaz_Asli:
 https://t.me/MovieCottage
 https://t.me/MovieCottage | #News
 https://t.me/MovieCottage | #Tweet
@@ -9943,7 +9941,7 @@ https://t.me/MovieTorrents_bot
 https://t.me/MovieTwitte
 https://t.me/Movie_Center
 https://t.me/Movie_Empire
-https://t.me/Movie_Empire =>چنل دانلود فیلم های جدید
+https://t.me/Movie_Empire =>  
 https://t.me/Movie_Quiz
 https://t.me/Moviebleecherbot
 https://t.me/Moviebleecherbot fa
@@ -10065,7 +10063,7 @@ https://t.me/NashrAasoo
 https://t.me/Naughty_America_premium
 https://t.me/Naughty_America_premium Tushy | Blacked | Babes | Vixen | Mofos
 https://t.me/NekoChanOne AnimePics Night
-https://t.me/NekoLover18 病み可愛いPics
+https://t.me/NekoLover18 Pics
 https://t.me/NekoXAPKs
 https://t.me/Neko_Girls_Ero
 https://t.me/NekogramX
@@ -10089,9 +10087,9 @@ https://t.me/NikeProxy
 https://t.me/Nikvujicic
 https://t.me/NimBahaLinkRobot
 https://t.me/NimDownloaderBot
-https://t.me/NimDownloaderBot =>ربات نیم بها برای لینک
+https://t.me/NimDownloaderBot =>  
 https://t.me/NimDownloader_Bot
-https://t.me/NimDownloader_Bot =>ربات نیم بها برای لینک
+https://t.me/NimDownloader_Bot =>  
 https://t.me/NimRocketbot
 https://t.me/NinaDobrevGif
 https://t.me/NinaDobrevSticker
@@ -10176,7 +10174,7 @@ https://t.me/Oboyi7
 https://t.me/OceanMovie
 https://t.me/Ocean_Films
 https://t.me/OfficialBook
-https://t.me/OfficialCinama . F + App : بهترین سایت
+https://t.me/OfficialCinama . F + App :  
 https://t.me/OfficialCinemaTwitter
 https://t.me/Official_MTproxy
 https://t.me/OhSorrowThoughts
@@ -10349,7 +10347,7 @@ https://t.me/PareshTeam
 https://t.me/ParsGetBot
 https://t.me/ParsSeries
 https://t.me/Pars_Training
-https://t.me/Parsvideos_comکره:
+https://t.me/Parsvideos_com:
 https://t.me/PasswordSearchBot - gives passwords;
 https://t.me/Patreonstudio
 https://t.me/PaulWesleyGiF
@@ -10363,7 +10361,7 @@ https://t.me/Persian_Gamers
 https://t.me/Persian_Nazi
 https://t.me/Persian_ParadoX
 https://t.me/PersonalPlays
-https://t.me/Pgming ،
+https://t.me/Pgming 
 https://t.me/Philosophers2
 https://t.me/Philosophy3
 https://t.me/PhoenixSecurity
@@ -10446,7 +10444,7 @@ https://t.me/Qiftolly_team
 https://t.me/QoTbii
 https://t.me/Qontubebot
 https://t.me/Quick_OSINT_bot - will find passwords, social. networks, logins, phones and much more;
-https://t.me/Quickchat_Emerson_bot محدودیت روزانه
+https://t.me/Quickchat_Emerson_bot  
 https://t.me/R5Movie
 https://t.me/R6SMUSIC
 https://t.me/RAADMOVIES
@@ -10519,7 +10517,7 @@ https://t.me/RGGDRIVEUPBOT
 https://t.me/RHYTHMARCHIVE
 https://t.me/RIBOT
 https://t.me/RICK_MORTY_AND_FANS
-https://t.me/RINGTONEDL_BOT فقط زنگ تلفن
+https://t.me/RINGTONEDL_BOT  
 https://t.me/RJRIPBOT
 https://t.me/RJ_DownloadBot
 https://t.me/RNMRBOT
@@ -10559,14 +10557,14 @@ https://t.me/RaksTeam
 https://t.me/RapEfsha
 https://t.me/Rasht_Hackerz
 https://t.me/Rayegan_Film1
-https://t.me/Rayegan_Film=>چنل دانلود فیلم های ایرانی و فیلم های خارجی
+https://t.me/Rayegan_Film=>  
 https://t.me/Rayegan_Seryal
 https://t.me/ReadImageBot
 https://t.me/Realdobrv
 https://t.me/RealityKingsPrem
 https://t.me/Reaperv
 https://t.me/RedBlueTM
-https://t.me/RedBlueTM Group 🛡 is Private Now but we share nice course and files to public for help others as much as we can :
+https://t.me/RedBlueTM Group  is Private Now but we share nice course and files to public for help others as much as we can :
 https://t.me/RedditBrowserBot
 https://t.me/Regrambot
 https://t.me/RemixTime_Official
@@ -10601,14 +10599,14 @@ https://t.me/SAS_ORD_AW
 https://t.me/SATPROGRAMS
 https://t.me/SATSTAR1
 https://t.me/SATTORKK
-https://t.me/SAVEASBOTو تیک تاک
+https://t.me/SAVEASBOT  
 https://t.me/SAVEAWILLY
 https://t.me/SAVEYOUTUBEBOT
 https://t.me/SBUtakhfif
 https://t.me/SCDLBOT
 https://t.me/SCDLTESTBOT
 https://t.me/SCDOWNBOT
-https://t.me/SCHAETZMALSPIELBOTآلمانی
+https://t.me/SCHAETZMALSPIELBOT
 https://t.me/SCIHUBOT
 https://t.me/SCREENCAPTUREBOT
 https://t.me/SCREENSHOTDX_BOT
@@ -10854,7 +10852,7 @@ https://t.me/Sausagesupbot
 https://t.me/SaveVideoBot
 https://t.me/ScaryMoviiess
 https://t.me/Sean_Bot
-https://t.me/Sean_Bot info و میزنی about me، دیتاسنترتون رو نشون میده
+https://t.me/Sean_Bot info  about me  
 https://t.me/SeasonsPic Dolfi's Art
 https://t.me/Seattle17
 https://t.me/SecComputer
@@ -10945,14 +10943,14 @@ https://t.me/StreamEmpireBot
 https://t.me/StudentLibrary
 https://t.me/Students_of_modern_logic_Qom
 https://t.me/SubCitybot
-https://t.me/SubCitybot =>ربات زیرنویس یاب
+https://t.me/SubCitybot =>  
 https://t.me/SubSoonBot
-https://t.me/SubSoonBot =>ربات زیرنویس یاب
+https://t.me/SubSoonBot =>  
 https://t.me/SubYabBot
-https://t.me/SubYabBot =>ربات زیرنویس یاب
+https://t.me/SubYabBot =>  
 https://t.me/Subbass
 https://t.me/SubsearchsBot
-https://t.me/SubsearchsBot =>ربات زیرنویس یاب
+https://t.me/SubsearchsBot =>  
 https://t.me/Success_and_wealth
 https://t.me/SuperIndexNews/226
 https://t.me/SurfSharkRobot
@@ -11024,7 +11022,7 @@ https://t.me/TG2DIRECTLINK_BOT
 https://t.me/TG2EXTBOT
 https://t.me/TG2TGXBOT
 https://t.me/TGAPPSUPDATES
-https://t.me/TGAPPS_BOT: ربات
+https://t.me/TGAPPS_BOT: 
 https://t.me/TGBETA
 https://t.me/TGBOTAPIBOT
 https://t.me/TGBUGSBOT
@@ -11200,20 +11198,20 @@ https://t.me/TechafandProxyBot
 https://t.me/TechbenchBot
 https://t.me/TechnicWeb
 https://t.me/Technoland_org
-https://t.me/Techwithsina هستند...
+https://t.me/Techwithsina ...
 https://t.me/Teen_Titans_Cartoon
 https://t.me/TelFiles_Bot fa
 https://t.me/TelMTProto
 https://t.me/TelServat
-https://t.me/TeleLeecherbot =>ربات نیم بها برای لینک
+https://t.me/TeleLeecherbot =>  
 https://t.me/TeleLeecherbot fa
-https://t.me/TeleLeecherbot گـــروه
+https://t.me/TeleLeecherbot 
 https://t.me/TelePub
 https://t.me/TeleVbot
 https://t.me/TelegaProxy
 https://t.me/TellBooks
 https://t.me/Teymouri_5
-https://t.me/Tg2extbot میزنم و راضیم، ایران نمد ‍
+https://t.me/Tg2extbot  
 https://t.me/TgFilmZone
 https://t.me/TgSticker
 https://t.me/TgTolinkBoT
@@ -11291,13 +11289,13 @@ https://t.me/UPLOADERPROBOT
 https://t.me/UPLOADERPRO_BOT
 https://t.me/UPLOADERURLNEWBOT
 https://t.me/UPLOADER_X_BOT
-https://t.me/UPLOADER_X_BOTو مگا
+https://t.me/UPLOADER_X_BOT 
 https://t.me/UPLOADGRAMMEBOT
 https://t.me/UPLOADHEXBOT
 https://t.me/UPLOADSBOT
 https://t.me/UPLOADSROBOT
 https://t.me/UPTOGDRIVEBOT
-https://t.me/UPTOIMGBBBOTفقط عکس
+https://t.me/UPTOIMGBBBOT 
 https://t.me/UPTOTGBOT
 https://t.me/UPmusicTM
 https://t.me/URBANDICTIONARYBOT
@@ -11355,7 +11353,7 @@ https://t.me/UrbanDictionaryBot
 https://t.me/UrlUpRobot
 https://t.me/Use_Soft
 https://t.me/Use_ytbot
-https://t.me/UserBotsList یوزر بات ها
+https://t.me/UserBotsList  
 https://t.me/UtubeGobot
 https://t.me/Utube_downloadbot
 https://t.me/V1_MUSIC
@@ -11394,14 +11392,14 @@ https://t.me/VIDEO_MEME_CH
 https://t.me/VIKINGS_OF_IRAN
 https://t.me/VIP30T
 https://t.me/VIPERCLOUD
-https://t.me/VIPLeechGroup کـانـال
+https://t.me/VIPLeechGroup 
 https://t.me/VIPPKG
 https://t.me/VIP_FreePack
 https://t.me/VIP_S_HOP
 https://t.me/VIP_Security
 https://t.me/VIPch2017
 https://t.me/VIPleech
-https://t.me/VIPleech این لیست به مرور زمان بروز میشود.
+https://t.me/VIPleech  .
 https://t.me/VIPmano
 https://t.me/VIRAST_BOT
 https://t.me/VIRUSTOTALAV_BOT
@@ -11433,7 +11431,7 @@ https://t.me/V_P_N_CH
 https://t.me/VahidOnline
 https://t.me/Valuable_garbage
 https://t.me/Valuable_garbage/1835
-https://t.me/Valuable_garbage/1923?comment=31 رو ببینید
+https://t.me/Valuable_garbage/1923?comment=31  
 https://t.me/Valuable_garbage/851
 https://t.me/Vex_Game
 https://t.me/VictoriaDawn_Justice
@@ -11516,7 +11514,7 @@ https://t.me/WWEFANSIR_BOOK
 https://t.me/WakeMind
 https://t.me/Wallpaper_Land_4K_FHD_Images
 https://t.me/WallpapersART
-https://t.me/WangCai_1 + 群组
+https://t.me/WangCai_1 + 
 https://t.me/WangCai_2
 https://t.me/Waydroid
 https://t.me/WeAreWinnerss
@@ -11549,7 +11547,7 @@ https://t.me/World_Of_Ecchi Lewdmageddon
 https://t.me/World_Of_Fact Themes Love Anime
 https://t.me/World_Of_Kawaii Neko~Chan
 https://t.me/World_Pack
-https://t.me/XFILETOLINKBOT❤️
+https://t.me/XFILETOLINKBOT
 https://t.me/XIAOMIUI
 https://t.me/XIGDLBOT
 https://t.me/XOBOT
@@ -11576,7 +11574,7 @@ https://t.me/YASINALAVIOFFICIAL
 https://t.me/YASIN_HEJAZI
 https://t.me/YASMUSIC
 https://t.me/YEAGERISTTGEXPLORER_BOT
-https://t.me/YISARCHIVE مخصوص ناشنوایان
+https://t.me/YISARCHIVE  
 https://t.me/YISMOVIE -
 https://t.me/YOTBOT
 https://t.me/YOUCANNEVERLEAVE
@@ -11722,7 +11720,7 @@ https://t.me/aks_Army_new
 https://t.me/akshidden
 https://t.me/alaa_sanatisharif
 https://t.me/alarabiya_far
-https://t.me/alefleech پین شده
+https://t.me/alefleech  
 https://t.me/alefvanoon
 https://t.me/alexstranniktechno
 https://t.me/alijenab79
@@ -11752,7 +11750,7 @@ https://t.me/aneagoie/Operator-Precedence
 https://t.me/angizeshe_ir
 https://t.me/animeDescargas Anime Images
 https://t.me/anime_academy2 WeebQ
-https://t.me/anime_images_1 ふわふわPics
+https://t.me/anime_images_1 Pics
 https://t.me/anime_lolichki
 https://t.me/animedubers
 https://t.me/animeimagess Themes for All
@@ -11762,14 +11760,14 @@ https://t.me/animelist_ir
 https://t.me/animelist_irANIMEPAHE.COM
 https://t.me/animugardenindex
 https://t.me/animworlddl
-https://t.me/anjoman_adminha ،
+https://t.me/anjoman_adminha 
 https://t.me/annonymity
 https://t.me/anonfileuploaderbot
 https://t.me/antiquariat
 https://t.me/apkclub
 https://t.me/apkdl_bot
-https://t.me/apkdl_bot و متناسب با گوشیتون تلگرام ایکس و برید
-https://t.me/apkdl_bot یا aurora store یا هر برنامه ای که از api گوگل پلی استفاده میکنه برید تلگرام ایکس رو دانلود کنید
+https://t.me/apkdl_bot  
+https://t.me/apkdl_bot  aurora store  api  
 https://t.me/apkgold
 https://t.me/app_clube
 https://t.me/appilix
@@ -11798,7 +11796,7 @@ https://t.me/asiaone . F
 https://t.me/astrowall
 https://t.me/atp_proxy
 https://t.me/audiobook_world
-https://t.me/autobazar_ukraina АвтоБазар №1 в Украине
+https://t.me/autobazar_ukraina  1  
 https://t.me/avamovie_ir6 shotfilm.net . T
 https://t.me/awforum
 https://t.me/awhngma
@@ -11850,7 +11848,7 @@ https://t.me/bidariymelat
 https://t.me/bikalaaam
 https://t.me/bikalammusic
 https://t.me/bikalammusic1
-https://t.me/bilimatlab ،
+https://t.me/bilimatlab 
 https://t.me/bimarzofficial
 https://t.me/binancechinese
 https://t.me/binbhaifamily
@@ -11907,7 +11905,7 @@ https://t.me/c/1314087575/387
 https://t.me/c/1314087575/418
 https://t.me/c/1314087575/478
 https://t.me/c/1321162446/38375
-https://t.me/c/1440366197/3348 سرور ftp هم میتونید بسازین و گوشیتون رو تبدیل به مودم کنید و با هاست اسپات فارسی سمش سامسونگ نوشته: نقطه اتصال همراه یا چیز دیگه ای که سامسونگ نوشته: اتصال اینترنت usb وصل کنید، ویندوز نیاز نیست برنامه جدا برا ftp نصب کنید فقط کافیه فایل اکسپلورر لوکیشن کادر بنویسین:
+https://t.me/c/1440366197/3348  ftp  :  :  usb  ftp  :
 https://t.me/c/1477645865/1469245
 https://t.me/c/1492024129/2 only
 https://t.me/c/1569240210/9228
@@ -11921,7 +11919,7 @@ https://t.me/cat games,
 https://t.me/cat tv,
 https://t.me/cat tv-HD,
 https://t.me/cat tv-HD-x264
-https://t.me/catogram اخرین نسخه رو بدون مشکل نصب کنید
+https://t.me/catogram  
 https://t.me/ccracker_tmm
 https://t.me/ccshare
 https://t.me/chaatanoga
@@ -11963,14 +11961,14 @@ https://t.me/compiut96
 https://t.me/computer1_ir
 https://t.me/conSot
 https://t.me/conceptualimage
-https://t.me/coolProgrammers ،
+https://t.me/coolProgrammers 
 https://t.me/cozya_gif
 https://t.me/crazyart
 https://t.me/createAtthemeBot
 https://t.me/creationdatebot
 https://t.me/crushbhai
 https://t.me/cutcinema
-https://t.me/cuteisland アニメアカデミー | Anime Academy
+https://t.me/cuteisland  | Anime Academy
 https://t.me/cyber_nigga1
 https://t.me/cyru55_ch4
 https://t.me/daabeh
@@ -12007,8 +12005,8 @@ https://t.me/diapack
 https://t.me/dibasite18 foxvip7.xyz . T
 https://t.me/diction_bot
 https://t.me/dieascm | #Learning
-https://t.me/dieascm/75 Saeid’s Den
-https://t.me/dieascm/78 دریافت فایل از سایت آرشیو
+https://t.me/dieascm/75 Saeids Den
+https://t.me/dieascm/78  
 https://t.me/dieascm/91
 https://t.me/digimoviez + S
 https://t.me/digitalshahrvand
@@ -12040,7 +12038,7 @@ https://t.me/download_it_bot?start=aximobot_caption
 https://t.me/dozdinakonim
 https://t.me/dprb_bot
 https://t.me/drae_bot
-https://t.me/dramacityyترکیه:
+https://t.me/dramacityy:
 https://t.me/drarayehfarsi
 https://t.me/drh4ck3r
 https://t.me/drholakouee_official
@@ -12052,14 +12050,14 @@ https://t.me/dtonline
 https://t.me/duduchava
 https://t.me/durov
 https://t.me/durov/162
-https://t.me/durov/80 ولی با گذشت زمان و تشدید فیلترینگ سرور های جدید هم مدام فیلتر میشن و کاربرای روس تا همین اواخر از پراکسی برای اتصال استفاده میکردن.
+https://t.me/durov/80  .
 https://t.me/durovleaks
 https://t.me/dw_farsi
 https://t.me/easy_konkor
 https://t.me/eat_bookkkk
 https://t.me/eeeeegtt
 https://t.me/eestie
-https://t.me/eghtesadonline ،
+https://t.me/eghtesadonline 
 https://t.me/egold
 https://t.me/ehodamlar
 https://t.me/eidi4635
@@ -12132,8 +12130,8 @@ https://t.me/film_officee
 https://t.me/film_pishraft
 https://t.me/filmbazeirani
 https://t.me/filmerayegan
-https://t.me/filmgirbot => ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور به صورت کاملا رایگان
-https://t.me/filmiran_org33 mymoviz70.fun / mymoviz24.xyz / nightmz2.fun / tinymov2.xyz . T
+https://t.me/filmgirbot =>  
+https://t.me/filmiran_org33 mymoviz70.fun/mymoviz24.xyz/nightmz2.fun/tinymov2.xyz . T
 https://t.me/filmkonkori
 https://t.me/filmlost17 dibamoviz.com . T
 https://t.me/filmnumber1
@@ -12142,7 +12140,7 @@ https://t.me/filmseryalroz
 https://t.me/filmxxx2
 https://t.me/filtershekan_apk
 https://t.me/filtershekanha
-https://t.me/findmoviebot =>ربات دانلود فیلم و سریال خارجی با زبان اصلی و بدون سانسور و به صورت کاملا رایگان
+https://t.me/findmoviebot =>  
 https://t.me/fire_pack
 https://t.me/fivemovie
 https://t.me/floss_dictators
@@ -12160,7 +12158,7 @@ https://t.me/floss_dictators/344
 https://t.me/floss_dictators/35
 https://t.me/floss_dictators/357
 https://t.me/floss_dictators/36
-https://t.me/floss_frauds هستم بیشتر، حوصله زدن گپ و مدیریتشو ندارم اونجا با دوستا دور همیم
+https://t.me/floss_frauds  
 https://t.me/fock_gif
 https://t.me/forbidden_library
 https://t.me/forex_vs_binary
@@ -12180,7 +12178,7 @@ https://t.me/freeiranbook
 https://t.me/freeiranianfilm
 https://t.me/freelearningg
 https://t.me/freenet_host
-https://t.me/freenet_host/1592 نسخه سایتش
+https://t.me/freenet_host/1592  
 https://t.me/freepac
 https://t.me/freepack_hack
 https://t.me/freepackiran
@@ -12200,14 +12198,14 @@ https://t.me/fulleTV
 https://t.me/fullsexshop
 https://t.me/funprojects
 https://t.me/furnation Shota Nation
-https://t.me/furryYiff4all ドキドキPics
+https://t.me/furryYiff4all Pics
 https://t.me/furyaoination Dolfis Blood
 https://t.me/fuwafuwapics Anime Images
 https://t.me/fw005
 https://t.me/fwalls
 https://t.me/g3neral
 https://t.me/gadgetnews
-https://t.me/gadgetnews ،
+https://t.me/gadgetnews 
 https://t.me/galgadotgifs
 https://t.me/gamaanresearch
 https://t.me/game_badnews
@@ -12215,7 +12213,7 @@ https://t.me/gamee_news1
 https://t.me/gamers_parsi
 https://t.me/ganjdlplus
 https://t.me/geeekgirls
-https://t.me/geeekgirls ❁۩▬●
+https://t.me/geeekgirls 
 https://t.me/geeekgirls/4088
 https://t.me/geekstribe
 https://t.me/gemovies_support
@@ -12236,7 +12234,7 @@ https://t.me/gigtechir
 https://t.me/gii_d
 https://t.me/giveawayparty
 https://t.me/gizmochinaofficial
-https://t.me/gizmochinaofficial ،
+https://t.me/gizmochinaofficial 
 https://t.me/gloryfilm11 www.filmxy.vip + S . F
 https://t.me/glorytelegram . T
 https://t.me/gmail.com
@@ -12266,7 +12264,7 @@ https://t.me/grouptranslator_bot
 https://t.me/gtprice
 https://t.me/guard_Shahh
 https://t.me/guide47
-https://t.me/guide47/322 کنید براتون
+https://t.me/guide47/322  
 https://t.me/gunaztv2004
 https://t.me/gwisa
 https://t.me/gyjclub
@@ -12340,15 +12338,12 @@ https://t.me/iMat1n
 https://t.me/iMoviess_dl . F
 https://t.me/iNetworkGames
 https://t.me/iOSF1_LinkToFileBot
-https://t.me/iOSF1_LinkToFileBot | لینک تو فایل
-https://t.me/iOSF1_LinkToFileBot | لینک تو لینک نیم بها
+https://t.me/iOSF1_LinkToFileBot |  
 https://t.me/iOSF1_Robots
 https://t.me/iOSF1_Robots_Fans
 https://t.me/iOSF1_instagrambot
 https://t.me/iOSPRoUTubeBot
-https://t.me/iOSyar_Bot | تبدیل ویدیو به صدا
-https://t.me/iOSyar_Bot | دانلود از رادیوجوان
-https://t.me/iOSyar_Bot | دانلود از یوتوب
+https://t.me/iOSyar_Bot |  
 https://t.me/iProxyRobot
 https://t.me/iTEAMBINS
 https://t.me/i_Code
@@ -12421,7 +12416,7 @@ https://t.me/irpussy
 https://t.me/irsoalat
 https://t.me/irvidox
 https://t.me/isGIFA
-https://t.me/islie دروغها و خرافات اسلام
+https://t.me/islie  
 https://t.me/it30t_channel
 https://t.me/itDemiRose
 https://t.me/iziBot
@@ -12466,7 +12461,7 @@ https://t.me/joinchat/AAAAAE8sVRZ7a-N7qL8ZxA
 https://t.me/joinchat/AAAAAEFqfxElhtGL7mrw7Q
 https://t.me/joinchat/AAAAAEKqhrB_UDwj-qM56g
 https://t.me/joinchat/AAAAAELNLKpfFWmqARl0mQ
-https://t.me/joinchat/AAAAAEMAIy78OAGHrB6v2A Meganeparadaisu メガネパラダイス
+https://t.me/joinchat/AAAAAEMAIy78OAGHrB6v2A Meganeparadaisu 
 https://t.me/joinchat/AAAAAEMjuUp88DUBD9MLFg
 https://t.me/joinchat/AAAAAEQw36S1SfOOSbgy3Q
 https://t.me/joinchat/AAAAAEQwURuvtOxXzC8JPg
@@ -12482,7 +12477,7 @@ https://t.me/joinchat/AAAAAEWrsWbhMQppqTMNUw Booty Beauty
 https://t.me/joinchat/AAAAAEX4hvthIcXYatwsIw
 https://t.me/joinchat/AAAAAEXd7bBgajT4YtzdnQ AhegaoZone
 https://t.me/joinchat/AAAAAEYPVy1Hfrdgp6p4MQ Monster Girls for Degenerate Weebs
-https://t.me/joinchat/AAAAAEZdc1Vkjp1AzPV2gA Pokésluts
+https://t.me/joinchat/AAAAAEZdc1Vkjp1AzPV2gA Poksluts
 https://t.me/joinchat/AAAAAE_Dn5JQkRwekrCMYw
 https://t.me/joinchat/AAAAAEac9i6a38OQ_ZrgqQ
 https://t.me/joinchat/AAAAAEb0MeZ4H8CXSG6ZOA
@@ -12496,7 +12491,7 @@ https://t.me/joinchat/AAAAAEgQYes_gQ4Hew8GnAC
 https://t.me/joinchat/AAAAAEgymRrJVC8qX4iN7Q
 https://t.me/joinchat/AAAAAEhN0njz6ZG_cuylQQ
 https://t.me/joinchat/AAAAAEiDVV1Yd7mFD-8qRA
-https://t.me/joinchat/AAAAAEizTKqDZgnq42C7vg パンチラpants shot
+https://t.me/joinchat/AAAAAEizTKqDZgnq42C7vg pants shot
 https://t.me/joinchat/AAAAAEjQTg-v5LR2FHMTnw
 https://t.me/joinchat/AAAAAEjrEVBrCsM8JlfJJA Bukkake archive
 https://t.me/joinchat/AAAAAEkwavIQtrzvlvF_Sw Trap Fever
@@ -12533,7 +12528,7 @@ https://t.me/joinchat/AAAAAFH1m31TBcwQSUJ8DQ ACVH - Mundo Perverso
 https://t.me/joinchat/AAAAAFI2gnzfJrVQ23MH7g The Armpit Licker
 https://t.me/joinchat/AAAAAFInUQnr4QwR8lhWZw
 https://t.me/joinchat/AAAAAFJK4FMvvsoRebuD4w
-https://t.me/joinchat/AAAAAFJUxUBq68gpmGxcwA Kemono-chanⒽ
+https://t.me/joinchat/AAAAAFJUxUBq68gpmGxcwA Kemono-chan
 https://t.me/joinchat/AAAAAFK4IYy4YNJdosYR7w
 https://t.me/joinchat/AAAAAFL7D_RKUQiVIdWdJg
 https://t.me/joinchat/AAAAAFLAJJlBNGOTqvnPcA Pantyhose & Thickness
@@ -12704,7 +12699,7 @@ https://t.me/joinchat/T9HnIMyAoFIQnwWp
 https://t.me/joinchat/TJs2Dkvwhd7txAhSPXge7w
 https://t.me/joinchat/TUJPqy6j2huHBMcu
 https://t.me/joinchat/TWXlYzgrb6cuucRX
-https://t.me/joinchat/TZwR66HRsG2iWCEb =>چنل دانلود سریال های جدید
+https://t.me/joinchat/TZwR66HRsG2iWCEb =>  
 https://t.me/joinchat/UWLXoVVeSfCXMDpB
 https://t.me/joinchat/UnCKiWAWWjisyLtW
 https://t.me/joinchat/Uo-R4h27-Tv1qqvMunvDVw
@@ -12779,11 +12774,11 @@ https://t.me/khalghkonandekhobi
 https://t.me/kharabat_music
 https://t.me/kharmadaRmeme
 https://t.me/kharpack
-https://t.me/khod10 ویژه
-https://t.me/khod2 من خدا هستم
-https://t.me/khod20 فهرست
+https://t.me/khod10 
+https://t.me/khod2  
+https://t.me/khod20 
 https://t.me/khod3
-https://t.me/khod3bot تماس با ما
+https://t.me/khod3bot  
 https://t.me/khonyaachannel
 https://t.me/kiahamedi
 https://t.me/kiavair
@@ -12805,14 +12800,14 @@ https://t.me/konkuory_sho
 https://t.me/konkur_pishraft
 https://t.me/koretv . F
 https://t.me/kosokonira
-https://t.me/kotatogramتست نکردم اما انگار معروفه
+https://t.me/kotatogram  
 https://t.me/kotob_konkor
 https://t.me/kotob_konkori
 https://t.me/kr_ytdlbot
 https://t.me/krupkzcorpbisnis/how-to-enable-right-click-on-websites-that-have-disabled-it-d234ae616f7d
 https://t.me/ktb_nab
 https://t.me/kttttttttttttt
-https://t.me/ktyab کتابخانه
+https://t.me/ktyab 
 https://t.me/kunkori_free
 https://t.me/lAzmonl
 https://t.me/lBOOKl
@@ -12820,7 +12815,7 @@ https://t.me/lady_leak
 https://t.me/lang_translate_bot
 https://t.me/langbot
 https://t.me/lavateran
-https://t.me/leakfarsi ،
+https://t.me/leakfarsi 
 https://t.me/learneh
 https://t.me/learnpy
 https://t.me/legalporno_com
@@ -12921,7 +12916,7 @@ https://t.me/mlapkshare
 https://t.me/mmz12345
 https://t.me/mobarezan_vatannews
 https://t.me/mobile_news2
-https://t.me/mobile_news2 و کانال
+https://t.me/mobile_news2  
 https://t.me/mobileprice
 https://t.me/mobnet
 https://t.me/mobo_channel
@@ -12981,9 +12976,9 @@ https://t.me/musicbank9
 https://t.me/musicmosbatt
 https://t.me/musicrobit
 https://t.me/musix_lion
-https://t.me/my30nama_official❌ FILM9.CAM . T
+https://t.me/my30nama_official FILM9.CAM . T
 https://t.me/my_film2movie
-https://t.me/my_film9❌ MYMR-MOVIE.IR
+https://t.me/my_film9 MYMR-MOVIE.IR
 https://t.me/my_free_packs
 https://t.me/my_id_bot
 https://t.me/myandroidplus
@@ -13127,7 +13122,7 @@ https://t.me/parishab21
 https://t.me/party
 https://t.me/parvaresheafkar
 https://t.me/pashang20
-https://t.me/paskoocheh/2975 حجم 100 گیگ رایگان فقط برای ایرانیان و کمک انسان دوستانه و فلان بهمان و فیلترینگ، کافیه با ای پی ایران وصل بشید و میگیرین، یه ریگی واقعا تو کفششون نیس؟
+https://t.me/paskoocheh/2975  100  
 https://t.me/paweb
 https://t.me/payatulabs
 https://t.me/pcgame_download
@@ -13168,8 +13163,8 @@ https://t.me/powersecret
 https://t.me/pr_brazzers BRAZZERS Life
 https://t.me/pre_box
 https://t.me/premiumtgnetwork
-https://t.me/premiumtgnetwork ™ 2019
-https://t.me/premiumtgnetwork ️
+https://t.me/premiumtgnetwork  2019
+https://t.me/premiumtgnetwork 
 https://t.me/prg_gamer
 https://t.me/pricex
 https://t.me/priv8_ir_team
@@ -13201,7 +13196,7 @@ https://t.me/proxyme
 https://t.me/proxymex
 https://t.me/proxyss
 https://t.me/prpd47
-https://t.me/prpd47 هستش که فقط ۳ نفر از ۲۳ پیداش کردن، و عجب wiki درست کردن دردسر داره ها
+https://t.me/prpd47  wiki  
 https://t.me/prxninja
 https://t.me/psarips
 https://t.me/pspro
@@ -13243,7 +13238,7 @@ https://t.me/rayanshopping
 https://t.me/raygan_gram
 https://t.me/rayganpack
 https://t.me/rayganpackeige
-https://t.me/raymondfreesoftware Raymond Free Software • Main Discussion Group
+https://t.me/raymondfreesoftware Raymond Free Software  Main Discussion Group
 https://t.me/razfilme1
 https://t.me/readup_bot
 https://t.me/realitykings_pr
@@ -13251,14 +13246,14 @@ https://t.me/realitykings_pr Woodman Casting X
 https://t.me/realitykings_prPORNHUB PREMIUM
 https://t.me/reapgp
 https://t.me/rebel_underground
-https://t.me/reboot cd /path/to/mkp224o && screen -dmS onionv3 ./mkp224o -S 600 -d output-dir filter
+https://t.me/reboot cd/path/to/mkp224o && screen -dmS onionv3 ./mkp224o -S 600 -d output-dir filter
 https://t.me/redmods
 https://t.me/reklamavp19
 https://t.me/religionbad
 https://t.me/remind_pixel
 https://t.me/remoteyoutubedl_bot
 https://t.me/remux_2160p
-https://t.me/reportchildabuse و حذف ویدیو های گزارش شده است که جای تشکر داره.
+https://t.me/reportchildabuse  .
 https://t.me/reverseSearch2Bot
 https://t.me/reverseSearchBot
 https://t.me/rezar91
@@ -13266,7 +13261,7 @@ https://t.me/rfsnotes/3
 https://t.me/rightel_pr
 https://t.me/rizmini
 https://t.me/robomovie_bot
-https://t.me/robomovie_bot =>ربات دانلود فیلم و سریال خارجی بدون سانسور و کاملا رایگان
+https://t.me/robomovie_bot =>  
 https://t.me/rokhpodcast
 https://t.me/roman_bookk
 https://t.me/romanmamnoe13
@@ -13291,7 +13286,7 @@ https://t.me/sadik_tyt
 https://t.me/sadik_tyt_naygad_noweha
 https://t.me/saeedpourandi
 https://t.me/sagernet
-https://t.me/sagernet/6 کاملا اوپن سورس نیست یا اوپن سورس فیکه، شک دارم
+https://t.me/sagernet/6  
 https://t.me/sahamnewsorg
 https://t.me/saint_group
 https://t.me/salamatravan2015
@@ -13413,7 +13408,7 @@ https://t.me/sssoou_group
 https://t.me/st01747/19
 https://t.me/st01747/64
 https://t.me/star_moviies
-https://t.me/stickerchaos Стикер-чат Stickers chat
+https://t.me/stickerchaos - Stickers chat
 https://t.me/stopfilm
 https://t.me/storereap
 https://t.me/storm_network
@@ -13422,7 +13417,7 @@ https://t.me/subliminal_biokinesis
 https://t.me/subliminal_clinic
 https://t.me/subrica
 https://t.me/subscene_Bot
-https://t.me/subscene_Bot =>ربات زیرنویس یاب
+https://t.me/subscene_Bot =>  
 https://t.me/subtitle_dl_bot [credit to
 https://t.me/sweithart
 https://t.me/tabligat_perfect
@@ -13468,7 +13463,7 @@ https://t.me/tg_InternetSecurity
 https://t.me/tg_file_link_bot
 https://t.me/tg_indexs
 https://t.me/tg_ir
-https://t.me/tg_ir ،
+https://t.me/tg_ir 
 https://t.me/tgbeta/4123
 https://t.me/tgbot_list
 https://t.me/tgfilmbot
@@ -13549,9 +13544,9 @@ https://t.me/urbanism97
 https://t.me/urldl_robot
 https://t.me/urlup2tgbot
 https://t.me/urluploadxbot
-https://t.me/usergeot 𝙐𝙨𝙚𝙧𝙂𝙚 𝙊𝙣𝙏𝙤𝙥𝙞𝙘
+https://t.me/usergeot  
 https://t.me/usergeot/700196
-https://t.me/usergespam 𝙐𝙨𝙚𝙧𝙂𝙚 𝙊𝙛𝙛𝙏𝙤𝙥𝙞𝙘
+https://t.me/usergespam  
 https://t.me/userhandle.rss
 https://t.me/usersbox_bot
 https://t.me/usinfobot
@@ -13592,7 +13587,7 @@ https://t.me/voicechaty
 https://t.me/voicybot
 https://t.me/vortex_team_org
 https://t.me/vpn_proxy66
-https://t.me/vpn_proxy66 ،
+https://t.me/vpn_proxy66 
 https://t.me/vpn_proxy66/3506
 https://t.me/vpn_proxy66/3565
 https://t.me/vpsmafia
@@ -13610,53 +13605,52 @@ https://t.me/warlockpublicurl_bot
 https://t.me/watchyoutubefa
 https://t.me/wayne_dyer
 https://t.me/wbnet
-https://t.me/wbnet پیشنهاد میشه
-https://t.me/wbnet کانال های مثل این و کلا هر کانالی کارشون اینه، از منبع منابعشون رو میرن دنبال منابع مثلا فری مدیا هک یهه، منابع رو معرفی و اموزش میدن به ادمای ساده، یه اکانت کرک می‌کنن یا میخرن یا یکی اهدا می‌کنه یا کارتینگ میکنن، میدن بهتون، لقمه اماده میدن اما نمیگن چطور منابعشون رو پیدا می‌کنن و گاهی چندتا ادرس سایت تور میدن به اسم دارک وب و وایییی ترسیدم
+https://t.me/wbnet  
 https://t.me/wbnet/32305
 https://t.me/wbnet/58662
 https://t.me/wbnet/59674
-https://t.me/wbnet/59839 لینوکس، ویندوزپیشنهاد میشه
+https://t.me/wbnet/59839  
 https://t.me/wbnet/612
 https://t.me/wbnet/613
 https://t.me/wbnet/61487/download
-https://t.me/wbnet/61945 عاشقشم، شما هم میشین
+https://t.me/wbnet/61945  
 https://t.me/wbnet/631829- buster captcha
-https://t.me/wbnet/63330 windows vmess, ssr, ss, s5, trojan, VLESS تست نکردم
-https://t.me/wbnet/63380 ویندوز shadowsocks, shadowsockR, v2ray, socks5, proxy, sshپیشنهاد میشه
-https://t.me/wbnet/63380نکته:
+https://t.me/wbnet/63330 windows vmess, ssr, ss, s5, trojan, VLESS  
+https://t.me/wbnet/63380  shadowsocks, shadowsockR, v2ray, socks5, proxy, ssh 
+https://t.me/wbnet/63380:
 https://t.me/wbnet/63623
-https://t.me/wbnet/63682/ نکته بامزه
-https://t.me/wbnet/63751ترجیحا با هم باشن، و اینکه برای یو بلاک برید تیک سرور لیستا رو بزنید، فقط اد بلاکر نیست، خیلی کارای دیگه هم می‌کنه اگر یاد بگیرید
-https://t.me/wbnet/63751یا AdNauseam
+https://t.me/wbnet/63682/ 
+https://t.me/wbnet/63751  
+https://t.me/wbnet/63751 AdNauseam
 https://t.me/wbnet/63849
-https://t.me/wbnet/64518نکته: هیچکس تبلیغات و اپلود نودش نمیدوست... :
+https://t.me/wbnet/64518:  ... :
 https://t.me/wbnet/64686
-https://t.me/wbnet/64758۳- bromite android only
-https://t.me/wbnet/65021پیش میاد یوتیوب طرف وسط ویدیو میاد از اسپانسر میگه، با این میتونید ببینید و اسکیپ کنید
+https://t.me/wbnet/64758- bromite android only
+https://t.me/wbnet/65021  
 https://t.me/wbnet/65175
-https://t.me/wbnet/65649 android تست نشده
+https://t.me/wbnet/65649 android  
 https://t.me/wbnet/659112- sponsorblock
 https://t.me/wbnet/659364- keepassxc/bitwarden
 https://t.me/wbnet/65988
-https://t.me/wbnet/65988کانالش بهتر توضیح میده، اوپن سورسن...
-https://t.me/wbnet/66276شماره هفت ممکنه اسکریپتی باشه که سایتایی من شماره ده نمیتونه رو انجام بده
-https://t.me/wbnet/66430 windows xray, shadowsocks, v2ray, vless, trojan, socks5 تست نکردم
-https://t.me/wbnet/66538 بیت واردن خوفه
+https://t.me/wbnet/65988  ...
+https://t.me/wbnet/66276  
+https://t.me/wbnet/66430 windows xray, shadowsocks, v2ray, vless, trojan, socks5  
+https://t.me/wbnet/66538  
 https://t.me/wbnet/66582
 https://t.me/wbnet/66786
 https://t.me/wbnet/67029 Shadowsocks
 https://t.me/wbnet/670293- qv2ray
-https://t.me/wbnet/67029اندروید، ویندوز، لینوکس shadowsocksپیشنهاد میشه
-https://t.me/wbnet/67142پیشنهاد میشه
-https://t.me/wbnet/67200که شمارو تبدیل به خوکچه هندی تبدیل میکنن و اوپن سورس نیست
-https://t.me/wbnet/67549پیشنهاد نمیکنم چون تبلیغات داره و تبلیغات نباید وجود داشته باشه
+https://t.me/wbnet/67029  shadowsocks 
+https://t.me/wbnet/67142 
+https://t.me/wbnet/67200  
+https://t.me/wbnet/67549  
 https://t.me/wbnet/67586
 https://t.me/wbnet/67617
 https://t.me/wbnet/67725 + privacy badger
-https://t.me/wbnet/68051تست نشده
+https://t.me/wbnet/68051 
 https://t.me/wbnet/68524....
-https://t.me/wbnet/68701هنو شک فاس
-https://t.me/wbnet/68702 داره یا نه
+https://t.me/wbnet/68701  
+https://t.me/wbnet/68702  
 https://t.me/wbnet/68993
 https://t.me/wbnet/69293
 https://t.me/wbnet/69802
@@ -13664,7 +13658,7 @@ https://t.me/wbnet/70057
 https://t.me/wbnet/70189
 https://t.me/wbnet/72427
 https://t.me/webamoozir
-https://t.me/webamoozir ،
+https://t.me/webamoozir 
 https://t.me/webcam_free
 https://t.me/webcccam
 https://t.me/webclub_onlyfans
@@ -13688,14 +13682,14 @@ https://t.me/wpbank
 https://t.me/wpheart
 https://t.me/wpsho
 https://t.me/wwgyuio
-https://t.me/wwgyuio =>چنل دانلود فیلم های قدیمی
+https://t.me/wwgyuio =>  
 https://t.me/www_ParvaresheAfkar_com
-https://t.me/www_snn_ir ،
+https://t.me/www_snn_ir 
 https://t.me/www_wc_com
 https://t.me/wwwjc313irir
 https://t.me/wwwqqqaaazzz
 https://t.me/xhamster13
-https://t.me/xiaomiiranir ،
+https://t.me/xiaomiiranir 
 https://t.me/xtb_apps
 https://t.me/xtreme_sec
 https://t.me/xurluploaderbot
@@ -13714,7 +13708,7 @@ https://t.me/youtube2tgbot
 https://t.me/youtubednbot
 https://t.me/yuridesuka Darling in the FranXX
 https://t.me/zangedanesh
-https://t.me/zarfilm_com32 irfilm2.xyz / filiran.xyz . T
+https://t.me/zarfilm_com32 irfilm2.xyz/filiran.xyz . T
 https://t.me/zedsoftofficial
 https://t.me/zee5streamer_bot
 https://t.me/zendegibarrtar
@@ -13776,8 +13770,8 @@ https://techworm.net
 https://teddit.alefvanoon.xyz/
 https://teddit.net old-like
 https://teddit.net/r/FREEMEDIAHECKYEAH/wiki
-https://tehranfilm33.xyz/️FilmBan
-https://tehranfilm46.xyz =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
+https://tehranfilm33.xyz/FilmBan
+https://tehranfilm46.xyz =>  
 https://telebit.cloud
 https://telegcrack.com
 https://telegra.ph
@@ -13791,11 +13785,10 @@ https://telegra.ph/UseNet-Era-03-25
 https://telegra.ph/Websites-and-Telegram-channels-to-download-books-08-04
 https://telegra.ph/file/19561346abfc17dfce19b.jpgPython Learning Courses provided by Microsoft
 https://telegra.ph/file/9a8dbe4b64f35523731b2.png Useful brute force wordlists
-https://telegra.ph/آموزش-شخصی-سازی-و-تغییر-استایل-لیبره-افیس-02-21
-https://telegra.ph/ترموکس-چیست--دستورات-ترمینال-ترموکس-05-19
-https://telegra.ph/حل-مشکل-فارسی-نویسی-در-لیبره-افیس-02-21
-https://telegra.ph/رشته-توییتی-از-pedhastam-07-26-3
-https://telegra.ph/فایل-راهنمای-باز-کردن-دیتابیس-تلگرام-05-19
+https://telegra.ph/--------02-21
+https://telegra.ph/------05-19
+https://telegra.ph/-------02-21
+https://telegra.ph/---pedhastam-07-26-3
 https://telegram.me/UFC_FAQs/42
 https://telegram.me/joinchat/ANULWg2yHrphMDll
 https://telegram.me/joinchat/DPYNaj7lWTJ7JWf7UqHR6Q
@@ -13831,9 +13824,9 @@ https://textpattern.com
 https://textuploader.com/d2ala
 https://tfp.is
 https://tg-file2link.herokuapp.com/dl/0/photo_2021-05-28_05-17-54_6967645937094705152.jpg searx
-https://tg-file2link.herokuapp.com/dl/0/photo_2021-05-28_05-23-21_6967649353963430912.jpg کلی instance ها هستش، بستگی به سلیقتون داره، ممکنه چیزیش کار کنه چیزیش کار نکنه، مثلا گوگل کار نکنه چون گوگل شناساییش کرده، شما میای مثلا یا startpage میزنی به جا گوگل نتایجشو از گوگل میگیره یا مثلا بیخیال گوگل میشیم و یا گوگل خوشتون نمیاد duckduckgo مثلا میزنید، جز سرچ انجینا اهنگ و تورنت و مقاله تحقیقاتی دانشجویی هم میتونید پیدا کنید، اگر قلق دستت بیاد خیلی مفیده
+https://tg-file2link.herokuapp.com/dl/0/photo_2021-05-28_05-23-21_6967649353963430912.jpg  instance  startpage  duckduckgo  
 https://tg.dailysarkarnaukri.workers.dev/0:/Collections/
-https://tg.i-c-a.su/ supports media downloads
+https://tg.i-c-a.su/supports media downloads
 https://tg.i-c-a.su/json/channelname
 https://tg.i-c-a.su/rss/channelname
 https://tgfilestreamer.herokuapp.com/18960722053259276/2021-04-19_07:07:46.jpg
@@ -13845,13 +13838,13 @@ https://thanhcavietnam.org/DownHost/index.php
 https://thatnovelcorner.com
 https://the-artifice.com
 https://the-eye.eu - Windows ISOs, eBooks etc.
-https://the-eye.eu/ archives and indexes Web Pages
+https://the-eye.eu/archives and indexes Web Pages
 https://the-eye.eu/public/Books/Bibliotik
 https://the-eye.eu/public/Comics/
 https://the-eye.eu/public/Games/Linux/
 https://the-eye.eu/r.piracy_1.1.2016-20.04.2019.7z
 https://the-eye.eu/r.piracy_1.1.2016-20.04.2019.txt
-https://the-webcam-network.com/ - same as above
+https://the-webcam-network.com/- same as above
 https://thearrivals.files.bidari-andishe.ir/sub/Arrivals Farsi Subtitles.zip
 https://thebusyprogrammersguidetosocialmedia.com
 https://thebypasser.com
@@ -13865,7 +13858,7 @@ https://thegeeks.click/signup.php
 https://thegigabit.com
 https://thegigabit.com.hk/dedicated-server
 https://theguardian.com/world/2019/jul/05/how-britain-can-help-you-get-away-with-stealing-millions-a-five-step-guide
-https://thegymnasium.com/ -->Aquent Gymnasium Free courses on web design and related topics with free certificates. Definitely one of the highest-quality providers here.
+https://thegymnasium.com/-->Aquent Gymnasium Free courses on web design and related topics with free certificates. Definitely one of the highest-quality providers here.
 https://thehackermind.com
 https://thehackernews.com
 https://thehackernews.com/
@@ -13888,7 +13881,7 @@ https://thenounproject.com
 https://theodinproject.com
 https://theodyssey.dev
 https://theonionhost.com
-https://theoreticalminimum.com/ -->Theoretical Minimum Free courses on advanced science topics lead by a seminal physicist, Leonard Susskind. No certificate but the education is top-notch.
+https://theoreticalminimum.com/-->Theoretical Minimum Free courses on advanced science topics lead by a seminal physicist, Leonard Susskind. No certificate but the education is top-notch.
 https://theosintion.com/courses/osint-investigations-business
 https://thepaperboy.com
 https://thepiratebay.org/
@@ -13930,9 +13923,9 @@ https://thetatoken.org
 https://thetorrent.org
 https://thetrove.net
 https://thetruesize.com
-https://theuserge.github.io/۳- اجرا و راه اندازی برای هاست ابری و لوکال هاست
-https://theuserge.tech/deployment.html برای ترموکس
-https://theuserge.tech/deployment.html۴- یه q&a
+https://theuserge.github.io/-  
+https://theuserge.tech/deployment.html  
+https://theuserge.tech/deployment.html-  q&a
 https://theuserge.tech/termux.html
 https://theverge.com
 https://theverge.com/2018/7/12/17561768/dont-feed-the-trolls-online-harassment-abuse
@@ -13964,9 +13957,9 @@ https://tightvnc.com
 https://tiiny.host
 https://tildamail.com
 https://tilde.black
-https://tilde.club — the original tilde server. Had signups closed for a long time, now accepts new users.
+https://tilde.club  the original tilde server. Had signups closed for a long time, now accepts new users.
 https://tilde.institute
-https://tilde.team — has great wiki
+https://tilde.team  has great wiki
 https://tilde.town
 https://tilde.town/~kzimmermann/articles/alpine_linux_desktop.html
 https://tildecow.com
@@ -13980,7 +13973,7 @@ https://tinc-vpn.org
 https://tinderfind.me
 https://tineye.com
 https://tinfoil.io/MarioMaker
-https://tinycammonitor.com/ Cameras App
+https://tinycammonitor.com/Cameras App
 https://tinycorelinux.net
 https://tinytools.directory
 https://tinyzonetv.to
@@ -13992,11 +13985,11 @@ https://tldroptions.io
 https://tldrsec.com/
 https://tlgrm.eu/stickers
 https://tlk.io
-https://tmaiadev-snake.netlify.com/ snake
+https://tmaiadev-snake.netlify.com/snake
 https://tmp.ninja
 https://tng-project.org
 https://togethr.tv
-https://tokenncoin.com/ --> Monitor real-time market data and get the latest news regarding the emerging multi-billion market today.
+https://tokenncoin.com/--> Monitor real-time market data and get the latest news regarding the emerging multi-billion market today.
 https://tokybook.com
 https://tomato.to
 https://tomcritchlow.com
@@ -14025,8 +14018,8 @@ https://torlock.com
 https://torlock.eom/software/10.html
 https://torn.com
 https://tornado.cash
-https://torproject.org/ تا حد زیادی اثر انگشت را کاهش میدهند
-https://torproject.org/download/پیشنهاد میشه و اکثر سیستم عامل ها هستش
+https://torproject.org/  
+https://torproject.org/download/  
 https://torrage.info
 https://torrentdownloads.me
 https://torrentfreak.com/cloudflare-must-expose-operators-of-popular-pirate-streaming-sites-200909/
@@ -14056,10 +14049,10 @@ https://totaldebrid.org
 https://totalrip.org
 https://totalsportek.com/category/football/
 https://tout-debrid.com
-https://towergame.app/ Desc: drop bricks to build tower endless from what in aware
+https://towergame.app/Desc: drop bricks to build tower endless from what in aware
 https://toyhou.se
 https://tparser.me
-https://tqco.ovh/ - 512MB
+https://tqco.ovh/- 512MB
 https://trabia.com
 https://trace.moe
 https://traceurl.catchen.app
@@ -14108,7 +14101,7 @@ https://trumget.com
 https://trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-ssrf-to-compromise-case-study/
 https://try.digitalocean.com/freetrialoffer/
 https://trydraw.com/
-https://trydraw.com/ استفاده کنید
+https://trydraw.com/ 
 https://tryhackme.com
 https://tryhackme.com/room/geolocatingimages
 https://tryhackme.com/room/googledorking
@@ -14144,7 +14137,7 @@ https://turkdown.com
 https://turkdown.com/download
 https://turkdown.com/multishare.cz
 https://turkish123.com
-https://turksoz.ir =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
+https://turksoz.ir =>  
 https://turris.cz/en/omnia
 https://tus.io
 https://tusfiles.com
@@ -14230,9 +14223,9 @@ https://twitter.com/haveibeenpwned
 https://twitter.com/ippsec
 https://twitter.com/josephfcox
 https://twitter.com/kevinmitnick
-https://twitter.com/mcsaeid/status/1386925693125136386 در توئیتر منتشر شده و حالا به‌صورت پی‌دی‌اف قابل‌دسترسه.
+https://twitter.com/mcsaeid/status/1386925693125136386  .
 https://twitter.com/notdan
-https://twitter.com/ooddin/status/1453744143839244294?s=20اگه از Visual Studioاستفاده می کنید این ترفتند های ساده دیباگ رو براتون ساده‌تر می کنه :
+https://twitter.com/ooddin/status/1453744143839244294?s=20  Visual Studio  :
 https://twitter.com/painter701
 https://twitter.com/remotiveio
 https://twitter.com/samykamkar
@@ -14243,7 +14236,7 @@ https://twitter.com/slashdot
 https://twitter.com/sprp77
 https://twitter.com/todayininfosec
 https://twitter.com/troyhunt
-https://twitter.com/ttabttab/status/1449127916999102469?s=20یه سرور پیدا کردم فیلمای زیادی توش هست
+https://twitter.com/ttabttab/status/1449127916999102469?s=20  
 https://twitter.com/ubuntu
 https://twitter.com/zackwhittaker
 https://twittertv.vercel.app/
@@ -14264,7 +14257,7 @@ https://u.nydus.org
 https://u9g.xyz
 https://ubiquity.acm.org/article.cfm?id=3333611
 https://ucoz.com
-https://udemy.com/ -->Udemy Udemy is useful for learning practical skills sometimes keyword sometimes but the courses themselves are very low-quality, and sometimes make really dishonest claims like the hundreds of user-made courses that claim to certify you as a CBT / DBT therapist. Very likely to get scammed here. The certificates are worth jack shit.
+https://udemy.com/-->Udemy Udemy is useful for learning practical skills sometimes keyword sometimes but the courses themselves are very low-quality, and sometimes make really dishonest claims like the hundreds of user-made courses that claim to certify you as a CBT/DBT therapist. Very likely to get scammed here. The certificates are worth jack shit.
 https://udemy.com/course/the-complete-web-developer-zero-to-mastery/?referralCode=FFF295AECF3594CE440E
 https://udemycoursesfree2018.blogspot.com
 https://ueli.app
@@ -14345,7 +14338,7 @@ https://upb.me/yjJ7t
 https://upb.me/z1JAZ
 https://upbeatradio.net
 https://upblight.com
-https://upblight.com/∞?
+https://upblight.com/?
 https://update.glados-config.org/clash/120366/9d35cce/71309/glados.yaml
 https://update.glados-config.org/clash/120367/7535ccf/71319/glados.yaml
 https://update.glados-config.org/clash/120368/b935cd0/71322/glados.yaml
@@ -14437,10 +14430,10 @@ https://vaemendis.net/ubooquity
 https://vaibhavpandey.com/apkstudio
 https://vaibhavpandey.com/apkstudio/
 https://valamovie.art
-https://valamovie.today => بدون فیلتر شکن وارد شوید در ضمن این سایت فقط لینک های زبان اصلی به صورت رایگانه
+https://valamovie.today =>  
 https://valamovie.uno/
 https://valdikss.org.ru/schare
-https://valiantmovie.rf.gd =>با فیلتر شکن وارد شوید و برای دانلود فیلتر شکن را خاموش کنید
+https://valiantmovie.rf.gd =>  
 https://valiantmovie.rf.gd/
 https://validator.pizza
 https://validator.w3.org/feed
@@ -14451,7 +14444,7 @@ https://vast.ai
 https://vaughn.live
 https://vault.fbi.gov
 https://vault.vicariousnetwork.com
-https://vault.vicariousnetwork.com/ - 512MB
+https://vault.vicariousnetwork.com/- 512MB
 https://vcdlounge.boards.net
 https://vch.moe
 https://vcjhwebdev.github.io/sudoku
@@ -14488,7 +14481,7 @@ https://video2x.org
 https://videobin.co
 https://videocardz.com
 https://videocdn.tv
-https://videocleaner.com/ Video Enhancer
+https://videocleaner.com/Video Enhancer
 https://videoflix.altertechcorp.ir
 https://videohelp.com/software/N-m3u8DL-CLI
 https://videomega.co
@@ -14516,12 +14509,12 @@ https://vigilante.pw
 https://vigilante.tech
 https://viliusle.github.io/miniPaint
 https://vim-adventures.com
-https://vim.rtorr.com/ - Vim
+https://vim.rtorr.com/- Vim
 https://vimeo.com/14711037
 https://vimeo.com/61976251
 https://vimium.github.io
-https://vinadl.uno =>بدون فیلترشکن وارد شوید
-https://vinadl.uno/️MahiFun
+https://vinadl.uno =>  
+https://vinadl.uno/MahiFun
 https://violentmonkey.github.io
 https://vipboxtv.se/football-stream
 https://vipmail.cyou
@@ -14591,7 +14584,7 @@ https://vuejsexamples.com
 https://vulnerability-lab.com
 https://vulners.com
 https://vulnhub.com
-https://vultr.com/promo/try50/ $50 Free Credit
+https://vultr.com/promo/try50/$50 Free Credit
 https://vup.to
 https://vuvuzela.io
 https://vynchronize.herokuapp.com
@@ -14679,7 +14672,7 @@ https://web.archive.org/web/20211121154057
 https://web.avjie.com
 https://web.avjie.com/index.php
 https://web.chemdoodle.com
-https://web.ecs.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Minix/●▬۩❁
+https://web.ecs.syr.edu/~wedu/seed/Labs_12.04/Networking/Firewall_Minix/
 https://web.libretro.com
 https://web.livecricket.is
 https://web.mit.edu
@@ -14688,24 +14681,24 @@ https://web4sync.com/forum
 https://webamp.org
 https://webapps.stackexchange.com/questions/54443/format-for-id-of-youtube-video#answer-101153
 https://webassembly.studio
-https://webbrowsertools.com/ ابزاری برای افزایش امنیت مرورگر
+https://webbrowsertools.com/  
 https://webbrowsertools.com/canvas-fingerprint/
 https://webcache.googleusercontent.com/search?q=cache:
 https://webcamgalore.com/complete-u.html - a huge list
-https://webcamhopper.com/ - more webcams, listed by country
+https://webcamhopper.com/- more webcams, listed by country
 https://webcamsinnorway.com/webcams.php - webcams in norway
-https://webcamtaxi.com/en/ - mostly vacation sites
+https://webcamtaxi.com/en/- mostly vacation sites
 https://webcamxp.com/publicipcams.aspx - a small list of ip cams
 https://webcull.com
 https://webdevhome.github.io
 https://webdrive.dk/Openload.co
 https://webgradients.com
 https://webk.telegram.org
-https://webkay.robinlinus.com/ برای بررسی نشت های مختلف استفاده می کنیم: IP، داده های سخت افزاری، نسخه سیستم عامل و خود مرورگر.
+https://webkay.robinlinus.com/  : IP  .
 https://webmakerapp.com
 https://webmasterworld.com/home.htm
 https://webnots.com/8-ways-to-copy-content-from-right-click-disabled-webpages/
-https://weboas.is/arcade/racing/ Desc: spent a few hours on this my self lol
+https://weboas.is/arcade/racing/Desc: spent a few hours on this my self lol
 https://weboas.is/forum/index.php?action=.xml;type=atom;limit=10;board=20.0
 https://weboas.is/forum/index.php?topic=4681.0
 https://weboas.is/forum/index.php?topic=5760.0
@@ -14768,9 +14761,9 @@ https://wiki.buyvm.net/doku.php/gre_tunnel
 https://wiki.buyvm.net/doku.php/ipip_tunnel
 https://wiki.buyvm.net/doku.php/redirect_traffic
 https://wiki.cybsec.io
-https://wiki.debian.org/grsecurity که grsecurity
+https://wiki.debian.org/grsecurity  grsecurity
 https://wiki.garudalinux.org/en/home
-https://wiki.gentoo.org/wiki/Hardened_Gentoo که قابل قبول هست. موقع نصب هم می تونید انتخابش کنید !
+https://wiki.gentoo.org/wiki/Hardened_Gentoo  .  !
 https://wiki.installgentoo.com/index.php/Private_trackers
 https://wiki.installgentoo.com/wiki/Redacted.ch Good luck!
 https://wiki.js.org
@@ -14786,7 +14779,7 @@ https://wiki.xxiivv.com
 https://wikicryptocoins.com/currency/Bitcoin_Cash
 https://wikidark.org
 https://wikileaks.org/-Leaks-.html#submit_help_tor
-https://wikiless.alefvanoon.xyz/wiki/عقب_مانده_توهین‌آمیز?lang=fa و کلا به خودت فشار نیار جر میخوری
+https://wikiless.alefvanoon.xyz/wiki/__?lang=fa  
 https://wikiless.org
 https://wikiless.org/wiki/Censorship_of_Wikipedia
 https://wikiless.sethforprivacy.com/wiki/Hacker_culture
@@ -14835,8 +14828,8 @@ https://wordpress.org/plugins/wp-cerber/
 https://wordrider.net/freerapid
 https://workatastartup.com/jobs?role=
 https://world.openfoodfacts.org
-https://worldcam.eu/ - more official cams
-https://worldcams.tv/ - vacation sites
+https://worldcam.eu/- more official cams
+https://worldcams.tv/- vacation sites
 https://worldcupfootball.me/mlb-stream
 https://worldsrc.org
 https://worldstarhiphop.com/videos/
@@ -14901,7 +14894,7 @@ https://xitroo.com
 https://xkcd.com/atom.xml
 https://xkcd.com/rss.xml
 https://xmh57jrzrnw6insl.onion.sh
-https://xmind.net/m/GkgaYH/ by
+https://xmind.net/m/GkgaYH/by
 https://xml-sitemaps.com
 https://xmovies8.ru
 https://xnview.com
@@ -14931,7 +14924,7 @@ https://y2mate.com
 https://y2mate.guru
 https://y6stream.club
 https://yandex.com/images
-https://yasdl.com/123014/دانلود-بازی-call-of-duty-modern-warfare-3.html
+https://yasdl.com/123014/--call-of-duty-modern-warfare-3.html
 https://yenly.wtf
 https://yesmovies.press
 https://yespornplease.com
@@ -14974,7 +14967,7 @@ https://youtu.be/0cKEyag7jBM
 https://youtu.be/2wh6oZ9phkg
 https://youtu.be/3bELT5FZCic
 https://youtu.be/4jlDCS-z7TI
-https://youtu.be/4k9CphTdnWE• Django for Beginners
+https://youtu.be/4k9CphTdnWE Django for Beginners
 https://youtu.be/53zkBvL4ZB4
 https://youtu.be/5NNhz905i78
 https://youtu.be/5hTz2281uQI
@@ -15002,7 +14995,7 @@ https://youtu.be/EUlM3wx546o
 https://youtu.be/EkNBsBx501Q
 https://youtu.be/Ev9_oDHNf-4
 https://youtu.be/G-DHIIrxY7k
-https://youtu.be/G6tlZdDtuhg میشه و فرقشون تو نحوه دریافت اپدیت هستش
+https://youtu.be/G6tlZdDtuhg  
 https://youtu.be/HXgQVAl4JB4
 https://youtu.be/HmZm8vNHBSU
 https://youtu.be/I0jeYe8iNWo
@@ -15034,7 +15027,7 @@ https://youtu.be/TTks6oNO-E0
 https://youtu.be/Tkmtc_f9_2g
 https://youtu.be/TwXuY2w7Zv0
 https://youtu.be/U44lihtNVVM
-https://youtu.be/U9z0ERcJbrI چیه؟
+https://youtu.be/U9z0ERcJbrI 
 https://youtu.be/USN923PwdxY
 https://youtu.be/VVU9GfW_Amg
 https://youtu.be/VXGkJmRtU0o
@@ -15074,7 +15067,7 @@ https://youtu.be/fwOytIbmMsY
 https://youtu.be/fzzf2QnyPgY
 https://youtu.be/gHewB06Bnrk
 https://youtu.be/gOLeXwSpgiU
-https://youtu.be/gfDE2a7MKjA• Sample Project - J.A.R.V.I.S
+https://youtu.be/gfDE2a7MKjA Sample Project - J.A.R.V.I.S
 https://youtu.be/hLjht9uJWgw
 https://youtu.be/hczG8s0mTw0
 https://youtu.be/hyDwk65GhHg
@@ -15103,7 +15096,7 @@ https://youtu.be/uukLQU2mOcM
 https://youtu.be/vXMNyiEgD6o
 https://youtu.be/vZBa5-wFAfQ
 https://youtu.be/veTl59Klc5Q
-https://youtu.be/vfg8pwjJVIc#معرفی_سایت
+https://youtu.be/vfg8pwjJVIc#_
 https://youtu.be/xZU5M-joMOc
 https://youtu.be/y8SjmcVJOjw
 https://youtu.be/yRtiAKK_TnQ
@@ -15117,12 +15110,12 @@ https://youtube-dl.org
 https://youtube.com/c/AndroidAppSec/videos
 https://youtube.com/c/DharMannOfficial
 https://youtube.com/c/GHOSTSPECTRE
-https://youtube.com/c/GHOSTSPECTRE پیشنهاد شده
+https://youtube.com/c/GHOSTSPECTRE  
 https://youtube.com/c/GHOSTSPECTRE/videos
 https://youtube.com/c/HackerSploit
 https://youtube.com/c/S2Underground/videos
 https://youtube.com/c/TheWorldofPC
-https://youtube.com/c/TheWorldofPC تستش نکردم
+https://youtube.com/c/TheWorldofPC  
 https://youtube.com/c/TraversyMedia
 https://youtube.com/c/jimmyzirakJP1984
 https://youtube.com/channel/L4DL4D2EUROPEeducational videos by collaborators, mostly for beginners
@@ -15170,15 +15163,15 @@ https://youtube.com/playlist?list=PLJA9dZicBDKfHMdrGZiKCza66NnEr_GXj
 https://youtube.com/playlist?list=PLJA9dZicBDKfchoaTzN5CoGHIFiDTuYpk
 https://youtube.com/playlist?list=PLJA9dZicBDKfg8UeA8ivKdNSVvut6OkMp
 https://youtube.com/playlist?list=PLJA9dZicBDKft6oroDC9liqs8jXfynOyO
-https://youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl• Python 2021 Updated with Notes - Hindi
-https://youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr• Machine Learning using Python - Hindi
+https://youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl Python 2021 Updated with Notes - Hindi
+https://youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr Machine Learning using Python - Hindi
 https://youtube.com/playlist?list=PLPveEPMOZL8U1fCKx4zhTqFXE8bcDlM3N
 https://youtube.com/playlist?list=PLdllkCpgbzYAoxRDwNO0QWB3q42_Hblmj
-https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw• Python Game development using PyGame - Hindi
+https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw Python Game development using PyGame - Hindi
 https://youtube.com/playlist?list=PLlcnQQJK8SUhskj8v4XE50W3FJ7YGMHqV-two videos related to reverse engineering:
-https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME• Python for Beginners - English
-https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG• Machine Learning using Python - English
-https://youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb●▬۩❁
+https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME Python for Beginners - English
+https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG Machine Learning using Python - English
+https://youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb
 https://youtube.com/playlist?list=UUK8sQmJBp8GCxrOtXWBpyEA200 OK
 https://youtube.com/user/ChromeDevelopers
 https://youtube.com/user/DEFCONConferenceHacker Sploit
@@ -15214,9 +15207,9 @@ https://z.zz.fo/e1F7b.csv
 https://z0ccc.github.io/LocateJS
 https://zabasearch.com/
 https://zahipedia.net
-https://zancko.ir/رام-گوشی-چیست؟-آشنایی-با-رام-اندروید/ آخه کپی پیست یکم زیاده
+https://zancko.ir/------/  
 https://zarfilm.com
-https://zarfilms.fun =>بدون فیلترشکن وارد شوید
+https://zarfilms.fun =>  
 https://zarni.herokuapp.com
 https://zbigz.com
 https://zbox.io/fs
@@ -15278,5 +15271,4 @@ https://zunoxhd.stream/espn2frame.php
 https://zxcfiles.com
 https://zyberph.com
 https://zz.ht
-https://zz.ht/ - 512MB
-https://шляхтен.рф/base/Gmail.txt
+https://zz.ht/
