@@ -35,6 +35,7 @@ Geology
 ```markdown
 chess meme
 https://www.youtube.com/watch?v=c7BVtGnlxT8
+https://vid.puffyan.us/watch?v=W331mnBMPUA
 ```
 
 ```markdown
@@ -120,3 +121,7 @@ https://t.me/channelbpodcast
 ```markdown
 https://www.youtube.com/watch?v=v8ouDk2Mayw
 ```
+
+[https://digdeeper.neocities.org/](https://digdeeper.neocities.org/)
+
+[https://github.com/osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed)
