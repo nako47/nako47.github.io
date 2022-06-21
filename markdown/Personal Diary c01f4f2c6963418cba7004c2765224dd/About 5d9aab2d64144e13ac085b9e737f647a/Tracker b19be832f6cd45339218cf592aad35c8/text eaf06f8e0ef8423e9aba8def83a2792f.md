@@ -305,3 +305,10 @@ https://invidious.tiekoetter.com/channel/UC_2Pifpk981bmvM69nhM6qg
 https://invidious.tiekoetter.com/watch?v=JiwZQNYlGQI
 https://invidious.tiekoetter.com/watch?v=qn38zKqPCFE
 ```
+
+---
+
+```markdown
+[https://bestgore.fun/](https://bestgore.fun/)
+
+```
