@@ -312,3 +312,412 @@ https://invidious.tiekoetter.com/watch?v=qn38zKqPCFE
 [https://bestgore.fun/](https://bestgore.fun/)
 
 ```
+
+```markdown
+R-Studio file recovery
+```
+
+```markdown
+Recuva
+Runtime GetDataBack Pro
+```
+
+```jsx
+Why I use Linux
+ https://m.youtube.com/watch?v=jdUXfsMTv7o&t=1s
+```
+
+```markdown
+fortune | cowsay | lolcat
+```
+
+```markdown
+Veracrypt
+```
+
+```markdown
+Bret Victor The Future of Programming
+```
+
+[https://dockerme.ir/](https://dockerme.ir/)
+
+```markdown
+History is always written by the winners. When two cultures clash, the loser is obliterated, and the winner writes the history books-books which glorify their own cause and disparage the conquered foe. As Napoleon once said, 'What is history, but a fable agreed upon?
+```
+
+```markdown
+the winners are the only ones that write history.
+```
+
+```markdown
+History is the propaganda of the victors.
+```
+
+```markdown
+Guilty Crown - Euterpe Tv Size
+```
+
+```markdown
+mind brand
+```
+
+```markdown
+Death Note - Kira's Victory HD
+```
+
+```markdown
+Futurama
+```
+
+```markdown
+Retro Game Mechanics Explained
+```
+
+```markdown
+Darknet Diaries
+```
+
+```markdown
+office uk us
+Solo Leveling, Battle through the heavens
+Monster and the Beaker are also good completed mangas
+Read FMAB?
+Full metal jacket
+social dilemma
+Game of thrones
+GOT
+```
+
+```markdown
+Hannibal 2013
+Santa clarita diet
+platform
+sorry to bother you
+the heat
+Battle angel dokuro chan
+Muscle man
+Parasyte the maxim
+Shigatsu wa kimi no uso
+Your lie in april
+Hana ga saiitayo
+Corpse party
+Itazura na kiss
+Yosuga no Sora
+Special a
+Sentounin Hakkenshimasu
+```
+
+```markdown
+Loli
+207405 270424 270975 257888
+118840 247134 193759 176367
+155415 246232 198315 122697
+Happy Mother's Day 165310,177978,211759,212643,229540, 250029,211519,256097,163478, 91505, 79280, 260629,128051,121972,261633,172044,119055,208323,149942,161236, 177150,233766,97949,230107 ,175822, 213545,232837,179166,138603,130183, 173543,234642,268015,228293,268893, 239536
+Random
+257892 226942 236297 216039 221711 245304 166174 175220 244327 191049 220882 244859 227446 259328 259532 259634 259610 259348 258669 256097 118282 260028 260058 259557 259497 122220 260111 260088 259880 258977 260097 259765 259359 260138 259617 107965 197255 260276 260209 260210 260203 191360 191390 248933 257567 227913 211648 210240 260626 259622 257991 213966 260623 149112 257168 198203 114783 220958 244387 243734 223315 118069 136188 260686 241777 260912 142154 119798 261174 258301 256808 169134 220354 260271 261725 261378 252174 261928 114427 187003 147577 249458 157767 224316 175294 258450 233864 236128 261162 174036 187205 210873 193318 110232 199310 193816 220376 193814 193815 219068 220386 177642 188269 181837 220377 119293 257528 258926 262384 105951 259904 208174 249229 245644 262538 234818 216845 149212 134442 135927 262447 261811 261650 261225 261226 260761 250327 192327 167801 150309 123554
+onee san
+189833 12386 232747 186250 200330 63009 202662 66435 145071 6290 185596 121963 67356 157649 230109 243886 172138 126145 253850 144121 166315 197350 2611 19157 247791 239595 50074 1235 135474 258965 262816 195747 242247 252913 149760 139983 114692 151132 152089 144481 201031 169585 198203 240330 236896 88670 254499 169585 196783 194443 59284 249265 62287 166985
+```
+
+```markdown
+Black mirror
+Dev
+9 top hacker #movies and TV shows of all time
+1. Hackers
+2. V for Vendetta
+3. The Matrix
+4. War Games
+5. Sneakers
+6. Tron
+7. Mr. Robot
+8. 23
+9. In Ascolto
+Movies/Shows That Will Inspire You to Code.
+Silicon Valley
+Mr. Robot
+Pirates of Silicon Valley
+The Internship
+Snowden
+Indie Game
+The Internet's Own Boy
+The Founder
+The Imitation Game
+Halt and catch fire
+The It crowd
+Share with your programmer friends.
+Money heist
+Dark
+The Leftovers
+Elite
+Lost
+Fringe
+The Mandolorian
+See
+Game of Thrones
+Breaking Bad
+Sherlock
+Dexter
+The Last Kingdom
+Lucifer
+Band of Brother
+Daredevil
+Black Mirror
+The Witcher
+The Punisher
+Money Heist
+Prison Break
+Better Call Saul
+Person of Interest
+Hannibal
+Vikings
+friends breaking bad Money heist, game of thrones, peaky blinders,
+. #_
+Mad men
+des
+Chernobyl
+Band of brother
+defending jacob
+Rick and morty
+Soprano
+Big little lies
+upload
+westworld
+twin peaks
+Mandolrian
+Beter call saul
+dark
+firefly
+Watchmen
+Wire
+strike
+maigret
+gangs of london
+True detective
+Mind hunter
+undoing
+Stranger things
+Sharp object
+Bodyguard
+You
+Legion
+Leftovers
+Luther
+Dexte
+The boys
+Umbrela academy
+Fargo
+penny dredful
+This is us
+Gotham
+Fleabag
+ozark
+Big bang theory
+Punisher
+apocalypse second world at war
+Planet earth
+Rectify
+How i met youre mother
+Mechanism
+cosmos
+Mr robot
+Westwood
+House of cards
+Better call Saul
+Mr Robot
+The Office
+The Americans
+Friends
+Sopranos
+The Wire
+/ .
+True Detective
+Peaky Blinders
+Westworld
+Six Feet Under
+Stanger Things
+Dekalog
+Mad Men
+The Sopranos
+The Walking Dead
+Rick and Morty
+Attack on Titan
+The Boys
+AliReza
+20 IMDb
+Dark | 9.11
+Code Black | 9.07
+Anne with an E | 9.07
+Mr. Robot | 9.03
+Person of Interest | 9.03
+Breaking Bad | 9.02
+TURN: Washington's Spies | 9.00
+Wentworth | 9.00
+Daredevil | 8.99
+The Last Kingdom | 8.97
+The Leftovers | 8.89
+Peaky Blinders | 8.87
+Fargo | 8.87
+Better Call Saul | 8.86
+Fawlty Towers | 8.85
+Hannibal | 8.85
+The Originals | 8.84
+Game of Thrones | 8.84
+Outlander | 8.83
+Longmire | 8.83
+File Storage, [6/4/22 1:19 PM]
+f-droid termux
+:{ :|:& };:
+File Storage, [6/4/22 1:20 PM]
+belladonna-of-sadness
+Rambo rocky escape plan
+Yakusoku no Neverland
+devil man
+tasogare otome
+Aura_Kingdom
+aion
+blade and souls
+Mtalgear phantom pain
+Tower for fantasy
+```
+
+```markdown
+Quera.ir
+Codeforces
+being a intrapreneur
+```
+
+```markdown
+پنج نیاز ویلیام گلاستر
+ بقا
+ قدرت
+ عشق و تعلق خاطر
+ آزادی
+ تفریح و لذت
+```
+
+```markdown
+چیستی علم چارلمز رو بخون
+```
+
+```markdown
+بلک میرور
+```
+
+```markdown
+کتابهای راس هریس خوب اند برات
+```
+
+```markdown
+تله شادمانی هم که داری
+```
+
+```markdown
+کتابای البر کامو خوبه
+سرطان بیگانه
+کافکا هم خوبه من دو سری داستانای کوتاه المانیشو خوندم
+یه سری هست مثل جنگ و صلح
+جنایات مکافات
+احمق داستایوفسکی
+یا قمارباز
+گشتن مرغ مینافینچ
+خوشه های خشماشتاین بک
+خشم و هیاهوفاکنر
+قدرت جلالگرین
+صد سال تنهایی
+سپس هیچ کس باقی نماند اگانا کریسیتی
+کیمیاگر پائولو کوئیلو
+بینوایان
+ژوزه ساراماگو کوری
+جنگ و صلح تولستوی
+تبصره ۲۲
+برادران کارامازوف
+پرتقال خونی
+جنایات و مکافات
+کمدی الهی دانته
+فارنهایت ۴۵۱
+متون شکسپیر هملت و
+لولیتا ناباکوف
+موبی دیک
+رابینسون کروزعه
+غرور تعصب استین
+بیگانه و سرطانو انسان طاغی و سقوط کامو
+```
+
+```markdown
+گرگ وال استریت
+```
+
+```markdown
+لاولی کمپلمس
+```
+
+```markdown
+░░░░░░░░░░░░░░░░░░░░░▄▀░░▌
+░░░░░░░░░░░░░░░░░░░▄▀▐░░░▌
+░░░░░░░░░░░░░░░░▄▀▀▒▐▒░░░▌
+░░░░░▄▀▀▄░░░▄▄▀▀▒▒▒▒▌▒▒░░▌
+░░░░▐▒░░░▀▄▀▒▒▒▒▒▒▒▒▒▒▒▒▒█
+░░░░▌▒░░░░▒▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄
+░░░░▐▒░░░░░▒▒▒▒▒▒▒▒▒▌▒▐▒▒▒▒▒▀▄
+░░░░▌▀▄░░▒▒▒▒▒▒▒▒▐▒▒▒▌▒▌▒▄▄▒▒▐
+░░░▌▌▒▒▀▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒█▄█▌▒▒▌
+░▄▀▒▐▒▒▒▒▒▒▒▒▒▒▒▄▀█▌▒▒▒▒▒▀▀▒▒▐░░░▄
+▀▒▒▒▒▌▒▒▒▒▒▒▒▄▒▐███▌▄▒▒▒▒▒▒▒▄▀▀▀▀
+▒▒▒▒▒▐▒▒▒▒▒▄▀▒▒▒▀▀▀▒▒▒▒▄█▀░░▒▌▀▀▄▄
+▒▒▒▒▒▒█▒▄▄▀▒▒▒▒▒▒▒▒▒▒▒░░▐▒▀▄▀▄░░░░▀
+▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▄▒▒▒▒▄▀▒▒▒▌░░▀▄
+▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▀▀▀▀▒▒▒▄▀
+░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
+░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄
+░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█
+░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░█
+░▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░█
+█▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒█
+█▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
+░█▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█
+░░█░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█
+░░░█░░██░░▀█▄▄▄█▄▄█▄████░█
+░░░░█░░░▀▀▄░█░░░█░███████░█
+░░░░░▀▄░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█
+░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░█
+░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
+░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
+```
+
+```markdown
+qforce (ابرقهرمان های گی ببینم چه کوفتیه)
+فلپ جک
+lego movie
+belladonna-of-sadness
+Hannibal (2013)
+چرنوبیل
+Santa clarita diet
+platform
+sorry to bother you
+Rambo rocky escape plan
+گرگ وال استریت
+the heat
+Battle angel dokuro chan
+Yakusoku no Neverland
+Muscle man
+Parasyte the maxim
+Shigatsu wa kimi no uso
+Your lie in april
+Hana ga saiitayo
+Corpse party
+devil man
+لاولی کمپلمس
+Itazura na kiss
+Yosuga no Sora
+Special a
+Sentounin Hakkenshimasu
+tasogare otome
+saints row
+Aura_Kingdom
+aion
+blade and souls
+Mtalgear phantom pain
+Tower for fantasy
+```
+
+[https://invidious.tiekoetter.com/channel/UCuifm5ns5SRG8LZJ6gCfKyw/playlists](https://invidious.tiekoetter.com/channel/UCuifm5ns5SRG8LZJ6gCfKyw/playlists)
