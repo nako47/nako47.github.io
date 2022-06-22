@@ -721,3 +721,7 @@ Tower for fantasy
 ```
 
 [https://invidious.tiekoetter.com/channel/UCuifm5ns5SRG8LZJ6gCfKyw/playlists](https://invidious.tiekoetter.com/channel/UCuifm5ns5SRG8LZJ6gCfKyw/playlists)
+
+"Education is not the knowledge of facts but training of the mind to think."-Albert Einstein
+
+[https://www.youtube.com/watch?v=h667P20VFO4](https://www.youtube.com/watch?v=h667P20VFO4)
