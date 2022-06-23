@@ -1,3 +1,10 @@
+https://minitoons.ir/
+https://afarinak.com/
+https://yekanime.com/
+https://aiofilm.com/
+https://animehome.ir/
+https://mangabaz.ir/
+https://bia2anime.site/
 https://vpnapi.io/
 https://kat.rip/
 https://www.torrentmirror.net/
