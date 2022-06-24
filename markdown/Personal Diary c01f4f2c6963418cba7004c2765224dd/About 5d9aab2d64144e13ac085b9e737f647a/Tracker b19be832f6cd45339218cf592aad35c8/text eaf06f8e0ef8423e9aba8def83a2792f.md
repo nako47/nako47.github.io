@@ -727,3 +727,9 @@ Tower for fantasy
 "Education is not the knowledge of facts but training of the mind to think."-Albert Einstein
 
 [https://www.youtube.com/watch?v=h667P20VFO4](https://www.youtube.com/watch?v=h667P20VFO4)
+
+**Polgar Sisters**
+
+[https://www.youtube.com/watch?v=T6A-2Z59dJk](https://www.youtube.com/watch?v=T6A-2Z59dJk)
+
+The Queen's Gambit
