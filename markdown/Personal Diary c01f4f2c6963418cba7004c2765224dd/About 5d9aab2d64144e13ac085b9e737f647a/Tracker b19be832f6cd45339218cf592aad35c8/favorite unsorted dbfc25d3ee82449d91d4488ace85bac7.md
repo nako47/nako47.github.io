@@ -1,6 +1,11 @@
 # favorite unsorted
 
 ```markdown
+https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
+
+```
+
+```markdown
 Mass surveillance is a backdoor into freedom of speech. Knowledge is power. Power corrupts. And absolute power corrupts absolutely.
 ```
 
