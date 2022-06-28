@@ -1,6 +1,15 @@
 # favorite unsorted
 
 ```markdown
+https://darknetdiaries.com/books/
+https://darknetdiaries.com/breakingintoinfosec/
+https://inteltechniques.com/books.html
+https://www.podchaser.com/creators/jack-rhysider-107a4QvmRG/appearances
+https://darknetdiaries.com/stalkerware/
+
+```
+
+```markdown
 https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
 
 ```
