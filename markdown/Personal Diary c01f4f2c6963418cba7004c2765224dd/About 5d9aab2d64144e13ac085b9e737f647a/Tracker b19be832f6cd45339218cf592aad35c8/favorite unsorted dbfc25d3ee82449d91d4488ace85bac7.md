@@ -1,7 +1,13 @@
 # favorite unsorted
 
 ```markdown
+suske
+```
 
+```markdown
+https://www.youtube.com/watch?v=Q2Q7JlekyN8
+touhou
+ace attorney
 ```
 
 ```markdown
