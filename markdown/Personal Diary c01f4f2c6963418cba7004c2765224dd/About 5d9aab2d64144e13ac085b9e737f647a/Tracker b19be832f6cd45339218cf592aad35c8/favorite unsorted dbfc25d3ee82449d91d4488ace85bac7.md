@@ -2,6 +2,7 @@
 
 ```markdown
 suske
+dark souls trilogy, bloodbourne, Sekiro and elden ring
 https://parcham.io/
 squid game
 ```
