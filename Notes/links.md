@@ -11573,3 +11573,5 @@ https://zxcfiles.com
 https://zyberph.com
 https://themindcollection.com/the-feynman-technique/
 https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9
+https://t.me/ANIME_SAMA_MM
+https://t.me/anime_twitte
